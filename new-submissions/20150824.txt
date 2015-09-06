@@ -1,0 +1,306 @@
+id: 1508.05089
+title: Optimizing Quantum Adiabatic Algorithm
+authors: Hongye Hu, Biao Wu
+comments: 7 pages, 11 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.05089
+abstract: In quantum adiabatic algorithm, as the adiabatic parameter $s(t)$ changes slowly from zero to one with finite rate, a transition to excited states inevitably occurs and this induces an intrinsic computational error. We show that this computational error depends not only on the total computation time $T$ but also on the time derivatives of the adiabatic parameter $s(t)$ at the beginning and the end of evolution. With six typical paths, we demonstrate how to optimally design an adiabatic path to reduce the computational errors. In this paper we focus on quantum adiabatic search algorithm although our results are general.
+
+id: 1508.05108
+title: Grover's search with faults on some marked elements
+authors: Dmitry Kravchenko, Nikolajs Nahimovs, Alexander Rivosh
+comments: 17 pages, 6 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.05108
+abstract: Grover's algorithm is a quantum query algorithm solving the unstructured search problem of size $N$ using $O(\sqrt{N})$ queries. It provides a significant speed-up over any classical algorithm \cite{Gro96}. The running time of the algorithm, however, is very sensitive to errors in queries. It is known that if query may fail (report all marked elements as unmarked) the algorithm needs $\Omega(N)$ queries to find a marked element \cite{RS08}. \cite{AB+13} have proved the same result for the model where each marked element has its own probability to be reported as unmarked. We study the behavior of Grover's algorithm in the model where the search space contains both faulty and non-faulty marked elements. We show that in this setting it is indeed possible to find one of non-faulty marked items in $O(\sqrt{N})$ queries. We also analyze the limiting behavior of the algorithm for a large number of steps and show the existence and the structure of limiting state $\rho_{lim}$.
+
+id: 1508.05194
+title: Description of classical and quantum interference in view of the concept of flow line
+authors: M. Davidovic, A. S. Sanz, M. Bozic
+comments: 15 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.05194
+abstract: Bohmian mechanics, a hydrodynamic formulation of quantum mechanics, relies on the concept of trajectory, which evolves in time in compliance with dynamical information conveyed by the wave function. Here this appealing idea is considered to analyze both classical and quantum interference, thus providing an alternative and more intuitive framework to understand the time-evolution of waves, either in terms of the flow of energy (for mechanical waves, sound waves, electromagnetic waves, for instance) or, analogously, the flow of probability (quantum waves), respectively. Furthermore, this procedure also supplies a more robust explanation of interference phenomena, which currently is only based on the superposition principle. That is, while this principle only describes how different waves combine and what effects these combinations may lead to, flow lines provide a more precise explanation on how the energy or probability propagate in space before, during and after the combination of such waves, without dealing with them separately (i.e., the combination or superposition is taken as a whole). In this sense, concepts such as constructive and destructive interference, typically associated with the superposition principle, physically correspond to more or less dense swarms of (energy or probability) flow lines, respectively. A direct consequence of this description is that, when considering the distribution of electromagnetic energy flow lines behind two slits, each one covered by a differently oriented polarizer, it is naturally found that external observers' information on the slit crossed by single photons (understood as energy parcels) is totally irrelevant for the existence of interference fringes, in striking contrast with what is commonly stated and taught.
+
+id: 1508.05211
+title: Observation of the Nonlinear Phase Shift Due to Single Post-Selected Photons
+authors: Amir Feizpour Matin Hallaji Greg Dmochowski, Aephraim M. Steinberg
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Atomic Physics (physics.atom-ph); Optics (physics.optics)
+url: http://arxiv.org/abs/1508.05211
+abstract: Over the past years, there have been many efforts towards generating interactions between two optical beams so strong that they could be observed at the level of individual photons. Such strong interactions, beyond opening up a new regime in optics, could lead to technologies such as all-optical quantum information processing. However, the extreme weakness of photon-photon scattering has hindered any attempt to observe such interactions at the level of single particles. Here we implement a strong optical nonlinearity using electromagnetically-induced transparency and slow light, and directly measure the resulting nonlinear phase shift for individual photons. This is done by illuminating the sample with a weak classical pulse with as few as 0.5 photons per pulse on average, and using post-selection to determine whether a given pulse contained (approximately) 0 or 1 photons. We present clear data showing the quantized dependence of a probe beam's measured phase shift on the post-selection result, for a range of input pulse intensities. We believe that this represents the first direct measurement of the cross-phase shift due to single photons.
+
+id: 1508.05237
+title: Which verification qubits perform best for secure communication in noisy channel?
+authors: Rishi Dutt Sharma, Kishore Thapliyal, Anirban Pathak, Alok Kumar Pan, Asok De
+comments: 11 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.05237
+abstract: In secure quantum communication protocols, a set of single qubits prepared using 2 or more mutually unbiased bases or a set of $n$-qubit ($n\geq2$) entangled states of a particular form are usually used to form a verification string which is subsequently used to detect traces of eavesdropping. The qubits that form a verification string are referred to as decoy qubits, and there exists a large set of different quantum states that can be used as decoy qubits. In the absence of noise, any choice of decoy qubits provides equivalent security. In this paper, we examine such equivalence for noisy environment (e.g., in amplitude damping, phase damping, collective dephasing and collective rotation noise channels) by comparing the decoy-qubit assisted schemes of secure quantum communication that use single qubit states as decoy qubits with the schemes that use entangled states as decoy qubits. Our study reveals that the single qubit assisted scheme perform better in some noisy environments, while some entangled qubits assisted schemes perform better in other noisy environments. Specifically, single qubits assisted schemes perform better in amplitude damping and phase damping noisy channels, whereas a few Bell-state-based decoy schemes are found to perform better in the presence of the collective noise. Thus, if the kind of noise present in a communication channel (i.e., the characteristics of the channel) is known or measured, then the present study can provide the best choice of decoy qubits required for implementation of schemes of secure quantum communication through that channel.
+
+id: 1508.05245
+title: Degenerate optomechanical parametric oscillators: cooling in the vicinity of a critical point
+authors: Peter Degenfeld-Schonburg, Mehdi Abdi, Michael J. Hartmann, Carlos Navarrete-Benlloch
+comments: We will appreciate comments and (constructive) criticism
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://arxiv.org/abs/1508.05245
+abstract: Degenerate optomechanical parametric oscillators are optical resonators in which a mechanical degree of freedom is coupled to a cavity mode that is nonlinearly amplified via parametric down-conversion of an external pumping laser. Below a critical pumping power the down-converted field is purely quantum-mechanical, making the theoretical description of such systems very challenging. Here we introduce a theoretical approach that is capable of describing this regime, even at the critical point itself. We find that the down-converted field can induce significant mechanical cooling and identify the process responsible of this as a "cooling by heating" mechanism. Moreover, we show that, contrary to naive expectations and semi-classical predictions, cooling is not optimal at the critical point, where the photon number is largest. Our approach opens the possibility for analyzing further hybrid dissipative quantum systems in the vicinity of critical points.
+
+id: 1508.05248
+title: Long-distance temporal quantum ghost imaging over optical fibers
+authors: Shuai Dong, Wei Zhang, Yidong Huang, Jiangde Peng
+comments: 7 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.05248
+abstract: Since the first quantum ghost imaging (QGI) experiment in 1995, many QGI schemes have been put forward. However, the position-position or momentum-momentum correlation required in these QGI schemes cannot be distributed over optical fibers, which limits their large geographical applications. In this paper, we propose and demonstrate a scheme for long distance QGI utilizing frequency correlated photon pairs. In this scheme, the frequency correlation is transformed to the correlation between the illuminating position of one photon and the arrival time of the other photon, by which QGI can be realized in the time domain. Since frequency correlation can be preserved when the photon pairs are distributed over optical fibers, this scheme provides a way to realize long-distance QGI over large geographical scale. In the experiment, long distance QGI over 50 km optical fibers has been demonstrated.
+
+id: 1508.05258
+title: Effect of source tampering in the security of quantum cryptography
+authors: Shi-Hai Sun, Feihu Xu, Mu-Sheng Jiang, Xiang-Chun Ma, Hoi-Kwong Lo, Lin-Mei Liang
+comments: 9 pages, 6 figures
+journal: Physical Review A, 92, 022304 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.05258
+abstract: The security of source has become an increasingly important issue in quantum cryptography. Based on the framework of measurement-device-independent quantum-key-distribution (MDI-QKD), the source becomes the only region exploitable by a potential eavesdropper (Eve). Phase randomization is a cornerstone assumption in most discrete-variable (DV-) quantum communication protocols (e.g., QKD, quantum coin tossing, weak coherent state blind quantum computing, and so on), and the violation of such an assumption is thus fatal to the security of those protocols. In this paper, we show a simple quantum hacking strategy, with commercial and homemade pulsed lasers, by Eve that allows her to actively tamper with the source and violate such an assumption, without leaving a trace afterwards. Furthermore, our attack may also be valid for continuous-variable (CV-) QKD, which is another main class of QKD protocol, since, excepting the phase random assumption, other parameters (e.g., intensity) could also be changed, which directly determine the security of CV-QKD.
+
+id: 1508.05270
+title: Simulating the discrete-time quantum walk dynamics with simultaneous coin and shift operators
+authors: Jalil Khatibi Moqadam, Marcos Cesar de Oliveira
+comments: 7 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.05270
+abstract: We implement the discrete-time quantum walk model using the continuous-time evolution of the Hamiltonian that includes both the shift and the coin generators. Based on the Trotter-Suzuki first-order approximation, we consider an optimization problem in which the Hellinger distance between the walker probability distributions resulted from the evolution of such Hamiltonian and the quantum walk dynamics is minimized. The phase space implementation of the quantum walk is considered where the walker state is encoded on the coherent state of a resonator and the coin on the two-level state of a qubit. In this approach, no mechanism for switching between the coin and the shift operators is included. We show the Hellinger distance is bounded for large number of time steps. The distance is small when we deviate from the standard quantum walk model, namely, when the walker is allowed to move in between the sites. In simulating the standard quantum walk model, the distance is large but bounded by $26\%$ for a relevant number of time steps. Even so, the system evolution shows the essential characteristics of the standard quantum walk dynamics, namely, the ballistic evolution of the probability distribution and the linear growth of the corresponding standard deviation. Moreover, the entanglement generated in this approach is approximately the same as the entanglement generated in the standard quantum walk dynamics. Finally, the system dynamics under the influence of the decoherence also shows the similar quantum-to-classical transition as in the standard quantum walk dynamics.
+
+id: 1508.05272
+title: A Quantum Repeater Node with Trapped Ions: A Realistic Case Example
+authors: Andreas Daniel Pfister, Marcel Salz, Max Hettrich, Ulrich Georg Poschinger, Ferdinand Schmidt-Kaler
+comments: 21 pages, 14 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Atomic Physics (physics.atom-ph)
+url: http://arxiv.org/abs/1508.05272
+abstract: We evaluate the feasibility of the implementation of two quantum repeater protocols with an existing experimental platform based on a $^{40}$Ca$^+$-ion in a segmented micro trap, and a third one that requires small changes to the platform. A fiber cavity serves as an ion-light interface. Its small mode volume allows for a large coupling strength of $g_c = 2 \pi 20$ MHz despite comparatively large losses $\kappa = 2 \pi 36.6$ MHz. With a fiber diameter of 125 mu m, the cavity is integrated into the microstructured ion trap, which in turn is used to transport single ions in and out of the interaction zone in the fiber cavity. We evaluate the entanglement generation rate for a given fidelity using parameters from the experimental setup. The DLCZ protocol (Duan et al, Nature, 2001, 414, 413-418) and the hybrid protocol (van Loock et al, Phys. Rev. Lett., 2006, 96, 240501) outperform the EPR protocol (Sanguard et al, New J. Phys., 2013, 15, 085004). We calculate rates of more than than 35 s$^{-1}$ for non-local Bell state fidelities larger than 0.9 with the existing platform. We identify parameters which mainly limit the attainable rates, and conclude that entanglement generation rates of 740 s$^{-1}$ at fidelities of 0.9 are within reach with current technology.
+
+id: 1508.05290
+title: Quantum magnonics: magnon meets superconducting qubit
+authors: Yutaka Tabuchi, Seiichiro Ishino, Atsushi Noguchi, Toyofumi Ishikawa, Rekishu Yamazaki, Koji Usami, Yasunobu Nakamura
+comments: 10 pages, 6 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
+url: http://arxiv.org/abs/1508.05290
+abstract: The techniques of microwave quantum optics are applied to collective spin excitations in a macroscopic sphere of ferromagnetic insulator. We demonstrate, in the single-magnon limit, strong coupling between a magnetostatic mode in the sphere and a microwave cavity mode. Moreover, we introduce a superconducting qubit in the cavity and couple the qubit with the magnon excitation via the virtual photon excitation. We observe the magnon-vacuum-induced Rabi splitting. The hybrid quantum system enables generation and characterization of non-classical quantum states of magnons.
+
+id: 1508.05320
+title: Overwhelming thermomechanical motion with microwave radiation pressure shot noise
+authors: J. D. Teufel, F. Lecocq, R. W. Simmonds
+comments: 4 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
+url: http://arxiv.org/abs/1508.05320
+abstract: We measure the fundamental noise processes associated with a continuous linear position measurement of a micromechanical membrane incorporated in a microwave cavity optomechanical circuit. We observe the trade-off between the two fundamental sources of noises that enforce the standard quantum limit: the measurement imprecision and radiation-pressure backaction from photon shot noise. We demonstrate that the quantum backaction of the measurement can overwhelm the intrinsic thermal motion by 24 dB, entering a new regime for cavity optomechanical systems.
+
+id: 1508.05334
+title: A tamper-indicating quantum seal
+authors: Brian P. Williams, Keith A. Britt, Travis S. Humble
+comments: 9 Pages, 6 Figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.05334
+abstract: Technical means for identifying when tampering occurs is a critical part of many containment and surveillance technologies. Conventional fiber optic seals provide methods for monitoring enclosed inventories, but they are vulnerable to spoofing attacks based on classical physics. We address these vulnerabilities with the development of a quantum seal that offers the ability to detect the intercept-resend attack using quantum integrity verification. Our approach represents an application of entanglement to provide guarantees in the authenticity of the seal state by verifying it was transmitted coherently. We implement these ideas using polarization-entangled photon pairs that are verified after passing through a fiber-optic channel testbed. Using binary detection theory, we find the probability of detecting inauthentic signals is greater than 0.9999 with a false alarm chance of 10$^{-9}$ for a 10 second sampling interval. In addition, we show how the Hong-Ou-Mandel effect concurrently provides a tight bound on redirection attack, in which tampering modifies the shape of the seal. Our measurements limit the tolerable path length change to sub-millimeter disturbances. These tamper-indicating features of the quantum seal offer unprecedented security for unattended monitoring systems.
+
+id: 1508.05339
+title: Random free fermions: An analytical example of eigenstate thermalization
+authors: Javier M. Magan
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech); High Energy Physics - Theory (hep-th)
+url: http://arxiv.org/abs/1508.05339
+abstract: Having analytical instances of the Eigenstate Thermalization Hypothesis (ETH) is of obvious interest, both for fundamental and applied reasons. This is generically a hard task, due to the belief that non-linear interactions are basic ingredients of the thermalization mechanism. In this article we proof that random gaussian free fermions satisfy ETH in the multiparticle sector, by analytically computing the correlations and entanglement entropies of the theory. With the explicit construction at hand, we finally comment on the differences between fully random Hamiltonians and random Gaussian systems, and on the connection between chaotic energy spectra and ETH.
+
+id: 1508.05341
+title: Alternative measurements of the fermion g-factor in the field of a traveling circularly polarized electromagnetic wave
+authors: B. V. Gisin
+comments: 3 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.05341
+abstract: The field of a traveling circularly polarized electromagnetic wave and a constant magnetic field localizes fermions perpendicularly to propagation of the wave in the cross section of the order of the wavelength. Unusual exact solutions of the Dirac equation correspond to this localization. Except to routine use of thin fermion beams it can be suitable for alternative measurements of the g - factor. Details and peculiarities of the solutions in application to the measurements are considered in the paper.
+
+id: 1508.05356
+title: Determining the ground-state probability of a quantum simulation with product-state measurements
+authors: Bryce Yoshimura, J. K. Freericks
+comments: 12 pages, 10 Figures, typeset in Frontiers format
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.05356
+abstract: One of the goals in quantum simulation is to adiabatically generate the ground state of a complicated Hamiltonian by starting with the ground state of a simple Hamiltonian and slowly evolving the system to the complicated one. If the evolution is adiabatic and the initial and final ground states are connected due to having the same symmetry, then the simulation will be successful. But in most experiments, adiabatic simulation is not possible because it would take too long, and the system has some level of diabatic excitation. In this work, we quantify the extent of the diabatic excitation even if we do not know {\it a priori} what the complicated ground state is. Since many quantum simulator platforms, like trapped ions, can measure the probabilities to be in a product state, we describe techniques that can employ these measurements to estimate the probability of being in the ground state of the system after the diabatic evolution. These techniques do not require one to know any properties about the Hamiltonian itself, nor to calculate its eigenstate properties. All the information is derived by analyzing the product-state measurements as functions of time.
+
+id: 1508.05104
+title: Measurement-induced entanglement of two transmon qubits by a single photon
+authors: Christoph Ohm, Fabian Hassler
+comments: 8 pages, 2 figures
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.05104
+abstract: On-demand creation of entanglement between distant qubits is desirable for quantum communication devices but so far not available for superconducting qubits. We propose an entanglement scheme that allows for single-shot deterministic entanglement creation by detecting a single photon passing through a Mach-Zehnder interferometer with one transmon qubit in each arm. The entanglement production essentially relies on the fact that superconducting microwave structures allow to achieve strong coupling between the qubit and the photon. By detecting the photon via a photon counter, a parity measurement is implemented and the wave function of the two qubits is projected onto a maximally entangled state. Moreover, due to the indivisible nature of single photons, our scheme promises full security for entanglement-based quantum key distribution.
+
+id: 1508.05129
+title: Differential clock comparisons with phase-locked local oscillators
+authors: David B. Hume, David R. Leibrandt
+comments: 5 pages, 4 figures + 3 pages supplementary information
+journal: 
+subjects: Atomic Physics (physics.atom-ph); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.05129
+abstract: We develop protocols that circumvent the laser noise limit in the stability of optical clock comparisons by synchronous probing of two clocks using phase-locked local oscillators. This allows for probe times longer than the laser coherence time, avoids the Dick effect, and supports Heisenberg-limited scaling of measurement precision. We present a model for such frequency comparisons and develop numerical simulations of the protocol with realistic noise sources. This provides a route to reduce frequency ratio measurement durations by more than an order of magnitude as clock inaccuracies reach 1x10^-18.
+
+id: 1508.05136
+title: Quadrupolar and anisotropy effects on dephasing in two-electron spin qubits in GaAs
+authors: Tim Botzem, Robert P. G. McNeil, Dieter Schuh, Dominique Bougeard, Hendrik Bluhm
+comments: 6 pages, 4 figures
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.05136
+abstract: Understanding the decoherence of electron spins in semiconductors due to their interaction with nuclear spins is of fundamental interest as they realize the central spin model and of practical importance for using electron spins as qubits. Interesting effects arise from the quadrupolar interaction of nuclear spins with electric field gradients, which have been shown to suppress diffusive nuclear spin dynamics. One might thus expect them to enhance electron spin coherence. Here we show experimentally that for gate-defined GaAs quantum dots, quadrupolar broadening of the nuclear Larmor precession can also reduce electron spin coherence due to faster decorrelation of transverse nuclear fields. However, this effect can be eliminated for appropriate field directions. Furthermore, we observe an additional modulation of spin coherence that can be attributed to an anisotropic electronic $g$-tensor. These results complete our understanding of dephasing in gated quantum dots and point to mitigation strategies. They may also help to unravel unexplained behaviour in related systems such as self-assembled quantum dots and III-V nanowires.
+
+id: 1508.05138
+title: Phonon routing in integrated optomechanical cavity-waveguide systems
+authors: Kejie Fang, Matthew H. Matheny, Xingsheng Luan, Oskar Painter
+comments: 16 pages, 7 figures
+journal: 
+subjects: Optics (physics.optics); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.05138
+abstract: The mechanical properties of light have found widespread use in the manipulation of gas-phase atoms and ions, helping create new states of matter and realize complex quantum interactions. The field of cavity-optomechanics strives to scale this interaction to much larger, even human-sized mechanical objects. Going beyond the canonical Fabry-Perot cavity with a movable mirror, here we explore a new paradigm in which multiple cavity-optomechanical elements are wired together to form optomechanical circuits. Using a pair of optomechanical cavities coupled together via a phonon waveguide we demonstrate a tunable delay and filter for microwave-over-optical signal processing. In addition, we realize a tight-binding form of mechanical coupling between distant optomechanical cavities, leading to direct phonon exchange without dissipation in the waveguide. These measurements indicate the feasibility of phonon-routing based information processing in optomechanical crystal circuitry, and further, to the possibility of realizing topological phases of photons and phonons in optomechanical cavity lattices.
+
+id: 1508.05203
+title: Revisiting numerical real-space renormalization group for quantum lattice systems
+authors: Li-Xiang Cen
+comments: 5 pages, 1 figure, 2 tables; a piece of work RG guys cannot miss
+journal: 
+subjects: Strongly Correlated Electrons (cond-mat.str-el); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.05203
+abstract: Although substantial progress has been achieved in solving quantum impurity problems, the numerical renormalization group (RG) method generally performs poorly when applied to quantum lattice systems in a real-space blocking form. The approach was thought to be unpromising for most lattice systems owing to its flaw in dealing with the boundaries of the block. Here the discovery of intrinsic prescriptions to cure interblock interactions is reported which overcomes the boundary obstacle and is expected to reopen the application of the numerical RG approach to quantum lattice systems. While the resulting RG transformation is shown to be strict in the thermodynamic limit, benchmark tests of the algorithm on a one-dimensional Heisenberg antiferromagnet and a tight-banding model with two spatial dimensions demonstrate its numerical efficiency in resolving low-energy spectra for the lattice systems.
+
+id: 1508.05204
+title: A 3D investigation of delocalised oxygen two-level defects in Josephson junctions
+authors: Timothy C. DuBois, Salvy P. Russo, Jared H. Cole
+comments: 9 Pages, 8 Figures
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Superconductivity (cond-mat.supr-con); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.05204
+abstract: Environmental two-level systems (TLS) have been identified as significant decoherence sources in Josephson junction (JJ) based circuits. For such quantum devices to be functional, the removal or control of the TLS is a necessity. Understanding the microscopic origins of the 'strongly coupled' TLS type is one current path of investigation to that end. The delocalized oxygen model suggests the atomic position of an oxygen atom is spatially delocalized in the oxide forming the JJ barrier. In this report we extend this model from its previous 2+1D construction to a complete 3D description using a Wick-rotated time-dependent Schrodinger equation to solve for time-independent solutions in three dimensions. We compute experimentally observable parameters for phase qubits and compare the results to the 2+1D framework. We devise a Voronoi classification scheme to investigate oxygen atoms delocalizing within strained and non-strained crystalline lattices, as well as realistic atomic positions a JJ amorphous tunnel barrier constructed in previous density functional studies.
+
+id: 1508.05254
+title: Local factorisation of the dynamics of quantum spin systems
+authors: Sven Bachmann, Andreas Bluhm
+comments: 
+journal: 
+subjects: Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.05254
+abstract: Motivated by the study of area laws for the entanglement entropy of gapped ground states of quantum spin systems and their stability, we prove that the unitary cocycle generated by a local time-dependent Hamiltonian can be approximated, for any finite set $X$, by a tensor product of the corresponding unitaries in $X$ and its complement, multiplied by a dynamics strictly supported in the neighbourhood of the surface $\partial X$. The error decays almost exponentially in the size of the neighbourhood and grows with the square of the area~$\vert \partial X\vert^2$.
+
+id: 1508.05259
+title: Qubit quantum-dot sensors: noise cancellation by coherent backaction, initial slips, and elliptical precession
+authors: M. Hell, M. R. Wegewijs, D. P. DiVincenzo
+comments: 
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.05259
+abstract: We theoretically investigate the backaction of a sensor quantum dot with strong local Coulomb repulsion on the transient dynamics of a qubit that is probed capacitively. We show that the measurement backaction induced by the noise of electron cotunneling through the sensor is surprisingly mitigated by the recently identified coherent backaction [PRB 89, 195405] arising from quantum fluctuations. This renormalization effect is missing in semiclassical stochastic fluctuator models and typically also in Born-Markov approaches, which try to avoid the calculation of the nonstationary, nonequilibrium state of the qubit plus sensor. Technically, we integrate out the current-carrying electrodes to obtain kinetic equations for the joint, nonequilibrium detector-qubit dynamics. We show that the sensor-current response, level renormalization, cotunneling, and leading non-Markovian corrections always appear together and cannot be turned off individually in an experiment or ignored theoretically. We analyze the backaction on the reduced qubit state - capturing the full non-Markovian effects imposed by the sensor quantum dot on the qubit - by applying a Liouville-space decomposition into quasistationary and rapidly decaying modes. Importantly, the sensor cannot be eliminated completely even in the simplest high-temperature, weak-measurement limit: The qubit state experiences an initial slip that persists over many qubit cycles and depends on the initial preparation of qubit plus sensor quantum dot. A quantum-dot sensor can thus not be modeled as a 'black box' without accounting for its dynamical variables. We furthermore find that the Bloch vector relaxes (T1) along an axis that is not orthogonal to the plane in which the Bloch vector dephases (T2), blurring the notions of T1 and T2 times. Finally, the precessional motion of the Bloch vector is distorted into an ellipse in the tilted dephasing plane.
+
+id: 1508.05289
+title: High Finesse Fiber Fabry-Perot Cavities: Stabilization and Mode Matching Analysis
+authors: Jose Gallego, Sutapa Ghosh, Seyed Khalil Alavi, Wolfgang Alt, Miguel Martinez-Dorantes, Dieter Meschede, Lothar Ratschbacher
+comments: The Supplemental Material is included in the source code of the article that can be downloaded from this arXiv page (see "Other formats")
+journal: 
+subjects: Atomic Physics (physics.atom-ph); Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.05289
+abstract: Fiber Fabry-Perot cavities, formed by micro-machined mirrors on the end-facets of optical fibers, are used in an increasing number of technical and scientific applications, where they typically require precise stabilization of their optical resonances. Here, we study two different approaches to construct fiber Fabry-Perot resonators and stabilize their length for experiments in cavity quantum electrodynamics with neutral atoms. A piezo-mechanically actuated cavity with feedback based on the Pound-Drever-Hall locking technique is compared to a novel rigid cavity design that makes use of the high passive stability of a monolithic cavity spacer and employs thermal self-locking and external temperature tuning. Furthermore, we present a general analysis of the mode matching problem in fiber Fabry-Perot cavities, which explains the asymmetry in their reflective line shapes and has important implications for the optimal alignment of the fiber resonators. Finally, we discuss the issue of fiber-generated background photons. We expect that our results contribute towards the integration of high-finesse fiber Fabry-Perot cavities into compact and robust quantum-enabled devices in the future.
+
+id: 1409.1248
+title: Quantum Key Distribution using Continuous-variable non-Gaussian States
+authors: L.F.M. Borelli, L.S. Aguiar, J.A. Roversi, A. Vidiella-Barranco
+comments: We have included an analysis of the simultaneous quadrature measurement attack plus 2 figures; we have also clarified some points
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1409.1248
+abstract: 
+
+id: 1410.4184
+title: Squashed entanglement, k-extendibility, quantum Markov chains, and recovery maps
+authors: Ke Li, Andreas Winter
+comments: 7 pages, revtex4. In v2 we have removed the claim about multi-party squashed entanglement (see new Appendix B for why) and corrected other smaller mistakes; v3 takes into account the developments since the original posting and has a new structure
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://arxiv.org/abs/1410.4184
+abstract: 
+
+id: 1503.03048
+title: Non-monotonicity of trace distance under tensor products
+authors: Jonas Maziero
+comments: 
+journal: Braz. J. Phys. 45, 560 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1503.03048
+abstract: 
+
+id: 1503.07583
+title: The quantum eraser does not always erase
+authors: Ant¨®nio Cardoso, Jo?o L. Cordovil, Jos¨¦ R. Croca
+comments: 11 pages, 5 figures
+journal: Journal of Advanced Physics, Vol. 5, pp. 1-5, 2016
+subjects: Quantum Physics (quant-ph); High Energy Physics - Theory (hep-th)
+url: http://arxiv.org/abs/1503.07583
+abstract: 
+
+id: 1504.02967
+title: Asymptotic Compatibility between LOCC Conversion and Recovery
+authors: Kosuke Ito, Wataru Kumagai, Masahito Hayashi
+comments: 16 pages, 6 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Information Theory (cs.IT)
+url: http://arxiv.org/abs/1504.02967
+abstract: 
+
+id: 1504.05269
+title: Smooth and sharp creation of a Dirichlet wall in 1+1 quantum field theory: how singular is the sharp creation limit?
+authors: Eric G. Brown, Jorma Louko
+comments: 30 pages, 2 figures. v3: Bogoliubov coefficients included, references added. Published version
+journal: JHEP 1508 (2015) 061
+subjects: High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.05269
+abstract: 
+
+id: 1505.05559
+title: Wave-Packet Analysis of Single-Slit Ghost Diffraction
+authors: Tabish Qureshi, Sheeba Shafaq
+comments: 5 pages. Revised and much improved
+journal: Eur. Phys. J. Plus (2015) 130: 173
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.05559
+abstract: 
+
+id: 1505.07199
+title: Physical description of statistical hypothesis testing for a weak-value amplification experiment using a birefringent crystal
+authors: Yuki Susa
+comments: 6 pages, 2 figure
+journal: Phys. Rev. A 92, 022118 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.07199
+abstract: 
+
+id: 1507.07775
+title: Tight uniform continuity bounds for quantum entropies: conditional entropy, relative entropy distance and energy constraints
+authors: Andreas Winter
+comments: 9 pages, lots of lemmas but no theorem; v2 and v3 and v4 have ever more references and more accurate attribution of previous results; v4 with new(?) result
+journal: 
+subjects: Quantum Physics (quant-ph); Information Theory (cs.IT); Mathematical Physics (math-ph)
+url: http://arxiv.org/abs/1507.07775
+abstract: 
+

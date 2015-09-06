@@ -1,0 +1,306 @@
+id: 1505.07139
+title: The decay widths, the decay constants, and the branching fractions of a resonant state
+authors: Rafael de la Madrid
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); High Energy Physics - Phenomenology (hep-ph); Nuclear Theory (nucl-th)
+url: http://arxiv.org/abs/1505.07139
+abstract: We introduce the differential and the total decay widths of a resonant (Gamow) state decaying into a continuum of stable states. When the resonance has several decay modes, we introduce the corresponding partial decay widths and branching fractions. In the approximation that the resonance is sharp, the expressions for the differential, partial and total decay widths of a resonant state bear a close resemblance with the Golden Rule. In such approximation, the branching fractions of a resonant state are the same as the standard branching fractions obtained by way of the Golden Rule. We also introduce dimensionless decay constants along with their associated differential decay constants, and we express experimentally measurable quantities such as the branching fractions and the energy distributions of decay events in terms of those dimensionless decay constants.
+
+id: 1505.07199
+title: Physical description of statistical hypothesis testing for weak-value amplification experiment using birefringent crystal
+authors: Yuki Susa
+comments: 6 pages, 1 figure
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.07199
+abstract: We investigate the weak measurement experiment of [Ritchie, Story, and Hulet, Phys. Rev. Lett. 66, 1107 (1991)] from the viewpoint of the statistical hypothesis testing for the weak-value amplification proposed by [Susa and Tanaka, arXiv:1502.06334 (2015)]. We conclude that the weak-value amplification is a better method to determine whether the crystal used in the experiment is birefringent or not than the measurement without the postselection, when the angles of two polarizers are almost orthogonal. This result gives physical description and intuition of the hypothesis testing and supports the experimental usefulness of the weak-value amplification.
+
+id: 1505.07232
+title: Construction of the least informative observable conserved by a given quantum instrument
+authors: Yui Kuramochi
+comments: 19 pages, no figure
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.07232
+abstract: For a given quantum instrument $Y$ and a positive-operator valued measure (POVM) $X$, $X$ is said to be conserved by $Y$ if a joint successive measurement of $Y$ followed by $X$ is equivalent to a single measurement of $X$ in the sense that each one of them is realized by a classical post-processing of the other. For a given insturment $Y$ with a standard Borel outcome space, we construct a POVM called an infinite composition of $Y$ corresponding to the infinite joint successive measurement of $Y$ by using a quantum version of the Kolmogorov extension theorem. We show that the infinite composition is the least informative POVM among the POVMs conserved by $Y$. As physical examples of instruments, we consider photon counting and quantum counter instruments and explicitly evaluate their infinite compositions.
+
+id: 1505.07284
+title: Quantum coin flipping secure against channel noises
+authors: Sheng Zhang, Yuexin Zhang
+comments: 6 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.07284
+abstract: So far, most of existed single-shot quantum coin flipping(QCF) protocols failed in a noisy quantum channel. Here, we present a nested-structured framework that makes it possible to achieve partially noise-tolerant QCF, due to that there is a trade-off between the security and the justice correctness. It is showed that noise-tolerant single-shot QCF protocols can be produced by filling the presented framework up with existed or even future protocols. We also proved a lower bound of 0.25, with which a cheating Alice or Bob could bias the outcome.
+
+id: 1505.07318
+title: Direct Measurement of Time-Frequency Analogues of Sub-Planck Structures
+authors: Ludmila Praxmeyer, Chih-Cheng Chen, Popo Yang, Shang-Da Yang, Ray-Kuang Lee
+comments: 5 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://arxiv.org/abs/1505.07318
+abstract: Exploiting the correspondence between Wigner distribution function and a frequency-resolved optical gating (FROG) measurement, we experimentally demonstrate existence of the chessboard-like interference patterns with a time-bandwidth product smaller than that of a transform-limited pulse in the phase space representation of compass states. Using superpositions of four electric pulses as realization of compass states, we have shown via direct measurements that displacements leading to orthogonal states can be smaller than limits set by uncertainty relations. In the experiment we observe an exactly chronocyclic correspondence to the sub-Planck structure in the interference pattern appearing for superposition of two Sch\"{o}dinger-cat-like states in a position-momentum phase space.
+
+id: 1505.07362
+title: Observation of the correspondence between Landau-Zener transition and Kibble-Zurek mechanism with a superconducting qubit system
+authors: Ming Gong, Xueda Wen, Guozhu Sun, Dan-Wei Zhang, Yang Yu, Shi-Liang Zhu, Siyuan Han
+comments: 5 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Other Condensed Matter (cond-mat.other)
+url: http://arxiv.org/abs/1505.07362
+abstract: We present a direct experimental observation of the correspondence between Landau-Zener transition and Kibble-Zurek mechanism with a superconducting qubit system. We develop a time-resolved approach to study quantum dynamics of the Landau-Zener transition. By using this method, we observe the key features of the correspondence between Landau-Zener transition and Kibble-Zurek mechanism, e.g., the boundary between the adiabatic and impulse regions, the freeze-out phenomenon in the impulse region. Remarkably, the scaling behavior of the population in the excited state, an analogical phenomenon originally predicted in Kibble-Zurek mechanism, is also observed in the Landau-Zener transition.
+
+id: 1505.07387
+title: Coherence convertibility for mixed states
+authors: Xiaofei Qi, Zhaofang Bai, Shuanping Du
+comments: 12 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://arxiv.org/abs/1505.07387
+abstract: In this paper, by providing a class of coherence measures in finite dimensional systems, a sufficient and necessary condition for the existence of coherence transformations that convert one probability distribution of any pure states into another one is obtained.
+
+id: 1505.07390
+title: Syndrome Measurement Strategies for the [[7,1,3]] Code
+authors: Yaakov S. Weinstein
+comments: 14 pages, 9 composite figures, to be published in Quantum Information Processing
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.07390
+abstract: Quantum error correction (QEC) entails the encoding of quantum information into a QEC code space, measuring error syndromes to properly locate and identify errors, and, if necessary, applying a proper recovery operation. Here we compare three syndrome measurement protocols for the [[7,1,3]] QEC code: Shor states, Steane states, and one ancilla qubit by simulating the implementation of 50 logical gates with the syndrome measurements interspersed between the gates at different intervals. We then compare the fidelities for the different syndrome measurement types. Our simulations show that the optimal syndrome measurement strategy is generally not to apply syndrome measurements after every gate but depends on the details of the error environment. Our simulations also allow a quantum computer programmer to weigh computational accuracy versus resource consumption (time and number of qubits) for a particular error environment. In addition, we show that applying syndrome measurements that are unnecessary from the standpoint of quantum fault tolerance may be helpful in achieving better accuracy or in lowering resource consumption. Finally, our simulations demonstrate that the single-qubit non-fault tolerant syndrome measurement strategy achieves comparable fidelity to those that are fault tolerant.
+
+id: 1505.07393
+title: Converting non-classicality into entanglement
+authors: Nathan Killoran, Frank E. S. Steinhoff, Martin B. Plenio
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.07393
+abstract: Quantum mechanics exhibits a wide range of non-classical features, of which entanglement in multipartite systems takes a central place. Other notions of non-classicality are also important, especially for non-composite systems. Yet the relationship between entanglement and other types of non-classicality remains to be clarified. In this work we show that, in fact, several general forms of single-system non-classicality are faithfully convertible into entanglement. Specifically, we prove that there is a physical operation which transforms all given non-classical states into entangled states, while the corresponding classical states become separable. Our results apply to two broad scenarios, one which is discrete and one which is continuous. In the discrete setting, the classical states can be any finite linearly independent set. For the continuous setting, the pertinent classical states are `symmetric coherent states,' connected with symmetric representations of the group SU(K). These results generalize and link convertibility properties from the resource theory of coherence, spin coherent states, and optical coherent states, while also revealing important connections between local and non-local quantum correlations.
+
+id: 1505.07432
+title: Classical Verification of Quantum Proofs
+authors: Zhengfeng Ji
+comments: 36 pages, 8 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC)
+url: http://arxiv.org/abs/1505.07432
+abstract: We present a classical interactive protocol that verifies the validity of a quantum witness state for the local Hamiltonian problem. It follows from this protocol that approximating the non-local value of a multi-player one-round game to inverse polynomial precision is QMA-hard. Our work makes an interesting connection between the theory of QMA-completeness and Hamiltonian complexity on one hand and the study of non-local games and Bell inequalities on the other.
+
+id: 1503.02503
+title: Topological Bogoliubov excitations in inversion-symmetric systems of interacting bosons
+authors: G. Engelhardt, T. Brandes
+comments: 10 pages, 2 figures, comments are welcome
+journal: Phys. Rev. A 91, 053621 (2015)
+subjects: Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1503.02503
+abstract: On top of the mean-field analysis of a Bose-Einstein condensate, one typically applies the Bogoliubov theory to analyze quantum fluctuations of the excited modes. Therefore, one has to diagonalize the Bogoliubov Hamiltonian in a symplectic manner. In our article we investigate the topology of these Bogoliubov excitations in inversion-invariant systems of interacting bosons. We analyze how the condensate influences the topology of the Bogoliubov excitations. Analogously to the fermionic case, here we establish a symplectic extension of the polarization characterizing the topology of the Bogoliubov excitations and link it to the eigenvalues of the inversion operator at the inversion-invariant momenta. We also demonstrate an instructive but experimentally feasible example that this quantity is also related to edge states in the excitation spectrum.
+
+id: 1505.06781
+title: Tuning the Quantum Efficiency of Random Lasers - Intrinsic Stokes-Shift and Gain
+authors: Andreas Lubatsch, Regine Frank
+comments: 6 pages, 4 figures
+journal: 
+subjects: Optics (physics.optics); Disordered Systems and Neural Networks (cond-mat.dis-nn); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Soft Condensed Matter (cond-mat.soft); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.06781
+abstract: We report the theoretical analysis for tuning the quantum efficiency of solid state random lasers. Vollhardt-Woelfle theory of photonic transport in disordered non-conserving and open random media, is coupled to lasing dynamics and solved positionally dependent. The interplay of non-linearity and homogeneous non-radiative frequency conversion by means of a Stokes-shift leads to a reduction of the quantum efficiency of the random laser. At the threshold a strong decrease of the spot-size in the stationary state is found due to the increase of non-radiative losses. The coherently emitted photon number per unit of modal surface is also strongly reduced. This result allows for the conclusion that Stokes-shifts are not sufficient to explain confined and extended mode regimes.
+
+id: 1505.07106
+title: Area Law for Gapless States from Local Entanglement Thermodynamics
+authors: Brian Swingle, John McGreevy
+comments: 8 pages, 1 figure
+journal: 
+subjects: Strongly Correlated Electrons (cond-mat.str-el); High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.07106
+abstract: We demonstrate an area law bound on the ground state entanglement entropy of a wide class of gapless quantum states of matter using a strategy called local entanglement thermodynamics. The bound depends only on thermodynamic data, actually a single exponent, the hyper-scaling violation exponent $\theta$. All systems in $d$ spatial dimensions obeying our scaling assumptions and with $\theta < d-1$ obey the area law, while systems with $\theta = d-1$ can violate the area law at most logarithmically. We also discuss the case of frustration-free Hamiltonians and show that to violate the area law more than logarithmically these systems must have an unusually large number of low energy states. Finally, we make contact with the recently proposed $s$-source framework and argue that $\theta$ and $s$ are related by $s=2^\theta$.
+
+id: 1505.07291
+title: Position-squared coupling in a tunable photonic crystal optomechanical cavity
+authors: Taofiq K. Paraiso, Mahmoud Kalaee, Leyun Zang, Hannes Pfeifer, Florian Marquardt, Oskar Painter
+comments: 11 pages, 6 figures
+journal: 
+subjects: Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.07291
+abstract: We present the design, fabrication, and characterization of a planar silicon photonic crystal cavity in which large position-squared optomechanical coupling is realized. The device consists of a double-slotted photonic crystal structure in which motion of a central beam mode couples to two high-Q optical modes localized around each slot. Electrostatic tuning of the structure is used to controllably hybridize the optical modes into supermodes which couple in a quadratic fashion to the motion of the beam. From independent measurements of the anti-crossing of the optical modes and of the optical spring effect, the position-squared vacuum coupling rate is measured to be as large as 245 Hz to the fundamental in-plane mechanical resonance of the structure at 8.7MHz, which in displacement units corresponds to a coupling coefficient of 1 THz/nm$^2$. This level of position-squared coupling is approximately five orders of magnitude larger than in conventional Fabry-Perot cavity systems.
+
+id: 1505.07353
+title: Electromagnetic Casimir effect for conducting plates in de Sitter spacetime
+authors: A. S. Kotanjyan, A. A. Saharian, H. A. Nersisyan
+comments: 14 pages, 1 figure
+journal: Phys. Scr. 90 (2015) 065304
+subjects: High Energy Physics - Theory (hep-th); Cosmology and Nongalactic Astrophysics (astro-ph.CO); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.07353
+abstract: Two-point functions, the mean field squared and the vacuum expectation value (VEV) of the energy-momentum tensor are investigated for the electromagnetic field in the geometry of parallel plates on background of $(D+1)$% -dimensional dS spacetime. We assume that the field is prepared in the Bunch-Davies vacuum state and on the plates a boundary condition is imposed that is a generalization of the perfectly conducting boundary condition for an arbitrary number of spatial dimensions. It is shown that for $D\geq 4$ the background gravitational field essentially changes the behavior of the VEVs at separations between the plates larger than the curvature radius of dS spacetime. At large separations, the Casimir forces are proportional to the inverse fourth power of the distance for all values of spatial dimension $D\geq 3$. For $D\geq 4$ this behavior is in sharp contrast with the case of plates in Minkowski bulk where the force decays as the inverse $(D+1)$th power of the distance.
+
+id: 1505.07382
+title: Cavity-Enhanced Two-Photon Interference using Remote Quantum Dot Sources
+authors: V. Giesz, S. L. Portalupi, T. Grange, C. Ant¨®n, L. De Santis, J. Demory, N. Somaschi, I. Sagnes, A. Lema?tre, L. Lanco, A. Auffeves, P. Senellart
+comments: 5 pages, 4 figures (Supp. Mat. attached)
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.07382
+abstract: The generation of indistinguishable photons from a solid-state emitter like a semiconductor quantum dot is often limited by dephasing processes. It is known that accelerating the spontaneous emission of the quantum dot can greatly improve the indistinguishability of successively emitted photons. Here we show that cavity quantum electrodynamics can also efficiently improve the quantum interference between remote quantum dot sources. The quantum interference of photons emitted by two separate quantum dot-cavity devices is investigated both experimentally and theoretically. Controlling the spontaneous emission on one source is shown to efficiently overcome the detrimental effect of pure dephasing on the other one. Our experimental observations and calculations demonstrate that cavity quantum electrodynamics is a powerful tool for the scalability of a quantum dot-based quantum network.
+
+id: 1306.0498
+title: Syndrome Measurement Order for the [[7,1,3]] Quantum Error Correction Code
+authors: Yaakov S. Weinstein
+comments: 6 pages, 5 figures, corrected mistakes, not earth-shattering
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1306.0498
+abstract: 
+
+id: 1310.7050
+title: Rank-finiteness for modular categories
+authors: Paul Bruillard, Siu-Hung Ng, Eric C. Rowell, Zhenghan Wang
+comments: 25 pages (last version). Version 2: removed weakly integral rank 6 and integral rank 7 section, improved rank 5 classification up to monoidal equivalence. Version 3: removed rank 5 classification (note title change)--this will be published separately. Significantly improved exposition
+journal: 
+subjects: Quantum Algebra (math.QA); Category Theory (math.CT); Number Theory (math.NT); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1310.7050
+abstract: 
+
+id: 1403.7716
+title: Extracting entangled qubits from Majorana fermions in quantum dot chains through the measurement of parity
+authors: Li Dai, Watson Kuo, Ming-Chiang Chung
+comments: Accepted by Scientific Reports
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Strongly Correlated Electrons (cond-mat.str-el); Superconductivity (cond-mat.supr-con); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1403.7716
+abstract: 
+
+id: 1407.0689
+title: Qubit state transfer via discrete-time quantum walks
+authors: ?. Yal??nkaya, Z. Gedik
+comments: 13 pages, 5 figures
+journal: J. Phys. A: Math. Theor. 48 225302 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1407.0689
+abstract: 
+
+id: 1408.0105
+title: Floquet control of quantum dissipation in spin chains
+authors: Chong Chen, Jun-Hong An, Hong-Gang Luo, C. P. Sun, C. H. Oh
+comments: 8 pages, 5 figures
+journal: Phys. Rev. A 91, 052122 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1408.0105
+abstract: 
+
+id: 1409.3258
+title: Extracting work from absence of correlations
+authors: Matteo Lostaglio, Markus P. Mueller, Michele Pastena
+comments: 4+8 pages, 5 figures. v3: new author, generalized to arbitrary Hamiltonians, added a simple example
+journal: 
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech)
+url: http://arxiv.org/abs/1409.3258
+abstract: 
+
+id: 1411.0191
+title: Proposal for a motional-state Bell inequality test with ultracold atoms
+authors: R. J. Lewis-Swan, K. V. Kheruntsyan
+comments: Final published version; 11 pages, 6 figures
+journal: Phys. Rev. A 91, 052114 (2015)
+subjects: Quantum Physics (quant-ph); Quantum Gases (cond-mat.quant-gas)
+url: http://arxiv.org/abs/1411.0191
+abstract: 
+
+id: 1412.7161
+title: Frozen Quantum Coherence
+authors: Thomas R. Bromley, Marco Cianciaruso, Gerardo Adesso
+comments: 6+4 pages, 1 figure; close to published version
+journal: Phys. Rev. Lett. 114, 210401 (2015)
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph); Optics (physics.optics)
+url: http://arxiv.org/abs/1412.7161
+abstract: 
+
+id: 1501.02865
+title: Hiking a generalized Dyck path: A tractable way of calculating multimode boson evolution operators
+authors: Kamil Bradler
+comments: v3: the main theorem significantly extented for a large class of finite sums of boson monomials; the method also demonstrated on an analytically continued evolution operator whose Taylor series otherwise diverges for all r&gt;0; to appear in Computer Physics Communications
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Mathematical Physics (math-ph)
+url: http://arxiv.org/abs/1501.02865
+abstract: 
+
+id: 1502.07563
+title: Relativistic persistent currents in ideal Aharonov-Bohm rings
+authors: Ion I. Cotaescu, Doru-Marcel Baltateanu, Ion Cotaescu Jr
+comments: 11 pages, one figure
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
+url: http://arxiv.org/abs/1502.07563
+abstract: 
+
+id: 1502.07984
+title: Generation of squeezed Schr?dinger cats in a tunable cavity filled with a Kerr medium
+authors: R. de J. Le¨®n-Montiel, H. M. Moya-Cessa
+comments: 
+journal: J. Opt. 17, 065202 (2015)
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://arxiv.org/abs/1502.07984
+abstract: 
+
+id: 1503.07951
+title: Non-Markovian quantum Brownian motion: a non-Hamiltonian approach
+authors: A. O. Bolivar
+comments: Published in 2015 as a book by Lambert Academic Publishing, Saarbr\"ucken, Germany
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1503.07951
+abstract: 
+
+id: 1504.00224
+title: Breakdown of local convertibility through Majorana modes in a quantum quench
+authors: Li Dai, Ming-Chiang Chung
+comments: 8 pages, 5 figures, accepted by Physical Review A
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.00224
+abstract: 
+
+id: 1504.01756
+title: Active Invisibility Cloaks in One Dimension
+authors: Ali Mostafazadeh
+comments: 7 pages, 4 figures, expanded version including a discussion of absorbing cloaking potentials, to appear in Phys. Rev. A
+journal: 
+subjects: Classical Physics (physics.class-ph); Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.01756
+abstract: 
+
+id: 1504.01917
+title: Quantum inferring acausal structure
+authors: Adam Glos, Dariusz Kurzyk
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.01917
+abstract: 
+
+id: 1504.07963
+title: Observing the spin of free electrons in action(Stern-Gerlach experiment by free electrons)
+authors: Hosein Majlesi
+comments: 10 Page,10 figure, Patent:139350140003006698, Tuesday, September 16, 2014
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.07963
+abstract: 
+
+id: 1505.03670
+title: The Born Postulate and Time-Reversibility of Quantum Equations of Motion
+authors: Aleksey V. Ilyin
+comments: 3 pages, 2 figures: This paper has been withdrawn by the author due to a conceptual mistake
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.03670
+abstract: 
+
+id: 1505.04326
+title: How virtual particles generate quantum dynamics
+authors: Alberto C. de la Torre
+comments: replacement including Dirac dynamics
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.04326
+abstract: 
+

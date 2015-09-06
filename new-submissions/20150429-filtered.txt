@@ -1,0 +1,90 @@
+id: 1504.07251
+title: Universal recovery map for approximate Markov chains
+authors: David Sutter, Omar Fawzi, Renato Renner
+comments: 29 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Information Theory (cs.IT); Mathematical Physics (math-ph)
+url: http://arxiv.org/abs/1504.07251
+abstract: A Markov chain is a tripartite quantum state $\rho_{ABC}$ whose $C$-part can be recovered from the $B$-part only, i.e., there exists a recovery map $\mathcal{R}_{B \to BC}$ such that $\rho_{ABC} = \mathcal{R}_{B \to BC}(\rho_{AB})$. More generally, an approximate Markov chain $\rho_{ABC}$ is a state whose distance to the closest recovered state $\mathcal{R}_{B \to BC}(\rho_{AB})$ is small. As proved recently in [Fawzi and Renner, arXiv:1410.0664], this distance can be bounded from above by the conditional mutual information $I(A : C | B)$ of the state. While the proof is non-constructive, one may expect that the recovery is universal, in the sense that the same map $\mathcal{R}_{B \to BC}$ works for all states with a given marginal $\rho_{BC}$. Here we show that this is indeed the case.
+
+id: 1504.07373
+title: Hierarchy of Non-Markovianity and $k$-divisibility phase diagram of Quantum Processes in Open Systems
+authors: Hong-Bin Chen, Jiun-Yi Lien, Guang-Yin Chen, Yueh-Nan Chen
+comments: 5pages, 4figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.07373
+abstract: In recent years, much effort has been devoted to the construction of a proper measure of quantum non-Markovianity. However, those proposed measures are shown to be at variance with different situations. In this work, we utilize the theory of $k$-positive maps to generalize a hierarchy of $k$-divisibility and develop a powerful tool, called $k$-divisibility phase diagram, which can provide a further insight into the nature of quantum non-Markovianity. By exploring the phase diagram with several paradigms, we can explain the origin of the discrepancy between two frequently used measure and find the condition under which the two measures coincide with each other.
+
+id: 1504.07375
+title: Quantum Walk Search with Time-Reversal Symmetry Breaking
+authors: Thomas G. Wong
+comments: 12 pages, 6 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.07375
+abstract: We formulate Grover's unstructured search algorithm as a chiral quantum walk, where transitioning in one direction has a phase conjugate to transitioning in the opposite direction. For small phases, this breaking of time-reversal symmetry is too small to significantly affect the evolution: the system still approximately evolves in its ground and first excited states, rotating to the marked vertex in time $\pi \sqrt{N} / 2$. Increasing the phase does not change the runtime, but rather changes the support for the 2D subspace, so the system evolves in its first and second excited states, or its second and third excited states, and so forth. Apart from the critical phases corresponding to these transitions in the support, which become more frequent as the phase grows, this reveals that our model of quantum search is robust against time-reversal symmetry breaking.
+
+id: 1504.07432
+title: Wigner rotation via Fermi-Walker transport and relativistic EPR correlations in the Schwarzschild spacetime
+authors: K. Bakke, C. Furtado, A. M. de M. Carvalho
+comments: to appear in International Journal of Quantum Information
+journal: 
+subjects: Quantum Physics (quant-ph); General Relativity and Quantum Cosmology (gr-qc)
+url: http://arxiv.org/abs/1504.07432
+abstract: The Wigner rotation angle for a particle in a circular motion in the Schwarzschild spacetime is obtained via the Fermi-Walker transport of spinors. Then, by applying the WKB approximation, a possible application of the Fermi-Walker transport of spinors in relativistic EPR correlations is discussed, where it is shown that the spins of the correlated particle undergo a precession in an analogous way to that obtained by Terashima and Ueda [H. Terashima and M. Ueda, Phys. Rev. A {\bf69}, 032113 (2004)] via the application of successive infinitesimal Lorentz transformations. Moreover, from the WKB approach, it is also shown that the degree of violation of the Bell inequality depends on the Wigner rotation angle obtained via the Fermi-Walker transport. Finally, the relativistic effects from the geometry of the spacetime and the accelerated motion of the correlated particles is discussed in the nonrelativistic limit.
+
+id: 1504.07572
+title: Experimental demonstration of efficient superdense coding in the presence of non-Markovian noise
+authors: Bi-Heng Liu, Xiao-Min Hu, Yun-Feng Huang, Chuan-Feng Li, Guang-Can Guo, Antti Karlsson, Elsi-Mari Laine, Sabrina Maniscalco, Chiara Macchiavello, Jyrki Piilo
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.07572
+abstract: Many quantum information tasks rely on entanglement, which is used as a resource, for example, to enable efficient and secure communication. Typically, noise, accompanied by loss of entanglement, reduces the efficiency of quantum protocols. We demonstrate experimentally a superdense coding scheme with noise, where the decrease of entanglement in Alice's encoding state does not reduce the efficiency of the information transmission. Having almost fully dephased classical two-photon polarization state at the time of encoding, we reach values of mutual information close to 1.52 (1.89) with 3-state (4-state) encoding. This high efficiency relies both on non-Markovian features, that Bob exploits just before his Bell-state measurement, and on very high visibility (99.6$\%$) of the Hong-Ou-Mandel interference within the experimental set-up. Our proof-of-principle results pave the way for exploiting non-Markovianity to improve the efficiency and security of quantum information processing tasks.
+
+id: 1502.01788
+title: Single crystal diamond nanobeam waveguide optomechanics
+authors: Behzad Khanaliloo, Harishankar Jayakumar, Aaron C. Hryciw, David P. Lake, Hamidreza Kaviani, Paul E. Barclay
+comments: Minor changes. Corrected error in units of applied stress in Fig. 10
+journal: 
+subjects: Optics (physics.optics); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1502.01788
+abstract: 
+
+id: 1502.04792
+title: Quantum Search with Multiple Walk Steps per Oracle Query
+authors: Thomas G. Wong, Andris Ambainis
+comments: 5 pages, 4 figures; additional 8 pages of supplemental material
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1502.04792
+abstract: 
+
+id: 1504.07356
+title: Quantum plasmonic excitation in graphene and robust-to-loss propagation
+authors: George W. Hanson, S. A. Hassani Gangaraj, Changhyoup Lee, Dimitris G. Angelakis, Mark Tame
+comments: 14 pages, 8 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Optics (physics.optics)
+url: http://arxiv.org/abs/1504.07356
+abstract: We investigate the excitation of quantum plasmonic states of light in graphene using end-fire and prism coupling. In order to model the excitation process quantum mechanically we quantize the transverse-electric and transverse-magnetic surface plasmon polariton (SPP) modes in graphene. A selection of regimes are then studied that enable the excitation of SPPs by photons and we show that efficient coupling of photons to graphene SPPs is possible at the quantum level. Futhermore, we study the excitation of quantum states and their propagation under the effects of loss induced from the electronic degrees of freedom in the graphene. Here, we investigate whether it is possible to protect quantum information using quantum error correction techniques. We find that these techniques provide a robust-to-loss method for transferring quantum states of light in graphene over large distances.
+
+id: 1504.07418
+title: Asymptotic properties of the Dirac quantum cellular automaton
+authors: A. P¨¦rez
+comments: 10 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.07418
+abstract: We show that the Dirac quantum cellular automaton [Ann. Phys. 354 (2015) 244] shares many properties in common with the discrete-time quantum walk. These similarities can be exploited to redefine the automaton as a unitary process that takes place at regular time steps on a one-dimensional lattice with an arbitrary lattice spacing. In this way, it becomes an alternative to the quantum walk, with a dispersion relation that can be controlled by a mass parameter, playing a similar role to the coin angle in the quantum walk. Moreover, the Dirac Hamiltonian is recovered under a suitable limit. We also provide two independent analytical approximations to the long term probability distribution. It is shown that, starting from localized conditions, the asymptotic value of the entropy of entanglement between internal and motional degrees of freedom overcomes the known limit that is approached by the quantum walk for the same initial conditions, and are similar to the ones achieved by highly localized states of the Dirac equation.
+
+id: 1504.07600
+title: Deterministic generation of arbitrary photonic states assisted by dissipation
+authors: A. Gonz¨¢lez-Tudela, V. Paulisch, D. E. Chang, H. J. Kimble, J. I. Cirac
+comments: 15 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.07600
+abstract: A scheme to utilize atom-like emitters coupled to nanophotonic waveguides is proposed for the generation of many-body entangled states and for the reversible mapping of these states of matter to photonic states of an optical pulse in the waveguide. Our protocol makes use of decoherence-free subspaces (DFS) for the atomic emitters with coherent evolution within the DFS enforced by strong dissipative coupling to the waveguide. By switching from subradiant to superradiant states, entangled atomic states are mapped to photonic states with high fidelity. An implementation using ultracold atoms coupled to a photonic crystal waveguide is discussed.
+

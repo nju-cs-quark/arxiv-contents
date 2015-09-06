@@ -1,0 +1,342 @@
+id: 1505.00049
+title: Uncertainty Relations for Angular Momentum
+authors: Lars Dammeier, Rene Schwonnek, Reinhard F. Werner
+comments: 28 pages, 22 figures, 1 cut-out paper model
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://arxiv.org/abs/1505.00049
+abstract: In this work we study various notions of uncertainty for angular momentum in the spin-s representation of SU(2). We characterize the "uncertainty regions" given by all vectors, whose components are the variances of the three angular momentum components. A basic feature of this set is a lower bound for the sum of the three variances. We give a method for obtaining optimal lower bounds for uncertainty regions for general operator triples, and evaluate these for small s. Further lower bounds are derived by generalizing the technique by which Robertson obtained his state-dependent lower bound. These are optimal for large s, since they are saturated by states taken from the Holstein-Primakoff approximation. We show that, for all s, all variances are consistent with the so-called vector model, i.e., they can also be realized by a classical probability measure on a sphere of radius sqrt(s(s+1)). Entropic uncertainty relations can be discussed similarly, but are minimized by quite different states from the variance minimizing ones for small s. For large s the Maassen-Uffink bound becomes sharp, again being saturated by Holstein-Primakoff states. Measurement uncertainty, as recently discussed by Busch, Lahti and Werner for position and momentum, is introduced and a generalized observable (POVM) which minimizes the worst case measurement uncertainty of all angular momentum components is explicitly determined. Its outputs are angular momentum vectors whose absolute value r(s) depends only on s. The function r is determined explicitly, and r(s)/s approaches 1 from below.
+
+id: 1505.00053
+title: Detection attacks on cryptographic protocols and bound randomness
+authors: Antonio Ac¨ªn, Daniel Cavalcanti, Elsa Passaro, Stefano Pironio, Paul Skrzypczyk
+comments: 5 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.00053
+abstract: In recent years, several hacking attacks have broken the security of quantum cryptography implementations by exploiting the presence of losses and the ability of the eavesdropper to tune detection efficiencies. We present a simple attack of this form that applies to any protocol in which the key is constructed from the results of untrusted measurements performed on particles coming from an insecure source or channel. Because of its generality, the attack applies to a large class of protocols, from standard prepare-and-measure to device-independent schemes. The derived critical detection efficiencies for security imply that the implementation of most partly device independent solutions is, from the point of view of detection efficiency, almost as demanding as fully device-independent ones. We also show how our attack implies the existence of a form of bound randomness, namely non-local correlations in which a non-signalling eavesdropper can find out a posteriori the result of any implemented measurement.
+
+id: 1505.00098
+title: Contextuality, Pigeonholes, Cheshire Cats, Mean Kings, and Weak Values
+authors: Mordecai Waegell, Jeff Tollaksen
+comments: 32 pages, 12 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.00098
+abstract: The Kochen-Specker (KS) theorem shows that noncontextual hidden variable models of reality that allow random choice are inconsistent with quantum mechanics. Such noncontextual models predict certain outcomes for specific experiments that are never observed in practice, and this is how the theorem is proved. A realist model suggested by the Aharonov-Bergmann-Lebowitz reformulation of quantum mechanics is introduced to explain why those outcomes are never observed. Just as the KS theorem requires them due to noncontextuality, this model requires independent truth-value assignments for each observable, but now allows that the entire set of assignments depends on both the pre-selected and post-selected quantum states in a time-symmetric manner. The truth-values assigned to the observables of this model are at least partially consistent with the weak values of those observables. Using sets that prove the KS theorem, along with pre- and post-selected states, we find that particular projectors within the set cannot be assigned logically consistent truth-values, and furthermore that the weak values of these projectors have a corresponding signature. This inconsistency is never observed because it is never in the pre-selected or post-selected quantum state, but its signature can be experimentally revealed through weak measurements. We also show that for specific cases where the logical inconsistency is in a `classical basis,' this gives rise to the quantum pigeonhole effect. As a related issue, we show using weak values that any KS set can be used to ensure that the Mean King always wins the game.
+
+id: 1505.00101
+title: The Infinite Square Well Is Subtle
+authors: Chyi-Lung Lin
+comments: 12 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.00101
+abstract: We show that it needs a more delicate potential to confine particles inside a well. The original model containing a vague notation of infinity in the potential energy is ambiguous. Using the Heaviside step function and the Dirac delta-function, we give a precise form for the confining potential. Although such form appears unusual, the ambiguities are resolved. This form also shows that the infinite square well is not the limit of a finite square well.
+
+id: 1505.00104
+title: Detector dependency of diffusive quantum monitorings
+authors: Shakib Daryanoosh, Howard M. Wiseman, Jay M. Gambetta
+comments: 11 pages, 5 figures, 1 table
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.00104
+abstract: Continuous measurements play a pivotal role in the study of dynamical open quantum systems. `Dyne' detections are among the most widespread and efficient measurement schemes, and give rise to quantum diffusion of the conditioned state. In this work we study under what conditions the detector dependency of the conditional state of a quantum system subject to diffusive monitoring can be demonstrated experimentally, in the sense of ruling our any detector-independent pure-state dynamical model for the system. We consider an arbitrary number L of environments to which the system is coupled, and an arbitrary number K of different types of dyne detections. We prove that non-trivial necessary conditions for such a demonstration can be determined efficiently by semi-definite programming. To determine sufficient conditions, different physical environmental couplings and Hamiltonians for a qubit, and different sets of diffusive monitorings are scrutinized. We compare the threshold efficiencies that are sufficient in the various cases, as well as cases previously considered in the literature, to suggest the most feasible experimental options.
+
+id: 1505.00113
+title: The quantum complexity of approximating the frequency moments
+authors: Ashley Montanaro
+comments: 21 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Data Structures and Algorithms (cs.DS)
+url: http://arxiv.org/abs/1505.00113
+abstract: The $k$'th frequency moment of a sequence of integers is defined as $F_k = \sum_j n_j^k$, where $n_j$ is the number of times that $j$ occurs in the sequence. Here we study the quantum complexity of approximately computing the frequency moments in two settings. In the query complexity setting, we wish to minimise the number of queries to the input used to approximate $F_k$ up to relative error $\epsilon$. We give quantum algorithms which outperform the best possible classical algorithms up to quadratically. In the multiple-pass streaming setting, we see the elements of the input one at a time, and seek to minimise the amount of storage space, or passes over the data, used to approximate $F_k$. We describe quantum algorithms for $F_0$, $F_2$ and $F_\infty$ in this model which outperform the best possible classical algorithms almost quadratically.
+
+id: 1505.00123
+title: POVM construction: a simple recipe with applications to symmetric states
+authors: Swarnamala Sirsi, Karthik Bharath, S. P. Shilpashree
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://arxiv.org/abs/1505.00123
+abstract: We propose a simple method for constructing POVMs using any set of matrices which form an orthonormal basis for the space of complex matrices. Considering the orthonormal set of irreducible spherical tensors, we examine the properties of the construction on the $N+1$-dimensional subspace of the $2^N$-dimensional Hilbert space of $N$ qubits comprising the permutationally symmetric states. Similar in spirit to Neumark's result on realization of a POVM as a projective measurement, we present a method to physically realize the constructed POVMs for symmetric states using the Clebsch--Gordan decomposition of the tensor product of irreducible representations of the rotation group. We illustrate the proposed construction on a spin-1 system, and show that it is possible to generate entangled states from separable ones.
+
+id: 1505.00151
+title: The Wigner-Yanase information can increase under phase sensitive incoherent operations
+authors: Shuanping Du, Zhaofang Bai
+comments: 
+journal: Annals of Physics 2015
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.00151
+abstract: We found that the Wigner-Yanase skew information, which has been recently proposed as a measure of coherence in [Phys. Rev. Lett. \textbf{113}, 170401(2014)], can increase under a class of operations which may be interpreted as incoherent following the framework of Baumgratz et al., while being phase sensitive.
+
+id: 1505.00173
+title: New approach on Supersymmetric Quantum Systems: Real and Complex Hamiltonians
+authors: Biswanath Rath
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.00173
+abstract: We propose a new method for generating new Hamiltonians for the development of supersymmetric Quantum Mechanics for real as well as complex systems.interestingly Hamiltonians which can be realised in this method, can hardly be derieved using all previous formalisms developed so far.Further examples discussed here include both shape invariant and shape non-invariant potentials.We notice a new thing (which has not been revealed earlier) in the case of shape invariant potentials i.e by suitable choice of parameters in superpotential the generated hamiltonians satisfy either (i) SUSY conditions i.e $E_{n}^{(+)} =E_{n+1}^{(-)}$ ; $E_{0}^{(-)}=0$ or (ii) Iso-spectral condition i.e $E_{n}^{(+)}=E_{n}^{(-)}$ .However for non-shape invariant potentials energy relations depend only in the choice of superpotentials.We present both analytical as well as numerical results. PACS :11.30.Pb, 03.65.Db, 11.30.Er, 03.65.Ge Keywords - Superpotential, SUSY condition, Iso-spectral condition, real Hamiltonian, complex Hamiltonian, exactly solvable systems, numerical results.
+
+id: 1505.00209
+title: Schedule path optimization for quantum annealing and adiabatic quantum computing
+authors: Lishan Zeng, Jun Zhang, Mohan Sarovar
+comments: 10 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.00209
+abstract: Quantum annealing and adiabatic quantum computing have garnered much attention recently as possible models for achieving a quantum advantage over classical approaches to optimization and other special purpose computations. Both techniques are probabilistic in nature and the minimum gap between the ground state and first excited state of the system during evolution is a major factor in determining the success probability. In this work we investigate a strategy for increasing the minimum gap and success probability by introducing intermediate Hamiltonians that modify the evolution path between initial and final Hamiltonians. We focus on an optimization problem relevant to recent quantum annealing implementations and present numerical evidence for the existence of a purely local intermediate Hamiltonian that achieve the optimum performance in terms of pushing the minimum gap to one of the end points of the evolution. We further study the effectiveness of random intermediate Hamiltonians on the minimum gap and success probability, and empirically find that random Hamiltonians have a significant probability of increasing the success probability, but only by a modest amount.
+
+id: 1505.00234
+title: Exceptional points and unitary evolution of the physical solutions
+authors: E. Hern¨¢ndez, A. J¨¢uregui, D. Lohr, A. Mondrag¨®n
+comments: 20 pages, 6 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.00234
+abstract: An example of exceptional points in the continuous spectrum of a real, pseudo-Hermitian Hamiltonian of von Neumann-Wigner type is presented and discussed. Remarkably, these exceptional points are associated with a double pole in the normalization factor of the Jost eigenfunctions normalized to unit flux at infinity. At the exceptional points, the two unnormalized Jost eigenfunctions are no longer linearly independent but coalesce to give rise to two Jordan cycles of generalized bound state eigenfunctions embedded in the continuum and a Jordan block representation of the Hamiltonian. The regular scattering eigenfunction vanishes at the exceptional point and the irregular scattering eigenfunction has a double pole at that point. In consequence, the time evolution of the regular scattering eigenfunction is unitary, while the time evolution of the irregular scattering eigenfunction is pseudounitary. The scattering matrix is a regular analytical function of the wave number $k$ for all $k$ including the exceptional points.
+
+id: 1505.00031
+title: Cavity squeezing by a quantum conductor
+authors: Udson C. Mendes, Christophe Mora
+comments: 13 pages, 4 figures, includes Supplementary info
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.00031
+abstract: Hybrid architectures integrating mesoscopic electronic conductors with resonant microwave cavities have a great potential for investigating unexplored regimes of electron-photon coupling. In this context, producing nonclassical squeezed light is a key step towards quantum communication with scalable solid-state devices. Here we show that parametric driving of the electronic conductor induces a squeezed steady state in the cavity. We find that squeezing properties of the cavity are essentially determined by the electronic noise correlators of the quantum conductor. In the case of a tunnel junction, we predict that squeezing is optimized by applying a time-periodic series of quantized $\delta-$peaks in the bias voltage. For an asymmetric quantum dot, we show that a sharp Leviton pulse is able to achieve perfect cavity squeezing.
+
+id: 1505.00035
+title: Coherent Control of Photoelectron Wavepacket Angular Interferograms
+authors: Paul Hockett, Matthias Wollenhaupt, Thomas Baumert
+comments: 9 pages, 5 figures
+journal: 
+subjects: Atomic Physics (physics.atom-ph); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.00035
+abstract: Coherent control over photoelectron wavepackets, via the use of polarization-shaped laser pulses, can be understood as a time and polarization-multiplexed process. In this work, we investigate this multiplexing via computation of the observable photoelectron angular interferograms resulting from multi-photon atomic ionization with polarization-shaped laser pulses. We consider the polarization sensitivity of both the instantaneous and cumulative continuum wavefunction; the nature of the coherent control over the resultant photoelectron interferogram is thus explored in detail. Based on this understanding, the use of coherent control with polarization-shaped pulses as a methodology for a highly multiplexed coherent quantum metrology is also investigated, and defined in terms of the information content of the observable.
+
+id: 1505.00100
+title: Finite Density Matrix Renormalisation Group Algorithm for Anyonic Systems
+authors: Robert N. C. Pfeifer, Sukhwinder Singh
+comments: 24 pages, 37 figure files (25 floating figures). RevTeX 4.1
+journal: 
+subjects: Strongly Correlated Electrons (cond-mat.str-el); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.00100
+abstract: The numerical study of anyonic systems is known to be highly challenging due to their non-bosonic, non-fermionic particle exchange statistics, and with the exception of certain models for which analytical solutions exist, very little is known about their collective behaviour as a result. Meanwhile, the density matrix renormalisation group (DMRG) algorithm is an exceptionally powerful numerical technique for calculating the ground state of a low-dimensional lattice Hamiltonian, and has been applied to the study of bosonic, fermionic, and group-symmetric systems. The recent development of a tensor network formulation for anyonic systems opened up the possibility of studying these systems using algorithms such as DMRG, though this has proved challenging both in terms of programming complexity and computational cost. This paper presents the implementation of DMRG for finite anyonic systems, including a detailed scheme for the implementation of anyonic tensors with optimal scaling of computational cost. The anyonic DMRG algorithm is demonstrated by calculating the ground state energy of the Golden Chain, which has become the benchmark system for the numerical study of anyons, and is shown to produce results comparable to those of the anyonic TEBD algorithm and superior to the variationally optimised anyonic MERA, at far lesser computational cost.
+
+id: 1505.00105
+title: Optical bistability enabled control of resonant light transmission for an atom-cavity system
+authors: Rahul Sawant, S. A. Rangwala
+comments: 11 pages, 12 figures. Follows the work in this http URL
+journal: 
+subjects: Optics (physics.optics); Atomic Physics (physics.atom-ph); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.00105
+abstract: The control of light transmission through a Fabry-Perot cavity containing atoms is theoretically investigated, when the cavity mode beam and an intersecting control beam are both close to specific atomic resonances. A four-level atomic system is considered and its interaction with the cavity mode is studied by solving for the time dependent cavity field and atomic state populations. The conditions for optical bistability of the atom-cavity system are obtained in steady state limit. For an ensemble of atoms in the cavity mode, the response of the intra-cavity light intensity to the intersecting resonant beam is understood for stationary atoms (closed system) and non-static atoms (open system). The open system is modelled by adjusting the atomic state populations to represent the exchange of atoms in the cavity mode, with the thermal environment. The solutions to the model are used to qualitatively explain the observed steady state and transient behaviour of the light in the cavity mode, in Sharma et. al. [1]. The control behaviour with three- and two-level atomic systems is also studied, and the rich physics arising out of these systems, for closed and open atomic systems is discussed.
+
+id: 1505.00135
+title: Real-time simulation of non-equilibrium transport of magnetization in large open quantum spin systems driven by dissipation
+authors: Debasish Banerjee, Florian Hebenstreit, Fu-Jiun Jiang, Uwe-Jens Wiese
+comments: 5 pages, 5 figures
+journal: 
+subjects: Strongly Correlated Electrons (cond-mat.str-el); High Energy Physics - Lattice (hep-lat); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.00135
+abstract: Using quantum Monte Carlo, we study the non-equilibrium transport of magnetization in large open strongly correlated quantum spin $\frac{1}{2}$ systems driven by purely dissipative processes that conserve the uniform or staggered magnetization. We prepare both a low-temperature Heisenberg ferromagnet and an antiferromagnet in two parts of the system that are initially isolated from each other. We then bring the two subsystems in contact and study their real-time dissipative dynamics for different geometries. The flow of the uniform or staggered magnetization from one part of the system to the other is described by a diffusion equation that can be derived analytically.
+
+id: 1505.00138
+title: Compositional Distributional Semantics with Compact Closed Categories and Frobenius Algebras
+authors: Dimitri Kartsaklis
+comments: Ph.D. Dissertation, University of Oxford
+journal: 
+subjects: Computation and Language (cs.CL); Artificial Intelligence (cs.AI); Category Theory (math.CT); Quantum Algebra (math.QA); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.00138
+abstract: This thesis contributes to ongoing research related to the categorical compositional model for natural language of Coecke, Sadrzadeh and Clark in three ways: Firstly, I propose a concrete instantiation of the abstract framework based on Frobenius algebras (joint work with Sadrzadeh). The theory improves shortcomings of previous proposals, extends the coverage of the language, and is supported by experimental work that improves existing results. The proposed framework describes a new class of compositional models that find intuitive interpretations for a number of linguistic phenomena. Secondly, I propose and evaluate in practice a new compositional methodology which explicitly deals with the different levels of lexical ambiguity (joint work with Pulman). A concrete algorithm is presented, based on the separation of vector disambiguation from composition in an explicit prior step. Extensive experimental work shows that the proposed methodology indeed results in more accurate composite representations for the framework of Coecke et al. in particular and every other class of compositional models in general. As a last contribution, I formalize the explicit treatment of lexical ambiguity in the context of the categorical framework by resorting to categorical quantum mechanics (joint work with Coecke). In the proposed extension, the concept of a distributional vector is replaced with that of a density matrix, which compactly represents a probability distribution over the potential different meanings of the specific word. Composition takes the form of quantum measurements, leading to interesting analogies between quantum physics and linguistics.
+
+id: 1505.00166
+title: Capture Dynamics of Ultracold Atoms in the Presence of an Impurity Ion
+authors: J. M. Schurer, A. Negretti, P. Schmelcher
+comments: 14 pages, 8 figures
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.00166
+abstract: Following the sudden creation of a single ion in a quasi one-dimensional trapped ultracold ensemble of bosonic atoms, the major part of the atoms is captured in the vicinity of the ion, while the remaining fraction is emitted towards the outer regions of the trap. Subsequently, the two energy scales stemming from the trapping potential and the atom-ion interaction give rise to two major density oscillations. While the first one corresponds to a dipole oscillation, the second one results from a coherent superposition of an atom-ion bound and a trap state which causes spatial coherence and population transfer between the two density fractions. Induced by the dynamical build-up of correlations, this second oscillation exhibits a collapse and revival behavior. We apply the ab initio multiconfiguration time-dependent Hartree method for bosons to explore the nonequilibrium quantum dynamics and analyze it via a cluster expansion approach. The latter is adapted to bosonic systems of fixed particle number which provides us with a thorough understanding of the complicated many-body processes.
+
+id: 1505.00167
+title: Many-Body Quantum Electrodynamics Networks: Non-Equilibrium Condensed Matter Physics with Light
+authors: Karyn Le Hur, Lo?c Henriet, Alexandru Petrescu, Kirill Plekhanov, Guillaume Roux, Marco Schir¨®
+comments: 30 pages, Invited Review Submitted to Comptes Rendus de l'Acad\'emie des Sciences, topical issue on polaritons. Comments are welcome
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Strongly Correlated Electrons (cond-mat.str-el); Superconductivity (cond-mat.supr-con); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.00167
+abstract: We review recent developments concerning non-equilibrium quantum dynamics and many-body physics with light, in superconducting circuits and Josephson analogues. We start with quantum impurity models summarizing the effect of dissipation and of driving the system. We mention theoretical and experimental efforts to characterize these non-equilibrium quantum systems. We show how Josephson junction systems can implement the equivalent of the Kondo effect with microwave photons. The Kondo effect is characterized by a renormalized light-frequency and a peak in the Rayleigh elastic transmission of a photon. We also address the physics of hybrid systems comprising mesoscopic quantum dot devices coupled to an electromagnetic resonator. Then, we discuss extensions to Quantum Electrodynamics (QED) Networks allowing to engineer the Jaynes-Cummings lattice and Rabi lattice models. This opens the door to novel many-body physics with light out of equilibrium, in relation with the Mott-superfluid transition observed with ultra-cold atoms in optical lattices. Then, we summarize recent theoretical predictions for realizing topological phases with light. Synthetic gauge fields and spin-orbit couplings have been successfully implemented with ultra-cold atoms in optical lattices --- using time-dependent Floquet perturbations periodic in time, for example --- as well as in photonic lattice systems. Finally, we discuss the Josephson effect related to Bose-Hubbard models in ladder and two-dimensional geometries. The Bose-Hubbard model is related to the Jaynes-Cummings lattice model in the large detuning limit between light and matter. In the presence of synthetic gauge fields, we show that Meissner currents subsist in an insulating Mott phase.
+
+id: 1403.5208
+title: Cryogenic silicon surface ion trap
+authors: Michael Niedermayr, Kirill Lakhmanskiy, Muir Kumph, Stefan Partel, Johannes Edlinger, Michael Brownnutt, Rainer Blatt
+comments: 12 pages, 4 figures, 1 table
+journal: New Journal of Physics, 16, 113068, 2014
+subjects: Quantum Physics (quant-ph); Atomic Physics (physics.atom-ph)
+url: http://arxiv.org/abs/1403.5208
+abstract: 
+
+id: 1406.3281
+title: Bounding quantum contextuality with lack of third-order intereference
+authors: Joe Henson
+comments: Explanatory comments on proofs, citations and comparisons with other results have been added, and other edits have been made. 5 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1406.3281
+abstract: 
+
+id: 1409.2301
+title: Long-range states in excited ultracold 3He*-4He* dimers
+authors: Daniel G. Cocks, Gillian Peach, Ian B. Whittingham
+comments: 19 pages; revisions to text
+journal: D G Cocks et al (2015) J. Phys. B: At. Mol. Opt. Phys. 48, 115205
+subjects: Atomic and Molecular Clusters (physics.atm-clus); Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1409.2301
+abstract: 
+
+id: 1409.2626
+title: A Statistical Theory of Designed Quantum Transport Across Disordered Networks
+authors: Mattia Walschaers, Roberto Mulet, Thomas Wellens, Andreas Buchleitner
+comments: 23 pages, 8 figures
+journal: Phys. Rev. E 91, 042137 (2015)
+subjects: Quantum Physics (quant-ph); Disordered Systems and Neural Networks (cond-mat.dis-nn); Data Analysis, Statistics and Probability (physics.data-an)
+url: http://arxiv.org/abs/1409.2626
+abstract: 
+
+id: 1411.5111
+title: Heisenberg-limited metrology with information recycling
+authors: Simon A. Haine, Stuart S. Szigeti, Matthias D. Lang, Carlton M. Caves
+comments: 
+journal: Phys. Rev. A 91, 041802(R) (2015)
+subjects: Quantum Physics (quant-ph); Quantum Gases (cond-mat.quant-gas); Optics (physics.optics)
+url: http://arxiv.org/abs/1411.5111
+abstract: 
+
+id: 1411.6608
+title: General security for randomness expansion
+authors: Carl A. Miller, Yaoyun Shi
+comments: v2: Reviewers correctly pointed out that the formal results stated in v1 did not reach the level of generality that we claimed in the abstract. We have toned down the descriptions of our results and made them more precise. Proofs have also been revised and made more explicit. (Formal results remain essentially the same.) 26 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1411.6608
+abstract: 
+
+id: 1412.7733
+title: Enhanced Optomechanical Levitation of Minimally Supported Dielectrics
+authors: Tina M¨¹ller, Christoph Reinhardt, Jack C. Sankey
+comments: 10 pages, 6 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
+url: http://arxiv.org/abs/1412.7733
+abstract: 
+
+id: 1501.03143
+title: Bosons in a two-dimensional bichromatic quasiperiodic potential: Analysis of the disorder in the Bose-Hubbard parameters and phase diagrams
+authors: A. E. Niederle, H. Rieger
+comments: 
+journal: Phys. Rev. A 91, 043632 (2015)
+subjects: Quantum Gases (cond-mat.quant-gas); Disordered Systems and Neural Networks (cond-mat.dis-nn); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1501.03143
+abstract: 
+
+id: 1501.04676
+title: High-Fidelity Single-Shot Toffoli Gate via Quantum Control
+authors: Ehsan Zahedinejad, Joydip Ghosh, Barry C. Sanders
+comments: 6 pages, 3 figures. Accepted for publication in Phys. Rev. Lett
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Physics (physics.comp-ph)
+url: http://arxiv.org/abs/1501.04676
+abstract: 
+
+id: 1501.06182
+title: Sum rules for spin-$1/2$ quantum gases in states with well-defined spins: spin-independent interactions and spin-dependent external fields
+authors: Vladimir A. Yurovsky
+comments: The title and notation of the universal factors are changed
+journal: Phys. Rev. A 91, 053601 (2015)
+subjects: Quantum Gases (cond-mat.quant-gas); Mathematical Physics (math-ph); Atomic Physics (physics.atom-ph); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1501.06182
+abstract: 
+
+id: 1501.07529
+title: Quantum Information splitting using a pair of GHZ states
+authors: Kaushik Nandi, Goutam Paul
+comments: 
+journal: In Quantum Information and Computation, pages 1041--1047, vol. 15, issue 11 & 12, 2015
+subjects: Quantum Physics (quant-ph); Cryptography and Security (cs.CR)
+url: http://arxiv.org/abs/1501.07529
+abstract: 
+
+id: 1503.00031
+title: Manipulating quantum wave packets via time-dependent absorption
+authors: Arseni Goussev
+comments: 10 pages, 5 figures
+journal: Physical Review A 91, 043638 (2015)
+subjects: Quantum Physics (quant-ph); Atomic Physics (physics.atom-ph); Optics (physics.optics)
+url: http://arxiv.org/abs/1503.00031
+abstract: 
+
+id: 1503.00377
+title: Electron scattering and transport in liquid argon
+authors: G. J. Boyle, R. P. McEachran, D. G. Cocks, R. D. White
+comments: 32 pages, 16 figures; minor corrections, added 1 figure
+journal: J. Chem. Phys. 142, 154507 (2015)
+subjects: Chemical Physics (physics.chem-ph); Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1503.00377
+abstract: 
+
+id: 1503.01675
+title: Non-Hermitian Hamiltonian for a Modulated Jaynes-Cummings Model with PT Symmetry
+authors: Fabio Bagarello, Margherita Lattuca, Roberto Passante, Lucia Rizzuto, Salvatore Spagnolo
+comments: 9 pages
+journal: Phys. Rev. A 91, 042134 (2015)
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://arxiv.org/abs/1503.01675
+abstract: 
+
+id: 1503.05811
+title: Spin relaxation and donor-acceptor recombination of Se$^+$ in 28-silicon
+authors: Roberto Lo Nardo, Gary Wolfowicz, Stephanie Simmons, Alexei M. Tyryshkin, Helge Riemann, Nikolai V. Abrosimov, Peter Becker, Hans-Joachim Pohl, Michael Steger, Stephen A. Lyon, Mike L. W. Thewalt, John J. L. Morton
+comments: 
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1503.05811
+abstract: 
+
+id: 1503.07205
+title: The Observer Strikes Back
+authors: James Hartle, Thomas Hertog
+comments: 31 pages, 5 figures, revtex4, to appear in the proceedings of the conference on the Philosophy of Cosmology, Tenerife, Spain, September 2014, small improvements in exposition
+journal: 
+subjects: General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1503.07205
+abstract: 
+
+id: 1504.02073
+title: Electrical Current from Quantum Vacuum Fluctuations in Nano-Engines
+authors: Lo?c Henriet, Andrew N. Jordan, Karyn Le Hur
+comments: 5 pages + Supplemental Material - Extended Discussion on Cavities
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.02073
+abstract: 
+
+id: 1504.05848
+title: Thermal-Light-Induced Coherent Dynamics in Atoms and Molecules -- an Exact Quantum Mechanical Treatment
+authors: David Avisar, Asaf Eilam, A. D. Wilson-Gordon
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.05848
+abstract: 
+
+id: 1504.07373
+title: Hierarchy of Non-Markovianity and $k$-divisibility phase diagram of Quantum Processes in Open Systems
+authors: Hong-Bin Chen, Jiun-Yi Lien, Guang-Yin Chen, Yueh-Nan Chen
+comments: 5 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.07373
+abstract: 
+

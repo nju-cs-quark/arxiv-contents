@@ -1,0 +1,36 @@
+id: 1502.04567
+title: Grover Search with Lackadaisical Quantum Walks
+authors: Thomas G. Wong
+comments: 16 pages, 7 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1502.04567
+abstract: 
+
+id: 1505.01435
+title: An Effective Hamiltonian Approach to Quantum Random Walk
+authors: Debajyoti Sarkar, Niladri Paul, Kaushik Bhattacharya, Tarun Kanti Ghosh
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.01435
+abstract: 
+
+id: 1505.02278
+title: Best-case performance of quantum annealers on native spin-glass benchmarks: How chaos can affect success probabilities
+authors: Zheng Zhu, Andrew J. Ochoa, Stefan Schnabel, Firas Hamze, Helmut G. Katzgraber
+comments: 7 pages, 5 figures. arXiv admin note: text overlap with arXiv:1505.01545
+journal: 
+subjects: Quantum Physics (quant-ph); Disordered Systems and Neural Networks (cond-mat.dis-nn)
+url: http://arxiv.org/abs/1505.02278
+abstract: Recent tests performed on the D-Wave Two quantum annealer have revealed no clear evidence of speedup over conventional silicon-based technologies. Here, we present results from classical parallel-tempering Monte Carlo simulations combined with isoenergetic cluster moves of the archetypal benchmark problem-an Ising spin glass-on the native chip topology. Using realistic uncorrelated noise models for the D-Wave Two quantum annealer, we study the best-case resilience, i.e., the probability that the ground-state configuration is not affected by random fields and random-bond fluctuations found on the chip. We thus compute classical upper-bound success probabilities for different types of disorder used in the benchmarks and predict that an increase in the number of qubits will require either error correction schemes or a drastic reduction of the intrinsic noise found in these devices. We outline strategies to develop robust, as well as hard benchmarks for quantum annealing devices, as well as any other computing paradigm affected by noise.
+
+id: 1505.02622
+title: Experimental Multi-Party Sequential State Discrimination
+authors: M. A. Sol¨ªs-Prosser, P. Gonz¨¢lez, J. Fuenzalida, S. G¨®mez, G. B. Xavier, A. Delgado, G. Lima
+comments: 5 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.02622
+abstract: Recently, a protocol for quantum state discrimination (QSD) in a multi-party scenario has been introduced [Phys. Rev. Lett. 111, 100501 (2013)]. In this protocol, Alice generates a quantum system in one of two pre-defined non-orthogonal qubit states, and the goal is to send the generated state information to different parties without any classical communication between them. The interesting feature is that, by resorting to sequential generalized measurements onto this system, there is a non-vanishing probability that all observers identify the state prepared by Alice. Here, we present the experimental implementation of this protocol based on polarization single-photon states. Our scheme works over a linear optical network, and since QSD lies in the core of many protocols, it represents a step towards experimental multi-party quantum information processing.
+

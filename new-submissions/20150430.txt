@@ -1,0 +1,243 @@
+id: 1504.07628
+title: Weak and Strong Sequential Measurements
+authors: Aharon Brodutch, Eliahu Cohen
+comments: 8 pages, 2 figures; Comments welcome. arXiv admin note: text overlap with arXiv:1409.1575
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.07628
+abstract: Quantum systems usually travel a multitude of different paths when evolving through time from an initial to a final state. In general, the possible paths will depend on the future and past boundary conditions, as well as the system's dynamics. We present a gedankenexperiment where mutually exclusive paths are followed deterministically and simultaneously, by the same system, depending on which measurement was performed. We show how this `paradoxical' behavior is interpreted in the weak measurement formalism where the back action of the measurement cannot be used to account for the strange behavior. To support our predictions we present a method for performing both the strong and weak measurement.
+
+id: 1504.07718
+title: Entanglement-assisted weak measurement
+authors: Shengshi Pang, Todd A. Brun
+comments: 21 pages, 10 figures. This paper extends Phys. Rev. Lett. 113, 030401 (arXiv:1401.5887 [quant-ph]), and takes technical noises into account
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.07718
+abstract: Postselected weak measurement has aroused broad interest for its distinctive ability to amplify small physical quantities. However, the low postselection efficiency to obtain a large weak value has been a big obstacle to its application in practice, since it can waste resources, and reduce the measurement precision. In this paper, we detail the entanglement-assisted postselected weak measurement protocol proposed in [Phys. Rev. Lett. 113, 030401 (2014)], and study its robustness against technical noises. We show that when the systems are properly entangled, postselection can be made dramatically more efficient, and as a consequence, the Fisher information can be increased to approximately saturate the well-known Heisenberg limit. We illustrate this protocol by a qubit example. Readout errors can greatly degrade the performance of postselected weak measurement schemes. We show that entanglement can significantly reduce two main detrimental effects of readout errors: inaccuracy in the measurement result, and loss of the Fisher information. We further compensate for readout errors by a majority vote scheme for postselection. With a proper threshold, almost no Fisher information will be lost. These results demonstrate the effectiveness of entanglement in protecting postselected weak measurement against readout errors.
+
+id: 1504.07734
+title: Symmetry decides simulability of effective interactions
+authors: Zolt¨¢n Zimbor¨¢s, Robert Zeier, T. Schulte-Herbr¨¹ggen, Daniel Burgarth
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.07734
+abstract: What can one do with a given tunable quantum device? We provide complete symmetry criteria deciding whether some effective target interaction(s) can be simulated by a set of given interactions. Symmetries lead to a better understanding of simulation and permit a reasoning beyond the limitations of the usual explicit Lie closure. Conserved quantities induced by symmetries pave the way to a resource theory for simulability. On a general level, one can now decide equality for any pair of compact Lie algebras just given by their generators without determining the algebras explicitly. Several physical examples are illustrated, incl. entanglement invariants, the relation to unitary gate membership problems as well as the central spin model.
+
+id: 1504.07760
+title: Broadband biphotons in a single spatial mode
+authors: K. G. Katamadze, N. A. Borshchevskaya, I. V. Dyakonov, A. V. Paterova, S. P. Kulik
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://arxiv.org/abs/1504.07760
+abstract: We demonastrate experimental technique for generating spatially single-mode broadband biphoton field. The method is based on dispersive optical element which precisely tailors the structure of type-I SPDC frequency angular spectrum in order to shift different spectral components to a single angular mode. Spatial mode filtering is realized by coupling biphotons into a single-mode optical fiber.
+
+id: 1504.07765
+title: Feed-forward control scheme generate Bell states and three-qubit W-type states when qubits passes through decoherence channel
+authors: Satyabrata Adhikari
+comments: 5 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.07765
+abstract: It is known that maximally entangled Bell state and three-qubit W-type states are very useful in various quantum information processing task. Thus the problem of preparation of these type of states is very important in quantum information theory. But the factor which prohibit the generation of the above mentioned pure states shared between two and three distant partners is decoherence. When we send one qubit, from a two qubit state, through decoherence channel like amplitude damping channel, the purity of the qubit is lost and it ends up with a mixed state. Therefore it is very difficult to keep the pure maximally entangled state in a maximally entangled pure state or in an entangled state with high entanglement. In this work we have provided a method by which one can generate experimentally a maximally entangled Bell states shared between distant parties with a non-zero probability when a qubit, from a two qubit general state, passes through decoherence channel. Therefore, despite of the fact that qubit is interacting with the noisy channel, we are able to generate Bell state shared between two distant partners. Further, we have shown that it is possible to generate pure three-qubit W-type states shared between three distant partners using economical quantum cloning machine and weak-measurement based feed-forward control scheme, even though the second and third qubit is interacting with the noisy channel. Lastly, we have shown that the generated three-qubit W-type states can be used in teleporting one of the two non-orthogonal states.
+
+id: 1504.07767
+title: Analysis of Entanglement Measures and LOCC Maximized Quantum Fisher Information of General Two Qubit Systems
+authors: Volkan Erol, Fatih Ozaydin, Azmi Ali Altintas
+comments: 
+journal: Sci. Rep. 4, 5422 (2014)
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.07767
+abstract: Entanglement has been studied extensively for unveiling the mysteries of non-classical correlations between quantum systems. In the bipartite case, there are well known measures for quantifying entanglement such as concurrence, relative entropy of entanglement (REE) and negativity, which cannot be increased via local operations. It was found that for sets of non-maximally entangled states of two qubits, comparing these entanglement measures may lead to different entanglement orderings of the states. On the other hand, although it is not an entanglement measure and not monotonic under local operations, due to its ability of detecting multipartite entanglement, quantum Fisher information (QFI) has recently received an intense attraction generally with entanglement in the focus. In this work, we revisit the state ordering problem of general two qubit states. Generating a thousand random quantum states and performing an optimization based on local general rotations of each qubit, we calculate the maximal QFI for each state. We analyze the maximized QFI in comparison with concurrence, REE and negativity and obtain new state orderings. We show that there are pairs of states having equal maximized QFI but different values for concurrence, REE and negativity and vice versa.
+
+id: 1504.07769
+title: Quantum random number generation for 1.25 GHz quantum key distribution systems
+authors: A. Martin, B. Sanguinetti, C. C. W. Lim, R. Houlmann, H. Zbinden
+comments: 6 pages, 8 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.07769
+abstract: Security proofs of quantum key distribution (QKD) systems usually assume that the users have access to source of perfect randomness. State-of-the-art QKD systems run at frequencies in the GHz range, requiring a sustained GHz rate of generation and acquisition of quantum random numbers. In this paper we demonstrate such a high speed random number generator. The entropy source is based on amplified spontaneous emission from an erbium-doped fibre, which is directly acquired using a standard small form-factor pluggable (SFP) module. The module connects to the Field Programmable Gate Array (FPGA) of a QKD system. A real-time randomness extractor is implemented in the FPGA and achieves a sustained rate of 1.25 Gbps of provably random bits.
+
+id: 1504.07787
+title: Local quantum thermometry
+authors: Antonella De Pasquale, Davide Rossini, Rosario Fazio, Vittorio Giovannetti
+comments: 5 pages, 3 figures; supplemental material (3 pages)
+journal: 
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech)
+url: http://arxiv.org/abs/1504.07787
+abstract: We introduce the local quantum thermal susceptibility (LQTS) functional, which quantifies the best achievable accuracy for the temperature estimation of a composite system via local measurements. In this way we provide an operative strategy to address the local thermal response of arbitrary quantum systems at equilibrium. Our method relies on basic concepts of quantum estimation theory and is irrespective of the structure of thermal states. At low temperatures LQTS is an indicator of the local distinguishability of the ground-state with respect to the excited sub-manifolds, thus providing a powerful method to identify, for example, quantum phase transitions.
+
+id: 1504.07963
+title: Observing the spin of free electrons in action(Stern-Gerlach experiment by free electrons)
+authors: Hosein Majlesi
+comments: 8 Page, 7 figure, Patent:139350140003006698, Tuesday, September 16, 2014
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.07963
+abstract: Stern-Gerlach experiment by free electrons is very important experiment because it answered some questions that remain unanswered for almost a century. Bohr and Pauli considered its objective observation as impossible while some other scientists considered such observation as possible. The experiment on free electrons has not been conducted so far because the high magnetic field gradient predicted there was thought as impossible to generate. This paper proves that it is not only possible but also observable using a high vacuum lamp which is deionized well. To obtain a high magnetic field gradient, it is not necessary to have a very strong magnetic field and it is possible to observe the phenomenon using a very sharp pointed magnet and adjusting the voltage in a certain distance from free electron beams.
+
+id: 1504.07975
+title: Dynamics of two externally driven coupled quantum oscillators interacting with separate baths based on path integrals
+authors: Illarion Dorofeyev
+comments: 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.07975
+abstract: The paper deals with the problem of dynamics of externally driven open quantum systems. Using the path integral methods we found an analytical expression for time-dependent density matrix of two externally driven coupled quantum oscillators interacting with different baths of oscillators. It is shown that at the zeroing of external forces the density matrix becomes identical to the previously obtained one for freely developing coupled oscillators. Mean values of observables are computed by using the Hermitian part of the matrix. All elements of the covariance matrix composed by coordinates and momenta of two driven coupled oscillators are calculated. The time-dependent mean values, dispersions and covariances of coordinates of coupled oscillators at given external forces are numerically studied. It is shown that the larger the coupling constant the larger is the disturbances of the second oscillator due to external action on the first oscillator. Coupled dynamics of forced oscillators at relatively large coupling constant is demonstrated at different thermodynamic conditions.
+
+id: 1504.07732
+title: On squares of representations of compact Lie algebras
+authors: Robert Zeier, Zolt¨¢n Zimbor¨¢s
+comments: 
+journal: 
+subjects: Mathematical Physics (math-ph); Representation Theory (math.RT); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.07732
+abstract: We study how tensor products of representations decompose when restricted from a compact Lie algebra to one of its subalgebras. In particular, we are interested in tensor squares which are tensor products of a representation with itself. We show in a classification-free manner that the sum of multiplicities and the sum of squares of multiplicities in the corresponding decomposition of a tensor square into irreducible representations has to strictly grow when restricted from a compact semisimple Lie algebra to a proper subalgebra. The sum of squares of multiplicities is equal to the dimension of the commutant of the tensor square representation. Hence, our results offer a test to decide if a subalgebra of a compact semisimple Lie algebra is a proper one which uses only linear-algebra computations on sets of generators without calculating the relevant Lie closures. This test can be naturally applied in the field of controlled quantum systems.
+
+id: 1504.07768
+title: Quantum Mechanics, Gravity and Modified Quantization Relations
+authors: Xavier Calmet
+comments: 14 pages
+journal: 
+subjects: High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.07768
+abstract: In this paper we investigate a possible energy scale dependence of the quantization rules and in particular, from a phenomenological point of view, an energy scale dependence of an effective $\hbar$. We set a bound on the deviation from the value of $\hbar$ at the muon scale from its usual value using measurements of the anomalous magnetic moment of the muon. Assuming that inflation took place, we can conclude that nature is described by a quantum theory at least up to an energy scale of about $10^{16}$ GeV.
+
+id: 1504.07798
+title: An infinite-dimensional calculus for generalized connections on hypercubic lattices II: The mass gap
+authors: R. Vilela Mendes
+comments: 12 pages Latex
+journal: 
+subjects: Mathematical Physics (math-ph); High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.07798
+abstract: Using projective limits as subsets of Cartesian products of homomorphisms from a lattice to the structure group, a consistent interaction measure and an infinite-dimensional calculus has been constructed for a theory of non-abelian generalized connections on a hypercubic lattice. Here, results are obtained for the mass gap when the structure group is compact.
+
+id: 1504.07818
+title: Simulating and exploring Weyl semimetal physics with cold atoms in a two-dimensional optical lattice
+authors: Dan-Wei Zhang, Shi-Liang Zhu, Z. D. Wang
+comments: 9 pages, 5 figures
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.07818
+abstract: We propose a scheme to simulate and explore Weyl semimetal physics with ultracold fermionic atoms in a two-dimensional square optical lattice subjected to experimentally realizable spin-orbit coupling and an artificial dimension from an external parameter space, which may increase experimental feasibility compared with the cases in three dimensional optical lattices. It is shown that this system with a tight-binding model is able to describe essentially three-dimensional Weyl semimetals with tunable Weyl points. The relevant topological properties are also addressed by means of the Chern number and the gapless edge states. Furthermore, we illustrate that the mimicked Weyl points can be experimentally detected by measuring the atomic transfer fractions in a Bloch-Zener oscillation, and the characteristic topological invariant can be measured with the particle pumping approach.
+
+id: 1504.07934
+title: Polymer crystals in Rydberg quantum gases with competing attractive and repulsive interactions
+authors: Zhihao Lan, Ji?¨ª Min¨¢?, Emanuele Levi, Weibin Li, Igor Lesanovsky
+comments: 5+2 pages, 3+1 figures, comments are welcome
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Atomic and Molecular Clusters (physics.atm-clus); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.07934
+abstract: We study a quantum spin chain with density-density interactions, whose nearest-neighbor strength can be tuned freely while the long-range tail follows a repulsive (van-der-Waals) power-law. The classical limit of this many-body system with generally non-convex interactions possesses an exact solution. In the case of attractive nearest-neighbor interaction the ground state features two complete devil's staircases of crystals that --- depending on the filling fraction --- are either composed of dimer particles or dimer holes. The staircase structure is controlled by the values of the nearest-neighbor interaction rather than a chemical potential which would be typically the case for convex interactions. The introduction of quantum fluctuations through a transverse field melts the dimer crystalline structures and ultimately makes the system enter a paramagnetic phase. For intermediate transverse field strengths, however, we identify a region, where the density-density correlations suggest the emergence of quasi long-range order. We discuss how the physics of this system can be explored with Rydberg-dressed atoms held in a one-dimensional lattice.
+
+id: 1106.3537
+title: Dynamical entanglement purification using chains of atoms and optical cavities
+authors: Denis Gonta, Peter van Loock
+comments: 13 pages, 6 figures, revised version with incorporated erratum
+journal: Phys. Rev. A 84, 042303 (2011)
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1106.3537
+abstract: 
+
+id: 1312.5931
+title: Peierls substitution for magnetic Bloch bands
+authors: Silvia Freund, Stefan Teufel
+comments: 39 pages, 4 figures. Old Section 7 was removed. The new Section 7 contains explicit Peierls substitution Hamiltonians for magnetic subbands of the Hofstadter model
+journal: 
+subjects: Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1312.5931
+abstract: 
+
+id: 1407.6616
+title: Source coding for a mixed source: determination of second order asymptotics
+authors: Felix Leditzky, Nilanjana Datta
+comments: 38 pages, 1 figure; v2: slight changes in notation; v3: corrected an error in previous version, main result is now a complete (quantum) generalization of classical result
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1407.6616
+abstract: 
+
+id: 1409.5341
+title: Effect of Loss on Multiplexed Single-Photon Sources
+authors: Damien Bonneau, Gabriel J. Mendoza, Jeremy L. O'Brien, Mark G. Thompson
+comments: Journal version
+journal: New J. Phys. 17 (2015) 043057
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1409.5341
+abstract: 
+
+id: 1411.5399
+title: Characterizing multipartite entanglement without shared reference frames
+authors: Claude Kl?ckl, Marcus Huber
+comments: 4 + 6 pages, 1 figure, Comments very welcome!
+journal: Phys. Rev. A 91, 042339 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1411.5399
+abstract: 
+
+id: 1411.6379
+title: Scalable reconstruction of unitary processes and Hamiltonians
+authors: M. Holz?pfel, T. Baumgratz, M. Cramer, M.B. Plenio
+comments: 9+2 pages, 5 figures; v2: close to published version
+journal: Phys. Rev. A 91, 042129 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1411.6379
+abstract: 
+
+id: 1412.3081
+title: Quantum Monte Carlo methods for nuclear physics
+authors: J. Carlson, S. Gandolfi, F. Pederiva, Steven C. Pieper, R. Schiavilla, K.E. Schmidt, R.B. Wiringa
+comments: 57 pages, 40 figures, accepted for publication in Reviews of Modern Physics
+journal: 
+subjects: Nuclear Theory (nucl-th); Solar and Stellar Astrophysics (astro-ph.SR); Quantum Gases (cond-mat.quant-gas); Nuclear Experiment (nucl-ex); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1412.3081
+abstract: 
+
+id: 1502.01706
+title: Strongly Interacting Quantum Gases in One-Dimensional Traps
+authors: Li Yang, Liming Guan, Han Pu
+comments: 14 pages, 7 figures
+journal: Phys. Rev. A 91, 043634 (2015)
+subjects: Quantum Gases (cond-mat.quant-gas); Strongly Correlated Electrons (cond-mat.str-el); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1502.01706
+abstract: 
+
+id: 1504.04777
+title: Weak value amplification and beyond the standard quantum limit in position measurements
+authors: Atsushi Nishizawa
+comments: 12 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.04777
+abstract: 
+
+id: 1504.05617
+title: Generating quadrature squeezed light with dissipative optomechanical coupling
+authors: Kenan Qu, G. S. Agarwal
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://arxiv.org/abs/1504.05617
+abstract: 
+
+id: 1504.07063
+title: On a Quantization of the Classical $¦È$-Functions
+authors: Yurii V. Brezhnev
+comments: 
+journal: SIGMA 11 (2015), 035, 11 pages
+subjects: Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.07063
+abstract: 
+
+id: 1504.07582
+title: Relativistic generalization of the Born rule
+authors: Mohammad Javad Kazemi, Mohammad Hosein Barati, Yahya Rokni, Jafar Khodagholizadeh
+comments: 9 pages,2 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.07582
+abstract: 
+

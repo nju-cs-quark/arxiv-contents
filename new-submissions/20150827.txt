@@ -1,0 +1,342 @@
+id: 1508.06299
+title: The Flux Qubit Revisited
+authors: F. Yan, S. Gustavsson, A. Kamal, J. Birenbaum, A.P. Sears, D. Hover, T.J. Gudmundsen, J.L. Yoder, T.P. Orlando, J. Clarke, A.J. Kerman, W.D. Oliver
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.06299
+abstract: The scalable application of quantum information science will stand on reproducible and controllable high-coherence quantum bits (qubits). In this work, we revisit the design and fabrication of the superconducting flux qubit, achieving a planar device with broad frequency tunability, strong anharmonicity, high reproducibility, and coherence times in excess of 40 us at its flux-insensitive point. Qubit relaxation times across 21 qubits of widely varying designs are consistently matched with a single model involving ohmic charge noise, quasiparticle fluctuations, resonator loss, and 1/f flux noise, a noise source previously considered primarily in the context of dephasing. We furthermore demonstrate that qubit dephasing at the flux-insensitive point is dominated by residual thermal photons in the readout resonator. The resulting photon shot noise is mitigated using a dynamical decoupling protocol, reaching T2 ~ 80 us , approximately the 2T1 limit. In addition to realizing a dramatically improved flux qubit, our results uniquely identify photon shot noise as limiting T2 in contemporary state-of-art qubits based on transverse qubit-resonator interaction.
+
+id: 1508.06304
+title: Weak values are quantum: you can bet on it
+authors: Alessandro Romito, Andrew N. Jordan, Yakir Aharonov, Yuval Gefen
+comments: 6 pages, 1 figure
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
+url: http://arxiv.org/abs/1508.06304
+abstract: The outcome of a weak quantum measurement conditioned to a subsequent postselection (a weak value protocol) can assume peculiar values. These results cannot be explained in terms of conditional probabilistic outcomes of projective measurements. However, a classical model has been recently put forward that can reproduce peculiar expectation values, reminiscent of weak values. This led the authors of that work to claim that weak values have an entirely classical explanation. Here we discuss what is quantum about weak values with the help of a simple model based on basic quantum mechanics. We first demonstrate how a classical theory can indeed give rise to non-trivial conditional values, and explain what features of weak values are genuinely quantum. We finally use our model to outline some main issues under current research.
+
+id: 1508.06312
+title: Characterizing Universal Gate Sets via Dihedral Benchmarking
+authors: Arnaud C. Dugas, Joel Wallman, Joseph Emerson
+comments: 4 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.06312
+abstract: We describe a practical experimental protocol for robustly characterizing the error rates of non-Clifford gates associated with dihedral groups, including gates in SU(2) associated with arbitrarily small angle rotations. Our dihedral benchmarking protocol is a generalization of randomized benchmarking that relaxes the usual unitary 2-design condition. Combining this protocol with existing randomized benchmarking schemes enables an efficient means of characterizing universal gate sets for quantum information processing in a way that is independent of state-preparation and measurement errors. In particular, our protocol enables direct benchmarking of the $T$ gate (sometime called $\pi/8$-gate) even for the gate-dependent error model that is expected in leading approaches to fault-tolerant quantum computation.
+
+id: 1508.06317
+title: Chained Clauser-Horne-Shimony-Holt inequality for Hardy's ladder test of nonlocality
+authors: Jos¨¦ L. Cereceda
+comments: 12 pages, 1 figure
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.06317
+abstract: Relativistic causality forbids superluminal signaling between distant observers. By exploiting the non-signaling principle, we derive the exact relationship between the chained Clauser-Horne-Shimony-Holt sum of correlations CHSH_K and the success probability P_K associated with Hardy's ladder test of nonlocality for two qubits and K+1 observables per qubit. Then, by invoking the Tsirelson bound for CHSH_K, the derived relationship allows us to establish an upper limit on P_K. In addition, we draw the connection between CHSH_K and the chained version of the Clauser-Horne (CH) inequality.
+
+id: 1508.06340
+title: Linear time algorithm for quantum 2SAT
+authors: Itai Arad, Miklos Santha, Aarthi Sundaram, Shengyu Zhang
+comments: 20 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC)
+url: http://arxiv.org/abs/1508.06340
+abstract: A canonical result about satisfiability theory is that the 2-SAT problem can be solved in linear time, despite the NP-hardness of the 3-SAT problem. In the quantum 2-SAT problem, we are given a family of 2-qubit projectors $\Pi_{ij}$ on a system of $n$ qubits, and the task is to decide whether the Hamiltonian $H=\sum \Pi_{ij}$ has a 0-eigenvalue, or it is larger than $1/n^\alpha$ for some $\alpha=O(1)$. The problem is not only a natural extension of the classical 2-SAT problem to the quantum case, but is also equivalent to the problem of finding the ground state of 2-local frustration-free Hamiltonians of spin $\frac{1}{2}$, a well-studied model believed to capture certain key properties in modern condensed matter physics. While Bravyi has shown that the quantum 2-SAT problem has a classical polynomial-time algorithm, the running time of his algorithm is $O(n^4)$. In this paper we give a classical algorithm with linear running time in the number of local projectors, therefore achieving the best possible complexity.
+
+id: 1508.06383
+title: Decoherence of Einstein-Podolsky-Rosen steering
+authors: L. Rosales-Z¨¢rate, R. Y. Teh, S. Kiesewetter, A. Brolis, K. Ng, M. D. Reid
+comments: 
+journal: J. Opt. Soc. Am. B 32, A82 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.06383
+abstract: We consider two systems A and B that share Einstein-Podolsky-Rosen (EPR) steering correlations and study how these correlations will decay, when each of the systems are independently coupled to a reservoir. EPR steering is a directional form of entanglement, and the measure of steering can change depending on whether the system A is steered by B, or vice versa. First, we examine the decay of the steering correlations of the two-mode squeezed state. We find that if the system B is coupled to a reservoir, then the decoherence of the steering of A by B is particularly marked, to the extent that there is a sudden death of steering after a finite time. We find a different directional effect, if the reservoirs are thermally excited. Second, we study the decoherence of the steering of a Schr\"odinger cat state, modeled as the entangled state of a spin and harmonic oscillator, when the macroscopic system (the cat) is coupled to a reservoir.
+
+id: 1508.06396
+title: Randomness determines practical security of BB84 quantum key distribution
+authors: Hong-Wei Li, Zhen-Qiang Yin, Shuang Wang, Yong-Jun Qian, Wei Chen, Guang-Can Guo, Zheng-Fu Han
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.06396
+abstract: Unconditional security of the BB84 quantum key distribution protocol has been proved by exploiting the fundamental laws of quantum mechanics, but the practical system maybe hacked by considering the imperfect state preparation and measurement respectively. Until now, different attacking schemes have been proposed by utilizing practical imperfect devices, but the general security analysis model against all of the practical attacking schemes has not been proved. Here, we demonstrate that the general practical attacking schemes can be divided into the Trojan horse attack, strong randomness attack and weak randomness attack respectively. We give the general security analysis against the randomness attacking schemes, which can be applied to guarantee security of the practical quantum key distribution system under the eavesdropping environment.
+
+id: 1508.06428
+title: Continuous monitoring and the introduction of a classical level in Quantum Theory
+authors: G. M. Prosperi
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.06428
+abstract: In ordinary Quantum Mechanics only ideally instantaneous observations of a quantity or a set of compatible quantities are usually considered. In an old paper of our group in Milano a formalism was introduced for the continuous monitoring of a system during a certain interval of time in the framework of a somewhat generalized approach to Q. M. The outcome was a distribution of probability on the space of all the possible continuous histories of a set of quantities to be considered as a kind of coarse grained approximation to some ordinary quantum observables commuting or not. The main aim was the introduction of a classical level in the context of Quantum Mechanics, treating formally a set of basic quantities {\it to be considered as beables} in the sense of Bell as continuously taken under observation. However the effect of such assumption was a permanent modification of the Liouville-von Neumann equation for the statistical operator by the introduction of a dissipative term which is in conflict with basic conservation rules in all reasonable models we had considered. Difficulties were even encountered for a relativistic extension of the formalism. In this paper I propose a modified version of the original formalism which seems to overcome both difficulties. First I study the simple models of an harmonic oscillator and a free scalar field in which a coarse grain position and a coarse grained field respectively are treated as beables. Then I consider the more realistic case of Spinor Electrodynamics in which only certain coarse grained electric and magnetic fields and no matter related quantities are introduced as classical variables.
+
+id: 1508.06436
+title: Rotating-frame relaxation as a noise spectrum analyzer of a superconducting qubit undergoing driven evolution
+authors: F. Yan, S. Gustavsson, J. Bylander, X. Jin, F. Yoshihara, D. G. Cory, Y. Nakamura, T. P. Orlando, W. D. Oliver
+comments: 
+journal: Nature Communications 4, 2337 (2013)
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.06436
+abstract: Gate operations in a quantum information processor are generally realized by tailoring specific periods of free and driven evolution of a quantum system. Unwanted environmental noise, which may in principle be distinct during these two periods, acts to decohere the system and increase the gate error rate. While there has been significant progress characterizing noise processes during free evolution, the corresponding driven-evolution case is more challenging as the noise being probed is also extant during the characterization protocol. Here we demonstrate the noise spectroscopy (0.1 - 200 MHz) of a superconducting flux qubit during driven evolution by using a robust spin-locking pulse sequence to measure relaxation (T1rho) in the rotating frame. In the case of flux noise, we resolve spectral features due to coherent fluctuators, and further identify a signature of the 1MHz defect in a time-domain spin-echo experiment. The driven-evolution noise spectroscopy complements free-evolution methods, enabling the means to characterize and distinguish various noise processes relevant for universal quantum control.
+
+id: 1508.06461
+title: An artificial Rb atom in a semiconductor with lifetime-limited linewidth
+authors: Jan-Philipp Jahn, Mathieu Munsch, Lucas B¨¦guin, Andreas V. Kuhlmann, Martina Renggli, Yongheng Huo, Fei Ding, Rinaldo Trotta, Marcus Reindl, Oliver G. Schmidt, Armando Rastelli, Philipp Treutlein, Richard J. Warburton
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
+url: http://arxiv.org/abs/1508.06461
+abstract: We report results important for the creation of a best-of-both-worlds quantum hybrid system consisting of a solid-state source of single photons and an atomic ensemble as quantum memory. We generate single photons from a GaAs quantum dot (QD) frequency-matched to the Rb D2-transitions and then use the Rb transitions to analyze spectrally the quantum dot photons. We demonstrate lifetime-limited QD linewidths (1.48 GHz) with both resonant and non-resonant excitation. The QD resonance fluorescence in the low power regime is dominated by Rayleigh scattering, a route to match quantum dot and Rb atom linewidths and to shape the temporal wave packet of the QD photons. Noise in the solid-state environment is relatively benign: there is a blinking of the resonance fluorescence at MHz rates but negligible upper state dephasing of the QD transition. We therefore establish a close-to-ideal solid-state source of single photons at a key wavelength for quantum technologies.
+
+id: 1508.06462
+title: Einstein-Podolsky-Rosen - entangled motion of two massive objects
+authors: Roman Schnabel
+comments: 
+journal: Phys. Rev. A 92, 012126 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.06462
+abstract: In 1935, Einstein, Podolsky and Rosen (EPR) considered two particles in an entangled state of motion to illustrate why they questioned the completeness of quantum theory. In the past decades, microscopic systems with entanglement in various degrees of freedom have successfully been generated, representing compelling evidence to support the completeness of quantum theory. Today, the generation of an EPR-entangled state of motion of two massive objects of up to the kilogram-scale seems feasible with state-of-the-art technology. Recently, the generation and verification of EPR-entangled mirror motion in interferometric gravitational wave detectors was proposed, with the aim of testing quantum theory in the regime of macroscopic objects, and to make available nonclassical probe systems for future tests of modified quantum theories that include (non-relativistic) gravity. The work presented here builds on these earlier results and proposes a specific Michelson interferometer that includes two high-quality laser mirrors of about 0.1 kg mass each. The mirrors are individually suspended as pendula and located close to each other, and cooled to about 4 K. The physical concepts for the generation of the EPR-entangled centre of mass motion of these two mirrors are described. Apart from a test of quantum mechanics in the macroscopic world, the setup is envisioned to test predictions of yet-to-be-elaborated modified quantum theories that include gravitational effects.
+
+id: 1508.06471
+title: Exploring Interacting Quantum Many-Body Systems by Experimentally Creating Continuous Matrix Product States in Superconducting Circuits
+authors: C. Eichler, J. Mlynek, J. Butscher, P. Kurpiers, K. Hammerer, T. J. Osborne, A. Wallraff
+comments: 11 pages, 9 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Quantum Gases (cond-mat.quant-gas)
+url: http://arxiv.org/abs/1508.06471
+abstract: Improving the understanding of strongly correlated quantum many body systems such as gases of interacting atoms or electrons is one of the most important challenges in modern condensed matter physics, materials research and chemistry. Enormous progress has been made in the past decades in developing both classical and quantum approaches to calculate, simulate and experimentally probe the properties of such systems. In this work we use a combination of classical and quantum methods to experimentally explore the properties of an interacting quantum gas by creating experimental realizations of continuous matrix product states - a class of states which has proven extremely powerful as a variational ansatz for numerical simulations. By systematically preparing and probing these states using a circuit quantum electrodynamics (cQED) system we experimentally determine a good approximation to the ground-state wave function of the Lieb-Liniger Hamiltonian, which describes an interacting Bose gas in one dimension. Since the simulated Hamiltonian is encoded in the measurement observable rather than the controlled quantum system, this approach has the potential to apply to exotic models involving multicomponent interacting fields. Our findings also hint at the possibility of experimentally exploring general properties of matrix product states and entanglement theory. The scheme presented here is applicable to a broad range of systems exploiting strong and tunable light-matter interactions.
+
+id: 1508.06474
+title: The Degree of Quantum Correlation Required to Speed-Up a Computation
+authors: Alastair Kay
+comments: 7 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.06474
+abstract: The one clean qubit model of quantum computation (DQC1) efficiently implements a computational task that is not known to have a classical alternative. During the computation, there is never more than a small but finite amount of entanglement present, and it is typically vanishingly small in the system size. In this paper, we demonstrate that there is nothing unexpected hidden within the DQC1 model -- Grover's Search, when acting on a mixed state, provably exhibits a speed-up over classical with guarantees as to the presence of only vanishingly small amounts of quantum correlations (entanglement and quantum discord) -- while arguing that this is not an artefact of the oracle-based construction. We also present some important refinements in the evaluation of how much entanglement may be present in DQC1, and how the typical entanglement of the system must be evaluated.
+
+id: 1508.06495
+title: The interplay between cycle geometry and performance of sudden refrigerators
+authors: Tova Feldmann, Ronnie Kosloff
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech)
+url: http://arxiv.org/abs/1508.06495
+abstract: The relation between the geometry of refrigeration cycles and their performance is explored. The model studied is based on a coupled spin system. Small cycle times termed sudden refrigerators, develop coherence and inner friction. We explore the interplay between coherence and energy of the working medium employing a family of sudden cycles with decreasing cycle times. At the point of minimum ratio between energy and coherence the cycle changes geometry. This region of cycle times is characterised by short circuit cycles where heat is dissipated both to the hot and cold baths. We rationalise the cycle change of geometry as a result of a half integer quantisation which maximises coherence. From this point on, increasing or decreasing the cycle time, eventually leads to refrigeration cycles. The transition point between refrigerators and short circuit cycles is characterised by a transition from ?finite to singular dynamical temperature. Extremely short cycle times reach a universal limit where all cycles types are equivalent.
+
+id: 1508.06508
+title: Phase diagram of one-, two-, and three-dimensional quantum spin systems derived from entanglement properties
+authors: B. Braiorr-Orrs, M. Weyrauch, M. V. Rakov
+comments: 13 pages, 10 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Strongly Correlated Electrons (cond-mat.str-el)
+url: http://arxiv.org/abs/1508.06508
+abstract: We study the bipartite entanglement per bond to determine characteristic features of the phase diagram of various quantum spin models in different spatial dimensions. The bipartite entanglement is obtained from a tensor network representation of the ground state wave-function. Three spin-1/2 models (Ising, XY, XXZ, all in a transverse field) are investigated. Imaginary-time evolution (TEBD in 1D, `simple update' in 2D and 3D) is used to determine the ground states of these models. The phase structure of the models is discussed for all three dimensions.
+
+id: 1508.06509
+title: Observation of Floquet states in a strongly driven artificial atom
+authors: Chunqing Deng, Jean-Luc Orgiazzi, Feiruo Shen, Sahel Ashhab, Adrian Lupascu
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Atomic Physics (physics.atom-ph)
+url: http://arxiv.org/abs/1508.06509
+abstract: We present experiments on the driven dynamics of a two-level superconducting artificial atom. The driving strength reaches 4.78 GHz, significantly exceeding the transition frequency of 2.288 GHz. The observed dynamics is described in terms of quasienergies and quasienergy states, in agreement with Floquet theory. In addition, we observe the role of pulse shaping in the dynamics, as determined by non-adiabatic transitions between Floquet states, and we implement subnanosecond single-qubit operations. These results pave the way to quantum control using strong driving with applications in quantum technologies.
+
+id: 1508.06518
+title: Aspects of integrability in a classical model for non-interacting fermionic fields
+authors: Simon Grosse-Holz, Thomas Engl, Klaus Richter, Juan Diego Urbina
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Chaotic Dynamics (nlin.CD); Atomic Physics (physics.atom-ph)
+url: http://arxiv.org/abs/1508.06518
+abstract: In this work we investigate the issue of integrability in a classical model for noninteracting fermionic fields. This model is constructed via classical-quantum correspondence obtained from the semiclassical treatment of the quantum system. Our main finding is that the classical system, contrary to the quantum system, is not integrablein general. Regarding this contrast it is clear that in general classical models for fermionic quantum systems have to be handled with care. Further numerical investigation of the system showed that there may be islands of stability in the phase space. We also investigated a similar model that is used in theoretical chemistry and found this one to be most probably integrable, although also here the integrability is not assured by the quantum-classical correspondence principle.
+
+id: 1508.06519
+title: Efficiency bounds for quantum engines powered by non-thermal baths
+authors: Wolfgang Niedenzu, David Gelbwaser-Klimovsky, Abraham G. Kofman, Gershon Kurizki
+comments: 7 pages, 6 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.06519
+abstract: We analyse the operation principles and performance bounds of quantum engines whose working fluid (WF) is energised by a non-thermal bath. We show that such a bath (e.g., a squeezed or coherently displaced thermal bath) can render the WF state non-passive, i.e., capable of storing and delivering work. This non-passivity converts the heat engine into a thermo-mechanical machine that is powered by mechanical work, as well as heat, from the non-thermal bath. Its efficiency is unrestricted by the Carnot bound, which only applies to heat engines. By contrast, for certain WF--bath interactions and non-thermal bath states the WF thermalises. The machine then operates as a heat engine, but its Carnot bound may correspond to a higher temperature than its thermal-bath counterpart.
+
+id: 1508.06588
+title: A Fabry-Perot Microcavity for Diamond-Based Photonics
+authors: Erika Janitz, Maximilian Ruf, Mark Dimock, Alexandre Bourassa, Jack Sankey, Lilian Childress
+comments: 12 pages, 7 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://arxiv.org/abs/1508.06588
+abstract: Open Fabry-Perot microcavities represent a promising route for achieving a quantum electrodynamics (cavity-QED) platform with diamond-based emitters. In particular, they offer the opportunity to introduce high purity, minimally fabricated material into a tunable, high quality factor optical resonator. Here, we demonstrate a fiber-based microcavity incorporating a thick (> 10 {\mu}m) diamond membrane with a finesse of 17,000, corresponding to a quality factor Q ~ $10^6$. Such minimally fabricated, thick samples can contain optically stable emitters similar to those found in bulk diamond. We observe modified microcavity spectra in the presence of the membrane, and develop analytic and numerical models to describe the effect of the membrane on cavity modes, including loss and coupling to higher-order transverse modes. We estimate that a Purcell enhancement of approximately 20 should be possible for emitters within the diamond in this device, and provide evidence that better diamond surface treatments and mirror coatings could increase this value to 200 in a realistic system.
+
+id: 1508.06606
+title: Thermodynamics and dynamics of atomic selforganization in an optical cavity
+authors: Stefan Sch¨¹tz, Simon B. J?ger, Giovanna Morigi
+comments: 21 pages, 15 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.06606
+abstract: Pattern formation of atoms in high-finesse optical resonators results from the mechanical forces of light associated with superradiant scattering into the cavity mode. It occurs when the laser intensity exceeds a threshold value, such that the pumping processes counteract the losses. We consider atoms driven by a laser and coupling with a mode of a standing-wave cavity and describe their dynamics with a Fokker-Planck equation, in which the atomic motion is semiclassical but the cavity field is a full quantum variable. The asymptotic state of the atoms is a thermal state, whose temperature is solely controlled by the detuning between the laser and the cavity frequency and by the cavity loss rate. From this result we derive the free energy and show that in the thermodynamic limit selforganization is a second-order phase transition. The order parameter is the field inside the resonator, to which one can associate a magnetization in analogy to ferromagnetism, the control field is the laser intensity, however the steady state is intrinsically out-of-equilibrium. In the symmetry-broken phase quantum noise induces jumps of the spatial density between two ordered patterns: We characterize the statistical properties of this temporal behaviour at steady state and show that the thermodynamic properties of the system can be extracted by detecting the light at the cavity output. The results of our analysis are in full agreement with previous studies, extend them by deriving a self-consistent theory which is valid also when the cavity field is in the shot-noise limit, and elucidate the nature of the selforganization transition.
+
+id: 1508.06624
+title: Discriminating quantum states: the multiple Chernoff distance
+authors: Ke Li
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Information Theory (cs.IT); Mathematical Physics (math-ph); Statistics Theory (math.ST)
+url: http://arxiv.org/abs/1508.06624
+abstract: We consider the problem of testing multiple quantum hypotheses $\{\rho_1^{\otimes n},\ldots,\rho_r^{\otimes n}\}$, where an arbitrary prior distribution is given and each of the $r$ hypotheses is $n$ copies of a quantum state. It is known that the average error probability $P_e$ decays exponentially to zero, that is, $P_e\thicksim\exp(-\xi n)$. However, this error exponent $\xi$ is generally unknown, except for the case that $r=2$. In this paper, we solve the long-standing open problem of identifying the above error exponent, by proving Nussbaum and Szko\l a's conjecture that $\xi=\min_{i\neq j}C(\rho_i,\rho_j)$. The right-hand side of this equality is called the multiple quantum Chernoff distance, and $C(\rho_i,\rho_j):=\max_{0\leq s\leq 1}\{-\log\operatorname{Tr}\rho_i^s\rho_j^{1-s}\}$ has been previously identified as the optimal error exponent for testing two hypotheses, $\rho_i^{\otimes n}$ versus $\rho_j^{\otimes n}$. The main ingredient of our proof is a new upper bound for the average error probability, for testing an ensemble of finite-dimensional, but otherwise general, quantum states. This upper bound, up to a states-dependent factor, matches the multiple-state generalization of Nussbaum and Szko\l a's lower bound. Specialized to the case $r=2$, we give an alternative proof to the achievability of the binary-hypothesis Chernoff distance, which was originally proved by Audenaert et al.
+
+id: 1410.3318
+title: From Lattice Gauge Theories to Hydrogen Atoms
+authors: Manu Mathur, T. P. Sreeraj
+comments: 8 pages, 5 figures. minor typos corrected, minor changes in abstract
+journal: Physics Letters B 749 (2015) 137-143
+subjects: High Energy Physics - Lattice (hep-lat); Strongly Correlated Electrons (cond-mat.str-el); High Energy Physics - Theory (hep-th); Atomic Physics (physics.atom-ph); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1410.3318
+abstract: We construct canonical transformations to obtain a complete and most economical realization of the physical Hilbert space ${\cal H}^p$ of pure $SU(2)_{2+1}$ lattice gauge theory in terms of Wigner coupled Hilbert spaces of hydrogen atoms. One hydrogen atom is assigned to every plaquette of the lattice. A complete orthonormal description of the Wilson loop basis in ${\cal H}^p$ is obtained by all possible angular momentum Wigner couplings of hydrogen atom energy eigenstates $\vert n~l~m\rangle$ describing electric fluxes on the loops. The SU(2) gauge invariance implies that the total angular momenta of all hydrogen atoms vanish. The canonical transformations also enable us to rewrite the Kogut-Susskind Hamiltonian in terms of fundamental Wilson loop operators and their conjugate electric fields. The resulting loop Hamiltonian has a global SU(2) invariance and a simple weak coupling ($g^2\rightarrow 0$) continuum limit. The canonical transformations leading to the loop Hamiltonian are valid for any SU(N). The ideas and techniques can also be extended to higher dimension.
+
+id: 1508.05954
+title: An exactly solvable quantum four-body problem associated with the symmetries of an octacube
+authors: Maxim Olshanii, Steven G. Jackson
+comments: 6 pages, 3 figures
+journal: 
+subjects: Mathematical Physics (math-ph); Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.05954
+abstract: In this article, we show that eigenenergies and eigenstates of a system consisting of four one-dimensional hard-core particles with masses $6m$, $2m$, $m$, and $3m$ in a hard-wall box can be found exactly using Bethe Ansatz. The Ansatz is based on the exceptional affine reflection group $\tilde{F}_{4}$ associated with the symmetries and tiling properties of an octacube---a Platonic solid unique to four dimensions, with no three-dimensional analogues. We also uncover the Liouville integrability structure of our problem: the four integrals of motion in involution are identified as invariant polynomials of the finite reflection group $F_{4}$, taken as functions of the components of momenta.
+
+id: 1508.06322
+title: Observable Zitterbewegung and Expanding Spacetime
+authors: Archil Kobakhidze, Adrian Manning, Anca Tureanu
+comments: 12 pages
+journal: 
+subjects: High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.06322
+abstract: Zitterbewegung, as it was originally described by Schr\"odinger, is an unphysical, non-observable effect. We verify whether the effect can be observed in non-inertial reference frames/curved spacetimes, where the ambiguity in defining particle states results in a mixing of positive and negative frequency modes. We explicitly demonstrate that such a mixing is in fact necessary to obtain the correct classical value for a particle's velocity in a uniformly accelerated reference frame, whereas in cosmological spacetime a particle does indeed exhibit Zitterbewegung.
+
+id: 1508.06534
+title: Toroidal nano-traps for cold polar molecules
+authors: Marouane Salhi, Ali Passian, George Siopsis
+comments: 11 pages, 8 figures
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.06534
+abstract: Electronic excitations in metallic nanoparticles in the optical regime that have been of great importance in surface enhanced spectroscopy and emerging applications of molecular plasmonics, due to control and confinement of electromagnetic energy, may also be of potential to control the motion of nanoparticles and molecules. Here, we propose a concept for trapping polarizable particles and molecules using toroidal metallic nanoparticles. Specifically, gold nanorings are investigated for their scattering properties and field distribution to computationally show that the response of these optically resonant particles to incident photons permit the formation of a nanoscale trap when proper aspect ratio, photon wavelength and polarization are considered. However, interestingly the resonant plasmonic response of the nanoring is shown to be detrimental to the trap formation. The results are in good agreement with analytic calculations in the quasi-static limit within the first-order perturbation of the scalar electric potential. The possibility of extending the single nanoring trapping properties to two-dimensional arrays of nanorings is suggested by obtaining the field distribution of nanoring dimers and trimers.
+
+id: 1508.06553
+title: Stereochemical properties of the OH molecule in combined electric and magnetic fields: analytic results
+authors: S. Marin, M. Bhattacharya
+comments: 8 pages, 9 figures
+journal: 
+subjects: Atomic Physics (physics.atom-ph); Chemical Physics (physics.chem-ph); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.06553
+abstract: The stereochemical properties of the ultracold ground state OH molecule in the presence of electric and magnetic fields are currently of considerable interest. For example, relevant quantities such as molecular alignment and orientation, calculated numerically by using large basis sets, have lately appeared in the literature. In this work, based on our recent exact solution to an effective eight-dimensional matrix Hamiltonian for the molecular ground state, we present analytic expressions for the stereochemical properties of OH. Our results require the solution of algebraic equations only, agree well with the aforementioned fully numerical calculations, provide compact expressions for simple field geometries, allow ready access to relatively unexplored parameter space, and yield straightforwardly higher moments of the molecular axis distribution.
+
+id: 1406.0528
+title: Dynamics of a system of two coupled qubits interacting with a thermal bath: A comparative study using different models for the system-bath interaction
+authors: G.L. De?ordi, A. Vidiella-Barranco
+comments: Text re-organized; minor corrections; reference added
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1406.0528
+abstract: 
+
+id: 1408.1816
+title: Quantum pattern matching fast on average
+authors: Ashley Montanaro
+comments: 22 pages, 2 figures; v3: further minor changes, essentially published version
+journal: 
+subjects: Quantum Physics (quant-ph); Data Structures and Algorithms (cs.DS)
+url: http://arxiv.org/abs/1408.1816
+abstract: 
+
+id: 1409.2929
+title: T-shaped Single-photon Router
+authors: Jing Lu, Z. H. Wang, Lan Zhou
+comments: 8 pages, 3 figures
+journal: Optics Express 2015 Vol. 23, No. 18, Page 22955
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1409.2929
+abstract: 
+
+id: 1410.6317
+title: Quantum correlations of two qubits interacting with a macroscopic medium
+authors: Yan Liu, Jing Lu, Lan Zhou
+comments: 8 pages, 7 figures
+journal: Quantum Inf Process, 2015 Vol. 14, Page 1343
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1410.6317
+abstract: 
+
+id: 1412.2521
+title: Classical and quantum linearized descriptions of degenerate optomechanical parametric oscillators
+authors: Sebastian Pina-Otey, Fernando Jim¨¦nez, Peter Degenfeld-Schonburg, Carlos Navarrete-Benlloch
+comments: New version including the quantum linearized description of the system. We welcome comments and suggestions
+journal: 
+subjects: Quantum Physics (quant-ph); Chaotic Dynamics (nlin.CD)
+url: http://arxiv.org/abs/1412.2521
+abstract: 
+
+id: 1412.3581
+title: On the Landau system in noncommutative phase-space
+authors: Sunandan Gangopadhyay, Anirban Saha, Aslam Halder
+comments: section added, abstract rewritten, references added, to appear in Physics Letters A
+journal: 
+subjects: High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1412.3581
+abstract: 
+
+id: 1412.7279
+title: Symplectic Noise & The Classical Analog of the Lindblad Generator
+authors: John Gough
+comments: 14 pages, no figures - (typos corrected - factor of \mathsf{s} restored)
+journal: Journal of Statistical Physics 1 2015 :1303
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://arxiv.org/abs/1412.7279
+abstract: 
+
+id: 1504.00301
+title: Measurement of the Angular Dependence of the Dipole-Dipole Interaction Between Two Individual Rydberg Atoms at a F?rster Resonance
+authors: Sylvain Ravets, Henning Labuhn, Daniel Barredo, Thierry Lahaye, Antoine Browaeys
+comments: 5 pages, 4 figures
+journal: Phys. Rev. A 92, 020701(R) (2015)
+subjects: Atomic Physics (physics.atom-ph); Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.00301
+abstract: 
+
+id: 1504.04215
+title: Quantum Time
+authors: Vittorio Giovannetti, Seth Lloyd, Lorenzo Maccone
+comments: Final version accepted for publication on Phys. Rev. D
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.04215
+abstract: 
+
+id: 1505.06774
+title: Strong coupling between a trapped single atom and an all-fiber cavity
+authors: Shinya Kato, Takao Aoki
+comments: 
+journal: Phys. Rev. Lett. 115, 093603 (2015)
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://arxiv.org/abs/1505.06774
+abstract: 
+
+id: 1506.00613
+title: Thermal radiation, radiation force and dynamics of a polarizable particle
+authors: G.V. Dedkov, A.A. Kyasov
+comments: 10 pages, 1 figure, submitted to Int. J. Mod. Phys
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1506.00613
+abstract: 
+
+id: 1507.00240
+title: On the Composition of Two-Prover Commitments, and Applications to Multi-Round Relativistic Commitments
+authors: Serge Fehr, Max Fillinger
+comments: Accepted at QCRYPT 2015. In an independent and concurrent work (this http URL), Chakraborty, Chailloux, and Leverrier prove a similar bound on the Lunghi et al. scheme; their approach is more direct but applies less generally. New in this version: Fixed minor flaw in the proof of Theorem 3.7; small change in terminology
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1507.00240
+abstract: 
+

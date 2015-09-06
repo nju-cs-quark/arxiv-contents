@@ -1,0 +1,315 @@
+id: 1504.03703
+title: Long-distance entanglement distribution using individual atoms in optical cavities
+authors: Johannes Borregaard, Peter K¨®m¨¢r, Eric M. Kessler, Mikhail D. Lukin, Anders S. S?rensen
+comments: 15 pages, 13 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.03703
+abstract: Individual atoms in optical cavities can provide an efficient interface between stationary qubits and flying qubits (photons), which is an essentiel building block for quantum communication. Furthermore, cavity assisted controlled-not (CNOT) gates can be used for swapping entanglement to long distances in a quantum repeater setup. Nonetheless, dissipation introduced by the cavity during the CNOT may increase the experimental difficulty in obtaining long-distance entanglement distribution using these systems. We analyse and compare a number of cavity-based repeater schemes combining various entanglement generation schemes and cavity assisted CNOT gates. We find that a scheme, where high-fidelity entanglement is first generated in a two-photon detection scheme and then swapped to long distances using a recently proposed heralded CZ-gate exhibits superior performance compared to the other schemes. The heralded gate moves the effect of dissipation from the fidelity to the success probability of the gate thereby enabling high-fidelity entanglement swapping. As a result, high-rate entanglement distribution can be achieved over long distances even for low cooperativities of the atom-cavity systems. This high-fidelity repeater is shown to outperform the other cavity-based schemes by up to two orders of magnitude in the rate for realistic parameters and large distances (1000 km).
+
+id: 1504.03740
+title: Pricing postselection: the cost of indecision in decision theory
+authors: Joshua Combes, Christopher Ferrie
+comments: 9 pages, 9 figures and one coffee stain
+journal: 
+subjects: Quantum Physics (quant-ph); Data Analysis, Statistics and Probability (physics.data-an)
+url: http://arxiv.org/abs/1504.03740
+abstract: Postselection is the process of discarding outcomes from statistical trials that are not the event one desires. Postselection can be useful in many applications where the cost of getting the wrong event is implicitly high. However, unless this cost is specified exactly, one might conclude that discarding all data is optimal. Here we analyze the optimal decision rules and quantum measurements in a decision theoretic setting where a pre-specified cost is assigned to discarding data. We also relate our formulation to previous approaches which focus on minimizing the probability of indecision.
+
+id: 1504.03772
+title: Continuous decomposition of quantum measurements via Hamiltonian feedback
+authors: Jan Florjanczyk, Todd A. Brun
+comments: 4 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.03772
+abstract: We characterize the set of generalized quantum measurements that can be decomposed into a continuous measurement process using a stream of probe qubits and a tunable interaction Hamilto- nian. Each probe in the stream interacts weakly with the target quantum system, then is measured projectively in a standard basis. This measurement result is used in a closed feedback loop to tune the interaction Hamiltonian for the next probe. The resulting evolution is a stochastic process with the structure of a one-dimensional random walk. To maintain this structure, and require that at long times the measurement outcomes be independent of the path, the allowed interaction Hamil- tonians must lie in a restricted set, such that the Hamiltonian terms on the target system form a finite dimensional Jordan algebra. This algebraic structure of the interaction Hamiltonians yields a large class of generalized measurements that can be continuously performed by our scheme, and we fully describe this set.
+
+id: 1504.03773
+title: Permutation symmetry determines the discrete Wigner function
+authors: Huangjun Zhu
+comments: 5.5 pages, comments and suggestions are very welcome!
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.03773
+abstract: The Wigner function provides a useful quasi-probability representation of quantum mechanics, with applications in various branches of physics. Many nice properties of the Wigner function are intimately connected with the high symmetry of the underlying operator basis composed of phase point operators: any pair of phase point operators can be transformed to any other pair by a unitary transformation. We show that, in the discrete scenario, such a highly symmetric representation can only appear in odd prime power dimensions except for dimensions 2 and 8. In addition, this permutation symmetry suffices to single out a unique discrete Wigner function not only among various discrete Wigner functions, but also among all possible quasi-probability representations of quantum mechanics. This special discrete Wigner function is also uniquely determined by covariance with respect to the Clifford group of the multipartite Heisenberg-Weyl group.
+
+id: 1504.03774
+title: Frequency-Bin Entanglement with Tunable Phase
+authors: Xianxin Guo, Peng Chen, Chi Shu, M.M.T. Loy, Shengwang Du
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.03774
+abstract: We describe a technique to produce narrow-band photon pairs with frequency-bin entanglement, whose relative phase can be tuned using linear polarization optics. We show that, making use of the polarization-frequency coupling effect, the phase of a complex polarizer can be transferred into the frequency entanglement.
+
+id: 1504.03776
+title: On the effects of self- and cross-phase modulation on photon purity for four-wave mixing photon-pair sources
+authors: Bryn Bell, Alex McMillan, Will McCutcheon, John Rarity
+comments: 11 pages, 10 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://arxiv.org/abs/1504.03776
+abstract: We consider the effect of self-phase modulation and cross-phase modulation on the joint spectral amplitude of photon pairs generated by spontaneous four-wave mixing. In particular, the purity of a heralded photon from a pair is considered, in the context of schemes that aim to maximise the purity and minimise correlation in the joint spectral amplitude using birefringent phase-matching and short pump pulses. We find that non-linear phase modulation effects will be detrimental, and will limit the quantum interference visibility that can be achieved at a given generation rate. An approximate expression for the joint spectral amplitude with phase modulation is found by considering the group velocity walk-off between each photon and the pump, but neglecting the group-velocity dispersion at each wavelength. The group-velocity dispersion can also be included with a numerical calculation, and it is shown that it only has a small effect on the purity for the realistic parameters considered.
+
+id: 1504.03779
+title: Proof of Heisenberg's error-disturbance principle
+authors: Seiji Kosugi
+comments: 4 pages, no figure
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.03779
+abstract: In Heisenberg's error-disturbance relation for electron position measurement, the measurement error must be the one that determines the uncertainty in the electron position just after the measurement. It is the resolution $\epsilon(x_t)$ i.e., the measurement error of the post-measurement observable $\hat{x}_t$, not the precision $\epsilon(x_0)$ i.e., that of the pre-measurement observable $\hat{x}_0$ that determines the uncertainty of the observable $\hat{x}_t$. Therefore, Heisenberg's relation must be interpreted as one between the resolution $\epsilon(x_t)$ and the disturbance $\eta(y_0)$. The magnitude of the disturbance $\eta(y_0)$ is independent of the definition of the measurement value of the observable $\hat{x}_t$. Heisenberg's error-disturbance relation is proven to hold true in general, when the measurement value of $\hat{x}_t$ is defined in order to minimize the resolution $\epsilon(x_t)$.
+
+id: 1504.03797
+title: Weak Values and Quantum Nonlocality
+authors: Yakir Aharonov, Eliahu Cohen
+comments: 11 pages, 2 figures. To be published in "Quantum Nonlocality and Reality", ed. by Mary Bell and Shan Gao, CUP 2015
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.03797
+abstract: Entanglement and nonlocality are studied in the framework of pre-/post-selected ensembles with the aid of weak measurements and the Two-State-Vector Formalism. In addition to the EPR-Bohm experiment, we revisit the Hardy and Cheshire Cat experiments, whose pre- or post-selected states give rise to curious phenomena. We then turn to even more peculiar phenomenon suggesting "emerging correlations" between independent pre- and post-selected ensembles of particles. This can be viewed as a quantum violation of the classical "pigeonhole principle".
+
+id: 1504.03829
+title: Limiting operations for sequences of quantum random variables and a convergence theorem for quantum martingales
+authors: Kyler S. Johnson, Michael J. Kozdron
+comments: 11 pages, 0 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Operator Algebras (math.OA); Probability (math.PR)
+url: http://arxiv.org/abs/1504.03829
+abstract: We study quantum random variables and generalize several classical limit results to the quantum setting. We prove a quantum analogue of Lebesgue's dominated convergence theorem and use it to prove a quantum martingale convergence theorem. This quantum martingale convergence theorem is of particular interest since it exhibits non-classical behaviour; even though the limit of the martingale exists and is unique, it is not explicitly identifiable. However, we provide a partial classification of the limit through a study of the space of all quantum random variables having quantum expectation zero.
+
+id: 1504.03836
+title: Popper's Experiment and the Uncertainty Principle
+authors: Ant¨®nio Cardoso
+comments: 6 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph); History and Philosophy of Physics (physics.hist-ph)
+url: http://arxiv.org/abs/1504.03836
+abstract: In this paper we look at a particular realization of Popper's thought experiment with correlated quantum particles and argue that, from the point of view of a nonlinear quantum physics and contrary to the orthodox interpretation, Heisenberg's uncertainty principle is violated. Moreover, we show that this kind of experiments can easily be explained in an intuitive manner if we are willing to take a nonlinear approach.
+
+id: 1504.03858
+title: No signaling and strong subadditivity condition for tomographic q-entropy of single qudit states
+authors: V. N. Chernega, O. V. Man'ko
+comments: to be published in Special Issue of Physica Scripta
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.03858
+abstract: The single qudit state tomograms are shown to have the no signaling property. The known and new entropic and information inequalities for Shannon, von Neumann and q-entropies of the composite and noncomposite systems characterizing correlations in these systems are discussed. The spin tomographic probability distributions determining the single qudit states are demonstrated to satisfy the strong subadditivity condition for Tsallis q-entropy. Examples of the new entropic inequalities for q-entropy are considered for qudits with j = 5=2, j = 7=2.
+
+id: 1504.03904
+title: Experimental characterization of the Gaussian state of squeezed light obtained via single-passage through an atomic vapor
+authors: P. Valente, A. Auyuanet, S. Barreiro, H. Failache, A. Lezama
+comments: 8 pages, 7 figures. Submitted to Phys. Rev. A
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.03904
+abstract: We show that the description of light in terms of Stokes operators in combination with the assumption of Gaussian statistics results in a dramatic simplification of the experimental study of fluctuations in the light transmitted through an atomic vapor: no local oscillator is required, the detected quadrature is easily selected by a wave-plate angle and the complete noise ellipsis reconstruction is obtained via matrix diagonalization. We provide empirical support for the assumption of Gaussian statistics in quasi-resonant light transmitted through an $^{87}$Rb vapor cell and we illustrate the suggested approach by studying the evolution of the fluctuation ellipsis as a function of laser detuning. Applying the method to two light beams obtained by parting squeezed light in a beamsplitter, we have measured entanglement and quantum discord.
+
+id: 1504.03909
+title: Entanglement R¨¦nyi $¦Á$-entropy
+authors: Yu-Xin Wang, Liang-Zhu Mu, Vlatko Vedral, Heng Fan
+comments: 5 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.03909
+abstract: Entanglement can be well quantified by R\'{e}nyi $\alpha$-entropy which is a generalization of the standard von Neumann entropy. Here we study the measure of entanglement R\'{e}nyi $\alpha$-entropy for arbitrary two-qubit states. We show that entanglement of two states may be incomparable, contrary to other well-accepted entanglement measures. These facts impose constraint on the convertibility of entangled states by local operations and classical communication. We find that when $\alpha $ is larger than a critical value, the entanglement measure by R\'{e}nyi $\alpha$-entropy is determined solely by concurrence which is a well accepted measure of entanglement. When $\alpha $ is small, the entanglement R\'{e}nyi $\alpha$-entropy of Werner state is obtained. Interestingly, we show that entanglement R\'{e}nyi $\alpha$-entropy of Werner state is always less than any pure entangled state when $\alpha $ is close to zero, even this Werner state is close to a maximally entangled state and the concurrence is larger. We also conclude that the optimal decomposition of a general mixed state cannot be the same for all $\alpha $.
+
+id: 1504.03913
+title: Teleportation-based Fault-tolerant Quantum Computation in Multi-qubit Large Block Codes
+authors: Todd A. Brun, Yi-Cong Zheng, Kung-Chuan Hsu, Joshua Job, Ching-Yi Lai
+comments: 5 pages + 8 pages supplement, 9 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.03913
+abstract: A major goal for fault-tolerant quantum computation (FTQC) is to reduce the overhead needed for error correction. One approach is to use block codes that encode multiple qubits, which can achieve significantly higher rates for the same code distance than single-qubit code blocks or topological codes. We present a scheme for universal quantum computation using multi-qubit Calderbank-Shor-Steane (CSS) block codes, where codes admitting different transversal gates are used to achieve universality, and logical teleportation is used to move qubits between code blocks. All circuits for both computation and error correction are transversal. We also argue that single shot fault-tolerant error correction can be done in Steane syndrome extraction. Then, we present estimates of information lifetime for a few possible codes, which suggests that highly nontrivial quantum computations can be achieved at reasonable error rates, using codes that require significantly less than 100 physical qubits per logical qubit.
+
+id: 1504.03917
+title: Optimal measurements for the discrimination of quantum states with a fixed rate of inconclusive results
+authors: Ulrike Herzog
+comments: 14 pages, 3 figures, accepted for publication in Phys. Rev. A
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.03917
+abstract: We study the discrimination of N mixed quantum states in an optimal measurement that maximizes the probability of correct results while the probability of inconclusive results is fixed at a given value. After considering the discrimination of N states in a d-dimensional Hilbert space, we focus on the discrimination of qubit states. We develop a method to determine an optimal measurement for discriminating arbitrary qubit states, taking into account that often the optimal measurement is not unique and the maximum probability of correct results can be achieved by several different measurements. Analytical results are derived for a number of examples, mostly for the discrimination between qubit states which possess a partial symmetry, but also for discriminating N equiprobable qubit states and for the dicrimination between a pure and a uniformly mixed state in d dimensions. In the special case where the fixed rate of inconclusive results is equal to zero, our method provides a treatment for the minimum-error discrimination of arbitrary qubit states which differs from previous approaches.
+
+id: 1504.03926
+title: Performance Measure for Optimal Quantum Control
+authors: Alexandre Coutinho Lisboa, Jose Roberto Castilho Piqueira
+comments: Submitted in "Quantum Information and Computation" (2015)
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.03926
+abstract: The problem concerning the minimum time for an initial state to evolve up to a target state plays an important role in the Classic Optimal Control theory. In the quantum context, as quantum states are so sensitive to environmental influences, the problem is more complex, but its formulation and solution are decisive to implement quantum information processing systems. As is well known, the decoherence phenomenon is unavoidable and the time-energy uncertainty relation must be used to study quantum dynamics. Here, the time-energy uncertainty relations are revisited, being fundamental to propose performance measures based on minimum time evolution. A minimum time performance measure is definedfor quantum control problems. Then, some practical examples are considered and the minimum time performance measure is applied providing results that are supposed to be useful for researchers to pursue strategies to optimize the control of the states of a quantum system.
+
+id: 1504.03993
+title: Dynamics of an Ion Coupled to a Parametric Superconducting Circuit
+authors: Dvir Kafri, Prabin Adhikari, Jacob M. Taylor
+comments: 10 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.03993
+abstract: Superconducting circuits and trapped ions are promising architectures for quantum information processing. However, the natural frequencies for controlling these systems -- radio frequency ion control and microwave domain superconducting qubit control -- make direct Hamiltonian interactions between them weak. In this paper we describe a technique for coupling a trapped ion's motion to the fundamental mode of a superconducting circuit. We do this by applying a carefully modulated external magnetic flux to the circuit. In conjunction with a non-linear element (Josephson junction), this gives the circuit an effective time-dependent inductance. We then show how to tune the external flux to generate a resonant coupling between circuit and ion's motional mode, and discuss the limitations of this approach compared to using a time-dependent capacitance.
+
+id: 1504.04002
+title: Fast quantum non-demolition readout from longitudinal qubit-oscillator interaction
+authors: Nicolas Didier, J¨¦r?me Bourassa, Alexandre Blais
+comments: 5 pages, 3 figures, Supplemental Material
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
+url: http://arxiv.org/abs/1504.04002
+abstract: We show how to realize high-fidelity quantum non-demolition qubit readout using longitudinal qubit-oscillator interaction. This is realized by modulating the longitudinal coupling at the cavity frequency. The qubit-oscillator interaction then acts as a qubit-state dependent drive on the cavity, a situation that is fundamentally different from the standard dispersive case. Single-mode squeezing can be exploited to exponentially increase the signal-to-noise ratio of this readout protocol. We present an implementation of this idea in circuit quantum electrodynamics and a possible multi-qubit architecture.
+
+id: 1502.03165
+title: New 1-step extension of the Swanson oscillator and superintegrability of its two-dimensional generalization
+authors: Bijan Bagchi, Ian Marquette
+comments: accepted for publication in Physics Letters A
+journal: 
+subjects: Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1502.03165
+abstract: We derive a one-step extension of the well known Swanson oscillator that describes a specific type of pseudo-Hermitian quadratic Hamiltonian connected to an extended harmonic oscillator model. Our analysis is based on the use of the techniques of supersymmetric quantum mechanics and address various representations of the ladder operators starting from a seed solution of the harmonic oscillator given in terms of a pseudo-Hermite polynomial. The role of the resulting chain of Hamiltonians related via similarity transformation is then exploited. In the second part we write down a two dimensional generalization of the Swanson Hamiltonian and establish superintegrability of such a system.
+
+id: 1504.03696
+title: Single photoelectron spin detection and angular momentum transfer in a gate defined quantum dot
+authors: Takafumi Fujita, Kazuhiro Morimoto, Haruki Kiyama, Giles Allison, Marcus Larsson, Arne Ludwig, Sascha R. Valentin, Andreas D. Wieck, Akira Oiwa, Seigo Tarucha
+comments: 20 pages, 5 figures
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.03696
+abstract: Recent innovations in fabricating nanoscale confined spin systems have enabled investigation of fundamental quantum correlations between single quanta of photons and matter states. Realization of quantum state transfer from photon polarization to electron spin using gate defined quantum dots (QDs) may give evidence of preserved coherence of angular momentum basis states at the photon-spin interface. The interface would enlarge the concept of quantum information technology, in which single photogenerated electron spins are manipulated with the dots, but this remains a serious challenge. Here, we report the detection of single electron spins generated by polarized single photons via a double QD (DQD) to verify the angular momentum transfer from single photons to single electrons. Pauli spin blockade (PSB) is used to project the photoelectron spin state onto the up or down spin state. Our result promises the realization of coherent quantum state transfer and development of hybrid photon and spin quantum technology.
+
+id: 1504.03767
+title: $\mathcal{PT}$-systems without parity symmetry: topological states, hidden symmetry, and the $\mathcal{PT}$ phase diagram
+authors: Yogesh N. Joglekar
+comments: 6 pages, 4 figures
+journal: 
+subjects: Optics (physics.optics); Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.03767
+abstract: $\mathcal{PT}$-symmetric systems, until now, have been characterized by a real, parity-symmetric, kinetic Hamiltonian and a non-Hermitian, balanced gain-loss potential. We present a new class of discrete models in which the tunneling Hamiltonian is not parity-symmetric, and yet the models have a nonzero $\mathcal{PT}$-breaking threshold in presence of a pair of gain-loss impurities $\pm i\gamma$ located at reflection-symmetric sites. We uncover a hidden symmetry that is instrumental to the finite threshold strength. We show that such models have topological edge-states that remain robust in the $\mathcal{PT}$-broken phase. Our predictions substantially broaden possible realizations of a $\mathcal{PT}$ system, particularly in optical waveguide arrays or coupled microstructures, by eliminating the parity-symmetry constraint.
+
+id: 1504.03963
+title: The Siegel Upper Half Space is a Marsden-Weinstein Quotient: Symplectic Reduction and Gaussian Wave Packets
+authors: Tomoki Ohsawa
+comments: 15 pages
+journal: 
+subjects: Mathematical Physics (math-ph); Symplectic Geometry (math.SG); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.03963
+abstract: We show that the Siegel upper half space $\Sigma_{d}$ is identified with the Marsden-Weinstein quotient obtained by symplectic reduction of the cotangent bundle $T^{*}\mathbb{R}^{2d^{2}}$ with $\mathsf{O}(2d)$-symmetry. The reduced symplectic form on $\Sigma_{d}$ corresponding to the standard symplectic form on $T^{*}\mathbb{R}^{2d^{2}}$ turns out to be a constant multiple of the symplectic form on $\Sigma_{d}$ obtained by Siegel. Our motivation is to understand the geometry behind two different formulations of the Gaussian wave packet dynamics commonly used in semiclassical mechanics. Specifically, we show that the two formulations are related via the symplectic reduction.
+
+id: quant-ph/0601065
+title: Black holes are almost optimal quantum cloners
+authors: C. Adami, G. Ver Steeg
+comments: 5 pages, 3 figures. To appear in J. Phys. A
+journal: 
+subjects: Quantum Physics (quant-ph); General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+url: http://arxiv.org/abs/quant-ph/0601065
+abstract: 
+
+id: 1405.4495
+title: Exact Foldy-Wouthuysen transformation of the Dirac-Pauli Hamiltonian by Kutzelnigg's method
+authors: Dah-Wei Chiou, Tsung-Wei Chen
+comments: 34 pages; follow-up to arXiv:1311.3432; contains the same review materials in arXiv:1310.8513. v3: minor improvements made; two more references added
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1405.4495
+abstract: 
+
+id: 1409.6341
+title: Dissipative preparation of Chern insulators
+authors: Jan Carl Budich, Peter Zoller, Sebastian Diehl
+comments: 
+journal: Phys. Rev. A 91, 042117 (2015)
+subjects: Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1409.6341
+abstract: 
+
+id: 1410.7604
+title: Thermal transport in out of equilibrium quantum harmonic chains
+authors: F. Nicacio, A. Ferraro, A. Imparato, M. Paternostro, F. L. Semi?o
+comments: 11 pages, 15 figures
+journal: Physical Review E 91, 042116 (2015)
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech)
+url: http://arxiv.org/abs/1410.7604
+abstract: 
+
+id: 1411.2460
+title: The Casimir effect with quantized charged spinor matter in background magnetic field
+authors: Yu. A. Sitenko
+comments: 33 pages, 1 figure, journal version. arXiv admin note: text overlap with arXiv:1401.6950
+journal: Phys. Rev. D 91, 085012 (2015)
+subjects: High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1411.2460
+abstract: 
+
+id: 1411.2963
+title: Quantum Optics of Chiral Spin Networks
+authors: Hannes Pichler, Tom¨¢s Ramos, Andrew J. Daley, Peter Zoller
+comments: 
+journal: Phys. Rev. A 91, 042116 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1411.2963
+abstract: 
+
+id: 1412.5608
+title: Efficient Approximation of Diagonal Unitaries over the Clifford+T Basis
+authors: Jonathan Welch, Alex Bocharov, Krysta M. Svore
+comments: 16 pages, 8 figures; corrected presentation of CED algorithm; improved presentation of empirical evaluation
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1412.5608
+abstract: 
+
+id: 1412.5874
+title: Ladder operators for solvable potentials connected with exceptional orthogonal polynomials
+authors: C. Quesne
+comments: 14 pages, no figure, communication at the XXXth International Colloquium on Group Theoretical Methods in Physics, 14-18 July, 2014, Ghent, Belgium, published version
+journal: J. Phys. Conf. Ser. 597 (2015) 012064
+subjects: Mathematical Physics (math-ph); Exactly Solvable and Integrable Systems (nlin.SI); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1412.5874
+abstract: 
+
+id: 1502.00623
+title: Vacuum condensate, geometric phase, Unruh effect and temperature measurement
+authors: A. Capolupo, G. Vitiello
+comments: 7 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1502.00623
+abstract: 
+
+id: 1502.06592
+title: Quantum Equivalence and Quantum Signatures in Heat Engines
+authors: Raam Uzdin, Amikam Levy, Ronnie Kosloff
+comments: v2 contains style and figures improvements. Subsection III.D was added
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1502.06592
+abstract: 
+
+id: 1502.07914
+title: Invertibility of retarded response functions for Laplace transformable potentials: application to one-body reduced density matrix functional theory
+authors: Klaas J.H. Giesbertz
+comments: 8 pages, 0 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Other Condensed Matter (cond-mat.other); Atomic Physics (physics.atom-ph); Chemical Physics (physics.chem-ph)
+url: http://arxiv.org/abs/1502.07914
+abstract: 
+
+id: 1503.05085
+title: Stronger Error Disturbance Relations for Incompatible Quantum Measurements
+authors: Chiranjib Mukhopadhyay, Namrata Shukla, Arun Kumar Pati
+comments: 6+epsilon pages, 4 figures ; RevTeX
+journal: 
+subjects: Quantum Physics (quant-ph); Information Theory (cs.IT); Mathematical Physics (math-ph)
+url: http://arxiv.org/abs/1503.05085
+abstract: 
+
+id: 1504.00187
+title: Autonomous quantum thermal machine for generating steady-state entanglement
+authors: Jonatan Bohr Brask, Nicolas Brunner, G¨¦raldine Haack, Marcus Huber
+comments: 8 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
+url: http://arxiv.org/abs/1504.00187
+abstract: 
+

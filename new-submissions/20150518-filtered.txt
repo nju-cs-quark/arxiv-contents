@@ -1,0 +1,18 @@
+id: 1505.03983
+title: Global integration of the Schr?dinger equation: a short iterative scheme within the wave operator formalism using discrete Fourier transforms
+authors: Arnaud Leclerc, Georges Jolicard
+comments: 25 pages, 14 figures
+journal: J. Phys. A: Math. Theor. 48 225205 (2015)
+subjects: Quantum Physics (quant-ph); Chemical Physics (physics.chem-ph); Computational Physics (physics.comp-ph)
+url: http://arxiv.org/abs/1505.03983
+abstract: A global solution of the Schr\"odinger equation for explicitly time-dependent Hamiltonians is derived by integrating the non-linear differential equation associated with the time-dependent wave operator. A fast iterative solution method is proposed in which, however, numerous integrals over time have to be evaluated. This internal work is done using a numerical integrator based on Fast Fourier Transforms (FFT). The case of a transition between two potential wells of a model molecule driven by intense laser pulses is used as an illustrative example. This application reveals some interesting features of the integration technique. Each iteration provides a global approximate solution on grid points regularly distributed over the full time propagation interval. Inside the convergence radius, the complete integration is competitive with standard algorithms, especially when high accuracy is required.
+
+id: 1505.04138
+title: Tunable dynamic Fano resonances in coupled-resonant optical waveguide
+authors: Stefano Longhi
+comments: 4 figures, 6 pages, to be published in Phys. Rev. A
+journal: 
+subjects: Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.04138
+abstract: A route toward lineshape engineering of Fano resonances in photonic structures is theoretically proposed, which uses dynamic modulation of the refractive index of a microcavity. The method is exemplified by considering coupled-resonator optical waveguide systems. An exact Floquet analysis, based on coupled-mode theory, is presented. Two distinct kinds of resonances can be dynamically created, depending on whether the static structure sustains a localized mode or not. In the former case a single Fano resonance arises, which can be tuned in both frequency and line width by varying the refractive index modulation amplitude and frequency. In the latter case two resonances, in the form of narrow asymmetric dips in the transmittance, are found, which can overlap resulting in an electromagnetically-induced transparency effect.
+

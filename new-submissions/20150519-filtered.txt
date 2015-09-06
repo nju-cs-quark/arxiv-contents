@@ -1,0 +1,45 @@
+id: 1505.04761
+title: The Staggered Quantum Walk Model
+authors: R. Portugal, R.A.M. Santos, T.D. Fernandes, D.N. Gon?alves
+comments: 15 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.04761
+abstract: There are at least three definitions of discrete-time quantum walks (QWs) on graphs currently under active development. In this work we focus on the equivalence of two of them, known as Szegedy's and staggered QWs. We give a precise definition of the staggered model and discuss natural extensions. Using this definition, we formally prove that any instance of Szegedy's model is equivalent to an instance of the staggered model. On the other hand, we show that there are instances of the staggered model that cannot be cast into Szegedy's framework. Our analysis also works when there are marked vertices. We show that Szegedy's spatial search algorithms can be converted into search algorithms in staggered QWs. We take advantage of the similarity of those models to define the hitting time in the staggered model and to describe a method to calculate the eigenvalues and eigenvectors of the evolution operator of staggered walks with marked vertices.
+
+id: 1505.04513
+title: Localization, delocalization, and topological phase transitions in the one-dimensional split-step quantum walk
+authors: Tibor Rakovszky, Janos K. Asboth
+comments: 
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.04513
+abstract: Quantum walks are promising for information processing tasks because on regular graphs they spread quadratically faster than random walks. Static disorder, however, can turn the tables: unlike random walks, quantum walks can suffer Anderson localization, whereby the spread of the walker stays within a finite region even in the infinite time limit. It is therefore important to understand when we can expect a quantum walk to be Anderson localized and when we can expect it to spread to infinity even in the presence of disorder. In this work we analyze the response of a generic one-dimensional quantum walk -- the split-step walk -- to different forms of static disorder. We find that introducing static, symmetry-preserving disorder in the parameters of the walk leads to Anderson localization. In the completely disordered limit, however, a delocalization sets in, and the walk spreads subdiffusively. Using an efficient numerical algorithm, we calculate the bulk topological invariants of the disordered walk, and interpret the disorder-induced Anderson localization and delocalization transitions using these invariants.
+
+id: 1505.04698
+title: Entropy production in quantum Yang-Mills mechanics in semi-classical approximation
+authors: Hidekazu Tsukiji, Hideaki Iida, Teiji Kunihiro, Akira Ohnishi, Toru T. Takahashi
+comments: 11 pages, 8 figures
+journal: 
+subjects: High Energy Physics - Phenomenology (hep-ph); Nuclear Theory (nucl-th); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.04698
+abstract: We discuss thermalization of isolated quantum systems by using the Husimi-Wehrl entropy evaluated in the semiclassical treatment. The Husimi-Wehrl entropy is the Wehrl entropy obtained by using the Husimi function for the phase space distribution. The time evolution of the Husimi function is given by smearing the Wigner function, whose time evolution is obtained in the semiclassical approximation. We show the efficiency and usefullness of this semiclassical treatment in describing entropy production of a couple of quantum mechanical systems, whose classical counter systems are known to be chaotic. We propose two methods to evaluate the time evolution of the Husimi-Wehrl entropy, the test-particle method and the two-step Monte-Carlo method. We demonstrate the characteristics of the two methods by numerical calculations, and show that the simultaneous application of the two methods ensures the reliability of the results of the Husimi-Wehrl entropy at a given time.
+
+id: 1505.04431
+title: Pearle's Hidden-Variable Model Revisited
+authors: Richard D. Gill
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.04431
+abstract: Pearle (1970) gave an example of a local hidden variables model which exactly reproduced the singlet correlations of quantum theory, through the device of data-rejection: particles can fail to be detected in a way which depends on the hidden variables carried by the particles and on the measurement settings. If the experimenter computes correlations between measurement outcomes of particle pairs for which both particles are detected, he is actually looking at a subsample of particle pairs, determined by interaction involving both measurement settings and the hidden variables carried in the particles. We correct a mistake in Pearle's formulas (a normalization error) and more importantly show that the model is more simple than first appears. We illustrate with visualisations of the model and with a small simulation experiment, with code in the statistical programming language R included in the paper. Open problems are discussed.
+
+id: 1505.04251
+title: Superconducting single photon detectors integrated with diamond nanophotonic circuits
+authors: Patrik Rath, Oliver Kahl, Simone Ferrari, Fabian Sproll, Georgia Lewes-Malandrakis, Dietmar Brink, Konstantin Ilin, Michael Siegel, Christoph Nebel, Wolfram Pernice
+comments: 28 pages, 5 figures
+journal: 
+subjects: Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.04251
+abstract: Photonic quantum technologies promise to repeat the success of integrated nanophotonic circuits in non-classical applications. Using linear optical elements, quantum optical computations can be performed with integrated optical circuits and thus allow for overcoming existing limitations in terms of scalability. Besides passive optical devices for realizing photonic quantum gates, active elements such as single photon sources and single photon detectors are essential ingredients for future optical quantum circuits. Material systems which allow for the monolithic integration of all components are particularly attractive, including III-V semiconductors, silicon and also diamond. Here we demonstrate nanophotonic integrated circuits made from high quality polycrystalline diamond thin films in combination with on-chip single photon detectors. Using superconducting nanowires coupled evanescently to travelling waves we achieve high detection efficiencies up to 66 % combined with low dark count rates and timing resolution of 190 ps. Our devices are fully scalable and hold promise for functional diamond photonic quantum devices.
+

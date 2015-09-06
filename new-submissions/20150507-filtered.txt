@@ -1,0 +1,54 @@
+id: 1505.01248
+title: Ramsauer effect in one-dimensional quantum walk with multiple defects
+authors: Ho Tat Lam, Kwok Yip Szeto
+comments: 5 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.01248
+abstract: Experimental observations of quantum walks in one dimension have provided many exciting applications in quantum computing, while recent theoretical investigation of single phase defect in these system points towards interesting phenomena associated with bounds states. Here we obtain analytical solutions of quantum walk with a general quantum coin in one dimension with multiple defects, with new prediction on the condition for zero reflectance for scattering state, and the existence of an analogy to the Ramsauer effect for multiple defects. We also show the transition from the zero reflectance state to the bound state can provide a method for preparing the quantum walk in a bound state. Applications to systems similar to thin film optics are suggested.
+
+id: 1505.01385
+title: Non-Markovian dynamics in open quantum systems
+authors: Heinz-Peter Breuer, Elsi-Mari Laine, Jyrki Piilo, Bassano Vacchini
+comments: 26 pages, 10 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.01385
+abstract: The dynamical behavior of open quantum systems plays a key role in many applications of quantum mechanics, examples ranging from fundamental problems, such as the environment-induced decay of quantum coherence and relaxation in many-body systems, to applications in condensed matter theory, quantum transport, quantum chemistry and quantum information. In close analogy to a classical Markov process, the interaction of an open quantum system with a noisy environment is often modelled by a dynamical semigroup with a generator in Lindblad form, which describes a memoryless dynamics leading to an irreversible loss of characteristic quantum features. However, in many applications open systems exhibit pronounced memory effects and a revival of genuine quantum properties such as quantum coherence and correlations. Here, recent results on the rich non-Markovian quantum dynamics of open systems are discussed, paying particular attention to the rigorous mathematical definition, to the physical interpretation and classification, as well as to the quantification of memory effects. The general theory is illustrated by a series of examples. The analysis reveals that memory effects of the open system dynamics reflect characteristic features of the environment which opens a new perspective for applications, namely to exploit a small open system as a quantum probe signifying nontrivial features of the environment it is interacting with. This article further explores the various physical sources of non-Markovian quantum dynamics, such as structured spectral densities, nonlocal correlations between environmental degrees of freedom and correlations in the initial system-environment state, in addition to developing schemes for their local detection. Recent experiments on the detection, quantification and control of non-Markovian quantum dynamics are also discussed.
+
+id: 1505.01416
+title: On-chip dual-path entangled photon pair sources by coupled non-linear waveguides
+authors: Regina Kruse, Linda Sansoni, Sebastian Brauner, Raimund Ricken, Craig S. Hamilton, Igor Jex, Christine Silberhorn
+comments: 7 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.01416
+abstract: Novel quantum technology becomes mature when it can successfully be implemented in compact, integrated and easy-to-use devices. In response to this challenge, the quantum information community has recently achieved impressive results by reproducing linear bulk setups in a waveguide-based platform [1-10]. Even so, the generation of tailored quantum states in integrated sources suffers from severe limitations. While waveguide systems overcome the brightness and stability issues of bulk crystals, the confinement restricts the possibilities of source engineering. In particular, the generation of light in spatially separated modes, as needed for the preparation of specific bi-partite systems like N00N states [11], is prohibited in waveguides [12,13]. Recently, two experiments have gained control over this fundamental limitation by combining different waveguide sources followed by linear optical elements [14,15]. Yet, this approach requires the use of extra resources like active phase stabilisation, filtering or post-selection. Here, we harness the path degree of freedom in waveguide sources without additional overhead. As an example we implement an ultra-bright tunable two-channel integrated device which generates post-processing free, indistinguishable two-photon N00N states. We take advantage of the integration of parametric down-conversion in a single directional coupler and show that a clever engineering of the non-linear structure gets rid of the need for phase stabilisation, narrow-band filtering and spatial post-selection. This type of effective integration goes beyond reproducing a bulk setup on a chip and combines the action of many optical elements in one. Based on this concept, our device greatly simplifies the generation of intricate multi-channel quantum states and reduces the required complexity of linear networks for quantum information applications.
+
+id: 1505.01435
+title: An Effective Hamiltonian Approach to Quantum Random Walk
+authors: Debajyoti Sarkar, Niladri Paul, Kaushik Bhattacharya, Tarun Kanti Ghosh
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.01435
+abstract: In this article we present an effective Hamiltonian approach for Discrete Time Quantum Random Walk. A form of the Hamiltonian for one dimensional quantum walk has been prescribed, utilizing the fact that Hamiltonians are the generators of time translations. Then an attempt has been made to generalize the techniques to higher dimensions. We find that the Hamiltonian can be written as the sum of a Weyl Hamiltonian and a Dirac comb potential. The time evolution operator obtained from this prescribed Hamiltonian is in complete agreement with that of the standard approach. But in higher dimension we find that the time evolution operator is additive, instead of being multiplicative \cite{Chandrasekhar:2013SREP08229}. We showed that in case of two-step walk, effectively the time evolution operator can have multiplicative form. In case of a square lattice, quantum walk has been studied computationally for different coins and the results for both the additive and the multiplicative approaches have been compared. Using the Graphene Hamiltonian the walk has been studied on a Graphene lattice and we conclude the preference of additive approach over the multiplicative one.
+
+id: 1505.01182
+title: Universal Linear Optics
+authors: Jacques Carolan, Chris Harrold, Chris Sparrow, Enrique Mart¨ªn-L¨®pez, Nicholas J. Russell, Joshua W. Silverstone, Peter J. Shadbolt, Nobuyuki Matsuda, Manabu Oguma, Mikitaka Itoh, Graham D. Marshall, Mark G. Thompson, Jonathan C. F. Matthews, Toshikazu Hashimoto, Jeremy L. O'Brien, Anthony Laing
+comments: Comments welcome
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.01182
+abstract: Linear optics underpins tests of fundamental quantum mechanics and computer science, as well as quantum technologies. Here we experimentally demonstrate the longstanding goal of a single reprogrammable optical circuit that is sufficient to implement all possible linear optical protocols up to the size of that circuit. Our six-mode universal system consists of a cascade of 15 Mach-Zehnder interferometers with 30 thermo-optic phase shifters integrated into a single photonic chip that is electrically and optically interfaced for arbitrary setting of all phase shifters, input of up to six photons and their measurement with a 12 single-photon detector system. We programmed this system to implement heralded quantum logic and entangling gates, boson sampling with verification tests, and six-dimensional complex Hadamards. We implemented 100 Haar random unitaries with average fidelity 0.999 $\pm$ 0.001. Our system is capable of switching between these and any other linear optical protocol in seconds. These results point the way to applications across fundamental science and quantum technologies.
+
+id: 1505.01412
+title: Parafermions in a Kagome lattice of qubits for topological quantum computation
+authors: Adrian Hutter, James R. Wootton, Daniel Loss
+comments: 11+6 pages, 10 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.01412
+abstract: We show how $\mathbb{Z}_4$ parafermions emerge in a Kagome lattice composed of qubits with nearest neighbor two-qubit interactions. The low-energetic excitations of our model correspond to the Abelian $D(\mathbb{Z}_4)$ anyon model, and non-Abelian parafermion modes appear at the ends of defect lines. We prove that braiding of these parafermions with each other and with the $D(\mathbb{Z}_4)$ anyons allows us to generate the entire $4$-level Clifford group. We study the error correction problem for our model in detail, guaranteeing fault-tolerance of the topological operations. Crucially, we do not need non-Abelian error correction but can correct the underlying Abelian model.
+

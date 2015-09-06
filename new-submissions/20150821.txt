@@ -1,0 +1,297 @@
+id: 1508.04816
+title: Reducing multi-qubit interactions in adiabatic quantum computation without adding auxiliary qubits. Part 1: The "deduc-reduc" method and its application to quantum factorization of numbers
+authors: Richard Tanburn, Emile Okada, Nike Dattani
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Discrete Mathematics (cs.DM); Combinatorics (math.CO)
+url: http://arxiv.org/abs/1508.04816
+abstract: Adiabatic quantum computing has recently been used to factor 56153 [Dattani & Bryans, arXiv:1411.6758] at room temperature, which is orders of magnitude larger than any number attempted yet using Shor's algorithm (circuit-based quantum computation). However, this number is still vastly smaller than RSA-768 which is the largest number factored thus far on a classical computer. We address a major issue arising in the scaling of adiabatic quantum factorization to much larger numbers. Namely, the existence of many 4-qubit, 3-qubit and 2-qubit interactions in the Hamiltonians. We showcase our method on various examples, one of which shows that we can remove 94% of the 4-qubit interactions and 83% of the 3-qubit interactions in the factorization of a 25-digit number with almost no effort, without adding any auxiliary qubits. Our method is not limited to quantum factoring. Its importance extends to the wider field of discrete optimization. Any CSP (constraint-satisfiability problem), psuedo-boolean optimization problem, or QUBO (quadratic unconstrained Boolean optimization) problem can in principle benefit from the "deduction-reduction" method which we introduce in this paper. We provide an open source code which takes in a Hamiltonian (or a discrete discrete function which needs to be optimized), and returns a Hamiltonian that has the same unique ground state(s), no new auxiliary variables, and as few multi-qubit (multi-variable) terms as possible with deduc-reduc.
+
+id: 1508.04858
+title: Correlation spectroscopy in cold atoms: light sidebands resonances in electromagnetically induced transparency condition
+authors: H. M. Florez, A. Kumar, K. Theophilo, P. Nussenzveig, M. Martinelli
+comments: 10 pages, 7 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Atomic Physics (physics.atom-ph); Optics (physics.optics)
+url: http://arxiv.org/abs/1508.04858
+abstract: The correlation spectroscopy has been successfully employed in the measurement of the intrinsic linewidth of electromagnetically induced transparency (EIT) in time and frequency domain. We study the role of the sidebands of the intense fields in the measured spectra, analyzing the information that can be recovered working with different analysis frequencies. In this case, the non-zero one-photon detuning appears as a necessary condition for spectrally resolving the sideband resonances in the correlation coefficient. Our experimental findings are supported by the perturbative model defined in the frequency domain.
+
+id: 1508.04859
+title: Estimation of Output Channel Noise for Continuous Variable Quantum Key Distribution
+authors: Oliver Thearle, Syed M. Assad, Thomas Symul
+comments: 5 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.04859
+abstract: Estimation of channel parameters is important for extending the range and increasing the key rate of continuous variable quantum key distribution protocols. We propose a new estimator for the channel noise parameter based on the method of moments. The method of moments finds an estimator from the moments of the output distribution of the protocol. This estimator has the advantage of being able to use all of the states shared between Alice and Bob. Other estimators are limited to a smaller publicly revealed subset of the states. The proposed estimator has a lower variance for high loss channel than what has previously been proposed. We show that the method of moments estimator increases the key rate by up to an order of magnitude at the maximum transmission of the protocol.
+
+id: 1508.04869
+title: Ultrafast Optimal Sideband Cooling under Non-Markovian Evolution
+authors: Johan F. Triana, Andr¨¦s F. Estrada, Leonardo A. Pachon
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.04869
+abstract: A sideband cooling strategy that incorporates (i) the dynamics induced by structured (non-Markovian) environments in the target and auxiliary systems and (ii) the optimally-time-modulated interaction between them is developed. For the context of cavity optomechanics, when non-Markovian dynamics are considered in the target system, ground state cooling is reached at much faster rates and at much lower phonon occupation number than previously reported. In constrast to similar current strategies, ground state cooling is reached here for coupling-strength rates that are experimentally accesible for the state-of-the-art implementations. After the ultrafast optimal-ground-state-cooling protocol is accomplished, an additional optimal control strategy is considered to maintain the phonon number as closer as possible to the one obtained in the cooling procedure. Contrary to the conventional expectation, when non-Markovian dynamics are considered in the auxiliary system, the efficiency of the cooling protocol is undermined.
+
+id: 1508.04880
+title: Source-independent quantum random number generation
+authors: Xiongfeng Ma, Zhu Cao, Xiao Yuan
+comments: 11 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.04880
+abstract: Quantum random number generators (QRNGs) can provide genuine randomness by appealing to the fundamental principles of quantum mechanics. In general, a physical generator contains two parts --- a randomness source and its readout. The source is essential to the quality of the resulting random numbers; hence needs to be carefully calibrated and modeled to achieve information-theoretically provable randomness. However, in practice, the source is a complicated physical system, such as a light source or an atomic assemble, and any deviations in the real-life implementation from the theoretical model may affect the randomness of the output. To close this gap, we propose a source-independent scheme for QRNGs in which output randomness can be certified, even when the source is uncharacterized and untrusted. In our randomness analysis, we make no assumptions about the dimension of the source. For instance, multi-photon emissions are allowed in optical implementations. Our analysis takes account of the finite-key effect with the composable security definition. In the limit of large data size, the length of the input random seed is exponentially small compared to that of the output random bit. Our scheme can be implemented by simply converting some current realizations of quantum random number generation.
+
+id: 1508.04922
+title: Playing a secert-bit guessing game: a better use of available hint with quantum action
+authors: Jeongho Bang, Junghee Ryu, Marcin Paw?owski, B. S. Ham, Jinhyoung Lee
+comments: 8 pages, 8 figures, comments welcome
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.04922
+abstract: We present a guessing game, to be called "secret-bit guessing game," where a player (say, Bob) guesses two secret bits enveloped by another player (say, Alice) based on a legitimate strategy. Here we introduce a notion of supplementary information, under the name of hint, available for Bob to guess the secret bits. In such setting, we investigate an intriguing question: What happens if the physical elements to realize Bob's strategy are quantum? On the basis of the analysis of payoff function, we here offer a new scenario, namely, of allowing Bob to make better use of a given hint with the quantum elements beyond their classical counterparts. We argue that this quantum advantage is possible due to the ability of the quantum elements to use the quality of a given hint, as well as its amount, faithfully dealing with the nature of quantum superposition.
+
+id: 1508.04938
+title: Recursive simulation of quantum annealing
+authors: A. P. Sowa, M. J. Everitt, J. H. Samson, S. E. Savel'ev, A. M. Zagoskin, S. Heidel, J. C. Z¨²?iga-Anaya
+comments: 17 pages, accepted by Journal of Physics A: Theoretical and Mathematical
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.04938
+abstract: The evaluation of the performance of adiabatic annealers is hindered by lack of efficient algorithms for simulating their behaviour. We exploit the analyticity of the standard model for the adiabatic quantum process to develop an efficient recursive method for its numerical simulation in case of both unitary and non-unitary evolution. Numerical simulations show distinctly different distributions for the most important figure of merit of adiabatic quantum computing --- the success probability --- in these two cases.
+
+id: 1508.04967
+title: Superstrong Coupling of a Microwave Cavity to YIG Magnons
+authors: Nikita Kostylev, Maxim Goryachev, Michael E. Tobar
+comments: 4 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.04967
+abstract: Multiple-post reentrant 3D lumped cavity modes have been realized to design the new concept of discrete Whispering Gallery and Fabry-Perot Modes for multimode microwave Quantum Electrodynamics experiments. Using a magnon spin-wave resonance of a submillimeter-sized Yttrium-Iron- Garnet sphere at millikelvin temperatures and a four-post cavity, we demonstrate the ultra-strong coupling regime between discrete Whispering Gallery Modes and a magnon resonance with strength of 1.84 GHz. By increasing the number of posts to eight and arranging them in a D4 symmetry pattern, we expand the mode structure to that of a discrete Fabry-Perot cavity and show control of the Free Spectral Range (FSR). We reach the superstrong coupling regime, where spin-photon coupling strength is larger than FSR, with coupling strength in the 1.1 to 1.5 GHz range.
+
+id: 1508.04974
+title: Experimental study of balanced optical homodyne and heterodyne detection by controlling sideband modulation
+authors: Wei Li, Zengming Meng, Xudong Yu, Jing Zhang
+comments: This paper includes 5 pages and 6 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://arxiv.org/abs/1508.04974
+abstract: We experimentally study optical homodyne and heterodyne detections with a same setup, which is flexible to manipulate the signal sideband modulation. When the modulation only generate a single signal sideband, the light field measurement by mixing the single sideband at $\omega_{0}+\Omega$ with a strong local oscillator at the carrier frequency $\omega_{0}$ on a beam splitter become balanced heterodyne detection. When two signal sidebands at $\omega_{0}\pm\Omega$ are generated and the relative phase of the two sidebands is locked, this measurement corresponds to optical balanced homodyne detection. With this setup, we may confirm directly that the signal-to-noise ratio with heterodyne detection is two-fold worse than that with homodyne detection. This work will have important applications in quantum state measurement and quantum information.
+
+id: 1508.05027
+title: Efficient algorithms for the Deutsch-Jozsa and Simon's problems that only use classical resources
+authors: Niklas Johansson, Jan-?ke Larsson
+comments: 5 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.05027
+abstract: A long-standing aim of quantum information research is to understand what gives quantum computers their advantage. This requires separating problems that need genuinely quantum resources from those for which classical resources are enough. Two examples of quantum speed-up are the Deutsch-Jozsa and Simon's problem, both efficiently solvable on a quantum Turing machine, and both believed to lack efficient classical solutions. Here we show that both problems can be solved efficiently in an extension of Spekkens' toy model: The Deutsch-Jozsa problem with probability 1 using only one oracle query, and Simon's problem using linearly many oracle queries, just as expected of an ideal quantum computer. The extended toy model is efficiently simulatable in a classical probabilistic Turing machine, showing that the Deutsch-Jozsa and Simon's problem do not require any genuinely quantum resources, and that the quantum algorithms show no speed-up when compared with the corresponding classical simulation. This gives an insight into what resources are needed in the two algorithms, and calls for further study of oracle separation between quantum and classical computation.
+
+id: 1508.05087
+title: Benchmarking a quantum annealing processor with the time-to-target metric
+authors: James King, Sheir Yarkoni, Mayssam M. Nevisi, Jeremy P. Hilton, Catherine C. McGeoch
+comments: 29 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.05087
+abstract: In the evaluation of quantum annealers, metrics based on ground state success rates have two major drawbacks. First, evaluation requires computation time for both quantum and classical processors that grows exponentially with problem size. This makes evaluation itself computationally prohibitive. Second, results are heavily dependent on the effects of analog noise on the quantum processors, which is an engineering issue that complicates the study of the underlying quantum annealing algorithm. We introduce a novel "time-to-target" metric which avoids these two issues by challenging software solvers to match the results obtained by a quantum annealer in a short amount of time. We evaluate D-Wave's latest quantum annealer, the D-Wave 2X system, on an array of problem classes and find that it performs well on several input classes relative to state of the art software solvers running single-threaded on a CPU.
+
+id: 1505.06647
+title: Generalised complex geometry in thermodynamical fluctuation theory
+authors: P. Fernandez de Cordoba, J.M. Isidro
+comments: Refs. added; section 3 new; examples added; 16 pp
+journal: 
+subjects: Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.06647
+abstract: We present a brief overview of some key concepts in the theory of generalised complex manifolds. This new geometry interpolates, so to speak, between symplectic geometry and complex geometry. As such it provides an ideal framework to analyse thermodynamical fluctuation theory in the presence of gravitational fields. To illustrate the usefulness of generalised complex geometry, we examine a simplified version of the Unruh effect: the thermalising effect of gravitational fields on the Schroedinger wavefunction.
+
+id: 1508.04779
+title: Lieb-Liniger model with exponentially-decaying interactions: a continuous matrix product state study
+authors: Julian Rincon, Martin Ganahl, Guifre Vidal
+comments: 10 pages, 8 figures
+journal: 
+subjects: Strongly Correlated Electrons (cond-mat.str-el); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.04779
+abstract: The Lieb-Liniger model describes one-dimensional bosons interacting through a repulsive contact potential. In this work, we introduce an extended version of this model by replacing the contact potential with a decaying exponential. Using the recently developed continuous matrix product states techniques, we explore the ground state phase diagram of this model by examining the superfluid and density correlation functions. At weak coupling superfluidity governs the ground state, in a similar way as in the Lieb-Liniger model. However, at strong coupling quasi-crystal and super-Tonks-Girardeau regimes are also found, which are not present in the original Lieb-Liniger case. Therefore the presence of the exponentially-decaying potential leads to a superfluid/super-Tonks-Girardeau/quasi-crystal crossover, when tuning the coupling strength from weak to strong interactions. This corresponds to a Luttinger liquid parameter in the range $K \in (0, \infty)$; in contrast with the Lieb-Liniger model, where $K \in [1, \infty)$, and the screened long-range potential, where $K \in (0, 1]$.
+
+id: 1508.04847
+title: Coupling an ensemble of electrons on superfluid helium to a superconducting circuit
+authors: Ge Yang, A. Fragner, G. Koolstra, L. Ocola, D.A. Czaplewski, R.J. Schoelkopf, D.I. Schuster
+comments: main text 5 pages, 4 figures, supplemental information includes 14 pages, 11 figures
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.04847
+abstract: The quantized lateral motional states and the spin states of electrons trapped on the surface of superfluid helium have been proposed as basic building blocks of a scalable quantum computer. Circuit quantum electrodynamics (cQED) allows strong dipole coupling between electrons and a high-Q superconducting microwave resonator, enabling such sensitive detection and manipulation of electron degrees of freedom. Here we present the first realization of a hybrid circuit in which a large number of electrons are trapped on the surface of superfluid helium inside a coplanar waveguide resonator. The high finesse of the resonator allows us to observe large dispersive shifts that are many times the linewidth and make fast and sensitive measurements on the collective vibrational modes of the electron ensemble, as well as the superfluid helium film underneath. Furthermore, a large ensemble coupling is observed in the dispersive regime during experiment, and it shows excellent agreement with our numeric model. The coupling strength of the ensemble to the cavity is found to be >1 MHz per electron, indicating the feasibility of achieving single electron strong coupling.
+
+id: 1306.0981
+title: Maximal noiseless code rates for collective rotation channels on qudits
+authors: Chi-Kwong Li, Mikio Nakahara, Yiu-Tung Poon, Nung-Sing Sze
+comments: 16 pages, proofs are put in Appendix for clearer presentation. Title has been changed and some related materials, such as quantum secret sharing and erasure errors, are mentioned
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1306.0981
+abstract: 
+
+id: 1409.4465
+title: The thermal statistics of quasi-probabilities' analogs in phase space
+authors: Flavia Pennini, Angel Plastino, Mario C. Rocca
+comments: 11 pages, 6 figures.Text has changed
+journal: 
+subjects: Statistical Mechanics (cond-mat.stat-mech); Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1409.4465
+abstract: 
+
+id: 1409.5946
+title: Entanglement area law from specific heat capacity
+authors: Fernando G.S.L. Brandao, Marcus Cramer
+comments: v3 now featuring bosonic systems
+journal: 
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech); Strongly Correlated Electrons (cond-mat.str-el); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph)
+url: http://arxiv.org/abs/1409.5946
+abstract: 
+
+id: 1410.6877
+title: Quantum Noise Limits in White-Light-Cavity-Enhanced Gravitational Wave Detectors
+authors: Minchuan Zhou, Zifan Zhou, Selim M. Shahriar
+comments: 35 pages, 19 figures
+journal: 
+subjects: General Relativity and Quantum Cosmology (gr-qc); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1410.6877
+abstract: 
+
+id: 1410.7543
+title: Orbital angular momentum photonic quantum interface
+authors: Zhi-Yuan Zhou, Yan Li, Dong-Sheng Ding, Wei Zhang, Shuai Shi, Bao-Sen Shi, Guang-Can Guo
+comments: Accepted for publication in journal, Light:Science &Applications
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://arxiv.org/abs/1410.7543
+abstract: 
+
+id: 1412.4067
+title: Monotonicity of quantum relative entropy and recoverability
+authors: Mario Berta, Marius Lemm, Mark M. Wilde
+comments: v3: 22 pages, 1 figure, accepted for publication in Quantum Information and Computation
+journal: 
+subjects: Quantum Physics (quant-ph); Information Theory (cs.IT); Mathematical Physics (math-ph)
+url: http://arxiv.org/abs/1412.4067
+abstract: 
+
+id: 1503.02005
+title: Single-atom imaging of fermions in a quantum-gas microscope
+authors: Elmar Haller, James Hudson, Andrew Kelly, Dylan A. Cotta, Bruno Peaudecerf, Graham D. Bruce, Stefan Kuhr
+comments: 7 pages, 5 figures; Nature Physics, published online 13 July 2015
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Atomic Physics (physics.atom-ph); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1503.02005
+abstract: 
+
+id: 1503.02114
+title: Nonseparability and simultaneous readability
+authors: Riuji Mochizuki
+comments: 14 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1503.02114
+abstract: 
+
+id: 1503.03807
+title: State transfer based on classical nonseparability
+authors: Seyed Mohammad Hashemi Rafsanjani, Mohammad Mirhosseini, Omar S. Maga?a-Loaiza, Robert W. Boyd
+comments: 
+journal: Physical Review A 92, 023827 (2015)
+subjects: Optics (physics.optics); Atomic Physics (physics.atom-ph); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1503.03807
+abstract: 
+
+id: 1503.05940
+title: Dephasing and dissipation in qubit thermodynamics
+authors: J. P. Pekola, Y. Masuyama, Y. Nakamura, J. Bergli, Y. M. Galperin
+comments: 9 pages
+journal: Phys. Rev. E 91, 062109 (2015)
+subjects: Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1503.05940
+abstract: 
+
+id: 1503.07865
+title: Estimating the Coherence of Noise
+authors: Joel Wallman, Christopher Granade, Robin Harper, Steven T. Flammia
+comments: 9 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1503.07865
+abstract: 
+
+id: 1505.00758
+title: Low-noise optical lattices for ultracold $^6$Li
+authors: S. Blatt, A. Mazurenko, M. F. Parsons, C. S. Chiu, F. Huber, M. Greiner
+comments: 5 pages, 4 figures, 3 pages supplemental material
+journal: Phys. Rev. A 92, 021402 (2015)
+subjects: Atomic Physics (physics.atom-ph); Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.00758
+abstract: 
+
+id: 1506.02683
+title: Continuum limit of lattice models with Laughlin-like ground states containing quasiholes
+authors: Ivan D. Rodriguez, Anne E. B. Nielsen
+comments: 8 pages, 7 figures; v2: minor changes and accepted for publication in Phys. Rev. B
+journal: 
+subjects: Strongly Correlated Electrons (cond-mat.str-el); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1506.02683
+abstract: 
+
+id: 1506.04213
+title: Coherent chemical kinetics as quantum walks I: Reaction operators for radical pairs
+authors: A. Chia, A. Gorecka, K. C. Tan, L. Pawela, P. Kurzynski, T. Paterek, D. Kaszlikowski
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1506.04213
+abstract: 
+
+id: 1507.02251
+title: Master Equation Approach for Quantum Noise in Phase-Insensitive Linear Amplifier based on Atomic Systems
+authors: Minchuan Zhou, Zifan Zhou, Selim M. Shahriar
+comments: 35 pages, 15 figures
+journal: 
+subjects: Atomic Physics (physics.atom-ph); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1507.02251
+abstract: 
+
+id: 1508.00434
+title: Spin and Wind Directions: Identifying Entanglement in Nature and Cognition
+authors: Diederik Aerts, Sandro Sozzo
+comments: 25 pages, 7 figures
+journal: 
+subjects: Neurons and Cognition (q-bio.NC); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.00434
+abstract: 
+
+id: 1508.03240
+title: Complementarity relations for quantum coherence
+authors: Shuming Cheng, Michael J. W. Hall
+comments: v2: Generalisation of coherence to groups of physical transformations
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.03240
+abstract: 
+
+id: 1508.04513
+title: Vacuum fluctuations and radiation reaction in radiative processes of entangled states
+authors: G. Menezes, N. F. Svaiter
+comments: Some minor modifications were introduced in the abstract. arXiv admin note: text overlap with arXiv:gr-qc/9408019 by other authors
+journal: 
+subjects: High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.04513
+abstract: 
+
+id: 1508.04532
+title: The boundary conditions as a source of dependence in the confined systems
+authors: V.I. Man'ko, L.A. Markovich, A. Messina
+comments: The first author is against the publication in arxiv of this version of the paper
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1508.04532
+abstract: 
+

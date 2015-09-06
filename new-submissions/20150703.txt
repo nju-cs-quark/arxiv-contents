@@ -1,0 +1,324 @@
+id: 1507.00381
+title: Modulating carrier and sideband coupling strengths in a standing wave gate beam
+authors: Thomas E. deLaubenfels, Karl A. Burkhardt, Grahame Vittorini, J. True Merrill, Kenneth R. Brown, Jason M. Amini
+comments: 5 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Atomic Physics (physics.atom-ph)
+url: http://arxiv.org/abs/1507.00381
+abstract: We control the relative coupling strength of carrier and first order motional sideband interactions of a trapped ion by placing it in a resonant optical standing wave. Our configuration uses the surface of a microfabricated chip trap as a mirror, avoiding technical challenges of in-vacuum optical cavities. Displacing the ion along the standing wave, we show a periodic suppression of the carrier and sideband transitions with the cycles for the two cases $180^\circ$ out of phase with each other. This technique allows for suppression of off-resonant carrier excitations when addressing the motional sidebands, with applications in quantum simulation and quantum control. Using the standing wave fringes, we measure the relative ion height as a function of applied electric field, allowing for a precise measurement of ion displacement and, combined with measured micromotion amplitudes, a validation of trap numerical models.
+
+id: 1507.00402
+title: Quantum communication in the presence of a horizon
+authors: Daiqin Su, T.C. Ralph
+comments: 7 pages, 6 figures
+journal: Phys. Rev. D 90, 084022(2014)
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1507.00402
+abstract: Based on homodyne detection, we discuss how the presence of an event horizon affects quantum communication between an inertial partner, Alice, and a uniformly accelerated partner, Rob. We show that there exists a low frequency cutoff for Rob's homodyne detector that maximizes the signal to noise ratio and it approximately corresponds to the Unruh frequency. In addition, the low frequency cutoff which minimizes the conditional variance between Alice's input state and Rob's output state is also approximately equal to the Unruh frequency. Thus the Unruh frequency provides a natural low frequency cutoff in order to optimize quantum communication of both classical and quantum information between Alice and Rob.
+
+id: 1507.00423
+title: Space-time diamonds
+authors: Daiqin Su, T.C. Ralph
+comments: 5 pages+2 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1507.00423
+abstract: We show that the particle number distribution of diamond modes, modes that are localised in a finite space-time region, are thermal for the Minkowski vacuum state of a massless scalar field, an analogue to the Unruh effect. The temperature of the diamond is inversely proportional to its size. An inertial observer can detect this thermal radiation by coupling to the diamond modes using an appropriate energy scaled detector. We further investigate the correlations between various diamonds and find that entanglement between adjacent diamonds dominates.
+
+id: 1507.00429
+title: Spontaneous parametric down conversion with a depleted pump as an analogue for black hole evaporation/particle production
+authors: Paul M. Alsing, Michael L. Fanto
+comments: 13 pages, 9 figures
+journal: 
+subjects: Quantum Physics (quant-ph); General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+url: http://arxiv.org/abs/1507.00429
+abstract: We present an analytical formulation of the recent one-shot decoupling model of Br\`adler and Adami [arXiv:1505.0284] and compute the resulting "Page Information" curves, for the reduced density matrices for the evaporating black hole internal degrees of freedom, and emitted Hawking radiation pairs entangled across the horizon. We argue that black hole evaporation/particle production has a very close analogy to the laboratory process of spontaneous parametric down conversion, when the pump is allowed to deplete.
+
+id: 1507.00432
+title: Approximate Span Programs
+authors: Tsuyoshi Ito, Stacey Jeffery
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC)
+url: http://arxiv.org/abs/1507.00432
+abstract: Span programs are a model of computation that have been used to design quantum algorithms, mainly in the query model. For any decision problem, there exists a span program that leads to an algorithm with optimal quantum query complexity, but finding such an algorithm is generally challenging. We consider new ways of designing quantum algorithms using span programs. We show how any span program that decides a problem $f$ can also be used to decide "property testing" versions of $f$, or more generally, approximate the span program witness size, a property of the input related to $f$. For example, using our techniques, the span program for OR, which can be used to design an optimal algorithm for the OR function, can also be used to design optimal algorithms for: threshold functions, in which we want to decide if the Hamming weight of a string is above a threshold or far below, given the promise that one of these is true; and approximate counting, in which we want to estimate the Hamming weight of the input. We achieve these results by relaxing the requirement that 1-inputs hit some target exactly in the span program, which could make design of span programs easier. We also give an exposition of span program structure, which increases the understanding of this important model. One implication is alternative algorithms for estimating the witness size when the phase gap of a certain unitary can be lower bounded. We show how to lower bound this phase gap in some cases. As applications, we give the first upper bounds in the adjacency query model on the quantum time complexity of estimating the effective resistance between $s$ and $t$, $R_{s,t}(G)$, of $\tilde O(\frac{1}{\epsilon^{3/2}}n\sqrt{R_{s,t}(G)})$, and, when $\mu$ is a lower bound on $\lambda_2(G)$, by our phase gap lower bound, we can obtain $\tilde O(\frac{1}{\epsilon}n\sqrt{R_{s,t}(G)/\mu})$, both using $O(\log n)$ space.
+
+id: 1507.00441
+title: Work, heat and entropy production in bipartite quantum systems
+authors: Hoda Hossein-Nejad, Edward J. O'Reilly, Alexandra Olaya-Castro
+comments: 16 pages, 2 figures (to appear in NJP)
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1507.00441
+abstract: In bipartite quantum systems commutation relations between the Hamiltonian of each subsystem and the interaction impose fundamental constraints on the dynamics of each partition. Here we investigate work, heat and entropy production in bipartite systems characterized by particular commutators between their local Hamiltonians and the interaction operator. We consider the formalism of [Weimer, EPL, 83:30008, 2008], in which heat (work) is identified with energy changes that (do not) alter the local von Neumann entropy, as observed in an effective local measurement basis. We demonstrate the consequences of the commutation relations on the work and heat fluxes into each partition, and extend the formalism to open quantum systems where one, or both, partitions are subject to a Markovian thermal bath. We also discuss the relation between heat and entropy in bipartite quantum systems out of thermal equilibrium, and reconcile the aforementioned approach with the second law of thermodynamics.
+
+id: 1507.00529
+title: Entanglement-enhanced spreading of correlations
+authors: Michael Kastner
+comments: 8 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Strongly Correlated Electrons (cond-mat.str-el)
+url: http://arxiv.org/abs/1507.00529
+abstract: Starting from a product initial state, equal-time correlations in nonrelativistic quantum lattice models propagate within a lightcone-like causal region. The presence of entanglement in the initial state can modify this behavior, enhancing and accelerating the growth of correlations. In this paper we give a quantitative description, in the form of Lieb-Robinson-type bounds on equal-time correlation functions, of the interplay of dynamics vs. initial entanglement in quantum lattice models out of equilibrium. We test the bounds against model calculations, and also discuss applications to quantum quenches, quantum channels, and Kondo physics.
+
+id: 1507.00544
+title: Comment on Limitations on the superposition principle: superselection rules in non-relativistic quantum mechanics
+authors: Namit Anand
+comments: 1 page, comment on C Cisneros et al 1998 Eur. J. Phys. 19 237
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1507.00544
+abstract: This is a comment to the paper, Limitations on the superposition principle: superselection rules in non-relativistic quantum mechanics by C Cisneros et al 1998 Eur. J. Phys. 19 237. doi:10.1088/0143-0807/19/3/005. The proof that the authors construct for the limitation on the superposition of state vectors corresponding to different sectors of the Hilbert space, partitioned by a superoperator has a flaw as outlined below.
+
+id: 1507.00583
+title: The qubit reveals a qubit-cavity system
+authors: Sreenath K. Manikandan, Vinayak Jagadish, Anil Shaji
+comments: 5 Pages, 2 Figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1507.00583
+abstract: We show that the coupling between a qubit and a single mode cavity can be estimated from the process tomography data for the qubit alone. All the parameters of the coupling Hamiltonian between the qubit and the cavity mode can be obtained from observations on the qubit. We also show that the variance matrix and the photon number statistics of the single mode cavity can be reconstructed. Our results provide an alternate means of obtaining the coupling and reconstructing the state of the cavity mode in comparison with the techniques presently used.
+
+id: 1507.00584
+title: Relation between the usual and the entanglement temperature, in a simple quantum system
+authors: Alejandro Romanelli, Raul Donangelo, Andr¨¦s Vallejo
+comments: published in, Physica A 437, 2015, 471
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1507.00584
+abstract: We develop a thermodynamical theory to describe the behavior of the entanglement between a single two-level atom with a single mode of the electromagnetic field. The resonant Jaynes-Cummings model is used to study both the entanglement thermodynamics, in particular the entanglement temperature, and its connection with the average number of photons in the optical cavity. We find that this entanglement temperature has a strong dependence with the initial conditions of the atom. We show that the entanglement temperature between the photons and the atom defined in this work is the same temperature obtained within the Jaynes-Cummings model at finite temperature developed in the Thermo-Field Dynamics formalism.
+
+id: 1507.00592
+title: Quantum Anonymous Veto protocol
+authors: Ramij Rahaman, Guruprasad Kar
+comments: 6 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Cryptography and Security (cs.CR)
+url: http://arxiv.org/abs/1507.00592
+abstract: Anonymous Veto (AV) and Dining cryptographers (DC) are two basic primitives for the cryptographic problems that can hide the identity of the sender(s) of classical information. They can be achieved by classical methods and the security is based on computational hardness or requires pairwise shared private keys. In this regard, we present a secure quantum protocol for both DC and AV problems by exploiting the GHZ correlation. We first solve a generalized version of the DC problem with the help of multiparty GHZ state. This allow us to provide a secure quantum protocol for the AV problem. Security of both the protocols rely on some novel and fundamental features of the GHZ correlation known as GHZ paradox.
+
+id: 1507.00611
+title: A unifying E2-quasi-exactly solvable model
+authors: Andreas Fring
+comments: 14 pages, 5 figures, prepared for Selected Contributions in Springer Proceedings in Physics
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://arxiv.org/abs/1507.00611
+abstract: A new non-Hermitian E2-quasi-exactly solvable model is constructed containing two previously known models of this type as limits in one of its three parameters. We identify the optimal finite approximation to the double scaling limit to the complex Mathieu Hamiltonian. A detailed analysis of the vicinity of the exceptional points in the parameter space is provided by discussing the branch cut structures responsible for the chirality when exceptional points are surrounded and the structure of the corresponding energy eigenvalue loops stretching over several Riemann sheets. We compute the Stieltjes measure and momentum functionals for the coefficient functions that are univariate weakly orthogonal polynomials in the energy obeying three-term recurrence relations.
+
+id: 1507.00620
+title: Optically-dressed resonant Auger processes induced by high-intensity x rays
+authors: Antonio Pic¨®n, Phay J. Ho, Gilles Doumy, Stephen H. Southworth
+comments: 
+journal: New Journal of Physics 15, 083057 (2013)
+subjects: Quantum Physics (quant-ph); Atomic Physics (physics.atom-ph)
+url: http://arxiv.org/abs/1507.00620
+abstract: We have unveiled coherent multiphoton interferences originating from different quantum paths taken by the Auger electron induced by a high-intensity x-ray/XUV pulse under the presence of a strong optical field. These interferences give rise to a clear signature in the angle-resolved Auger electron spectrum: an asymmetry with respect to the energy of the Auger decay channel. In order to illustrate this effect we have considered the resonant Auger decay of the transition $2p^{5} \!\leftrightarrow\! 1s^{-1}2p^{6}$ in Ne$^{+}$. The simulations show that these interferences are very sensitive to the parameters of the x-ray and optical fields.
+
+id: 1507.00626
+title: Practical Position-Based Quantum Cryptography
+authors: Kaushik Chakraborty, Anthony Leverrier
+comments: 11 pages, 1 figure
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1507.00626
+abstract: We study a general family of quantum protocols for position verification and present a new class of attacks based on the Clifford hierarchy. These attacks outperform current strategies based on port-based teleportation for a large class of practical protocols. We then introduce the Interleaved Product protocol, a new scheme for position verification involving only the preparation and measurement of single-qubit states for which the best available attacks have a complexity exponential in the number of classical bits transmitted.
+
+id: 1507.00628
+title: Invariant-based pulse engineering without rotating wave approximation
+authors: S. Ib¨¢?ez, Yi-Chao Li, Xi Chen, J. G. Muga
+comments: 5 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1507.00628
+abstract: We inverse engineer realizable time-dependent semiclassical pulses to invert or manipulate a two- level system faster than adiabatically when the rotating-wave approximation cannot be applied. Different inversion routes, based on a counterdiabatic approach or invariants, lead quite generally to singular fields. Making use of the relation between the invariants of motion and the Hamiltonian, and canceling the troublesome singularities, an inversion scheme is put forward for the regime in which the pulse spans few oscillations. For many oscillations an alternative numerical minimization method is proposed and demonstrated.
+
+id: 1507.00657
+title: Loopholes in the interpretation of experiments on the Aharonov-Bohm effect
+authors: Herman Batelaan, Maria Becker
+comments: 12 pages, 1 giure, 1 table
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1507.00657
+abstract: The independence of the Aharonov-Bohm phase shift on particle velocity is one of its defining properties. The classical counterpart to this dispersionless behavior is the absence of forces along the direction of motion of the particle. A reevaluation of the experimental demonstration that forces are absent in the AB physical system is given, including previously unpublished data. It is shown that the debate on the presence or absence of forces is not settled, and an experiment searching for dispersionless forces is proposed.
+
+id: 1507.00715
+title: An Effective Approach to Complex Vector Reconstruction from Intensity Measurements
+authors: Artur Czerwi¨½ski
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://arxiv.org/abs/1507.00715
+abstract: In this article we propose a stroboscopic approach to complex vector reconstruction in the context of quantum tomography. There are two underlying assumptions behind our reasoning. The first one claims that the evolution of a d-level pure quantum system is given by the Schr\"odinger equation with a time-independent Hamiltonian and the other states that the knowledge about the quantum state is provided from projective measurements, also called intensity measurements. The problem of quantum state reconstruction is connected with the notion known as phase retrieval - recovering a complex vector from modulus of inner product with frame vectors. We believe that the stroboscopic approach can significantly improve the effectiveness of the vector reconstruction as it aims to decrease the number of distinct projectors by taking advantage of the knowledge about the evolution. General conditions and observations are applied to a specific unitary model.
+
+id: 1507.00256
+title: Quantum photonics hybrid integration platform
+authors: Eoin Murray, David P. Ellis, Thomas Meany, Frederick F. Flother, James P. Lee, Jonathan P. Griffiths, Geb A. C. Jones, Ian Farrer, David A. Ritchie, Anthony J. Bennet, Andrew J. Shields
+comments: 4 pages, 9 figures
+journal: 
+subjects: Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1507.00256
+abstract: Fundamental to integrated photonic quantum computing is an on-chip method for routing and modulating quantum light emission. We demonstrate a hybrid integration platform consisting of arbitrarily designed waveguide circuits and single photon sources. InAs quantum dots (QD) embedded in GaAs are bonded to an SiON waveguide chip such that the QD emission is coupled to the waveguide mode. The waveguides are SiON core embedded in a SiO2 cladding. A tuneable Mach Zehnder modulates the emission between two output ports and can act as a path-encoded qubit preparation device. The single photon nature of the emission was veri?ed by an on-chip Hanbury Brown and Twiss measurement.
+
+id: 1507.00348
+title: Topological Crystalline Bose Insulator in Two Dimensions via Entanglement Spectrum
+authors: Brayden Ware, Itamar Kimchi, S. A. Parameswaran, Bela Bauer
+comments: 18 pages, 13 figures
+journal: 
+subjects: Strongly Correlated Electrons (cond-mat.str-el); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1507.00348
+abstract: Strongly correlated analogues of topological insulators have been explored in systems with purely on-site symmetries, such as time-reversal or charge conservation. Here, we use recently developed tensor network tools to study a quantum state of interacting bosons which is featureless in the bulk, but distinguished from an atomic insulator in that it exhibits entanglement which is protected by its spatial symmetries. These properties are encoded in a model many-body wavefunction that describes a fully symmetric insulator of bosons on the honeycomb lattice at half filling per site. While the resulting integer unit cell filling allows the state to bypass `no-go' theorems that trigger fractionalization at fractional filling, it nevertheless has nontrivial entanglement, protected by symmetry. We demonstrate this by computing the boundary entanglement spectra, finding a gapless entanglement edge described by a conformal field theory as well as degeneracies protected by the non-trivial action of combined charge-conservation and spatial symmetries on the edge. Here, the tight-binding representation of the space group symmetries plays a particular role in allowing certain entanglement cuts that are not allowed on other lattices of the same symmetry, suggesting that the lattice representation can serve as an additional symmetry ingredient in protecting an interacting topological phase. Our results extend to a related insulating state of electrons, with short-ranged entanglement and no band insulator analogue.
+
+id: 1507.00408
+title: Resurgence in sine-Gordon quantum mechanics: Exact agreement between multi-instantons and uniform WKB
+authors: Tatsuhiro Misumi, Muneto Nitta, Norisuke Sakai
+comments: 42 pages, 13 figures
+journal: 
+subjects: High Energy Physics - Theory (hep-th); High Energy Physics - Phenomenology (hep-ph); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1507.00408
+abstract: We compute multi-instanton amplitudes in the sine-Gordon quantum mechanics (periodic cosine potential) by integrating out quasi-moduli parameters corresponding to separations of instantons and anti-instantons. We propose an extension of Bogomolnyi--Zinn-Justin prescription for multi-instanton configurations and an appropriate subtraction scheme. We obtain the multi-instanton contributions to the energy eigenvalue of the lowest band at the zeroth order of the coupling constant. For the configurations with only instantons (anti-instantons), we obtain unambiguous results. For those with both instantons and anti-instantons, we obtain results with imaginary parts, which depend on the path of analytic continuation. We show that the imaginary parts of the multi-instanton amplitudes precisely cancel the imaginary parts of the Borel resummation of the perturbation series, and verify that our results completely agree with those based on the uniform-WKB calculations, thus confirming the resurgence : divergent perturbation series combined with the nonperturbative multi-instanton contributions conspire to give unambiguous results. We also study the neutral bion contributions in the ${\mathbb C}P^{N-1}$ model on ${\mathbb R}^1\times S^{1}$ with a small circumference, taking account of the relative phase moduli between the fractional instanton and anti-instanton. We find that the sign of the interaction potential depends on the relative phase moduli, and that both the real and imaginary parts resulting from quasi-moduli integral of the neutral bion get quantitative corrections compared to the sine-Gordon quantum mechanics.
+
+id: 1507.00558
+title: Coherent quantum tomography
+authors: Joonas Ilmavirta
+comments: 
+journal: 
+subjects: Mathematical Physics (math-ph); Classical Analysis and ODEs (math.CA); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1507.00558
+abstract: We discuss a quantum mechanical indirect measurement method to recover a position dependent Hamilton matrix from time evolution of coherent quantum mechanical states through an object. A mathematical formulation of this inverse problem leads to weighted X-ray transforms where the weight is a matrix. We show that such X-ray transforms are injective with very rough weights. Consequently, we can solve our quantum mechanical inverse problem in several settings, but many physically relevant problems we pose also remain open. We discuss the physical background of the proposed imaging method in detail. We give a rigorous mathematical treatment of a neutrino tomography method that has been previously described in the physical literature.
+
+id: 1507.00582
+title: Entanglement constant for conformal families
+authors: Pawel Caputa, Alvaro Veliz-Osorio
+comments: 1+27 pages, 4 figures
+journal: 
+subjects: High Energy Physics - Theory (hep-th); Statistical Mechanics (cond-mat.stat-mech); Strongly Correlated Electrons (cond-mat.str-el); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1507.00582
+abstract: We show that in 1+1 dimensional conformal field theories, exciting a state with a local operator increases the Renyi entanglement entropies by a constant which is the same for every member of the conformal family. Hence, it is an intrinsic parameter that characterises local operators from the perspective of quantum entanglement. In rational conformal field theories this constant corresponds to the logarithm of the quantum dimension of the primary operator. We provide several detailed examples and a general derivation.
+
+id: 1507.00608
+title: Spectral properties of magnetic chain graphs
+authors: Pavel Exner, Stepan Manko
+comments: 23 pages, 2 figures. arXiv admin note: text overlap with arXiv:1412.6089
+journal: 
+subjects: Mathematical Physics (math-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Spectral Theory (math.SP); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1507.00608
+abstract: We discuss spectral properties of a charged quantum particle confined to a chain graph consisting of an infinite array of rings under influence of a magnetic field assuming a $\delta$-coupling at the points where the rings touch. We start with the situation when the system has a translational symmetry and analyze spectral consequences of perturbations of various kind, such as a local change of the magnetic field, of the coupling constant, or of a ring circumference. A particular attention is paid to weak perturbations, both local and periodic; for the latter we prove a version of Saxon-Hutner conjecture.
+
+id: 1507.00612
+title: Killing quantum entanglement by acceleration or a black hole
+authors: Yue Dai, Zhejun Shen, Yu Shi
+comments: 14 pages
+journal: 
+subjects: General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1507.00612
+abstract: We consider two entangled accelerating qubits coupled with real scalar fields, each described by the Unruh-Wald model. It is demonstrated that because of the Unruh effect, the bipartite entanglement of the two qubits suddenly dies when the acceleration of one or more qubits are large enough. We also consider three entangled accelerating qubits in GHZ state and in W state, with equal acceleration-frequency ratio, and found that in either state, the tripartite entanglement suddenly dies at a certain value of acceleration-frequency ratio. The equivalence between the Rindler metric and the Schwarzchild metric in the vicinity of the horizon of a black hole implies that for the two entangled qubits outside a black hole, the entanglement suddenly dies when one or both of the qubits are close enough to the horizon, while for the three entangled qubits in GHZ or W state, the tripartite entanglement suddenly dies when these qubits are close enough to the horizon.
+
+id: 1507.00618
+title: Approximate Solutions of Dirac Equation with Hyperbolic-type Potential
+authors: Altug Arda, Ramazan Sever
+comments: 12 pages, 2 figures
+journal: 
+subjects: High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1507.00618
+abstract: The energy eigenvalues of a Dirac particle for the hyperbolic-type potential field have been computed approximately. It is obtained a transcendental function of energy, $\mathcal{F}(E)$, by writing in terms of confluent Heun functions. The numerical values of energy are then obtained by fixing the zeros on "$E$-axis" for both complex functions $Re[\mathcal{F}(E)]$ and $Im[\mathcal{F}(E)]$.
+
+id: 1507.00668
+title: "Classical-ish": Negotiating the boundary between classical and quantum particles
+authors: Benjamin W. Dreyfus, Erin Ronayne Sohr, Ayush Gupta, Andrew Elby
+comments: 4 pages, submitted to PERC 2015 Proceedings
+journal: 
+subjects: Physics Education (physics.ed-ph); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1507.00668
+abstract: Quantum mechanics can seem like a departure from everyday experience of the physical world, but constructivist theories assert that learners build new ideas from their existing ones. To explore how students can navigate this tension, we examine video of a focus group completing a tutorial about the "particle in a box." In reasoning about the properties of a quantum particle, the students bring in elements of a classical particle ontology, evidenced by students' language and gestures. This reasoning, however, is modulated by metacognitive moments when the group explicitly considers whether classical intuitions apply to the quantum system. The students find some cases where they can usefully apply classical ideas to quantum physics, and others where they explicitly contrast classical and quantum mechanics. Negotiating this boundary with metacognitive awareness is part of the process of building quantum intuitions. Our data suggest that (some) students bring productive intellectual resources to this negotiation.
+
+id: 1310.0331
+title: Statistics of Two Kinds of Entangled Quantum Many-body Systems
+authors: Hua Bi Zeng
+comments: this paper has been withdrawn by the author due to a crucial sign error in equation 5
+journal: 
+subjects: Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1310.0331
+abstract: 
+
+id: 1412.0686
+title: Practical variational tomography for critical 1D systems
+authors: Jong Yeon Lee, Olivier Landon-Cardinal
+comments: 
+journal: Phys. Rev. A 91, 062128 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1412.0686
+abstract: 
+
+id: 1412.8583
+title: Relativity of arithmetic as a fundamental symmetry of physics
+authors: Marek Czachor
+comments: 
+journal: 
+subjects: Mathematical Physics (math-ph); General Relativity and Quantum Cosmology (gr-qc); Chaotic Dynamics (nlin.CD); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1412.8583
+abstract: 
+
+id: 1502.07279
+title: Fully QED/relativistic theory of light pressure on free electrons by isotropic radiation
+authors: A. E. Kaplan
+comments: 9 pages, 2 figures. arXiv admin note: substantial text overlap with arXiv:1410.6953
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1502.07279
+abstract: 
+
+id: 1503.05028
+title: Universal simulation of Markovian open quantum systems
+authors: Ryan Sweke, Ilya Sinayskiy, Denis Bernard, Francesco Petruccione
+comments: Published version. Significant revisions from v1
+journal: Phys. Rev. A 91, 062308 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1503.05028
+abstract: 
+
+id: 1504.03661
+title: Resource convertibility and ordered commutative monoids
+authors: Tobias Fritz
+comments: 63 pages. v2: revised exposition, new title
+journal: 
+subjects: Optimization and Control (math.OC); Commutative Algebra (math.AC); Combinatorics (math.CO); Functional Analysis (math.FA); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.03661
+abstract: 
+
+id: 1504.05359
+title: Tunable multi-channel inverse optomechanically induced transparency
+authors: Qin Wu, Jian-Qi Zhang, Jin-Hui Wu, Mang Feng, Zhi-Ming Zhang
+comments: 14 pages, 6 figures, and 1 table. To be published in Opt. Exp
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://arxiv.org/abs/1504.05359
+abstract: 
+
+id: 1504.06632
+title: Consistency Conditions for an AdS/MERA Correspondence
+authors: Ning Bao, ChunJun Cao, Sean M. Carroll, Aidan Chatwin-Davies, Nicholas Hunter-Jones, Jason Pollack, Grant N. Remmen
+comments: 38 pages, 9 figures
+journal: Phys. Rev. D 91, 125036 (2015)
+subjects: High Energy Physics - Theory (hep-th); Strongly Correlated Electrons (cond-mat.str-el); General Relativity and Quantum Cosmology (gr-qc); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1504.06632
+abstract: 
+
+id: 1506.09079
+title: Optimized geometries for future generation optical lattice clocks
+authors: Sebastian Kr?mer, Laurin Ostermann, Helmut Ritsch
+comments: 5 pages, 5 figures (v2: added one reference)
+journal: 
+subjects: Quantum Physics (quant-ph); Quantum Gases (cond-mat.quant-gas); Atomic Physics (physics.atom-ph)
+url: http://arxiv.org/abs/1506.09079
+abstract: 
+
+id: 1507.00316
+title: Convergence rates of supercell calculations in the reduced Hartree-Fock model
+authors: David Gontier, Salma Lahbabi
+comments: 
+journal: 
+subjects: Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1507.00316
+abstract: 
+

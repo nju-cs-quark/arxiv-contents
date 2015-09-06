@@ -1,0 +1,18 @@
+id: 1505.02035
+title: Correcting for Potential Barriers in Quantum Walk Search
+authors: Andris Ambainis, Thomas G. Wong
+comments: 8 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1505.02035
+abstract: A randomly walking quantum particle searches in Grover's $\Theta(\sqrt{N})$ iterations for a marked vertex on the complete graph of $N$ vertices by repeatedly querying an oracle that flips the amplitude at the marked vertex, scattering by a "coin" flip, and hopping. Physically, however, potential energy barriers can hinder the hop and cause the search to fail, even when the amplitude of not hopping decreases with $N$. We correct for these errors by interpreting the quantum walk search as an amplitude amplification algorithm and modifying the phases applied by the coin flip and oracle such that the amplification recovers the $\Theta(\sqrt{N})$ runtime.
+
+id: 1505.02057
+title: $^{29}$Si nuclear spins as a resource for donor spin qubits in silicon
+authors: Gary Wolfowicz, Pierre-Andre Mortemousque, Roland Guichard, Stephanie Simmons, Mike L. W. Thewalt, Kohei M. Itoh, John J. L. Morton
+comments: 6 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
+url: http://arxiv.org/abs/1505.02057
+abstract: Nuclear spin registers in the vicinity of electron spins in solid state systems offer a powerful resource to address the challenge of scalability in quantum architectures. We investigate here the properties of $^{29}$Si nuclear spins surrounding donor atoms in silicon, and consider the use of such spins, combined with the donor nuclear spin, as a quantum register coupled to the donor electron spin. We find the coherence of the nearby $^{29}$Si nuclear spins is effectively protected by the presence of the donor electron spin, leading to coherence times in the second timescale - over two orders of magnitude greater than the coherence times in bulk silicon. We theoretically investigate the use of such a register for quantum error correction, including methods to protect nuclear spins from the ionisation/neutralisation of the donor, which is necessary for the re-initialisation of the ancillae qubits. This provides a route for multi-round quantum error correction using donors in silicon.
+
