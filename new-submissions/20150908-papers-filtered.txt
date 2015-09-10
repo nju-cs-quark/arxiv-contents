@@ -1,0 +1,36 @@
+id: 1509.02004
+title: A Compiler for Fault-Tolerant High Level Quantum Circuits
+authors: Alexandru Paler, Ilia Polian, Kae Nemoto, Simon J. Devitt
+comments: 17 pages, 17 figures, comments welcome. The compiler source code is released under the Microsoft Reference Source License (Ms-RSL, this http URL license.html) at this http URL
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.02004
+abstract: Fault-tolerant quantum error correction is an absolute necessity for any quantum architecture destined to tackle interesting, large-scale quantum algorithms. The theoretical formalism of quantum error correction codes, fault-tolerant circuit constructions, gate decompositions and relevant optimisations have been well founded for nearly two decades. However, at this point we still do not have a reliable compiler to adapt a high level circuit description to a fully fault-tolerant, error corrected description. There are many technical hurdles to this, including dynamic circuit constructions that occur due to teleportation protocols necessary to achieve fault-tolerance with commonly used error correction codes. We combine multiple results to develop a package that takes any high level quantum circuit consisting of CNOT, Toffoli, Controlled-$\sqrt{X}$ and arbitrary single qubit rotations and converts it to a equivalent quantum circuit employing ancillary protocols needed for fault-tolerant error correction. We call this representation the (I)initialisation, (C)NOT, (M)measurement representation (ICM) and consists of an initialisation layer of qubits into one of four distinct states, a massive array of CNOT operations that implement the relevant algorithmic decompositions and fault-tolerant ancillary protocols and a series of time ordered $X$- and $Z$-basis measurements. Our package will output either a standard circuit description or a canonical geometric structure that represents its implementation for topological quantum codes that can be further optimised and implemented on actual quantum hardware.
+
+id: 1501.05658
+title: Avoiding Haag's theorem with parameterized quantum field theory
+authors: Ed Seidewitz
+comments: 30 pages, RevTex 4; v2: Title changed and early sections significantly re-written to improve parallel with traditional QFT and focus on what is necessary for Haag's Theorem
+journal: 
+subjects: High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1501.05658
+abstract: 
+
+id: 1502.04289
+title: Single-point position and transition defects in continuous time quantum walks
+authors: Zhi-Jian Li, J. B. Wang
+comments: 12pages,8figures
+journal: Scientific Reports 5 (2015) 13585
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1502.04289
+abstract: 
+
+id: 1503.08806
+title: Simplified implementation of the quantum Fourier transform with Ising-type Hamiltonians: Example with ion traps
+authors: Svetoslav S. Ivanov, Michael Johanning, Christof Wunderlich
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1503.08806
+abstract: 
+
