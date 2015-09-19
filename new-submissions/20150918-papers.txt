@@ -1,0 +1,306 @@
+id: 1509.05032
+title: Reducing the overhead for quantum computation when noise is biased
+authors: Paul Webster, Stephen D. Bartlett, David Poulin
+comments: 9 pages, 6 figures, comments welcome
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.05032
+abstract: We analyse a model for fault-tolerant quantum computation with low overhead suitable for situations where the noise is biased. The basis for this scheme is a gadget for the fault-tolerant preparation of magic states that enable universal fault-tolerant quantum computation using only Clifford gates that preserve the noise bias. We analyse the distillation of $|T\rangle$-type magic states using this gadget at the physical level, followed by concatenation with the 15-qubit quantum Reed-Muller code, and comparing our results with standard constructions. In the regime where the noise bias (rate of Pauli $Z$ errors relative to other single-qubit errors) is greater than a factor of 10, our scheme has lower overhead across a broad range of relevant noise rates.
+
+id: 1509.05065
+title: Estimating operator norms using covering nets
+authors: Fernando G.S.L. Brandao, Aram W. Harrow
+comments: 24 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC); Data Structures and Algorithms (cs.DS); Optimization and Control (math.OC)
+url: http://www.arxiv.org/abs/1509.05065
+abstract: We present several polynomial- and quasipolynomial-time approximation schemes for a large class of generalized operator norms. Special cases include the $2\rightarrow q$ norm of matrices for $q>2$, the support function of the set of separable quantum states, finding the least noisy output of entanglement-breaking quantum channels, and approximating the injective tensor norm for a map between two Banach spaces whose factorization norm through $\ell_1^n$ is bounded. These reproduce and in some cases improve upon the performance of previous algorithms by Brand\~ao-Christandl-Yard and followup work, which were based on the Sum-of-Squares hierarchy and whose analysis used techniques from quantum information such as the monogamy principle of entanglement. Our algorithms, by contrast, are based on brute force enumeration over carefully chosen covering nets. These have the advantage of using less memory, having much simpler proofs and giving new geometric insights into the problem. Net-based algorithms for similar problems were also presented by Shi-Wu and Barak-Kelner-Steurer, but in each case with a run-time that is exponential in the rank of some matrix. We achieve polynomial or quasipolynomial runtimes by using the much smaller nets that exist in $\ell_1$ spaces. This principle has been used in learning theory, where it is known as Maurey's empirical method.
+
+id: 1509.05090
+title: Rotational excitation of molecules with long sequences of intense femtosecond pulses
+authors: M. Bitter, V. Milner
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1509.05090
+abstract: We investigate the prospects of creating broad rotational wave packets by means of molecular interaction with long sequences of intense femtosecond pulses. Using state-resolved rotational Raman spectroscopy of oxygen, subject to a sequence of more than 20 laser pulses with peak intensities exceeding $10^{13}$ W/cm$^{2}$ per pulse, we show that the centrifugal distortion is the main obstacle on the way to reaching high rotational states. We demonstrate that the timing of the pulses can be optimized to partially mitigate the centrifugal limit. The cumulative effect of a long pulse sequence results in high degree of rotational coherence, which is shown to cause an efficient spectral broadening of probe light via cascaded Raman transitions.
+
+id: 1509.05098
+title: Quantum optical signal processing in diamond
+authors: Kent A.G. Fisher, Duncan. G. England, Jean-Phillipe W. Maclean, Philip J. Bustard, Kevin J. Resch, Benjamin J. Sussman
+comments: 6 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1509.05098
+abstract: Controlling the properties of single photons is essential for a wide array of emerging optical quantum technologies spanning quantum sensing, quantum computing, and quantum communications. Essential components for these technologies include single photon sources, quantum memories, waveguides, and detectors. The ideal spectral operating parameters (wavelength and bandwidth) of these components are rarely similar; thus, frequency conversion and spectral control are key enabling steps for component hybridization. Here we perform signal processing of single photons by coherently manipulating their spectra via a modified quantum memory. We store 723.5 nm photons, with 4.1 nm bandwidth, in a room-temperature diamond crystal; upon retrieval we demonstrate centre frequency tunability over 4.2 times the input bandwidth, and bandwidth modulation between 0.5 to 1.9 times the input bandwidth. Our results demonstrate the potential for diamond, and Raman memories in general, to be an integrated platform for photon storage and spectral conversion.
+
+id: 1509.05124
+title: Pole placement design for quantum systems via coherent observers
+authors: Zibo Miao, Matthew R. James, Valery A. Ugrinovskii
+comments: 6 pages, 2 figures, conference
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.05124
+abstract: We previously extended Luenberger's approach for observer design to the quantum case, and developed a class of coherent observers which tracks linear quantum stochastic systems in the sense of mean values. In light of the fact that the Luenberger observer is commonly and successfully applied in classical control, it is interesting to investigate the role of coherent observers in quantum feedback. As the first step in exploring observer-based coherent control, in this paper we study pole-placement techniques for quantum systems using coherent observers, and in such a fashion, poles of a closed-loop quantum system can be relocated at any desired locations. In comparison to classical feedback control design incorporating the Luenberger observer, here direct coupling between a quantum plant and the observer-based controller are allowed to enable a greater degree of freedom for the design of controller parameters. A separation principle is presented, and we show how to design the observer and feedback independently to be consistent with the laws of quantum mechanics. The proposed scheme is applicable to coherent feedback control of quantum systems, especially when the transient dynamic response is of interest, and this issue is illustrated in an example.
+
+id: 1509.05136
+title: Are weak measurements really necessary for Leggett-Garg type measurements?
+authors: N.D. Hari Dass
+comments: 5 pages in Revtex
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.05136
+abstract: Leggett-Garg inequalities are an important milestone in our quest to bridge the classical-quantum divide. An experimental investigation of these inequalities requires the so called \emph{non-invasive measurements}(NIM). It has become popular to invoke weak measurements as the means of realising NIMs to very good approximation, because of their allegedly low disturbance of systems under measurement. In this note, this is shown to be a myth; it is shown, by simple estimates of errors, that for comparable levels of statistical errors, even the strong or projective measurements can be used. In fact, it is shown that resource-wise, strong measurements are even preferable.
+
+id: 1509.05155
+title: Decoupling with random diagonal-unitary matrices
+authors: Yoshifumi Nakata, Christoph Hirche, Ciara Morgan, Andreas Winter
+comments: 26 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.05155
+abstract: We investigate decoupling, one of the most important primitives in quantum Shannon theory, by replacing the uniformly distributed random unitaries (and more specifically, unitary 2-designs) commonly used to achieve the protocol, with random diagonal-unitaries. In particular, we show that the alternate application of random diagonal-unitaries in the Pauli-$Z$ and -$X$ bases can achieve a decoupling rate equal to that achieved with uniformly distributed random unitaries. This strategy was recently shown to achieve an approximate unitary $2$-design after a number of repetitions of the process. This implies that the strategy gradually achieves decoupling. Here, we prove that even fewer repetitions of the process are sufficient to achieve decoupling. Based on this, we provide a simple quantum circuit achieving decoupling, which can be partitioned into a constant number of commuting parts. We also present applications of our decoupling theorem to coherent state merging and relative thermalization.
+
+id: 1509.05165
+title: Minimal control power of the controlled teleportation
+authors: Kabgyun Jeong, Jaewan Kim, Soojoon Lee
+comments: 4 pages, No figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.05165
+abstract: We generalize the control power of a perfect controlled teleportation on some entangled three-qubit pure state suggested in [Phy. Rev. A {\bf 90}, 052305 (2014)] to the control power of a general controlled teleportation on a multi-qubit pure state. In addition, we define the minimal control power, and calculate the values of the minimal control power on a class of general three-qubit GHZ states and the three-qubit W class whose states have zero three-tangles. Moreover, we show that the standard GHZ state and the standard W state have the maximal values of the minimal control power on the two classes, respectively. This means that the minimal control power can be interpreted as not only an operational quantity of a multi-partite quantum communication but also a degree of multi-partite entanglement.
+
+id: 1509.05216
+title: Few-photon coherent nonlinear optics with a single molecule
+authors: Andreas Maser, Benjamin Gmeiner, Tobias Utikal, Stephan G?tzinger, Vahid Sandoghdar
+comments: 6 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1509.05216
+abstract: The pioneering experiments of linear spectroscopy were performed using flames in the 1800s, but nonlinear optical measurements had to wait until lasers became available in the twentieth century. Because the nonlinear cross section of materials is very small, usually macroscopic bulk samples and pulsed lasers are used. Numerous efforts have explored coherent nonlinear signal generation from individual nanoparticles or small atomic ensembles with millions of atoms. Experiments on a single semiconductor quantum dot have also been reported, albeit with a very small yield. Here, we report on coherent nonlinear spectroscopy of a single molecule under continuous-wave single-pass illumination, where efficient photon-molecule coupling in a tight focus allows switching of a laser beam by less than a handful of pump photons nearly resonant with the sharp molecular transition. Aside from their fundamental importance, our results emphasize the potential of organic molecules for applications such as quantum information processing, which require strong nonlinearities.
+
+id: 1509.05258
+title: Semi-classical locality for the non-relativistic path integral in configuration space
+authors: Henrique Gomes
+comments: 13 pages, 1 figure, 3 page appendix
+journal: 
+subjects: Quantum Physics (quant-ph); General Relativity and Quantum Cosmology (gr-qc)
+url: http://www.arxiv.org/abs/1509.05258
+abstract: In an accompanying paper, we have put forward an interpretation of quantum mechanics grounded on a non-relativistic Lagrangian 3+1 formalism of a closed Universe, existing on timeless configuration space. However, not much was said there about the role of locality, which was not assumed. In this paper, I describe how subsystems existing in (spatial) regions with fixed boundary conditions can be represented as submanifolds of the complete configuration space. I show that if the action functional can be put in the form of Riemannian distance element, then dynamical independence of the subsystem implies that the respective submanifolds are totally geodesic. When two regions are mutually independent the semi-classical path integral kernel factorizes, showing cluster decomposition. To exemplify these constructions I then construct a specific gravitational system with two propagating physical degrees of freedom and no refoliation-invariance. Finally, considering the path integral in this 3+1 context, I implement an unusual sort of gauge-fixing for this system: given an initial representative of the gauge orbit, it fixes the path velocities to be parallel propagated, i.e. it fixes a horizontal lift for each path in the principal fiber bundle as opposed to a section of the principal fiber bundle. This facilitates the writing of the Fadeev-Popov determinant for our system, and completely determines the gauge-fixed path integral.
+
+id: 1509.05286
+title: Representation of superoperators in double phase space
+authors: Marcos Saraceno, Alfredo M. Ozorio de Almeida
+comments: 22 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.05286
+abstract: Operators in quantum mechanics - either observables, density or evolution operators, unitary or not - can be represented by c-numbers in operator bases. The position and momentum bases are in one to one correspondence with lagrangian planes in double phase space, but this is also true for the well known Wigner-Weyl correspondence based on translation and reflection operators. These phase space methods are here extended to the representation of superoperators. We show that the Choi-Jamiolkowsky isomorphism between the dynamical matrix and the linear action of the superoperator constitutes a "double" Wigner or chord transform when represented in double phase space. As a byproduct several previously unknown integral relationships between products of Wigner and chord distributions for pure states are derived.
+
+id: 1509.05307
+title: Non-Markovian dynamics in two-qubit dephasing channels with an application to superdense coding
+authors: Antti Karlsson, Henri Lyyra, Elsi-Mari Laine, Sabrina Maniscalco, Jyrki Piilo
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.05307
+abstract: We study the performance of two measures of non-Markovianity in detecting memory effects in two-qubit dephasing channels. By combining independent Markovian and non-Markovian noise on the qubits, our results show that the trace distance measure is able to detect the memory effects when at least one of the local channels displays non-Markovianity. A measure based on channel capacity, in turn, becomes non-zero when the global two-qubit dynamics shows memory effects. We apply these schemes to a well-known superdense coding protocol and demonstrate an optimal noise configuration to maximize the information transmission with independent local noises.
+
+id: 1509.05378
+title: Universal Control of Ion Qubits in a Scalable Microfabricated Planar Trap
+authors: Creston D. Herold, Spencer D. Fallek, J. True Merrill, Adam M. Meier, Kenton R. Brown, Curtis Volin, Jason M. Amini
+comments: 17 pages, 7 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Atomic Physics (physics.atom-ph)
+url: http://www.arxiv.org/abs/1509.05378
+abstract: We demonstrate universal quantum control over chains of ions in a surface-electrode ion trap, including all the fundamental operations necessary to perform algorithms in a one-dimensional, nearest-neighbor quantum computing architecture. We realize both single-qubit operations and nearest-neighbor entangling gates with Raman laser beams, and we interleave the two gate types. We report average single-qubit gate fidelities as high as 0.970(1) for two-, three-, and four-ion chains, characterized with randomized benchmarking. We generate Bell states between the nearest-neighbor pairs of a three-ion chain, with fidelity up to 0.84(2). We combine one- and two-qubit gates to perform quantum process tomography of a CNOT gate in a two-ion chain, and we report an overall fidelity of 0.76(3).
+
+id: 1509.04028
+title: Topological properties of Fibonacci quasicrystals : A scattering analysis of Chern numbers
+authors: E. Levy, A. Barak, A. Fisher, E. Akkermans
+comments: 
+journal: 
+subjects: Optics (physics.optics); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Materials Science (cond-mat.mtrl-sci); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.04028
+abstract: We report on a study of topological properties of Fibonacci quasicrystals. Chern numbers which label the dense set of spectral gaps, are shown to result from the underlying palindromic symmetry. Topological and spectral features are related to the two independent phases of the scattering matrix: the total phase shift describing the frequency spectrum and the chiral phase sensitive to topological features. Conveniently designed gap modes with spectral properties directly related to the Chern numbers allow to scan these phases. An effective topological Fabry-Perot cavity is presented.
+
+id: 1509.05044
+title: Spread of entanglement and causality
+authors: Horacio Casini, Hong Liu, M¨¢rk Mezei
+comments: 78 pages, 30 figures
+journal: 
+subjects: High Energy Physics - Theory (hep-th); Strongly Correlated Electrons (cond-mat.str-el); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.05044
+abstract: We investigate causality constraints on the time evolution of entanglement entropy after a global quench in relativistic theories. We first provide a general proof that the so-called tsunami velocity is bounded by the speed of light. We then generalize the free particle streaming model of arXiv:cond-mat/0503393 to general dimensions and to an arbitrary entanglement pattern of the initial state. In more than two spacetime dimensions the spread of entanglement in these models is highly sensitive to the initial entanglement pattern, but we are able to prove an upper bound on the normalized rate of growth of entanglement entropy, and hence the tsunami velocity. The bound is smaller than what one gets for quenches in holographic theories, which highlights the importance of interactions in the spread of entanglement in many-body systems. We propose an interacting model which we believe provides an upper bound on the spread of entanglement for interacting relativistic theories. In two spacetime dimensions with multiple intervals, this model and its variations are able to reproduce intricate results exhibited by holographic theories for a significant part of the parameter space. For higher dimensions, the model bounds the tsunami velocity at the speed of light. Finally, we construct a geometric model for entanglement propagation based on a tensor network construction for global quenches.
+
+id: 1509.05266
+title: Solid state Stern-Gerlach spin-splitter for magnetic field sensoring, spintronics, and quantum computing
+authors: Kristofer Bj?rnson, Annica M. Black-Schaffer
+comments: 5 pages, 2 figures
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.05266
+abstract: We show that the edge of a two-dimensional topological insulator can be used to construct a solid state Stern-Gerlach spin-splitter. By threading such a Stern-Gerlach apparatus with a magnetic flux, Ahranov-Bohm like interference effects are introduced. Using ferromagnetic leads, the setup can be used to both measure magnetic flux and as a spintronics switch. With normal metallic leads a switchable spintronics NOT-gate can be implemented. Furthermore, we show that a sequence of such devices can be used to construct a single-qubit $SU(2)$-gate, one of the two gates required for a universal quantum computer. The field sensitivity, or switching field, $b$ is related to the device characteristic size $r$ through $b = \frac{\hbar}{qr^2}$, with $q$ the unit of electric charge.
+
+id: 1509.05345
+title: Towards realistic implementations of a Majorana surface code
+authors: L. A. Landau, S. Plugge, E. Sela, A. Altland, S. M. Albrecht, R. Egger
+comments: 5 pages, 1 p. suppl.mat
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Superconductivity (cond-mat.supr-con); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.05345
+abstract: Surface codes have emerged as promising candidates for quantum information processing. Building on the previous idea to realize the physical qubits of such systems in terms of Majorana bound states supported by topological semiconductor nanowires, we show that the basic code operations, namely projective stabilizer measurements and qubit manipulations, can be implemented by conventional tunnel conductance probes and charge pumping via single-electron transistors, respectively. The simplicity of the access scheme suggests that a functional code might be in close experimental reach.
+
+id: 1509.05349
+title: Isoelectronic determination of the thermal Casimir force
+authors: G. Bimonte, D. Lopez, R. S. Decca
+comments: 5 pages, 4 figures
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.05349
+abstract: We report the results of isoelectronic thermal Casimir force measurements between a metal coated sphere and a rotating disk with a periodic distribution of magnetic and non-magnetic metals. The differential force measurement technique considerably reduces the background, allowing to unequivocally rule out a Drude response with magnetic properties taken into account. Results are best modeled with a dielectric plasma response with magnetic properties included. Neither a Drude nor a plasma dielectric response provide a satisfactory description if the magnetic properties are disregarded.
+
+id: 1106.2776
+title: Shortcuts to adiabaticity for non-Hermitian systems
+authors: S. Ib¨¢?ez, S. Mart¨ªnez-Garaot, Xi Chen, E. Torrontegui, J. G. Muga
+comments: 
+journal: Phys. Rev. A 84, 023415 (2011)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1106.2776
+abstract: 
+
+id: 1212.6343
+title: Shortcuts to adiabaticity
+authors: E. Torrontegui, S. Ib¨¢?ez, S. Mart¨ªnez-Garaot, M. Modugno, A. del Campo, D. Gu¨¦ry-Odelin, A. Ruschhaupt, Xi Chen, J. G. Muga
+comments: 54 pages, 1 figure
+journal: Adv. At. Mol. Opt. Phys. 62, 117-169 (2013)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1212.6343
+abstract: 
+
+id: 1408.4585
+title: Quantum chimera states
+authors: David Viennot, Lucile Aubourg
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph); Chaotic Dynamics (nlin.CD)
+url: http://www.arxiv.org/abs/1408.4585
+abstract: 
+
+id: 1409.2567
+title: Improving the precision of weak measurements by postselection measurement
+authors: Shengshi Pang, Todd A. Brun
+comments: 12 pages, 1 figure. V3: close to the published version. V2: analysis of squeezed coherent state and comparison between SNR and Fisher information added, supplemental material expanded
+journal: Phys. Rev. Lett. 115, 120401 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1409.2567
+abstract: 
+
+id: 1411.5699
+title: Fermion parity measurement and control in Majorana circuit quantum electrodynamics
+authors: Konstantin Yavilberg, Eran Ginossar, Eytan Grosfeld
+comments: 7 pages, 3 figures (published version)
+journal: Phys. Rev. B 92, 075143 (2015)
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Superconductivity (cond-mat.supr-con); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1411.5699
+abstract: 
+
+id: 1502.05031
+title: Amplification uncertainty relation for probabilistic amplifiers
+authors: Ryo Namiki
+comments: 12 pages, 2 figures. Accepted for publication in Phys. Rev. A
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1502.05031
+abstract: 
+
+id: 1502.06292
+title: Reformulating the Quantum Uncertainty Relation
+authors: Jun-Li Li, Cong-Feng Qiao
+comments: 15 pages, 2 figures; published in Scientific Reports
+journal: Scientific Reports 5, 12708 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1502.06292
+abstract: 
+
+id: 1503.04697
+title: Stronger steerability criterion for more uncertain continuous variable systems
+authors: Priyanka Chowdhury, Tanumoy Pramanik, Archan S. Majumdar
+comments: 5 pages, 2 figures, minor modifications and references added, Accepted for publication in Physical Review A
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1503.04697
+abstract: 
+
+id: 1504.02818
+title: Path integrals in configuration space and the emergence of classical behavior for closed systems
+authors: Henrique Gomes
+comments: 21 pages, 9 page appendix, 1 figure
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1504.02818
+abstract: 
+
+id: 1505.00135
+title: Real-time simulation of non-equilibrium transport of magnetization in large open quantum spin systems driven by dissipation
+authors: Debasish Banerjee, Florian Hebenstreit, Fu-Jiun Jiang, Uwe-Jens Wiese
+comments: 6 pages, 5 figures. Revised version: Discussion extended and references added
+journal: Phys. Rev. B 92, 121104 (2015)
+subjects: Strongly Correlated Electrons (cond-mat.str-el); High Energy Physics - Lattice (hep-lat); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1505.00135
+abstract: 
+
+id: 1506.00436
+title: Optical injection and spectral filtering of high-power UV laser diodes
+authors: V. M. Sch?fer, C. J. Ballance, C. J. Tock, D. M. Lucas
+comments: 4 pages, 6 figures
+journal: Opt. Lett. 40, 4265-4268 (2015)
+subjects: Optics (physics.optics); Atomic Physics (physics.atom-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1506.00436
+abstract: 
+
+id: 1506.06382
+title: Comments on "Controlling Discrete and Continuous Symmetries in Superradiant Phase Transitions with Circuit QED Systems "
+authors: Yu Yi-Xiang, Jinwu Ye, W.M. Liu, CunLin Zhang
+comments: 1 page cooment in REVTEX, no figures
+journal: 
+subjects: Strongly Correlated Electrons (cond-mat.str-el); Atomic Physics (physics.atom-ph); Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1506.06382
+abstract: 
+
+id: 1507.03765
+title: A complete Classification of Quantum Public-key Encryption Protocols
+authors: Chenmiao Wu, Li Yang
+comments: 14 pages, no figure
+journal: 
+subjects: Quantum Physics (quant-ph); Cryptography and Security (cs.CR)
+url: http://www.arxiv.org/abs/1507.03765
+abstract: 
+
+id: 1507.05491
+title: Quantum state representation based on combinatorial Laplacian matrix of star-relevant graph
+authors: Jian-Qiang Li, Xiu-Bo Chen, Yi-Xian Yang
+comments: 
+journal: 
+subjects: Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1507.05491
+abstract: 
+
+id: 1507.08591
+title: Van der Waals interactions in rare-gas dimers: The role of interparticle interactions
+authors: Yu-Ting Chen, Kerwin Hui, Jeng-Da Chai
+comments: 27 pages, 11 figures
+journal: 
+subjects: Chemical Physics (physics.chem-ph); Atomic and Molecular Clusters (physics.atm-clus); Computational Physics (physics.comp-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1507.08591
+abstract: 
+
+id: 1508.04644
+title: Quantum Max-flow/Min-cut
+authors: Shawn X. Cui, Michael H. Freedman, Or Sattath, Richard Stong, Greg Minton
+comments: 24 pages
+journal: 
+subjects: Combinatorics (math.CO); Information Theory (cs.IT); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1508.04644
+abstract: 
+
