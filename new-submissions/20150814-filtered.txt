@@ -7,30 +7,3 @@ subjects: Quantum Physics (quant-ph)
 url: http://arxiv.org/abs/1508.03083
 abstract: We introduce the Peierls substitution to two-dimensional discrete-time quantum walk on a square lattice to examine the spreading dynamics and the coin-position entanglement in the presence of an artificial gauge field. We use the ratio of magnetic flux through unit cell to the flux quantum as a control parameter. For a given flux ratio, we obtain faster spreading for small number of steps and the walker tends to be highly localized around the origin. Moreover, the spreading of the walk can be suppressed and decreased within a limited time interval for specific rational values of flux ratio. When the flux ratio is an irrational number, even for large number of steps, the spreading exhibit diffusive behavior rather than the well-known ballistic one as in the classical random walk and there is a significant probability to find the walker at the origin. We also analyse the coin-position entanglement and show that asymptotic behavior vanishes when the flux ratio is different from zero and the coin-position entanglement become maximal in a periodic manner at long-time range.
 
-id: 1508.03302
-title: Grover's search with local and total depolarizing channel errors
-authors: Ilan Cohn, Andr¨¦ L. Fonseca de Oliveira, Efrain Buksman, Jes¨²s Garc¨ªa L¨®pez de Lacalle
-comments: 
-journal: 
-subjects: Quantum Physics (quant-ph)
-url: http://arxiv.org/abs/1508.03302
-abstract: In this article the effect of noise on Grover's algorithm is analyzed, modeled as a total depolarizing channel (TDCh) and a local depolarizing channel in each qubit (LDCh). The focus was not in error correction (e.g. by the fault-tolerant method), but to provide an insight to the kind of error, or degradation, that needs to be corrected. The results extend previous works regarding only the TDCh model, concluding that the degradation of Grover's algorithm with local error (LDCh) is worse than with total error (TDCh). It has been shown that for both cases with an $N$-dependent small enough error-width, smaller than $1/\sqrt{N}$ for total error and $1/(\sqrt{N}\log_2{N})$ for the local case, correction is not needed.
-
-id: 1508.03214
-title: Quantum Photonic Interconnect
-authors: Jianwei Wang, Damien Bonneau, Matteo Villa, Joshua W. Silverstone, Raffaele Santagati, Shigehito Miki, Taro Yamashita, Mikio Fujiwara, Masahide Sasaki, Hirotaka Terai, Michael G. Tanner, Chandra M. Natarajan, Robert H. Hadfield, Jeremy L. O'Brien, Mark G. Thompson
-comments: 11 pages, 10 figures
-journal: 
-subjects: Quantum Physics (quant-ph)
-url: http://arxiv.org/abs/1508.03214
-abstract: Integrated photonics has enabled much progress towards quantum technologies. However, many applications, e.g. quantum communication, sensing, and distributed and cloud quantum computing, require coherent photonic interconnection between separate sub-systems, with high-fidelity distribution and manipulation of entanglement between multiple devices being one of the most stringent requirements of the interconnected system. Coherently interconnecting separate chips is challenging due to the fragility of these quantum states and the demanding challenges of transmitting photons in at least two media within a single coherent system. Here, we report a quantum photonic interconnect demonstrating high-fidelity entanglement distribution and manipulation between two separate chips, implemented using state-of-the-art silicon photonics. Entangled states are generated and manipulated on-chip, and distributed between the chips by interconverting between path-encoding and polarisation-encoding. We use integrated state analysers to confirm a Bell-type violation of S=2.638+-0.039 between two chips. With improvements in loss, this quantum interconnect will provide new levels of flexible systems and architectures for quantum technologies.
-
-id: 1501.02926
-title: Anomalous behavior of the energy gap in the one-dimensional quantum XY model
-authors: Yuuki Yamanaka, Hidetoshi Nishimori
-comments: This paper has been withdrawn by the author, because a significantly improved version has been uploaded as a new submission, arXiv:1508.02814
-journal: 
-subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech)
-url: http://arxiv.org/abs/1501.02926
-abstract: 
-

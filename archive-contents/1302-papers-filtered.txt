@@ -1,0 +1,63 @@
+id: 1302.1235
+title: Exact quantum query complexity of EXACT and THRESHOLD
+authors: Andris Ambainis, J��nis Iraids, Juris Smotrovs
+comments: 8 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC)
+url: http://arxiv.org/abs/1302.1235
+abstract: A quantum algorithm is exact if it always produces the correct answer, on any input. Coming up with exact quantum algorithms that substantially outperform the best classical algorithm has been a quite challenging task. In this paper, we present two new exact quantum algorithms for natural problems: 1) for the problem EXACT_k^n in which we have to determine whether the sequence of input bits x_1, ..., x_n contains exactly k values x_i=1; 2) for the problem THRESHOLD_k^n in which we have to determine if at least k of n input bits are equal to 1.
+
+id: 1302.2081
+title: Propagation and spectral properties of quantum walks in electric fields
+authors: C. Cedzich, T. Ryb��r, A. H. Werner, A. Alberti, M. Genske, R. F. Werner
+comments: 7 pages, 4 figures
+journal: Phys. Rev. Lett. 111, 160601 (2013)
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://arxiv.org/abs/1302.2081
+abstract: We study one-dimensional quantum walks in a homogeneous electric field. The field is given by a phase which depends linearly on position and is applied after each step. The long time propagation properties of this system, such as revivals, ballistic expansion and Anderson localization, depend very sensitively on the value of the electric field $\Phi$, e.g., on whether $\Phi/(2\pi)$ is rational or irrational. We relate these properties to the continued fraction expansion of the field. When the field is given only with finite accuracy, the beginning of the expansion allows analogous conclusions about the behavior on finite time scales.
+
+id: 1302.2094
+title: Electric quantum walks with individual atoms
+authors: Maximilian Genske, Wolfgang Alt, Andreas Steffen, Albert H. Werner, Reinhard F. Werner, Dieter Meschede, Andrea Alberti
+comments: 5 pages, 4 figures
+journal: Phys. Rev. Lett. 110, 190601 (2013)
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1302.2094
+abstract: We report on the experimental realization of electric quantum walks, which mimic the effect of an electric field on a charged particle in a lattice. Starting from a textbook implementation of discrete-time quantum walks, we introduce an extra operation in each step to implement the effect of the field. The recorded dynamics of such a quantum particle exhibits features closely related to Bloch oscillations and interband tunneling. In particular, we explore the regime of strong fields, demonstrating contrasting quantum behaviors: quantum resonances vs. dynamical localization depending on whether the accumulated Bloch phase is a rational or irrational fraction of 2\pi.
+
+id: 1302.2347
+title: Provable Advantage for Quantum Strategies in Random Symmetric XOR Games
+authors: Andris Ambainis, J��nis Iraids
+comments: Submitted to TQC 2013, February 5, 2013
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1302.2347
+abstract: Non-local games are widely studied as a model to investigate the properties of quantum mechanics as opposed to classical mechanics. In this paper, we consider a subset of non-local games: symmetric XOR games of $n$ players with 0-1 valued questions. For this class of games, each player receives an input bit and responds with an output bit without communicating to the other players. The winning condition only depends on XOR of output bits and is constant w.r.t. permutation of players. We prove that for almost any $n$-player symmetric XOR game the entangled value of the game is $\Theta (\frac{\sqrt{\ln{n}}}{n^{1/4}})$ adapting an old result by Salem and Zygmund on the asymptotics of random trigonometric polynomials. Consequently, we show that the classical-quantum gap is $\Theta (\sqrt{\ln{n}})$ for almost any symmetric XOR game.
+
+id: 1302.3143
+title: Quantum Walks and Electric Networks
+authors: Aleksandrs Belovs
+comments: 10 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1302.3143
+abstract: We prove that a quantum walk can detect the presence of a marked element in a graph in $O(\sqrt{WR})$ steps for any initial probability distribution on vertices. Here, $W$ is the total weight of the graph, and $R$ is the effective resistance. This generalizes the result by Szegedy that is only applicable if the initial distribution is stationary. We describe a time-efficient quantum algorithm for 3-distinctness based on these ideas.
+
+id: 1302.7316
+title: A Time-Efficient Quantum Walk for 3-Distinctness Using Nested Updates
+authors: Andrew M. Childs, Stacey Jeffery, Robin Kothari, Frederic Magniez
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Data Structures and Algorithms (cs.DS)
+url: http://arxiv.org/abs/1302.7316
+abstract: We present an extension to the quantum walk search framework that facilitates quantum walks with nested updates. We apply it to give a quantum walk algorithm for 3-Distinctness with query complexity ~O(n^{5/7}), matching the best known upper bound (obtained via learning graphs) up to log factors. Furthermore, our algorithm has time complexity ~O(n^{5/7}), improving the previous ~O(n^{3/4}).
+
+id: 1302.0887
+title: Co-evolution of networks and quantum dynamics: a generalization of preferential attachment
+authors: Vincenzo Nicosia, Takuya Machida, Richard Wilson, Edwin Hancock, Norio Konno, Vito Latora, Simone Severini
+comments: 8 pages, 2 figures
+journal: J. Stat. Mech., P08016 (2013)
+subjects: Physics and Society (physics.soc-ph); Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1302.0887
+abstract: We propose a model of network growth in which the network is co-evolving together with the dynamics of a quantum mechanical system, namely a quantum walk taking place over the network. The model naturally generalizes the Barab\'{a}si-Albert model of preferential attachment and has a rich set of tunable parameters, such as the initial conditions of the dynamics or the interaction of the system with its environment. We show that the model produces networks with two-modal power-law degree distributions, super-hubs, finite clustering coefficient, small-world behaviour and non-trivial degree-degree correlations.
+

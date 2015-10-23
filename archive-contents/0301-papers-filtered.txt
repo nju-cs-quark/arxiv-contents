@@ -1,0 +1,27 @@
+id: quant-ph/0301023
+title: Adiabatic Quantum State Generation and Statistical Zero Knowledge
+authors: Dorit Aharonov, Amnon Ta-Shma
+comments: 35 pages, two figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/quant-ph/0301023
+abstract: The design of new quantum algorithms has proven to be an extremely difficult task. This paper considers a different approach to the problem, by studying the problem of 'quantum state generation'. This approach provides intriguing links between many different areas: quantum computation, adiabatic evolution, analysis of spectral gaps and groundstates of Hamiltonians, rapidly mixing Markov chains, the complexity class statistical zero knowledge, quantum random walks, and more. We first show that many natural candidates for quantum algorithms can be cast as a state generation problem. We define a paradigm for state generation, called 'adiabatic state generation' and develop tools for adiabatic state generation which include methods for implementing very general Hamiltonians and ways to guarantee non negligible spectral gaps. We use our tools to prove that adiabatic state generation is equivalent to state generation in the standard quantum computing model, and finally we show how to apply our techniques to generate interesting superpositions related to Markov chains.
+
+id: quant-ph/0301064
+title: Quantum nondemolition measurement of a single electron spin in a quantum dot
+authors: Mitsuro Sugita, Susumu Machida, Yoshihisa Yamamoto
+comments: 6 pages, 6 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/quant-ph/0301064
+abstract: We propose a scheme for the quantum nondemolition (QND) measurement of a single electron spin in a single quantum dot (QD). Analytical expressions are obtained for the optical Faraday effect between a quantum dot exciton and microcavity field. The feasibility of the QND measurement of a single electron spin is discussed for a GaAs/AlAs microcavity with an InAs QD.
+
+id: quant-ph/0301182
+title: Decoherence in Discrete Quantum Walks
+authors: Viv Kendon, Ben Tregenna
+comments: 15 pages, Springer LNP latex style, submitted to Proceedings of DICE 2002
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/quant-ph/0301182
+abstract: We present an introduction to coined quantum walks on regular graphs, which have been developed in the past few years as an alternative to quantum Fourier transforms for underpinning algorithms for quantum computation. We then describe our results on the effects of decoherence on these quantum walks on a line, cycle and hypercube. We find high sensitivity to decoherence, increasing with the number of steps in the walk, as the particle is becoming more delocalised with each step. However, the effect of a small amount of decoherence can be to enhance the properties of the quantum walk that are desirable for the development of quantum algorithms, such as fast mixing times to uniform distributions.
+

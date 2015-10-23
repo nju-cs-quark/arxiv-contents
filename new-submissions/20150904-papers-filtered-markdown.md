@@ -1,0 +1,17 @@
+---
+layout: arxiv
+title: 202015 Filtered arXiv Papers
+---
+
+**1.    Suitable bases for quantum walks with Wigner coins**  
+Iva Bezdekova, Martin Stefanak, Igor Jex  
+Phys. Rev. A 92, 022347 (2015)  
+http://www.arxiv.org/abs/1509.00960  
+<blockquote>
+<p>
+The analysis of a physical problem simplifies considerably when one uses a suitable coordinate system. We apply this approach to the discrete-time quantum walks with coins given by $2j+1$-dimensional Wigner rotation matrices (Wigner walks), a model which was introduced in T. Miyazaki et al., Phys. Rev. A 76, 012332 (2007). First, we show that from the three parameters of the coin operator only one is physically relevant for the limit density of the Wigner walk. Next, we construct a suitable basis of the coin space in which the limit density of the Wigner walk acquires a much simpler form. This allows us to identify various dynamical regimes which are otherwise hidden in the standard basis description. As an example, we show that it is possible to find an initial state which reduces the number of peaks in the probability distribution from generic $2j+1$ to a single one. Moreover, the models with integer $j$ lead to the trapping effect. The derived formula for the trapping probability reveals that it can be highly asymmetric and it deviates from purely exponential decay. Explicit results are given up to the dimension five.
+</p>
+</blockquote>
+
+------
+

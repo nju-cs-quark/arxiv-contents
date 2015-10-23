@@ -1,0 +1,27 @@
+id: quant-ph/0111046
+title: Secure assisted quantum computation
+authors: Andrew M. Childs
+comments: 11 pages, 5 figures; v2: published version
+journal: Quantum Information and Computation 5, 456 (2005)
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/quant-ph/0111046
+abstract: Suppose Alice wants to perform some computation that could be done quickly on a quantum computer, but she cannot do universal quantum computation. Bob can do universal quantum computation and claims he is willing to help, but Alice wants to be sure that Bob cannot learn her input, the result of her calculation, or perhaps even the function she is trying to compute. We describe a simple, efficient protocol by which Bob can help Alice perform the computation, but there is no way for him to learn anything about it. We also discuss techniques for Alice to detect whether Bob is honestly helping her or if he is introducing errors.
+
+id: quant-ph/0111102
+title: Quantum Lower Bound for the Collision Problem
+authors: Scott Aaronson
+comments: 10 pages plus 4 page appendix, no figures. Submitted to STOC'2002
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC)
+url: http://arxiv.org/abs/quant-ph/0111102
+abstract: The collision problem is to decide whether a function X:{1,..,n}->{1,..,n} is one-to-one or two-to-one, given that one of these is the case. We show a lower bound of Theta(n^{1/5}) on the number of queries needed by a quantum computer to solve this problem with bounded error probability. The best known upper bound is O(n^{1/3}), but obtaining any lower bound better than Theta(1) was an open problem since 1997. Our proof uses the polynomial method augmented by some new ideas. We also give a lower bound of Theta(n^{1/7}) for the problem of deciding whether two sets are equal or disjoint on a constant fraction of elements. Finally we give implications of these results for quantum complexity theory.
+
+id: cond-mat/0111026
+title: From quantum master equation to random walk
+authors: C. F. Huang
+comments: Replaced with improvements
+journal: 
+subjects: Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/cond-mat/0111026
+abstract: It is shown in this paper that the quantum master equation can be mapped to a modified continuous time random walk (CTRW) if the relaxation term is composed of transitions over a set of states. When the Hamiltonian is time-independent and transitions are between its eigenlevels, such a modified CTRW reduces to the Markovian walk equivalent to the Pauli master equation. On the other hand, the memory in such a modified CTRW is composed of a temporal factor and the probability determined by the Liouville flow when the relaxation term is reduced as a special dephasing term.
+

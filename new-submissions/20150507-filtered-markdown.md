@@ -1,0 +1,27 @@
+---
+layout: arxiv
+title: 202015 Filtered arXiv Papers
+---
+
+**1.    Ramsauer effect in one-dimensional quantum walk with multiple defects**  
+Ho Tat Lam, Kwok Yip Szeto  
+http://arxiv.org/abs/1505.01248  
+<blockquote>
+<p>
+Experimental observations of quantum walks in one dimension have provided many exciting applications in quantum computing, while recent theoretical investigation of single phase defect in these system points towards interesting phenomena associated with bounds states. Here we obtain analytical solutions of quantum walk with a general quantum coin in one dimension with multiple defects, with new prediction on the condition for zero reflectance for scattering state, and the existence of an analogy to the Ramsauer effect for multiple defects. We also show the transition from the zero reflectance state to the bound state can provide a method for preparing the quantum walk in a bound state. Applications to systems similar to thin film optics are suggested.
+</p>
+</blockquote>
+
+------
+
+**2.    An Effective Hamiltonian Approach to Quantum Random Walk**  
+Debajyoti Sarkar, Niladri Paul, Kaushik Bhattacharya, Tarun Kanti Ghosh  
+http://arxiv.org/abs/1505.01435  
+<blockquote>
+<p>
+In this article we present an effective Hamiltonian approach for Discrete Time Quantum Random Walk. A form of the Hamiltonian for one dimensional quantum walk has been prescribed, utilizing the fact that Hamiltonians are the generators of time translations. Then an attempt has been made to generalize the techniques to higher dimensions. We find that the Hamiltonian can be written as the sum of a Weyl Hamiltonian and a Dirac comb potential. The time evolution operator obtained from this prescribed Hamiltonian is in complete agreement with that of the standard approach. But in higher dimension we find that the time evolution operator is additive, instead of being multiplicative \cite{Chandrasekhar:2013SREP08229}. We showed that in case of two-step walk, effectively the time evolution operator can have multiplicative form. In case of a square lattice, quantum walk has been studied computationally for different coins and the results for both the additive and the multiplicative approaches have been compared. Using the Graphene Hamiltonian the walk has been studied on a Graphene lattice and we conclude the preference of additive approach over the multiplicative one.
+</p>
+</blockquote>
+
+------
+

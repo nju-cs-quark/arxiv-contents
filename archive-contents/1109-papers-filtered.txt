@@ -1,0 +1,54 @@
+id: 1109.0122
+title: Spatially dependent decoherence and anomalous diffussion of quantum walks
+authors: A. Perez, A. Romanelli
+comments: 13 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1109.0122
+abstract: We analyze the long time behavior of a discrete time quantum walk subject to decoherence with a strong spatial dependence, acting on one half of the lattice. We show that, except for limiting cases on the decoherence parameter, the quantum walk at late times behaves sub-ballistically, meaning that the characteristic features of the quantum walk are not completely spoiled. Contrarily to expectations, the asymptotic behavior is non Markovian, and depends on the amount of decoherence. This feature can be clearly shown on the long time value of the Generalized Chiral Distribution (GCD).
+
+id: 1109.1674
+title: A Linear-Optical Proof that the Permanent is #P-Hard
+authors: Scott Aaronson
+comments: 12 pages, 2 figures, to appear in Proceedings of the Royal Society A. doi: 10.1098/rspa.2011.0232
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC)
+url: http://arxiv.org/abs/1109.1674
+abstract: One of the crown jewels of complexity theory is Valiant's 1979 theorem that computing the permanent of an n*n matrix is #P-hard. Here we show that, by using the model of linear-optical quantum computing---and in particular, a universality theorem due to Knill, Laflamme, and Milburn---one can give a different and arguably more intuitive proof of this theorem.
+
+id: 1109.1866
+title: Quantum Walks on the Line with Phase Parameters
+authors: Marcos Villagra, Masaki Nakanishi, Shigeru Yamashita, Yasuhiko Nakashima
+comments: In v2 a small typo was fixed. The exponent in the definition of N_j in Theorem 3 was changed from -1/2 to 1. 20 pages, 3 figures. Presented at 10th Asian Conference on Quantum Information Science (AQIS'10). Tokyo, Japan. August 27-31, 2010
+journal: IEICE Trans. Inf. & Syst., Vol. E95.D, No. 3, pp.722-730, 2012
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1109.1866
+abstract: In this paper, a study on discrete-time coined quantum walks on the line is presented. Clear mathematical foundations are still lacking for this quantum walk model. As a step towards this objective, the following question is being addressed: {\it Given a graph, what is the probability that a quantum walk arrives at a given vertex after some number of steps?} This is a very natural question, and for random walks it can be answered by several different combinatorial arguments. For quantum walks this is a highly non-trivial task. Furthermore, this was only achieved before for one specific coin operator (Hadamard operator) for walks on the line. Even considering only walks on lines, generalizing these computations to a general SU(2) coin operator is a complex task. The main contribution is a closed-form formula for the amplitudes of the state of the walk (which includes the question above) for a general symmetric SU(2) operator for walks on the line. To this end, a coin operator with parameters that alters the phase of the state of the walk is defined. Then, closed-form solutions are computed by means of Fourier analysis and asymptotic approximation methods. We also present some basic properties of the walk which can be deducted using weak convergence theorems for quantum walks. In particular, the support of the induced probability distribution of the walk is calculated. Then, it is shown how changing the parameters in the coin operator affects the resulting probability distribution.
+
+id: 1109.2662
+title: The Heun differential equation and the Gauss differential equation related to quantum walks
+authors: Norio Konno, Takuya Machida, Tohru Wakasa
+comments: Yokohama Mathematical Journal, Vol.58, pp.53-63 (2012)
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://arxiv.org/abs/1109.2662
+abstract: The limit theorems of discrete- and continuous-time quantum walks on the line have been intensively studied. We show a relation among limit distributions of quantum walks, Heun differential equations and Gauss differential equations. Indeed, we derive the second-order Fucksian differential equations which limit density functions of quantum walks satisfy. Moreover, using both differential equations, we discuss a relationship between discrete- and continuous-time quantum walks. Taking suitable limit, we can transform a Heun equation obtained from the limit density function of the discrete-time quantum walk to a Gauss equation given by that of the continuous-time quantum walk.
+
+id: 1109.1600
+title: On the von Neumann and Shannon Entropies for Quantum Walks on Z^2
+authors: Clement Ampadu
+comments: 10 pages; To appear in the International Journal of Quantum Information
+journal: 
+subjects: Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1109.1600
+abstract: We give asymptotic behaviors of the von Neumann entropy and the Shannon entropy of discrete-time quantum walks on Z^2
+
+id: 1109.3507
+title: Spectral analysis of discrete-time quantum walks in the quarter plane
+authors: Clement Ampadu
+comments: Contains an open problem showing the relationship between quantum walks in the quarter plane and quantum walks on homogeneous trees
+journal: 
+subjects: Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1109.3507
+abstract: Using the Cantero-Grunbaum-Moral-Velazquez (CGMV) method, we obtain the spectral measure for the quantum walk.
+

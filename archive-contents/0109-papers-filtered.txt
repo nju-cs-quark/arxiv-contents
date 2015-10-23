@@ -1,0 +1,36 @@
+id: quant-ph/0109016
+title: ROM-based computation: quantum versus classical
+authors: B.C. Travaglione, M.A. Nielsen, H.M. Wiseman, A. Ambainis
+comments: 12 pages, 3 figures, minor corrections + section 5 substantially changed
+journal: Quantum Information and Computation, Vol. 2, No. 4 (2002)
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/quant-ph/0109016
+abstract: We introduce a model of computation based on read only memory (ROM), which allows us to compare the space-efficiency of reversible, error-free classical computation with reversible, error-free quantum computation. We show that a ROM-based quantum computer with one writable qubit is universal, whilst two writable bits are required for a universal classical ROM-based computer. We also comment on the time-efficiency advantages of quantum computation within this model.
+
+id: quant-ph/0109064
+title: Universal simulation of Hamiltonian dynamics for qudits
+authors: Michael A. Nielsen, Michael J. Bremner, Jennifer L. Dodd, Andrew M. Childs, Christopher M. Dawson
+comments: 13 pages, an error in the "Pauli-Euclid-Gottesman Lemma" fixed, main results unchanged
+journal: Phys. Rev. A 66, 022317 (2002)
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/quant-ph/0109064
+abstract: What interactions are sufficient to simulate arbitrary quantum dynamics in a composite quantum system? Dodd et al. (quant-ph/0106064) provided a partial solution to this problem in the form of an efficient algorithm to simulate any desired two-body Hamiltonian evolution using any fixed two-body entangling N-qubit Hamiltonian, and local unitaries. We extend this result to the case where the component systems have D dimensions. As a consequence we explain how universal quantum computation can be performed with any fixed two-body entangling N-qudit Hamiltonian, and local unitaries.
+
+id: quant-ph/0109076
+title: Implementing the quantum random walk
+authors: B. C. Travaglione, G. J. Milburn
+comments: 5 pages, 4 figures (1 large)
+journal: Physical Review A, Vol 65, 032310 (2002)
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/quant-ph/0109076
+abstract: Recently, several groups have investigated quantum analogues of random walk algorithms, both on a line and on a circle. It has been found that the quantum versions have markedly different features to the classical versions. Namely, the variance on the line, and the mixing time on the circle increase quadratically faster in the quantum versions as compared to the classical versions. Here, we propose a scheme to implement the quantum random walk on a line and on a circle in an ion trap quantum computer. With current ion trap technology, the number of steps that could be experimentally implemented will be relatively small. However, we show how the enhanced features of these walks could be observed experimentally. In the limit of strong decoherence, the quantum random walk tends to the classical random walk. By measuring the degree to which the walk remains `quantum', this algorithm could serve as an important benchmarking protocol for ion trap quantum computers.
+
+id: quant-ph/0109136
+title: Exact results for accepting probabilities of quantum automata
+authors: Andris Ambainis, Arnolds Kikusts
+comments: 26 pages, 4 figures, submitted to Theoretical Computer Science (earlier version at STACS'01)
+journal: Theoretical Computer Science, 295(2003):3-25
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/quant-ph/0109136
+abstract: One of the properties of Kondacs-Watrous model of quantum finite automata (QFA) is that the probability of the correct answer for a QFA cannot be amplified arbitrarily. In this paper, we determine the maximum probabilities achieved by QFAs for several languages. In particular, we show that any language that is not recognized by an RFA (reversible finite automaton) can be recognized by a QFA with probability at most 0.7726...
+

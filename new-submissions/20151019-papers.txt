@@ -1,0 +1,333 @@
+id: 1510.04699
+title: Generalised phase kick-back: a computational advantage for higher-order interference?
+authors: Ciar¨¢n M. Lee, John H. Selby
+comments: 7+4 pages. Comments welcome
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.04699
+abstract: The advent of quantum computing has challenged classical conceptions of which problems are efficiently solvable in our physical world. This motivates the general study of how physical principles bound computational power. A major roadblock to such a study is that quantum computation is phrased in the language of Hilbert spaces, which lacks direct operational significance -- making connections to physical principles difficult to uncover. In contrast, the framework of general probabilistic theories provides a clear-cut operational language in which to address this question. In this paper we show that some of the common machinery of quantum computation -- namely reversible controlled transformations and the phase kick-back mechanism -- exist in any general theory with a well-defined notion of information. These results provide the tools for an exploration of the structure of computational algorithms and how they connect to physical principles. We show in such theories that non-trivial interference behaviour is a general resource for post-classical computation. Motivated by the intimate connection between interference and phase in quantum theory, we introduce a framework that relates higher-order (post-quantum) interference, originally defined by Sorkin, and phase transformations. This framework -- via the generalised phase kick-back -- is used to provide evidence that theories with higher-order interference can solve problems intractable on a quantum computer. Additionally, using the existence of reversible controlled transformations, higher-order interference is shown to imply the existence of post-quantum particle types.
+
+id: 1510.04701
+title: Timelike information broadcasting in cosmology
+authors: Ana Blasco, Luis J. Garay, Mercedes Martin-Benito, Eduardo Martin-Martinez
+comments: 16 pages, 10 figures. RevTeX 4.1
+journal: 
+subjects: Quantum Physics (quant-ph); General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+url: http://www.arxiv.org/abs/1510.04701
+abstract: We study the transmission of information and correlations through quantum fields in cosmological backgrounds. With this aim, we make use of quantum information tools to quantify the classical and quantum correlations induced by a quantum massless scalar field in two particle detectors, one located in the early universe (Alice's) and the other located at a later time (Bob's). In particular, we focus on two phenomena: a) the consequences on the transmission of information of the violations of the strong Huygens principle for quantum fields, and b) the analysis of the field vacuum correlations via correlation harvesting from Alice to Bob. We will study a standard cosmological model first and then assess whether these results also hold if we use other than the general relativistic dynamics. As a particular example, we will study the transmission of information through the Big Bounce, that replaces the Big Bang, in the effective dynamics of Loop Quantum Cosmology.
+
+id: 1510.04702
+title: Proofs and advice in general physical theories: a trade-off between states and dynamics?
+authors: Ciar¨¢n M. Lee, Matty J. Hoban
+comments: 14 pages, no figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.04702
+abstract: Quantum theory presents us with the tools for potential computational and communication complexity advantages over classical theory. It has been suggested that this quantum advantage in both tasks is because quantum theory has both entangled states and entangling dynamics. Within a framework of general physical theories, one can construct theories that excel even quantum theory at communication tasks but at the cost of faring worse at computational tasks, and vice versa. So while quantum computation and communication complexity are sub-optimal when considered separately in this framework, quantum theory achieves a trade-off in power between the two. Is such a trade-off a general feature of theories in this framework? In this work we provide strong evidence for the existence of such a trade-off by utilising tools from computational complexity, in particular the tools of computations with advice and proofs. We give general bounds on the complexity of these scenarios and use them to argue that quantum theory achieves an optimal balance in the trade-off. If such a conjecture is borne out, it would provide a reason why nature chose quantum theory over every other theory in this framework. One of our results provides a new proof that QMA is contained in PP which does not make use of any uniquely quantum structure, and thus may be of independent interest.
+
+id: 1510.04711
+title: Universal steering inequalities
+authors: Huangjun Zhu, Masahito Hayashi, Lin Chen
+comments: 5+6 pages, two figures, comments and suggestions are very welcome!
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.04711
+abstract: We propose a general framework for constructing universal steering criteria that are applicable to arbitrary bipartite states and measurement settings of the steering party. The same framework is also useful for studying the joint measurement problem. Based on the data-processing inequality for an extended R\'enyi relative entropy, we then introduce a family of universal steering inequalities, which detect steering much more efficiently than those inequalities known before. As illustrations, we show unbounded violation of a steering inequality for assemblages constructed from mutually unbiased bases and establish an interesting connection between maximally steerable assemblages and complete sets of mutually unbiased bases. We also provide a single steering inequality that can detect all bipartite pure states of full Schmidt rank. In the course of study, we generalize a number of results intimately connected to data-processing inequalities, which are of independent interest.
+
+id: 1510.04715
+title: Reply to Comment by Brown and Carrington on "Phase-Space Approach to Solving the Time-Independent Schr?dinger Equation"
+authors: Asaf Shimshovitz, David J. Tannor
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.04715
+abstract: The Comment of Brown and Carrington Jr. (BC) has two main points: 1) that the contraction idea of Shimshovitz and Tannor (ST) can be used for any DVR basis, not necessarily periodic, and 2) that the biorthogonal basis introduced by ST is unnecessary. We fully agree with the first point and in fact have several works that were in press at the time of the Comment that illustrate this. On the second point we show that BC implicitly use the biorthogonal basis of ST.
+
+id: 1510.04736
+title: Surmounting intrinsic quantum-measurement uncertainties in Gaussian-state tomography with quadrature squeezing
+authors: Jaroslav Rehacek, Yong Siah Teo, Zdenek Hradil, Sascha Wallentowitz
+comments: 8 pages, 9 figures
+journal: Scientific Reports 5, 12289 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.04736
+abstract: We reveal that quadrature squeezing can result in significantly better quantum-estimation performance with quantum heterodyne detection (of H. P. Yuen and J. H. Shapiro) as compared to quantum homodyne detection for Gaussian states, which touches an important aspect in the foundational understanding of these two schemes. Taking single-mode Gaussian states as examples, we show analytically that the competition between the errors incurred during tomogram processing in homodyne detection and the Arthurs-Kelly uncertainties arising from simultaneous incompatible quadrature measurements in heterodyne detection can often lead to the latter giving more accurate estimates. This observation is also partly a manifestation of a fundamental relationship between the respective data uncertainties for the two schemes. In this sense, quadrature squeezing can be used to overcome intrinsic quantum-measurement uncertainties in heterodyne detection.
+
+id: 1510.04758
+title: The power of one qumode
+authors: Nana Liu, Jayne Thompson, Christian Weedbrook, Seth Lloyd, Vlatko Vedral, Mile Gu, Kavan Modi
+comments: 8 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.04758
+abstract: Although quantum computers are capable of solving problems like factoring exponentially faster than the best-known classical algorithms, determining the resources responsible for their computational power remains unclear. An important class of problems where quantum computers possess an advantage is phase estimation, which includes applications like factoring. We introduce a new computational model based on a single squeezed state resource that can perform phase estimation, which we call the power of one qumode. This model is inspired by an interesting computational model known as deterministic quantum computing with one quantum bit (DQC1). Using the power of one qumode, we identify that the amount of squeezing is sufficient to quantify the resource requirements of different computational problems based on phase estimation. In particular, it establishes a quantitative relationship between the resources required for factoring and DQC1. For example, we find the squeezing required to factor has an exponential scaling whereas no squeezing (i.e., a coherent state) is already sufficient to solve the hardest problem in DQC1.
+
+id: 1510.04779
+title: Randomized benchmarking of quantum gates for optimizing microwave control in ESR
+authors: Daniel K. Park, Guanru Feng, Robabeh Rahimi, Jonathan Baugh, Raymond Laflamme
+comments: 12 pages, 12 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.04779
+abstract: An ensemble of electron spins with hyperfine coupled nuclei is a promising system for testing and developing ideas of quantum control and quantum error correction. We have built an X-band pulsed electron spin resonance spectrometer designed to achieve high fidelity microwave control of electron spins, including a loop-gap resonator for sub-millimeter sized samples that allows for relatively broadband control. We employ a single-qubit randomized benchmarking protocol of the Clifford gates to quantify the average gate errors. Improvements are achieved through phase transient correction, hardware configuration optimization, and the design of a preparation pulse sequence to reduce inhomogeneous broadening effects. The best average fidelity for the single-qubit Clifford gates obtained here is 99.2%.
+
+id: 1510.04805
+title: How many principles does it take to change a light bulb ... into a laser?
+authors: Howard M. Wiseman
+comments: 19 pages, submitted to "Focus issue on Quantum Optics in the International Year of Light" of Physica Scripta
+journal: 
+subjects: Quantum Physics (quant-ph); Physics Education (physics.ed-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1510.04805
+abstract: Quantum optics did not, and could not, flourish without the laser. The present paper is not about the principles of laser construction, still less a history of how the laser was invented. Rather, it addresses the question: what are the fundamental features that distinguish laser light from thermal light? The answers do, however, show, in a quantitative way --- involving, indeed, very large dimensionless quantities (up to $\sim 10^{51}$) --- that a laser must be constructed very differently from a light bulb. Some of this paper is based on material I use to introduce advanced undergraduate students to quantum optics. The theory presented is mostly quite simple, and yet it is not to be found in any text-books on quantum optics to my knowledge. The obvious answer, ``laser light is coherent'', is, I argue, so vague that it must be put aside at the start, albeit to revisit later. A specific version, ``laser light is in a coherent state'', is simply wrong in this context, since both laser light and thermal light can be described by a coherent state, though necessarily one that varies stochastically in space. Nevertheless, this perspective does reveal a profound difference between them, in that this description (a stochastically varying coherent state) is the only simple description of a laser beam. Interestingly, this implies the (perhaps new) prediction that narrowly filtered laser beams are indistinguishable from similarly filtered thermal beams. I hope that other educators find this material useful; it may contain surprises even for researchers who have been in the field longer than I have. But I cannot finish the abstract without answering the titular question: four --- high directionality, monochromaticity, high brightness, and stable intensity.
+
+id: 1510.04852
+title: A novel technique to achieve atomic macro-coherence as a tool to determine the nature of neutrinos
+authors: R. Boyero, A. V. Carpentier, J.J.Gomez-Cadenas, A. Peralta Conde
+comments: 16 pages, 12 figures. arXiv admin note: text overlap with arXiv:1510.00421
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.04852
+abstract: The photon spectrum in macrocoherent atomic de-excitation via radiative emission of neutrino pairs (RENP) has been proposed as a sensitive probe of the neutrino mass spectrum, capable of competing with conventional neutrino experiments. In this paper we revisit this intriguing possibility, presenting an alternative method for inducing large coherence in a target based on adiabatic techniques. More concretely, we propose the use of a modified version of Coherent Population Return (CPR), namely double CPR, that turns out to be extremely robust with respect to the experimental parameters, and capable of inducing a coherence close to 100% in the target.
+
+id: 1510.04857
+title: Non-Hermitian Dynamics in the Quantum Zeno Limit
+authors: Wojciech Kozlowski, Santiago F. Caballero-Benitez, Igor B. Mekhov
+comments: 7 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Quantum Gases (cond-mat.quant-gas); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1510.04857
+abstract: Measurement is one of the most counter-intuitive aspects of quantum physics. Frequent measurements of a quantum system lead to quantum Zeno dynamics where time evolution becomes confined to a subspace defined by the projections. However, weak measurement performed at a finite rate is also capable of locking the system into such a Zeno subspace in an unconventional way: by Raman-like transitions via virtual intermediate states outside this subspace, which are not forbidden. Here, we extend this concept into the realm of non-Hermitian dynamics by showing that the stochastic competition between measurement and a system's own dynamics can be described by a non-Hermitian Hamiltonian. We obtain an analytic solution for ultracold bosons in a lattice and show that a dark state of the tunnelling operator is a steady state in which the observable's fluctuations are zero and tunnelling is suppressed by destructive matter-wave interference. This opens a new venue of investigation beyond the canonical quantum Zeno dynamics and leads to a new paradigm of competition between global measurement backaction and short-range atomic dynamics.
+
+id: 1510.04876
+title: Symmetries of the Hamiltonian operator and constants of motion
+authors: G.F. Torres del Castillo, J.E. Herrera Flores
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.04876
+abstract: It is shown that, in the framework of non-relativistic quantum mechanics, any conserved Hermitian operator (which may depend explicitly on the time) is the generator of a one-parameter group of unitary symmetries of the Hamiltonian and that, conversely, any one-parameter family of unitary symmetries of the Hamiltonian is generated by a conserved Hermitian operator.
+
+id: 1510.04883
+title: Quantum measurement-induced antiferromagnetic order and density modulations in ultracold Fermi gases in optical lattices
+authors: Gabriel Mazzucchi, Santiago F. Caballero-Benitez, Igor B. Mekhov
+comments: 5 figures, 6 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Quantum Gases (cond-mat.quant-gas); Atomic Physics (physics.atom-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1510.04883
+abstract: We show that global light scattering from ultracold fermions in an optical lattice into a cavity can be used for tailoring local properties of the atomic system. Quantum measurement backaction strongly affects the evolution of the atoms and leads to quantum states with spatial modulations of the density and magnetisation. We propose different detection schemes for realising antiferromagnetic states and density waves. We demonstrate that such long-range correlations are a consequence of the global but spatially structured measurement backaction and cannot be realized with local addressing.
+
+id: 1510.04891
+title: Free-space reconfigurable quantum key distribution network
+authors: Bing Qi, Hoi-Kwong Lo, Charles Ci Wen Lim, George Siopsis, Eric A. Chitambar, Raphael Pooser, Philip G. Evans, Warren Grice
+comments: Submitted to IEEE The International Conference on Space Optical Systems and Applications (ICSOS) 2015
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.04891
+abstract: We propose a free-space reconfigurable quantum key distribution (QKD) network to secure communication among mobile users. Depends on the trustworthiness of the network relay, the users can implement either the highly secure measurement-device-independent QKD, or the highly efficient decoy state BB84 QKD. Based on the same quantum infrastructure, we also propose a loss tolerant quantum position verification scheme, which could allow the QKD users to initiate the QKD process without relying on pre-shared key.
+
+id: 1510.04965
+title: Surface acoustic wave resonators in the quantum regime
+authors: R. Manenti, M. J. Peterer, A. Nersisyan, E. B. Magnusson, A. Patterson, P. J. Leek
+comments: 5 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
+url: http://www.arxiv.org/abs/1510.04965
+abstract: We present systematic measurements of the quality factors of surface acoustic wave (SAW) resonators on ST-X quartz in the gigahertz range at a temperature of $10 \, \textrm{mK}$. We demonstrate a internal quality factor $Q_\mathrm{i}$ approaching $0.5$ million at $0.5 \, \textrm{GHz}$ and show that $Q_\mathrm{i}\geq4.0\times10^4$ is achievable up to $4.4 \, \textrm{GHz}$. We show evidence for a polynomial dependence of propagation loss on frequency, as well as a weak drive power dependence of $Q_\mathrm{i}$ that saturates at low power, the latter being consistent with coupling to a bath of two-level systems. Our results indicate that SAW resonators are promising devices for integration with superconducting quantum circuits.
+
+id: 1510.04986
+title: Measurement of geometric dephasing using a superconducting qubit
+authors: S. Berger, M. Pechal, P. Kurpiers, A.A. Abdumalikov, C. Eichler, J. A. Mlynek, A. Shnirman, Yuval Gefen, A. Wallraff, S. Filipp
+comments: 10 pages, 6 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.04986
+abstract: A quantum system interacting with its environment is subject to dephasing which ultimately destroys the information it holds. Using a superconducting qubit, we experimentally show that this dephasing has both dynamic and geometric origins. It is found that geometric dephasing, which is present even in the adiabatic limit and when no geometric phase is acquired, can either reduce or restore coherence depending on the orientation of the path the qubit traces out in its projective Hilbert space. It accompanies the evolution of any system in Hilbert space subjected to noise.
+
+id: 1510.04744
+title: Imaging and addressing of individual fermionic atoms in an optical lattice
+authors: G. J. A. Edge, R. Anderson, D. Jervis, D. C. McKay, R. Day, S. Trotzky, J. H. Thywissen
+comments: 
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Atomic Physics (physics.atom-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.04744
+abstract: We demonstrate fluorescence microscopy of individual fermionic potassium atoms in a 527-nm-period optical lattice. Using electromagnetically induced transparency (EIT) cooling on the 770.1-nm D$_1$ transition of $^{40}$K, we find that atoms remain at individual sites of a 0.3-mK-deep lattice, with a $1/e$ pinning lifetime of $67(9)\,\rm{s}$, while scattering $\sim 10^3$ photons per second. The plane to be imaged is isolated using microwave spectroscopy in a magnetic field gradient, and can be chosen at any depth within the three-dimensional lattice. With a similar protocol, we also demonstrate patterned selection within a single lattice plane. High resolution images are acquired using a microscope objective with 0.8 numerical aperture, from which we determine the occupation of lattice sites in the imaging plane with 94(2)\% fidelity per atom. Imaging with single-atom sensitivity and addressing with single-site accuracy are key steps towards the search for unconventional superfluidity of fermions in optical lattices, the initialization and characterization of transport and non-equilibrium dynamics, and the observation of magnetic domains.
+
+id: 1510.04745
+title: Spontaneous excitation of a static atom in a thermal bath in cosmic string spacetime
+authors: Huabing Cai, Hongwei Yu, Wenting Zhou
+comments: 20 pages, 4 figures, to appear in PRD
+journal: 
+subjects: General Relativity and Quantum Cosmology (gr-qc); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.04745
+abstract: We study the average rate of change of energy for a static atom immersed in a thermal bath of electromagnetic radiation in the cosmic string spacetime and separately calculate the contributions of thermal fluctuations and radiation reaction. We find that the transition rates are crucially dependent on the atom-string distance and polarization of the atom and they in general oscillate as the atom-string distance varies. Moreover, the atomic transition rates in the cosmic string spacetime can be larger or smaller than those in Minkowski spacetime contingent upon the atomic polarization and position. In particular, when located on the string, ground-state atoms can make a transition to excited states only if they are polarizable parallel to the string, whereas ground state atoms polarizable only perpendicular to the string are stable as if they were in a vacuum, even if they are immersed in a thermal bath. Our results suggest that the influence of a cosmic string is very similar to that of a reflecting boundary in Minkowski spacetime.
+
+id: 1510.04746
+title: Proposal for Observing Dynamic Jahn-Teller Effect of Single Solid-State Defects
+authors: Xing Xiao, Nan Zhao
+comments: 
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.04746
+abstract: Jahn-Teller effect (JTE) widely exists in polyatomic systems including organic molecules, nano-magnets, and solid-state defects. Detecting the JTE at single-molecule level can provide unique properties about the detected individual object. However, such measurements are challenging because of the weak signals associated with a single quantum object. Here, we propose that the dynamic JTE of single defects in solids can be observed with nearby quantum sensors. With numerical simulations, we demonstrate the real-time monitoring of quantum jumps between different stable configurations of single substitutional nitrogen defect centers (P1 centers) in diamond. This is achieved by measuring the spin coherence of a single nitrogen-vacancy (NV) center near the P1 center with the double electron-electron resonance (DEER) technique. Our work extends the ability of NV center as a quantum probe to sense the rich physics in various electron-vibrational coupled systems.
+
+id: 1510.04759
+title: AdS2/CFT1, Whittaker vector and Wheeler-De Witt equation
+authors: Tadashi Okazaki
+comments: 16 pages
+journal: 
+subjects: High Energy Physics - Theory (hep-th); Number Theory (math.NT); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.04759
+abstract: We study the energy representation of conformal quantum mechanics as the Whittaker vector without specifying classical Lagrangian. We show that a generating function of expectation values among two excited states of the dilatation operator in conformal quantum mechanics is a solution to the Wheeler-DeWitt equation and it corresponds to the AdS2 partition function evaluated as the minisuperspace wave function in Liouville field theory. We also show that the dilatation expectation values in conformal quantum mechanics lead to the asymptotic smoothed counting function of the Riemann zeros.
+
+id: 1510.04761
+title: Passive $\mathcal{PT}$-symmetric couplers without complex optical potentials
+authors: Yi-Chan Lee, Jibing Liu, You-Lin Chuang, Min-Hsiu Hsieh, Ray-Kuang Lee
+comments: 
+journal: 
+subjects: Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.04761
+abstract: In addition to the implementation of parity-time ($\mathcal{PT}$)-symmetric optical systems by carefully and actively controlling the gain and loss, we show that a $2\times 2$ $\mathcal{PT}$-symmetric Hamiltonian has a unitarily equivalent representation without complex optical potentials in the resulting optical coupler. Through the Naimark dilation in operator algebra, passive $\mathcal{PT}$-symmetric couplers can thus be implemented with a refractive index of real values and asymmetric coupling coefficients. This opens up the possibility to implement general $\mathcal{PT}$-symmetric systems with state-of-the-art asymmetric slab waveguides, dissimilar optical fibers, or cavities with chiral mirrors.
+
+id: 1510.04920
+title: Extremal positive maps on $M_{3}(\mathbb{C})$ and idempotent matrices
+authors: Marek Miller, Robert Olkiewicz
+comments: 
+journal: 
+subjects: Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.04920
+abstract: A new method of analysing positive bistochastic maps on the algebra of complex matrices $M_{3}$ has been proposed. By identifying the set of such maps with a convex set of linear operators on $\mathbb{R}^{8}$, one can employ techniques from the theory of compact affine semigroups to obtain results concerning asymptotic properties of positive maps. It turns out that the idempotent elements play a crucial role in classifying the convex set into subsets, in which representations of extremal positive maps are to be found. It has been show that all extremal positive bistochastic maps that are not Jordan isomorphisms of $M_3$ are represented by matrices that fall into two possible categories, determined by the simplest idempotent matrices: one by the zero matrix, and the other by a one dimensional orthogonal projection. Some norm conditions for matrices representing possible extremal maps have been specified and examples of maps from both categories have been brought up, based on the results published previously.
+
+id: 1510.04971
+title: Observation of optomechanical buckling phase transitions
+authors: Haitan Xu, Utku Kemiktarak, Jingyun Fan, Stephen Ragole, John Lawall, Jacob M. Taylor
+comments: 9 pages, 5 figures
+journal: 
+subjects: Statistical Mechanics (cond-mat.stat-mech); Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.04971
+abstract: Correlated phases of matter provide long-term stability for systems as diverse as solids, magnets, and potential exotic quantum materials. Mechanical systems, such as relays and buckling transition spring switches can yield similar stability by exploiting non-equilibrium phase transitions. Curiously, in the optical domain, observations of such phase transitions remain elusive. However, efforts to integrate optical and mechanical systems -- optomechanics -- suggest that a hybrid approach combining the quantum control of optical systems with the engineerability of mechanical systems may provide a new avenue for such explorations. Here we report the first observation of the buckling of an optomechanical system, in which transitions between stable mechanical states corresponding to both first- and second-order phase transitions are driven by varying laser power and detuning. Our results enable new applications in photonics and, given rapid progress in pushing optomechanical systems into the quantum regime, the potential for explorations of quantum phase transitions.
+
+id: 1409.1149
+title: Nearby states in non-Hermitian quantum systems
+authors: Hichem Eleuch, Ingrid Rotter
+comments: Change of the title; Partition into two parts; Published in Eur. Phys. J. D 69, 229 (2015) and D 69, 230 (2015)
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1409.1149
+abstract: 
+
+id: 1411.1768
+title: No-faster-than-light-signaling implies linear evolutions. A re-derivation
+authors: Angelo Bassi, Kasra Hejazi
+comments: 17 pages, 7 figures
+journal: European Journal of Physics, Volume 36, Number 5, 2015
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1411.1768
+abstract: 
+
+id: 1501.01715
+title: Hamiltonian simulation with nearly optimal dependence on all parameters
+authors: Dominic W. Berry, Andrew M. Childs, Robin Kothari
+comments: 21 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1501.01715
+abstract: 
+
+id: 1502.03665
+title: Pulse-controlled quantum gate sequences on a strongly coupled qubit chain
+authors: Holger Frydrych, Michael Marthaler, Gernot Alber
+comments: 10 pages, 7 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1502.03665
+abstract: 
+
+id: 1503.04697
+title: Stronger steerability criterion for more uncertain continuous variable systems
+authors: Priyanka Chowdhury, Tanumoy Pramanik, Archan S. Majumdar
+comments: 5 pages, 2 figures, published version
+journal: Phys. Rev. A 92, 042317 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1503.04697
+abstract: 
+
+id: 1506.00530
+title: Uniqueness regime for Markov dynamics on quantum lattice spin systems
+authors: Nicholas Crawford, Wojciech De Roeck, Marius Sch¨¹tz
+comments: v1 -&gt; v2: improved presentation, matches published version
+journal: J. Phys. A: Math. Theor. 48, 425203 (2015)
+subjects: Mathematical Physics (math-ph); Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1506.00530
+abstract: 
+
+id: 1506.04323
+title: Nonlinear Optical Galton Board: thermalization and continuous limit
+authors: Giuseppe Di Molfetta, Fabrice Debbasch, Marc Brachet
+comments: 8 pages, 14 figures, accepted on PRE as Regular Article
+journal: 
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech); Chaotic Dynamics (nlin.CD); Cellular Automata and Lattice Gases (nlin.CG)
+url: http://www.arxiv.org/abs/1506.04323
+abstract: 
+
+id: 1507.04164
+title: Hierarchy of Steering Criteria Based on Moments for All Bipartite Quantum Systems
+authors: Ioannis Kogias, Paul Skrzypczyk, Daniel Cavalcanti, Antonio Acin, Gerardo Adesso
+comments: 5+4 pages; minor changes in the presentation of our main result; v2 accepted for publication in Phys. Rev. Lett
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1507.04164
+abstract: 
+
+id: 1507.08840
+title: A versatile design for resonant guided-wave parametric down-conversion sources for quantum repeaters
+authors: Benjamin Brecht, Kai-Hong Luo, Harald Herrmann, Christine Silberhorn
+comments: 10 pages, 8 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1507.08840
+abstract: 
+
+id: 1507.08898
+title: Large cooperativity and microkelvin cooling with a three-dimensional optomechanical cavity
+authors: Mingyun Yuan, Vibhor Singh, Yaroslav M. Blanter, Gary A. Steele
+comments: 
+journal: Nature Communications, Vol 6, Article 8491, Year 2015
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1507.08898
+abstract: 
+
+id: 1507.08964
+title: Squashed entanglement in infinite dimensions
+authors: M.E. Shirokov
+comments: 39 pages, some questions are unsolved, any comments are welcome, in v.2 continuity bounds for the squashed entanglement and for the entanglement of formation under the energy constraint on one subsystem are added, in v.3 remark about asymptotic continuity is added, in v.4 condition relating continuity of the squashed entanglement to continuity of the quantum mutual information is added
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1507.08964
+abstract: 
+
+id: 1509.00537
+title: Volumes of orthogonal groups and unitary groups
+authors: Lin Zhang
+comments: v1: 80 pages, LaTeX, no figure. Any comments are welcome! v2:95 pages, selberg's integral is added and a ref also added. arXiv admin note: text overlap with arXiv:quant-ph/0302197, arXiv:quant-ph/0008016 by other authors
+journal: 
+subjects: Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.00537
+abstract: 
+
+id: 1509.02168
+title: Probing superfluidity of Bose-Einstein condensates via laser stirring
+authors: Vijay Pal Singh, Wolf Weimer, Kai Morgener, Jonas Siegl, Klaus Hueck, Niclas Luick, Henning Moritz, Ludwig Mathey
+comments: 15 pages, 13 figures
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.02168
+abstract: 
+
+id: 1509.08852
+title: Equivalence between Szegedy's and Coined Quantum Walks
+authors: Renato Portugal
+comments: 22 pages, 7 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.08852
+abstract: 
+

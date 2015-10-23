@@ -1,0 +1,144 @@
+id: 1112.0548
+title: The quantum query complexity of read-many formulas
+authors: Andrew M. Childs, Shelby Kimmel, Robin Kothari
+comments: 15 pages
+journal: Lecture Notes in Computer Science 7501, pp. 337-348 (2012)
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC)
+url: http://arxiv.org/abs/1112.0548
+abstract: The quantum query complexity of evaluating any read-once formula with n black-box input bits is Theta(sqrt(n)). However, the corresponding problem for read-many formulas (i.e., formulas in which the inputs have fanout) is not well understood. Although the optimal read-once formula evaluation algorithm can be applied to any formula, it can be suboptimal if the inputs have large fanout. We give an algorithm for evaluating any formula with n inputs, size S, and G gates using O(min{n, sqrt{S}, n^{1/2} G^{1/4}}) quantum queries. Furthermore, we show that this algorithm is optimal, since for any n,S,G there exists a formula with n inputs, size at most S, and at most G gates that requires Omega(min{n, sqrt{S}, n^{1/2} G^{1/4}}) queries. We also show that the algorithm remains nearly optimal for circuits of any particular depth k >= 3, and we give a linear-size circuit of depth 2 that requires Omega (n^{5/9}) queries. Applications of these results include a Omega (n^{19/18}) lower bound for Boolean matrix product verification, a nearly tight characterization of the quantum query complexity of evaluating constant-depth circuits with bounded fanout, new formula gate count lower bounds for several functions including PARITY, and a construction of an AC^0 circuit of linear size that can only be evaluated by a formula with Omega(n^{2-epsilon}) gates.
+
+id: 1112.1287
+title: Trapping a particle of a quantum walk on the line
+authors: Antoni Wojcik, Tomasz Luczak, Pawel Kurzynski, Andrzej Grudka, Tomasz Gdala, Malgorzata Bednarska-Bzdega
+comments: 5 pages, 4 figures
+journal: Phys. Rev. A 85, 012329 (2012)
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1112.1287
+abstract: We observe that changing a phase at a single point in a discrete quantum walk results in a rather surprising localization effect. For certain values of this phase change the possibility of localization strongly depends on the internal coin-state of the walker.
+
+id: 1112.1487
+title: Two quantum walkers sharing coins
+authors: Peng Xue, Barry C. Sanders
+comments: 10 pages, 4 figures
+journal: Physical Review A 85, 022307 (2012)
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1112.1487
+abstract: We consider two independent quantum walks on separate lines augmented by partial or full swapping of coins after each step. For classical random walks, swapping or not swapping coins makes little difference to the random walk characteristics, but we show that quantum walks with partial swapping of coins have complicated yet elegant inter-walker correlations. Specifically we study the joint position distribution of the reduced two-walker state after tracing out the coins and analyze total, classical and quantum correlations in terms of the mutual information, the quantum mutual information, and the measurement-induced disturbance. Our analysis shows intriguing quantum features without classical analogues.
+
+id: 1112.1882
+title: Topological phenomena in quantum walks; elementary introduction to the physics of topological phases
+authors: Takuya Kitagawa
+comments: Review article commissioned for Quantum Information Processing, special issue on quantum walk
+journal: 
+subjects: Quantum Physics (quant-ph); Quantum Gases (cond-mat.quant-gas)
+url: http://arxiv.org/abs/1112.1882
+abstract: Discrete quantum walks are dynamical protocols for controlling a single quantum particle. Despite of its simplicity, quantum walks display rich topological phenomena and provide one of the simplest systems to study and understand topological phases. In this article, we review the physics of discrete quantum walks in one and two dimensions in light of topological phenomena and provide elementary explanations of topological phases and their physical consequence, namely the existence of boundary states. We demonstrate that quantum walks are versatile systems that simulate many topological phases whose classifications are known for static Hamiltonians. Furthermore, topological phenomena appearing in quantum walks go beyond what has been known in static systems; there are phenomena unique to quantum walks, being an example of periodically driven systems, that do not exist in static systems. Thus the quantum walks not only provide a powerful tool as a quantum simulator for static topological phases but also give unique opportunity to study topological phenomena in driven systems.
+
+id: 1112.2614
+title: Green function approach for scattering quantum walks
+authors: F. M. Andrade, M. G. E. da Luz
+comments: 13 pages, 6 figures, this article was selected by APS for Virtual Journal of Quantum Information, Vol 11, Iss 11 (2011)
+journal: Physical Review A 84, 042343 (2011)
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph); Computational Physics (physics.comp-ph)
+url: http://arxiv.org/abs/1112.2614
+abstract: In this work a Green function approach for scattering quantum walks is developed. The exact formula has the form of a sum over paths and always can be cast into a closed analytic expression for arbitrary topologies and position dependent quantum amplitudes. By introducing the step and path operators, it is shown how to extract any information about the system from the Green function. The method relevant features are demonstrated by discussing in details an example, a general diamond-shaped graph.
+
+id: 1112.2856
+title: Worst case analysis of non-local games
+authors: Andris Ambainis, Arturs Backurs, Kaspars Balodis, Agnis Skuskovniks, Juris Smotrovs, Madars Virza
+comments: 14 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1112.2856
+abstract: Non-local games are studied in quantum information because they provide a simple way for proving the difference between the classical world and the quantum world. A non-local game is a cooperative game played by 2 or more players against a referee. The players cannot communicate but may share common random bits or a common quantum state. A referee sends an input $x_i$ to the $i^{th}$ player who then responds by sending an answer $a_i$ to the referee. The players win if the answers $a_i$ satisfy a condition that may depend on the inputs $x_i$. Typically, non-local games are studied in a framework where the referee picks the inputs from a known probability distribution. We initiate the study of non-local games in a worst-case scenario when the referee's probability distribution is unknown and study several non-local games in this scenario.
+
+id: 1112.3274
+title: Irreducible Scalar Many-Body Casimir Energies: Theorems and Numerical Studies
+authors: Martin Schaden
+comments: Writeup of talk given at QFEXT11 (Sept.18-24) in Benasque, Spain. 10 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph); High Energy Physics - Theory (hep-th)
+url: http://arxiv.org/abs/1112.3274
+abstract: We define irreducible N-body spectral functions and Casimir energies and consider a massless scalar quantum field interacting locally by positive potentials with classical objects. Irreducible N-body spectral functions in this case are shown to be conditional probabilities of random walks. The corresponding irreducible contributions to scalar many-body Casimir energies are finite and positive/negative for an odd/even number of objects. The force between any two finite objects separable by a plane is always attractive in this case. Analytical and numerical world-line results for the irreducible four-body Casimir energy of a scalar with Dirichlet boundary conditions on a tic-tac-toe pattern of lines are presented. Numerical results for the irreducible three-body Casimir energy of a massless scalar satisfying Dirichlet boundary conditions on three intersecting lines forming an isosceles triangle are also reported. In both cases the symmetric configuration (square and isosceles triangle) corresponds to the minimal irreducible contribution to the Casimir energy.
+
+id: 1112.3330
+title: Quantum strategies are better than classical in almost any XOR game
+authors: Andris Ambainis, Arturs Backurs, Kaspars Balodis, Dmitry Kravcenko, Raitis Ozols, Juris Smotrovs, Madars Virza
+comments: 22 pages, 1 figure
+journal: 
+subjects: Quantum Physics (quant-ph); Computer Science and Game Theory (cs.GT)
+url: http://arxiv.org/abs/1112.3330
+abstract: We initiate a study of random instances of nonlocal games. We show that quantum strategies are better than classical for almost any 2-player XOR game. More precisely, for large n, the entangled value of a random 2-player XOR game with n questions to every player is at least 1.21... times the classical value, for 1-o(1) fraction of all 2-player XOR games.
+
+id: 1112.3337
+title: Search by quantum walks on two-dimensional grid without amplitude amplification
+authors: Andris Ambainis, Arturs Backurs, Nikolajs Nahimovs, Raitis Ozols, Alexander Rivosh
+comments: 22 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC); Data Structures and Algorithms (cs.DS)
+url: http://arxiv.org/abs/1112.3337
+abstract: We study search by quantum walk on a finite two dimensional grid. The algorithm of Ambainis, Kempe, Rivosh (quant-ph/0402107) takes O(\sqrt{N log N}) steps and finds a marked location with probability O(1/log N) for grid of size \sqrt{N} * \sqrt{N}. This probability is small, thus amplitude amplification is needed to achieve \Theta(1) success probability. The amplitude amplification adds an additional O(\sqrt{log N}) factor to the number of steps, making it O(\sqrt{N} log N). In this paper, we show that despite a small probability to find a marked location, the probability to be within an O(\sqrt{N}) neighbourhood (at an O(\sqrt[4]{N}) distance) of the marked location is \Theta(1). This allows to skip amplitude amplification step and leads to an O(\sqrt{log N}) speed-up. We describe the results of numerical experiments supporting this idea, and we prove this fact analytically.
+
+id: 1112.3881
+title: The quantum Levy walk
+authors: Manuel O. C��ceres, Marco Nizama
+comments: 26 pages, 6 figures
+journal: J. Phys. A: Math. Theor. 43, (2010) 455306
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech); Mathematical Physics (math-ph)
+url: http://arxiv.org/abs/1112.3881
+abstract: We introduce the quantum Levy walk to study transport and decoherence in a quantum random model. We have derived from second order perturbation theory the quantum master equation for a \textit{Levy-like particle}that moves along a lattice through hopping scale-free while interacting with a thermal bath of oscillators. The general evolution of the quantum Levy particle has been solved for different preparations of the system. We examine the evolution of the quantum purity, the localized correlation, and the probability to be in a lattice site, all them leading to important conclusions concerning quantum irreversibility and decoherence features. We prove that the quantum thermal mean-square displacement is finite under a constraint that is different when compared to the classical Weierstrass random walk. We prove that when the mean-square displacement is infinite the density of state has a complex null-set inside the Brillouin zone. We show the existence of a critical behavior in the continuous eigenenergy which is related to its non-differentiability and self-affine characteristics. In general our approach allows to study analytically quantum fluctuations and decoherence in a long-range hopping model.
+
+id: 1112.3992
+title: Quantum random walks with multiphoton interference and high order correlation functions
+authors: Bryan T Gard, Robert M Cross, Petr M Anisimov, Hwang Lee, Jonathan P Dowling
+comments: 15 pages, 7 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1112.3992
+abstract: We show a simulation of quantum random walks with multiple photons using a staggered array of 50/50 beam splitters with a bank of detectors at any desired level. We discuss the multiphoton interference effects that are inherent to this setup, and introduce one, two, and threefold coincidence detection schemes. The use of Feynman diagrams are used to intuitively explain the unique multiphoton interference effects of these quantum random walks.
+
+id: 1112.4036
+title: Time averaged distribution of a discrete-time quantum walk on the path
+authors: Yusuke Ide, Norio Konno, Etsuo Segawa
+comments: 8 pages, Quantum Information Processing (in press)
+journal: Quantum Information Processing 11 (5), 1207-1218, 2012
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph); Probability (math.PR); Spectral Theory (math.SP)
+url: http://arxiv.org/abs/1112.4036
+abstract: The discrete time quantum walk which is a quantum counterpart of random walk plays important roles in the theory of quantum information theory. In the present paper, we focus on discrete time quantum walks viewed as quantization of random walks on the path. We obtain a weak limit theorem for the time averaged distribution of our quantum walks.
+
+id: 1112.4335
+title: A note on Ito's formula for discrete-time quantum walk
+authors: Norio Konno
+comments: 7 pages, submitted to Journal of Computational and Theoretical Nanoscience as the special issue on "Theoretical and Mathematical Aspects of the Discrete Time Quantum Walk"
+journal: Journal of Computational and Theoretical Nanoscience, Vol.10, No.7, pp.1579-1582 (2013)
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph); Probability (math.PR)
+url: http://arxiv.org/abs/1112.4335
+abstract: We present an Ito's formula for the one-dimensional discrete-time quantum walk and give some examples including a Tanaka's formula by using the formula. Moreover we discuss integrals for the quantum walk.
+
+id: 1112.4633
+title: Limit theorems for the interference terms of discrete-time quantum walks on the line
+authors: Takuya Machida
+comments: Quantum Information and Computation, Vol.13 No.7&8, pp.661-671 (2013)
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://arxiv.org/abs/1112.4633
+abstract: The probability distributions of discrete-time quantum walks have been often investigated, and many interesting properties of them have been discovered. The probability that the walker can be find at a position is defined by diagonal elements of the density matrix. On the other hand, although off-diagonal parts of the density matrices have an important role to quantify quantumness, they have not received attention in quantum walks. We focus on the off-diagonal parts of the density matrices for discrete-time quantum walks on the line and derive limit theorems for them.
+
+id: 1112.4982
+title: Localization of quantum walks induced by recurrence properties of random walks
+authors: Etsuo Segawa
+comments: 12 pages
+journal: Journal of Computational and Theoretical Nanoscience: Special Issue: Theoretical and Mathematical Aspects of the Discrete Time Quantum Walk. 10 (2013), 1583--1590
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph); Probability (math.PR)
+url: http://arxiv.org/abs/1112.4982
+abstract: We study a quantum walk (QW) whose time evolution is induced by a random walk (RW) first introduced by Szegedy (2004). We focus on a relation between recurrent properties of the RW and localization of the corresponding QW. We find the following two fundamental derivations of localization of the QW. The first one is the set of all the $\ell^2$ summable eigenvectors of the corresponding RW. The second one is the orthogonal complement, whose eigenvalues are $\pm 1$, of the subspace induced by the RW. In particular, as a consequence, for an infinite half line, we show that localization of the QW can be ensured by the positive recurrence of the corresponding RWs, and also that the existence of only one self loop affects localization properties.
+
+id: 1112.4579
+title: Limit Theorems for Quantum Walks on the Union of Planes
+authors: Clement Ampadu
+comments: 22 pages
+journal: 
+subjects: Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1112.4579
+abstract: We extend the construction given by [Chisaki et.al, arXiv:1009.1306v1] from lines to planes, and obtain the associated limit theorems for quantum walks on such a graph.
+

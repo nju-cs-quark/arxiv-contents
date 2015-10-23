@@ -1,0 +1,54 @@
+id: 0912.0079
+title: Deterministic entanglement purification and complete nonlocal Bell-state analysis with hyperentanglement
+authors: Yu-Bo Sheng, Fu-Guo Deng
+comments: 8 pages, 2 figures
+journal: Physical Review A 81, 032307 (2010).
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/0912.0079
+abstract: Entanglement purification is a very important element for long-distance quantum communication. Different from all the existing entanglement purification protocols (EPPs) in which two parties can only obtain some quantum systems in a mixed entangled state with a higher fidelity probabilistically by consuming quantum resources exponentially, here we present a deterministic EPP with hyperentanglement. Using this protocl, the two parties can, in principle, obtain deterministically maximally entangled pure states in polarization without destroying any less-entangled photon pair, which will improve the efficiency of long-distance quantum communication exponentially. Meanwhile, it will be shown that this EPP can be used to complete nonlocal Bell-state analysis perfectly. We also discuss this EPP in a practical transmission.
+
+id: 0912.1217
+title: Quantum Hitting Time on the Complete Graph
+authors: R.A.M. Santos, R. Portugal
+comments: 14 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/0912.1217
+abstract: Quantum walks play an important role in the area of quantum algorithms. Many interesting problems can be reduced to searching marked states in a quantum Markov chain. In this context, the notion of quantum hitting time is very important, because it quantifies the running time of the algorithms. Markov chain-based algorithms are probabilistic, therefore the calculation of the success probability is also required in the analysis of the computational complexity. Using Szegedy's definition of quantum hitting time, which is a natural extension of the definition of the classical hitting time, we present analytical expressions for the hitting time and success probability of the quantum walk on the complete graph.
+
+id: 0912.1523
+title: Decoherence in Search Algorithms
+authors: G. Abal, R. Donangelo, F.L. Marquezino, A.C. Oliveira, R. Portugal
+comments: 14 pages, presented at 36th Seminar on Software and Hardware (SEMISH), XXIX Brazilian Computer Society Congress, Bento Concalves, Brazil
+journal: Proceedings of the XXIX Brazilian Computer Society Congress (SEMISH), 2009, pages 293-306
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC); Data Structures and Algorithms (cs.DS)
+url: http://arxiv.org/abs/0912.1523
+abstract: Recently several quantum search algorithms based on quantum walks were proposed. Those algorithms differ from Grover's algorithm in many aspects. The goal is to find a marked vertex in a graph faster than classical algorithms. Since the implementation of those new algorithms in quantum computers or in other quantum devices is error-prone, it is important to analyze their robustness under decoherence. In this work we analyze the impact of decoherence on quantum search algorithms implemented on two-dimensional grids and on hypercubes.
+
+id: 0912.3825
+title: Breaking and making quantum money: toward a new quantum cryptographic protocol
+authors: Andrew Lutomirski, Scott Aaronson, Edward Farhi, David Gosset, Avinatan Hassidim, Jonathan Kelner, Peter Shor
+comments: 14 pages
+journal: Innovations in Computer Science - ICS 2010, Tsinghua University, Beijing, China, January 5-7, 2010. Proceedings, 20-31, 978-7-302-21752-7 Tsinghua University Press
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/0912.3825
+abstract: Public-key quantum money is a cryptographic protocol in which a bank can create quantum states which anyone can verify but no one except possibly the bank can clone or forge. There are no secure public-key quantum money schemes in the literature; as we show in this paper, the only previously published scheme [1] is insecure. We introduce a category of quantum money protocols which we call collision-free. For these protocols, even the bank cannot prepare multiple identical-looking pieces of quantum money. We present a blueprint for how such a protocol might work as well as a concrete example which we believe may be insecure.
+
+id: 0912.4678
+title: Quantum walks and elliptic integrals
+authors: Norio Konno
+comments: 8 pages, Journal-ref added
+journal: Mathematical Structures in Computer Science, Vol.20, pp.1091-1098 (2010)
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph); Probability (math.PR)
+url: http://arxiv.org/abs/0912.4678
+abstract: Polya showed in his 1921 paper that the generating function of the return probability for a two-dimensional random walk can be written in terms of an elliptic integral. In this paper we present a similar expression for a one-dimensional quantum walk.
+
+id: 0912.0232
+title: Continuous-time quantum walk on integer lattices and homogeneous trees
+authors: Vladislav Kargin
+comments: The journal version (save for formatting); 19 pages
+journal: Journal of Statistical Physics, 2010, v. 140, 393-408
+subjects: Probability (math.PR); Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/0912.0232
+abstract: This paper is concerned with the continuous-time quantum walk on Z, Z^d, and infinite homogeneous trees. By using the generating function method, we compute the limit of the average probability distribution for the general isotropic walk on Z, and for nearest-neighbor walks on Z^d and infinite homogeneous trees. In addition, we compute the asymptotic approximation for the probability of the return to zero at time t in all these cases.
+

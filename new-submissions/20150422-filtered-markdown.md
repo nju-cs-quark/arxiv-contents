@@ -1,0 +1,50 @@
+---
+layout: arxiv
+title: 202015 Filtered arXiv Papers
+---
+
+**1.    The effect of noise correlations on randomized benchmarking**  
+Harrison Ball, Thomas M. Stace, Steven T. Flammia, Michael J. Biercuk  
+http://arxiv.org/abs/1504.05307  
+<blockquote>
+<p>
+Randomized benchmarking is an important statistical tool for characterising the performance of high-fidelity quantum gates. Here we study randomized benchmarking in the presence of quasi-static (i.e. low-frequency) errors. We contrast the resulting fidelity with that under the conventional assumption of Markovian errors. We treat these limiting cases analytically by mapping the averaging process to a random walk in "Pauli space". In the quasi-static case, we find a broad, highly skewed distribution of fidelities, while Markovian errors produce a narrow, approximately Gaussian distribution of fidelities. We use the filter-transfer function formalism to reveal the underlying reason for these differences in terms of effective coherent averaging of correlated errors in certain random sequences. Large skew in the distribution towards high-fidelity outcomes -- consistent with existing experimental data -- highlights potential finite-sampling pitfalls when deploying randomized benchmarking. Moreover, these results demonstrate general challenges in extracting useful single-gate fidelities from randomized benchmarking measurements with correlated errors.
+</p>
+</blockquote>
+
+------
+
+**2.    Nonhomogeneous quantum Markov chains and a notion of ergodicity**  
+Carlos F. Lardizabal, Rafael R. Souza  
+http://arxiv.org/abs/1504.05398  
+<blockquote>
+<p>
+Motivated by a model presented by S. Gudder, we study a quantum generalization of Markov chains and discuss the relation between these maps and open quantum random walks, a class of quantum channels described by S. Attal et al. We consider processes which are nonhomogeneous in time, i.e., at each time step, a possibly distinct evolution kernel. Inspired by a spectral technique described by L. Saloff-Coste and J. Z\'u\~niga, we define a notion of ergodicity for nonhomogeneous quantum Markov chains and describe a criterion for ergodicity of such objects in terms of singular values. As a consequence we obtain a quantum version of the classical probability result concerning the behavior of the columns (or rows) of the iterates of a stochastic matrix induced by a finite, irreducible, aperiodic Markov chain. We are also able to relate the ergodic property presented here with the notions of weak and uniform ergodicity known in the literature of noncommutative $L^1$-spaces.
+</p>
+</blockquote>
+
+------
+
+**3.    Bosonic interference as a complementary resource for implementation of quantum walks**  
+Magdalena Stobi��ska, Peter P. Rohde, Pawe? Kurzy��ski  
+http://arxiv.org/abs/1504.05480  
+<blockquote>
+<p>
+Quantum walks are interesting simple models for describing various fundamental processes in nature ranging from chaos or photosynthesis to universal quantum computation. Their implementation usually comprises a single particle and $O(n^2)$ optical elements, where $n$ is the size of the quantum walk space. The question arises if this can be achieved with fewer or complementary resources. Here we show that this can be done using a multi-particle Hong--Ou--Mandel interference. It employs $O(n)$ indistinguishable bosons and a single beam splitter to achieve a similar quantum walk. In addition we show that a quantum-to-classical transition takes place if the particles become distinguishable. This approach establishes a link between the fundamental indistinguishability of quantum particles and the wavelike coherent nature of the walk.
+</p>
+</blockquote>
+
+------
+
+**4.    Localized quantum walks as secured quantum memory**  
+C. M. Chandrashekar, Th. Busch  
+European Physics Letters 110, 10005 (2015)  
+http://arxiv.org/abs/1307.5922  
+<blockquote>
+<p>
+
+</p>
+</blockquote>
+
+------
+

@@ -1,0 +1,270 @@
+id: 1509.06496
+title: Commutation-relation-preserving ladder operators for propagating optical fields in nonuniform lossy media
+authors: Mikko Partanen, Teppo H?yrynen, Jukka Tulkki, Jani Oksanen
+comments: 
+journal: Physical Review A 92, 033839 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.06496
+abstract: We have recently developed a quantized fluctuational electrodynamics (QFED) formalism to describe the quantum aspects of local thermal balance formation and to formulate the electromagnetic field ladder operators so that they no longer exhibit the anomalies reported for resonant structures. Here we show how the QFED can be used to resolve between the left and right propagating fields to bridge the QFED and the quantum optical input-output relations commonly used to describe selected quantum aspects of resonators. The generalized model introduces a density of states concept describing interference effects, which is instrumental in allowing an unambiguous separation of the fields and related quantum operators into left and right propagating parts. In addition to providing insight on the quantum treatment of interference, our results also provide the conclusive resolution of the long-standing enigma of the anomalous commutation relations of partially confined propagating fields.
+
+id: 1509.06516
+title: Criticality of environmental information obtainable by dynamically controlled quantum probes
+authors: Analia Zwick, Gonzalo A. Alvarez, Gershon Kurizki
+comments: 3 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.06516
+abstract: A universal approach to decoherence control combined with quantum estimation theory reveals a critical behavior, akin to a phase transition, of the information obtainable by a qubit probe concerning the memory time of environmental fluctuations. This criticality emerges only when the probe is subject to dynamical control. It gives rise to a sharp transition between two dynamical phases characterized by either a short or long memory time compared to the probing time. This phase-transition of the environmental information is a fundamental feature that facilitates the attainment of the highest estimation precision of the environment memory-time and the characterization of probe dynamics.
+
+id: 1509.06543
+title: On some classes of bipartite unitary operators
+authors: Julien Deschamps, Ion Nechita, Clement Pellegrini
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1509.06543
+abstract: We investigate unitary operators acting on a tensor product space, with the property that the quantum channels they generate, via the Stinespring dilation theorem, are of a particular type, independently of the state of the ancilla system in the Stinespring relation. The types of quantum channels we consider are those of interest in quantum information theory: unitary conjugations, constant channels, unital channels, mixed unitary channels, PPT channels, and entanglement breaking channels. For some of the classes of bipartite unitary operators corresponding to the above types of channels, we provide explicit characterizations, necessary and/or sufficient conditions for membership, and we compute the dimension of the corresponding algebraic variety. Inclusions between these classes are considered, and we show that for small dimensions, many of these sets are identical.
+
+id: 1509.06572
+title: Energy landscape and conical intersection points of the driven Rabi model
+authors: M. T. Batchelor, Z.-M. Li, H.-Q. Zhou
+comments: 6 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech)
+url: http://www.arxiv.org/abs/1509.06572
+abstract: We examine the energy surfaces of the driven Rabi model, also known as the biased or generalised Rabi model, as a function of the coupling strength and the driving term. The energy surfaces are plotted numerically from the known analytic solution. The resulting energy landscape consists of an infinite stack of sheets connected by conical intersection points located at the degenerate Juddian points in the eigenspectrum. Trajectories encircling these points are expected to exhibit a nonzero geometric phase.
+
+id: 1509.06591
+title: Detecting Consistency of Overlapping Quantum Marginals by Separability
+authors: Jianxin Chen, Zhengfeng Ji, Nengkun Yu, Bei Zeng
+comments: 6 pages, 3 figures. Comments are welcome
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.06591
+abstract: The quantum marginal problem asks whether a set of given density matrices are consistent, i.e., whether they can be the reduced density matrices of a global quantum state. Not many non-trivial analytic necessary (or sufficient) conditions are known for the problem in general. We propose a method to detect consistency of overlapping quantum marginals by considering the separability of some derived states. Our method works well for the $k$-symmetric extension problem in general, and for the general overlapping marginal problems in some cases. Our work is, in some sense, the converse to the well-known $k$-symmetric extension criterion for separability.
+
+id: 1509.06595
+title: Enhanced DC-Field Metrology Using Nitrogen Vacancy Spins via Strong Collective Coupling and Fano-Scattering
+authors: Haitham A. R. El-Ella, Ulrik Lund Andersen, Alexander Huck
+comments: 9 pages (including 4 appendices), 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
+url: http://www.arxiv.org/abs/1509.06595
+abstract: Nitrogen-vacancy ensembles promise an unprecedented combination of sensitivity and resolution for magnetic field sensing under ambient conditions. However, their full sensing potential is limited by the inhomogeneous degradation of their collective coherence, while dynamical-decoupling limits sensing to the detection of AC-fields. Here we propose using the recently demonstrated cavity-protection effect for room-temperature, ensemble-based DC metrology. We identify a parameter space where strong-coupling can persist at room temperature and where the dressed states are limited solely by the dephasing of the cavity mode and the ensemble longitudinal relaxation, showing aT Hz$^{-\frac{1}{2}}$ DC-field sensitivities to be theoretically achievable with further augmentation through Fano-interference.
+
+id: 1509.06624
+title: Parallel transport quantum logic gates with trapped ions
+authors: Ludwig de Clercq, Hsiang-Yu Lo, Matteo Marinelli, David Nadlinger, Robin Oswald, Vlad Negnevitsky, Daniel Kienzler, Ben Keitch, Jonathan P. Home
+comments: 6 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Atomic Physics (physics.atom-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1509.06624
+abstract: Quantum information processing will require combinations of gate operations and communication, with each applied in parallel to large numbers of quantum systems. These tasks are often performed sequentially, with gates implemented by pulsed fields and information transported either by moving the physical qubits or using photonic links. For trapped ions, an alternative approach is to implement quantum logic gates by transporting the ions through static laser beams, combining qubit operations with transport. This has significant advantages for scalability since the voltage waveforms required for transport can potentially be generated using micro-electronics integrated into the trap structure itself, while both optical and microwave control elements are significantly more bulky. Using a multi-zone ion trap, we demonstrate transport gates on a qubit encoded in the hyperfine structure of a beryllium ion. We show the ability to perform sequences of operations, and to perform parallel gates on two ions transported through separate trap locations using a single recycled laser beam. For the latter, we demonstrate independent quantum gates by controlling the speed of each of the ions. This work provides a scalable path to ion trap quantum computing without a dramatic increase in optical control complexity.
+
+id: 1509.06626
+title: Solution of the Dirac equation in a curved space with static metric
+authors: A. D. Alhaidari
+comments: 15 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph); High Energy Physics - Theory (hep-th)
+url: http://www.arxiv.org/abs/1509.06626
+abstract: Compatibility of symmetric quantization of the Dirac equation in a curved space with general covariance gives a special representation of the spin connections in which their dot product with the Dirac gamma matrices becomes equal to the "covariant divergence" of the latter. Requiring that the square of the equation gives the conventional Klein-Gordon equation in a curved space results in an operator algebra for the Dirac gamma matrices that involves the "covariant derivative" connections and the Riemann-Christoffel connections. In 1+1 space-time with static metric, we obtain exact solutions of this Dirac equation model for some examples. We also formulate the interacting theory of the model with various coupling modes and solve it in the same space for a given potential configuration.
+
+id: 1509.06692
+title: A classical paradox of choice
+authors: J. Finkelstein
+comments: LaTeX, 3 pages, no figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.06692
+abstract: A classical analogue of the Adlam-Kent "Quantum paradox of choice" (arXiv:1509.04226) is presented.
+
+id: 1509.06380
+title: Exchange-interaction of two spin qubits mediated by a superconductor
+authors: Fabian Hassler, Gianluigi Catelani, Hendrik Bluhm
+comments: 6 pages, 2 figures
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.06380
+abstract: Entangling two quantum bits by letting them interact is the crucial requirements for building a quantum processor. For qubits based on the spin of the electron, these two-qubit gates are typically performed by exchange interaction of the electrons captured in two nearby quantum dots. Since the exchange interaction relies on tunneling of the electrons, the range of interaction for conventional approaches is severely limited as the tunneling amplitude decays exponentially with the length of the tunneling barrier. Here, we present a novel approach to couple two spin qubits via a superconducting coupler. In essence, the superconducting coupler provides a tunneling barrier for the electrons which can be tuned with exquisite precision. We show that as a result exchange couplings over a distance of several microns become realistic, thus enabling flexible designs of multi-qubit systems.
+
+id: 1509.06411
+title: From Quantum Chaos and Eigenstate Thermalization to Statistical Mechanics and Thermodynamics
+authors: Luca D'Alessio, Yariv Kafri, Anatoli Polkovnikov, Marcos Rigol
+comments: 122 pages, 32 figures, invited review submitted to Advances in Physics
+journal: 
+subjects: Statistical Mechanics (cond-mat.stat-mech); Quantum Gases (cond-mat.quant-gas); Strongly Correlated Electrons (cond-mat.str-el); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.06411
+abstract: This review gives a pedagogical introduction to the eigenstate thermalization hypothesis (ETH), its basis, and its implications to statistical mechanics and thermodynamics. In the first part, ETH is introduced as a natural extension of ideas from quantum chaos and random matrix theory. To this end, we present a brief overview of classical and quantum chaos, as well as random matrix theory and some of its most important predictions. The latter include the statistics of energy levels, eigenstate components, and matrix elements of observables. Building on these, we introduce the ETH and show that it allows one to describe thermalization in isolated chaotic systems without invoking the notion of an external bath. We examine numerical evidence of eigenstate thermalization from studies of many-body lattice systems. We also introduce the concept of a quench as a means of taking isolated systems out of equilibrium, and discuss results of numerical experiments on quantum quenches. The second part of the review explores the implications of quantum chaos and ETH to thermodynamics. Basic thermodynamic relations are derived, including the second law of thermodynamics, the fundamental thermodynamic relation, fluctuation theorems, and the Einstein and Onsager relations. In particular, it is shown that quantum chaos allows one to prove these relations for individual Hamiltonian eigenstates and thus extend them to arbitrary stationary statistical ensembles. We then show how one can use these relations to obtain non-trivial universal energy distributions in continuously driven systems. At the end of the review, we briefly discuss the relaxation dynamics and description after relaxation of integrable quantum systems, for which ETH is violated. We introduce the concept of the generalized Gibbs ensemble, and discuss its connection with ideas of prethermalization in weakly interacting systems.
+
+id: 1509.06462
+title: Effect of frustration on the entanglement of non-equilibrium finite-spin systems
+authors: Koichi Nakagawa
+comments: 10 pages, 16 figures
+journal: 
+subjects: Statistical Mechanics (cond-mat.stat-mech); High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.06462
+abstract: We study the effect of frustration on the entanglement of non-equilibrium finite-spin systems with external fields using a new method based on thermofield dynamics (TFD). For this purpose, the extended density matrices and the extended entanglement entropies of two systems with either non-competitive or competitive external fields are calculated according to the dissipative von Neumann equation, and the numerical results are compared. Consequently, the effect of frustration on the entanglement of non-equilibrium finite-spin systems with competitive external fields has been clarified in the TFD algorithm.
+
+id: 1509.06560
+title: Valley-based Cooper Pair Splitting via Topologically Confined Channels in Bilayer Graphene
+authors: Alexander Schroer, Peter G. Silvestrov, Patrik Recher
+comments: 7 pages, 3 figures
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Superconductivity (cond-mat.supr-con); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.06560
+abstract: Bilayer graphene hosts valley-chiral one dimensional modes at domain walls between regions of different interlayer potential or stacking order. When such a channel is brought into proximity to a superconductor, the two electrons of a Cooper pair which tunnel into it move in opposite directions because they belong to different valleys related by the time-reversal symmetry. This is a kinetic variant of Cooper pair splitting, which requires neither Coulomb repulsion nor energy filtering but is enforced by the robustness of the valley isospin in the absence of atomic-scale defects. We derive an effective model for the guided modes in proximity to an s-wave superconductor, calculate the conductance carried by split and spin-entangled electron pairs, and interpret it as a result of local Andreev reflection processes, whereas crossed Andreev reflection is absent.
+
+id: 1509.06714
+title: Dispersive reservoir influence on the superconducting phase qubit
+authors: A. H. Homid, A.-B. A. Mohamed, H. A. Hessian
+comments: 
+journal: 
+subjects: Superconductivity (cond-mat.supr-con); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.06714
+abstract: In this article, an analytical description is presented based on the master equation. This master equation is formed from the system of superconducting phase qubit which is coupled to a torsional resonator and damped by a dispersive reservoir. An analytical approach for searching of some physical phenomena on the qubit system is presented, such as qubit inversion, purity and negativity. In addition, these phenomena are discussed for the resonance and off-resonance cases for many different initial states. From computational results, it is found that the mentioned phenomena depend on the dispersive reservoir parameter which leads to their death. However, the complete destruction of system coherence in the presence of dispersive reservoir leads to the death of entanglement between the qubit and torsional resonator.
+
+id: 1509.06741
+title: Quantum variance: a measure of quantum coherence and quantum correlations for many-body systems
+authors: Ir¨¦n¨¦e Fr¨¦rot, Tommaso Roscilde
+comments: 5+8 pages, 3+2 figures
+journal: 
+subjects: Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.06741
+abstract: Quantum coherence is a fundamental common trait of quantum phenomena, from the interference of matter waves to quantum degeneracy of identical particles. Despite its importance, estimating and measuring quantum coherence in generic, mixed many-body quantum states remains a formidable challenge, with fundamental implications in areas as broad as quantum condensed matter, quantum information, quantum metrology, and quantum biology. Here we provide a quantitative definition of the variance of quantum coherent fluctuations (the \emph{quantum variance}) of any observable on generic quantum states. The quantum variance generalizes the concept of thermal de Broglie wavelength (for the position of a free quantum particle) to the space of eigenvalues of any observable, quantifying the degree of coherent delocalization in that space. The quantum variance is generically measurable and computable as the difference between the static fluctuations and the static susceptibility of the observable, despite its simplicity, it is found to provide a tight lower bound to most widely accepted estimators of "quantumness" of observables (both as a feature as well as a resource), such as the Wigner-Yanase skew information and the quantum Fisher information. When considering bipartite fluctuations in an extended quantum system, the quantum variance expresses genuine quantum correlations (of discord type) among the two parts. In the case of many-body systems it is found to obey an area law at finite temperature, extending therefore area laws of entanglement and quantum fluctuations of pure states to the mixed-state context. Hence the quantum variance paves the way to the measurement of macroscopic quantum coherence and quantum correlations in most complex quantum systems.
+
+id: 1406.0180
+title: A Measure of Non-Markovianity for Unital Quantum Dynamical Maps
+authors: S. Haseli, S. Salimi, A.S. Khorashad
+comments: 7 pages, 4 figures. Add new comments and new co-author
+journal: Quantum Information Processing (2015) 14, 3581
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1406.0180
+abstract: 
+
+id: 1407.1327
+title: Robust control of long distance entanglement in disordered spin chains
+authors: Jian Cui, Florian Mintert
+comments: Published version
+journal: New J. Phys. 17 (2015) 093014
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1407.1327
+abstract: 
+
+id: 1407.7251
+title: Quantum circuit design for accurate simulation of qudit channels
+authors: Dong-Sheng Wang, Barry C. Sanders
+comments: Revised: withdrawn claim that the optimization is convex
+journal: New J. Phys. 17 043004 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1407.7251
+abstract: 
+
+id: 1502.02077
+title: Quantum Energy Regression using Scattering Transforms
+authors: Matthew Hirn, Nicolas Poilvert, Stephane Mallat
+comments: 9 pages, 2 figures, 1 table. v2: Correction to Section 4.3
+journal: 
+subjects: Learning (cs.LG); Computer Vision and Pattern Recognition (cs.CV); Chemical Physics (physics.chem-ph); Computational Physics (physics.comp-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1502.02077
+abstract: 
+
+id: 1504.02475
+title: Universal features of left-right entanglement entropy
+authors: Diptarka Das, Shouvik Datta
+comments: 6 pages, 1 figure. Published version with few references added
+journal: Phys. Rev. Lett. 115, 131602 (2015)
+subjects: High Energy Physics - Theory (hep-th); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1504.02475
+abstract: 
+
+id: 1505.01960
+title: Quantized vortices in interacting gauge theories
+authors: Salvatore Butera, Manuel Valiente, Patrik ?hberg
+comments: 6 pages, one figure. General improvements
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1505.01960
+abstract: 
+
+id: 1506.00855
+title: Clustering of exceptional points and dynamical phase transitions
+authors: H. Eleuch, I. Rotter
+comments: Change of the title; addition of new results for N&gt;2 states; Introduction and Conclusions rewritten; 27 pages; 7 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1506.00855
+abstract: 
+
+id: 1506.01268
+title: Sum rules for spin-$1/2$ quantum gases in states with well-defined spins: II. Spin-dependent two-body interactions
+authors: Vladimir A. Yurovsky
+comments: Typos are corrected, a sequel to arXiv:1501.06182
+journal: Phys. Rev. A 92, 033618 (2015)
+subjects: Quantum Gases (cond-mat.quant-gas); Mathematical Physics (math-ph); Atomic Physics (physics.atom-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1506.01268
+abstract: 
+
+id: 1506.01801
+title: Controllable coupling between a nanomechanical resonator and a coplanar-waveguide resonator via a superconducting flux qubit
+authors: Wei Xiong, Da-Yu Jin, Jun Jing, Chi-Hang Lam, J. Q. You
+comments: 8 pages, 6 figures
+journal: Phys. Rev. A 92, 032318 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1506.01801
+abstract: 
+
+id: 1506.08763
+title: Quantum Zeno effect in parameter estimation
+authors: Alexander Holm Kiilerich, Klaus M?lmer
+comments: 9 pages, 8 figures
+journal: Phys. Rev. A 92, 032124 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1506.08763
+abstract: 
+
+id: 1507.07016
+title: Stochastic path integral formalism for continuous quantum measurement
+authors: Areeya Chantasri, Andrew N. Jordan
+comments: 24 pages, 4 figures and 1 table
+journal: Phys. Rev. A 92, 032125 (2015)
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Statistical Mechanics (cond-mat.stat-mech)
+url: http://www.arxiv.org/abs/1507.07016
+abstract: 
+
+id: 1509.00477
+title: Ground States of the Hydrogen Molecule and Its Molecular Ion in the Presence of Magnetic Field Using the Variational Monte Carlo Method
+authors: S. B. Doma, M. Abu-Shady, F. N. El-Gamma, A. A. Amer
+comments: 10 pages, 4 figures, 2 tables
+journal: 
+subjects: Atomic Physics (physics.atom-ph); Chemical Physics (physics.chem-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.00477
+abstract: 
+
+id: 1509.05885
+title: Cascaded optical fiber link using the Internet network for remote clocks comparison
+authors: Nicola Chiodo, Nicolas Quintin, Fabio Stefani, Fabrice Wiotte, Emilie Camisard, Christian Chardonnet, Giorgio Santarelli, Anne Amy-Klein, Paul-Eric Pottie, Olivier Lopez
+comments: 
+journal: 
+subjects: Optics (physics.optics); Atomic Physics (physics.atom-ph); Instrumentation and Detectors (physics.ins-det); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.05885
+abstract: 
+
+id: 1509.06157
+title: Fast quantum control and light-matter interactions at the 10,000 quanta level
+authors: J. Alonso, F. M. Leupold, Z. U. Soler, M. Fadel, M. Marinelli, B. C. Keitch, V. Negnevitsky, J. P. Home
+comments: 5 pages (main text) + 4 pages (supp. info.), 3 + 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Atomic Physics (physics.atom-ph)
+url: http://www.arxiv.org/abs/1509.06157
+abstract: 
+
+id: 1509.06361
+title: Quantum Query Complexity of Subgraph Isomorphism and Homomorphism
+authors: Raghav Kulkarni, Supartha Podder
+comments: 16 pages, 2 figures
+journal: 
+subjects: Computational Complexity (cs.CC); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.06361
+abstract: 
+

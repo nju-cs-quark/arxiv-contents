@@ -1,0 +1,27 @@
+id: quant-ph/0307149
+title: Lower Bounds for Local Search by Quantum Arguments
+authors: Scott Aaronson
+comments: 20 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC)
+url: http://arxiv.org/abs/quant-ph/0307149
+abstract: The problem of finding a local minimum of a black-box function is central for understanding local search as well as quantum adiabatic algorithms. For functions on the Boolean hypercube {0,1}^n, we show a lower bound of Omega(2^{n/4}/n) on the number of queries needed by a quantum computer to solve this problem. More surprisingly, our approach, based on Ambainis' quantum adversary method, also yields a lower bound of Omega(2^{n/2}/n^2) on the problem's classical randomized query complexity. This improves and simplifies a 1983 result of Aldous. Finally, in both the randomized and quantum cases, we give the first nontrivial lower bounds for finding local minima on grids of constant dimension greater than 2.
+
+id: quant-ph/0307190
+title: Lower bounds on the complexity of simulating quantum gates
+authors: Andrew M. Childs, Henry L. Haselgrove, Michael A. Nielsen
+comments: 6 pages
+journal: Phys. Rev. A 68, 052311 (2003)
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/quant-ph/0307190
+abstract: We give a simple proof of a formula for the minimal time required to simulate a two-qubit unitary operation using a fixed two-qubit Hamiltonian together with fast local unitaries. We also note that a related lower bound holds for arbitrary n-qubit gates.
+
+id: quant-ph/0307212
+title: Hyperentanglement-assisted Bell-state analysis
+authors: S. P. Walborn, S. P��dua, C. H. Monken
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/quant-ph/0307212
+abstract: We propose a simple scheme for complete Bell-state measurement of photons using hyperentangled states - entangled in multiple degrees of freedom. In addition to hyperentanglement, our scheme requires only linear optics and single photon detectors, and is realizable with current technology. At the cost of additional classical communication, our Bell-state measurement can be implemented non-locally. We discuss the possible application of these results to quantum dense coding and quantum teleportation.
+

@@ -7,21 +7,3 @@ subjects: Quantum Physics (quant-ph); Information Theory (cs.IT)
 url: http://arxiv.org/abs/1503.08453
 abstract: We consider an special dynamics of a quantum walk (QW) on a line. Initially, the walker localized at the origin of the line with arbitrary chirality, evolves to an asymptotic stationary state. In this stationary state a measurement is performed and the state resulting from this measurement is used to start a second QW evolution to achieve a second asymptotic stationary state. In previous works, we developed the thermodynamics associated with the entanglement between the coin and position degrees of freedom in the QW. Here we study the application of the ?rst and second laws of thermodynamics to the process between the two stationary states mentioned above. We show that: i) the entropy change has upper and lower bounds that are obtained analytically as a function of the initial conditions. ii) the energy change is associated to a heat-transfer process.
 
-id: 1503.08760
-title: Quantum Hidden Markov Models based on Transition Operation Matrices
-authors: Micha? Cholewa, Piotr Gawron, Przemys?aw G?omb
-comments: 13 pages, 1 figure
-journal: 
-subjects: Quantum Physics (quant-ph)
-url: http://arxiv.org/abs/1503.08760
-abstract: In this work, we extend the Quantum Markov chains proposition [S. Gudder. Quantum Markov chains. J. Math. Phys., 49(7), 2008] to propose Quantum Hidden Markov Models (QHMMs). For that, we use the notions of Transition Operation Matrices (TOM) and Vector States, which are an extension of classical stochastic matrices and probability distributions. Our main result is the Mealy QHMM formulation and proofs of algorithms needed for application of this model: Forward for general case and Vitterbi for a restricted class of QHMMs.
-
-id: 1503.08806
-title: Simplified implementation of the quantum Fourier transform with Ising-type Hamiltonians: Example with ion traps
-authors: Svetoslav S. Ivanov, Michael Johanning, Christof Wunderlich
-comments: 
-journal: 
-subjects: Quantum Physics (quant-ph)
-url: http://arxiv.org/abs/1503.08806
-abstract: We propose a simplified mathematical construction of the quantum Fourier transform which is suited for systems described by Ising-type Hamiltonians. By contrast to the standard scheme, which prescribes concatenated sequences of control phase gates, our implementation is based on one-qubit gates and a free evolution process. We show a realization of our method with homogeneous microwave driven ion traps in a magnetic field with gradient. In this setup our implementation presents a series of microwave $\pi$ or $\pi/2$ pulses applied at certain times.
-

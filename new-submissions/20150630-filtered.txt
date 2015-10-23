@@ -1,12 +1,3 @@
-id: 1506.08293
-title: Harnessing non-Markovian quantum memory by environmental coupling
-authors: Zhong-Xiao Man, Yun-Jie Xia, Rosario Lo Franco
-comments: 8 pages, 5 figures. To appear in Phys. Rev. A
-journal: 
-subjects: Quantum Physics (quant-ph)
-url: http://arxiv.org/abs/1506.08293
-abstract: Controlling the non-Markovian dynamics of open quantum systems is essential in quantum information technology since it plays a crucial role in preserving quantum memory. Albeit in many realistic scenarios the quantum system can simultaneously interact with composite environments, this condition remains little understood, particularly regarding the effect of the coupling between environmental parts. We analyze the non-Markovian behavior of a qubit interacting at the same time with two coupled single-mode cavities which in turn dissipate into memoryless or memory-keeping reservoirs. We show that increasing the control parameter, that is the two-mode coupling, allows for triggering and enhancing a non-Markovian dynamics for the qubit starting from a Markovian one in absence of coupling. Surprisingly, if the qubit dynamics is non-Markovian for zero control parameter, increasing the latter enables multiple transitions from non-Markovian to Markovian regimes. These results hold independently on the nature of the reservoirs. This work highlights that suitably engineering the coupling between parts of a compound environment can efficiently harness the quantum memory, stored in a qubit, based on non-Markovianity.
-
 id: 1506.08703
 title: Implementation of Multidimensional Quantum Walks using Linear Optics and Classical Light
 authors: Sandeep K. Goyal, Filippus S. Roux, Andrew Forbes, Thomas Konrad
@@ -15,40 +6,4 @@ journal:
 subjects: Quantum Physics (quant-ph)
 url: http://arxiv.org/abs/1506.08703
 abstract: Classical optics can be used to efficiently implement certain quantum information processing tasks with a high degree of control, for example, one-dimensional quantum walks through the space of orbital angular momentum of light directed by its polarization. To explore the potential of quantum information processing with classical light we here suggest a method to realize d-dimensional quantum walks with classical optics -- an important step towards robust implementation of certain quantum algorithms. In this scheme different degrees of freedom of light, such as frequency, orbital angular momentum and time bins represent different directions for the walker while the coin to decide which direction the walker takes is realized employing the polarization combined with different light paths.
-
-id: 1404.2502
-title: A Knob for Markovianity
-authors: Frederico Brito, Thiago Werlang
-comments: V1: 5 pages, 2 figures. V2: extended version. 7 pages, 3 figures. A case of non-commuting system-environment interaction is discussed. Accepted as an FTC in NJP
-journal: 
-subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
-url: http://arxiv.org/abs/1404.2502
-abstract: 
-
-id: 1506.08479
-title: Quantum Annealing Implementation of Job-Shop Scheduling
-authors: Davide Venturelli, Dominic J.J. Marchand, Galo Rojo
-comments: 
-journal: 
-subjects: Quantum Physics (quant-ph); Optimization and Control (math.OC)
-url: http://arxiv.org/abs/1506.08479
-abstract: A quantum annealing solver for the renowned job-shop scheduling problem (JSP) is presented in detail. After formulating the problem as a time-indexed quadratic unconstrained binary optimization problem, several pre-processing and graph embedding strategies are employed to compile optimally parametrized families of the JSP for scheduling instances of up to six jobs and six machines on the D-Wave Systems Vesuvius processor. Problem simplifications and partitioning algorithms, including variable pruning and running strategies that consider tailored binary searches, are discussed and the results from the processor are compared against state-of-the-art global-optimum solvers.
-
-id: 1506.08323
-title: Measurement-assisted Landau-Zener transitions
-authors: A. N. Pechen, A. S. Trushechkin
-comments: 17 pages, 7 figures
-journal: Phys. Rev. A 91, 052316 (2015)
-subjects: Quantum Physics (quant-ph)
-url: http://arxiv.org/abs/1506.08323
-abstract: Nonselective quantum measurements, i.e., measurements without reading the results, are often considered as a resource for manipulating quantum systems. In this work, we investigate optimal acceleration of the Landau-Zener (LZ) transitions by non-selective quantum measurements. We use the measurements of a population of a diabatic state of the LZ system at certain time instants as control and find the optimal time instants which maximize the LZ transition. We find surprising nonmonotonic behavior of the maximal transition probability with increase of the coupling parameter when the number of measurements is large. This transition probability gives an optimal approximation to the fundamental quantum Zeno effect (which corresponds to continuous measurements) by a fixed number of discrete measurements. The difficulty for the analysis is that the transition probability as a function of time instants has a huge number of local maxima. We resolve this problem both analytically by asymptotic analysis and numerically by the development of efficient algorithms mainly based on the dynamic programming. The proposed numerical methods can be applied, besides this problem, to a wide class of measurement-based optimal control problems.
-
-id: 1506.08810
-title: Quantum Bilinear Optimization
-authors: Mario Berta, Omar Fawzi, Volkher B. Scholz
-comments: 14+7 pages, comments welcome
-journal: 
-subjects: Quantum Physics (quant-ph); Optimization and Control (math.OC)
-url: http://arxiv.org/abs/1506.08810
-abstract: We study optimization programs given by a bilinear form over noncommutative variables subject to linear inequalities. Problems of this form include the entangled value of two-prover games, entanglement assisted coding for classical channels and quantum-proof randomness extractors. We introduce an asymptotically converging hierarchy of efficiently computable semidefinite programming (SDP) relaxations for this quantum optimization. This allows us to give upper bounds on the quantum advantage for all of these problems. Compared to previous work of Pironio, Navascu\'es and Ac\'in, our hierarchy has additional constraints. By means of examples, we illustrate the importance of these new constraints both in practice and for analytical properties. Moreover, this allows us to give a hierarchy of SDP outer approximations for the completely positive semidefinite cone introduced by Laurent and Piovesan.
 

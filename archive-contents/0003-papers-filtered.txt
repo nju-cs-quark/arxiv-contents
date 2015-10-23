@@ -1,0 +1,9 @@
+id: quant-ph/0003136
+title: Computing with highly mixed states
+authors: Andris Ambainis, Leonard J. Schulman, Umesh Vazirani
+comments: 8 pages, 3 figures, to appear in proceedings of STOC'00
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/quant-ph/0003136
+abstract: We consider quantum computing in the k-qubit model where the starting state of a quantum computer consists of k qubits in a pure state and n-k qubits in a maximally mixed state. We ask the following question: is there a general method for simulating an arbitrary m-qubit pure state quantum computation by a quantum computation in the k-qubit model? We show that, under certain constraints, this is impossible, unless m=O(k+ log n).
+

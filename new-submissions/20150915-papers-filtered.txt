@@ -1,12 +1,3 @@
-id: 1509.03861
-title: Cavity-enhanced simultaneous dressing of quantum dot exciton and biexciton states
-authors: Fabian Hargart, Markus M¨¹ller, Kaushik Roy-Choudhury, Simone Luca Portalupi, Christian Schneider, Sven H?fling, Martin Kamp, Stephen Hughes, Peter Michler
-comments: 
-journal: 
-subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
-url: http://www.arxiv.org/abs/1509.03861
-abstract: We demonstrate the simultaneous dressing of both vacuum-to-exciton and exciton-to-biexciton transitions of a single semiconductor quantum dot in a high-Q micropillar cavity, using photoluminescence spectroscopy. Resonant two-photon excitation of the biexciton is achieved by spectrally tuning the quantum dot emission with respect to the cavity mode. The cavity couples to both transitions and amplifies the Rabi-frequency of the likewise resonant cw laser, driving the transitions. We observe strong-field splitting of the emission lines, which depend on the driving Rabi field amplitude and the cavity-laser detuning. A dressed state theory of a driven 4-level atom correctly predicts the distinct spectral transitions observed in the emission spectrum, and a detailed description of the emission spectra is further provided through a polaron master equation approach which accounts for cavity coupling and acoustic phonon interactions of the semiconductor medium.
-
 id: 1509.03919
 title: The Localization in Quantum Walks on a Honeycomb Network
 authors: Changyuan Lyu, Luyan Yu, Shengjun Wu
@@ -16,33 +7,6 @@ subjects: Quantum Physics (quant-ph)
 url: http://www.arxiv.org/abs/1509.03919
 abstract: We systematically study the localization effect in discrete-time quantum walks on a honeycomb network and establish the mathematical framework. We focus on the Grover walk first and rigorously derive the limit form of the walker's state, showing it has a certain probability to be localized at the starting position. The relationship between localization and the initial coin state is concisely represented by a linear map. We also define and calculate the average probability of localization by generating random initial states. Further, coin operators varying with positions are considered and the sufficient condition for localization is discussed. We also similarly analyze another four-state Grover walk. Theoretical predictions are all in accord with numerical simulation results. Finally, our results are compared with previous works to demonstrate the unusual trapping effect of quantum walks on a honeycomb network, as well as the advantages of our method.
 
-id: 1509.03973
-title: Quantum Langevin approach for non-Markovian quantum dynamics of the spin-boson model
-authors: Zheng-Yang Zhou, Mi Chen, Ting Yu, J. Q. You
-comments: 5 pages, 1 figure
-journal: 
-subjects: Quantum Physics (quant-ph)
-url: http://www.arxiv.org/abs/1509.03973
-abstract: One long-standing difficult problem in quantum dissipative dynamics is to solve the spin-boson model in a non-Markovian regime where a tractable systematic master equation does not exist. The spin-boson model is particularly important due to its crucial applications in quantum noise control and manipulation as well as its central role in developing quantum theories of open systems. Here we solve this important model by developing a non-Markovian quantum Langevin approach. By projecting the quantum Langevin equation onto the coherent states of the bath, we can derivie a set of non-Markovian quantum Bloch equations containing no explicit noise variables. This special feature offers a tremendous advantage over the existing stochastic Schr\"odinger equations in numerical simulations. The physical significance and generality of our approach are briefly discussed.
-
-id: 1509.04131
-title: Witnessing multipartite entanglement by detecting coherence
-authors: Davide Girolami, Benjamin Yadin
-comments: 5 pages
-journal: 
-subjects: Quantum Physics (quant-ph); Atomic Physics (physics.atom-ph); Biological Physics (physics.bio-ph)
-url: http://www.arxiv.org/abs/1509.04131
-abstract: The characterization of quantum coherence in the context of quantum information theory and its interplay with quantum correlations is currently subject of intense study. Several theoretical quantifiers of coherence have been proposed, and links to quantum correlation measures have been provided. We here propose an experimental strategy to witness the presence of entanglement in multipartite systems by evaluating coherence. We test our scheme by simulating coherence and entanglement detection in a three-qubit GHZ-diagonal state.
-
-id: 1509.04142
-title: Quantum estimation via parametric amplification in circuit QED arrays
-authors: Ashley Wilkins, Carlos Sab¨ªn
-comments: 6 pages, 7 figures
-journal: 
-subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
-url: http://www.arxiv.org/abs/1509.04142
-abstract: We propose a scheme for quantum estimation by means of parametric amplification in circuit Quantum Electrodynamics. The modulation of a SQUID interrupting a superconducting waveguide transforms an initial thermal two-mode squeezed state in such a way that the new state is sensitive to the features of the parametric amplifier. We find the optimal initial parameters which maximize the Quantum Fisher Information. In order to achieve a large number of independent measurements we propose to use an array of non-interacting resonators. We show that the combination of both large QFI and large number of measurements enables -in principle- the use of this setup for Quantum Metrology applications.
-
 id: 1509.04231
 title: Discrete dynamics and non-Markovianity
 authors: Kimmo Luoma, Jyrki Piilo
@@ -51,33 +15,6 @@ journal:
 subjects: Quantum Physics (quant-ph)
 url: http://www.arxiv.org/abs/1509.04231
 abstract: We study discrete quantum dynamics where single evolution step consists of unitary system transformation followed by decoherence via coupling to an environment. Often non-Markovian memory effects are attributed to structured environments whereas here we take a more general approach within discrete setting. In addition of controlling the structure of the environment, we are interested in how local unitaries on the open system allow the appearance and control of memory effects. Our first simple qubit model, where local unitary is followed by dephasing, illustrates how memory effects arise despite of having no-structure in the environment the system is coupled with. We then elaborate this observation by constructing a model for open quantum walk where the unitary coin and transfer operation is augmented with dephasing of the coin. The results demonstrate that in the limit of strong dephasing within each evolution step, the combined coin-position open system always displays memory effects and their quantity is independent of the structure of the environment. Our construction makes possible an experimentally realizable open quantum walk with photons exhibiting non-Markovian features.
-
-id: 1509.03886
-title: Robust Quantum Dot Exciton Behavior in Red Emitting InGaN Nanodisks Up to 300 K
-authors: Cameron Nelson, Saniya Deshpande, Albert Liu, Shafat Jahangir, Pallab Bhattacharya, Duncan Steel
-comments: 16 pages, 8 Figures
-journal: 
-subjects: Materials Science (cond-mat.mtrl-sci); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Other Condensed Matter (cond-mat.other); Quantum Physics (quant-ph)
-url: http://www.arxiv.org/abs/1509.03886
-abstract: Room-temperature semiconductor quantum dot excitons in InGaN nanostructures used as single and entangled state photon sources could have a large impact in many areas of quantum information including quantum cryptography,1-2 quantum computation3-4 and quantum metrology,5 where currently solid state devices have required cryogenic cooling. Here we present coherent nonlinear optical spectroscopy data on an ensemble of In0.54Ga0.46N dots-in-nanowires (DINWs) that show pronounced resonances that persist up to room temperature in the nonlinear optical spectrum, a finding that we show is consistent with the presence of self-formed quantum dot excitons in the system. The data enables the first demonstration measurement of optical absorption by DINW excitons which is differentiated from radiative background states formed by material disorder. This finding opens up the way to the possible engineering of these structures for single photon emitters and quantum devices at room temperature.
-
-id: 1509.04006
-title: Numerical Study on Secrecy Capacity and Code Length Dependence of the Performances in Optical Wiretap Channels
-authors: Hiroyuki Endo, Te Sun Han, Takao Aoki, Masahide Sasaki
-comments: 12 pages, 17 figures
-journal: IEEE Photonics Journal, vol.7, no.5, 7903418, October, 2015
-subjects: Information Theory (cs.IT); Quantum Physics (quant-ph)
-url: http://www.arxiv.org/abs/1509.04006
-abstract: Secrecy issues of free-space optical links realizing information theoretically secure communications as well as high transmission rates are discussed. We numerically study secrecy communication rates of optical wiretap channel based on on-off keying modulation under typical conditions met in satellite-ground links. It is shown that under reasonable degraded conditions on a wiretapper, information theoretically secure communications should be possible in a much wider distance range than a range limit of quantum key distribution, enabling secure optical links between geostationary earth orbit satellites and ground stations with currently available technologies. We also provide the upper bounds on the decoding error probability and the leaked information to estimate a necessary code length for given required levels of performances. This result ensures that a reasonable length wiretap channel code for our proposed scheme must exist.
-
-id: 1505.00301
-title: Trace-distance correlations for X states and emergence of the pointer basis in Markovian and non-Markovian regimes
-authors: Paola C. Obando, Fagner M. Paula, Marcelo S. Sarandy
-comments: 7 pages, 4 figures. v2: Minor corrections. Published version
-journal: Phys. Rev. A 92, 032307 (2015)
-subjects: Quantum Physics (quant-ph)
-url: http://www.arxiv.org/abs/1505.00301
-abstract: 
 
 id: 1506.05174
 title: Limited preparation contextuality in quantum theory and its relation to the Cirel'son bound

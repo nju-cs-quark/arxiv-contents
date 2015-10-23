@@ -1,0 +1,72 @@
+id: quant-ph/0406039
+title: Stroboscopic quantum walks
+authors: O. Buerschaper, K. Burnett
+comments: 4 pages, 5 figures; corrected typos
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/quant-ph/0406039
+abstract: Discrete time (coined) quantum walks are produced by the repeated application of a constant unitary transformation to a quantum system. By recasting these walks into the setting of periodic perturbations to an otherwise freely evolving system we introduce the concept of a stroboscopic quantum walk. Through numerical simulation, we establish the link between families of stroboscopic walks and quantum resonances. These are observed in the nonlinear systems of quantum chaos theory such as the delta-kicked rotator or the delta-kicked accelerator.
+
+id: quant-ph/0406057
+title: Quantum Dynamics of a Particle with a Spin-dependent Velocity
+authors: Claude Aslangul
+comments: 14 pages, 7 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Other Condensed Matter (cond-mat.other)
+url: http://arxiv.org/abs/quant-ph/0406057
+abstract: We study the dynamics of a particle in continuous time and space, the displacement of which is governed by an internal degree of freedom (spin). In one definite limit, the so-called quantum random walk is recovered but, although quite simple, the model possesses a rich variety of dynamics and goes far beyond this problem. Generally speaking, our framework can describe the motion of an electron in a magnetic sea near the Fermi level when linearisation of the dispersion law is possible, coupled to a transverse magnetic field. Quite unexpected behaviours are obtained. In particular, we find that when the initial wave packet is fully localized in space, the $J_{z}$ angular momentum component is frozen; this is an interesting example of an observable which, although it is not a constant of motion, has a constant expectation value. For a non-completely localized wave packet, the effect still occurs although less pronounced, and the spin keeps for ever memory of its initial state. Generally speaking, as time goes on, the spatial density profile looks rather complex, as a consequence of the competition between drift and precession, and displays various shapes according to the ratio between the Larmor period and the characteristic time of flight. The density profile gradually changes from a multimodal quickly moving distribution when the scatttering rate is small, to a unimodal standing but flattening distribution in the opposite cas case.
+
+id: quant-ph/0406071
+title: Aperiodic Quantum Random Walks
+authors: Pedro Ribeiro, Perola Milman, Remy Mosseri
+comments: 4 pages and 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/quant-ph/0406071
+abstract: We generalize the quantum random walk protocol for a particle in a one-dimensional chain, by using several types of biased quantum coins, arranged in aperiodic sequences, in a manner that leads to a rich variety of possible wave function evolutions. Quasiperiodic sequences, following the Fibonacci prescription, are of particular interest, leading to a sub-ballistic wavefunction spreading. In contrast, random sequences leads to diffusive spreading, similar to the classical random walk behaviour. We also describe how to experimentally implement these aperiodic sequences.
+
+id: quant-ph/0406072
+title: Convergence of coined quantum walks on d-dimensional Euclidean space
+authors: Alex D. Gottlieb, Svante Janson, Petra F. Scudo
+comments: 11 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/quant-ph/0406072
+abstract: Coined quantum walks may be interpreted as the motion in position space of a quantum particle with a spin degree of freedom; the dynamics are determined by iterating a unitary transformation which is the product of a spin transformation and a translation conditional on the spin state. Coined quantum walks on the d-dimensional lattice can be treated as special cases of coined quantum walks on d-dimensional Euclidean space. We study quantum walks on d-dimensional Euclidean space and prove that the sequence of rescaled probability distributions in position space associated to the unitary evolution of the particle converges to a limit distribution.
+
+id: quant-ph/0406119
+title: On Quantum Cellular Automata
+authors: Alexander Yu. Vlasov
+comments: LaTeX (amsmath, amssymb, graphicx packages) 17 pages, 22 eps figures; v2: misspelling corrected, +2 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Other Computer Science (cs.OH); Cellular Automata and Lattice Gases (nlin.CG)
+url: http://arxiv.org/abs/quant-ph/0406119
+abstract: In recent work [quant-ph/0405174] by Schumacher and Werner was discussed an abstract algebraic approach to a model of reversible quantum cellular automata (CA) on a lattice. It was used special model of CA based on partitioning scheme and so there is a question about quantum CA derived from more general, standard model of classical CA. In present work is considered an approach to definition of a scheme with "history", valid for quantization both irreversible and reversible classical CA directly using local transition rules. It is used language of vectors in Hilbert spaces instead of C*-algebras, but results may be compared in some cases. Finally, the quantum lattice gases, quantum walk and "bots" are also discussed briefly.
+
+id: quant-ph/0406143
+title: Quantum Adaptive Protocol and its Application in Image Storage and Retrieval
+authors: S. E. Venegas-Andraca, S. Bose
+comments: This paper has been temporarily withdrawn by the authors
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/quant-ph/0406143
+abstract: This paper has been temporarily withdrawn by the authors.
+
+id: quant-ph/0406196
+title: Improved Simulation of Stabilizer Circuits
+authors: Scott Aaronson, Daniel Gottesman
+comments: 15 pages. Final version with some minor updates and corrections. Software at this http URL
+journal: Phys. Rev. A 70, 052328 (2004) (14 pages)
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC)
+url: http://arxiv.org/abs/quant-ph/0406196
+abstract: The Gottesman-Knill theorem says that a stabilizer circuit -- that is, a quantum circuit consisting solely of CNOT, Hadamard, and phase gates -- can be simulated efficiently on a classical computer. This paper improves that theorem in several directions. First, by removing the need for Gaussian elimination, we make the simulation algorithm much faster at the cost of a factor-2 increase in the number of bits needed to represent a state. We have implemented the improved algorithm in a freely-available program called CHP (CNOT-Hadamard-Phase), which can handle thousands of qubits easily. Second, we show that the problem of simulating stabilizer circuits is complete for the classical complexity class ParityL, which means that stabilizer circuits are probably not even universal for classical computation. Third, we give efficient algorithms for computing the inner product between two stabilizer states, putting any n-qubit stabilizer circuit into a "canonical form" that requires at most O(n^2/log n) gates, and other useful tasks. Fourth, we extend our simulation algorithm to circuits acting on mixed states, circuits containing a limited number of non-stabilizer gates, and circuits acting on general tensor-product initial states but containing only a limited number of measurements.
+
+id: quant-ph/0406233
+title: A Path Integral Approach for Disordered Quantum Walks in One Dimension
+authors: Norio Konno
+comments: 9 pages, small corrections, journal reference added
+journal: Fluctuation and Noise Letters, Vol.5, No.4, pp.529-537 (2005)
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/quant-ph/0406233
+abstract: The present letter gives a rigorous way from quantum to classical random walks by introducing an independent random fluctuation and then taking expectations based on a path integral approach.
+

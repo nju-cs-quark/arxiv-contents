@@ -1,0 +1,108 @@
+id: 1404.0159
+title: Quantum walks on graphs representing the firing patterns of a quantum neural network
+authors: Maria Schuld, Ilya Sinayskiy, Francesco Petruccione
+comments: 9 pages, 7 figures
+journal: Phys. Rev. A 89 032333 (2014)
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1404.0159
+abstract: Quantum walks have been shown to be fruitful tools in analysing the dynamic properties of quantum systems. This article proposes to use quantum walks as an approach to Quantum Neural Networks (QNNs). QNNs replace binary McCulloch-Pitts neurons with a qubit in order to use the advantages of quantum computing in neural networks. A quantum walk on the firing states of such a QNN is supposed to simulate central properties of the dynamics of classical neural networks, such as associative memory. It is shown that a biased discrete Hadamard walk derived from the updating process of a biological neuron does not lead to a unitary walk. However, a Stochastic Quantum Walk between the global firing states of a QNN can be constructed and it is shown that it contains the feature of associative memory. The quantum contribution to the walk accounts for a modest speed-up in some regimes.
+
+id: 1404.1330
+title: Weak Limit of the 3-State Quantum Walk on the Line
+authors: Stefan Falkner, Stefan Boettcher
+comments: 8 pages, revtex, for related information see this http URL v2: minor changes, references added
+journal: Phys. Rev. A 90, 012307, 2014
+subjects: Quantum Physics (quant-ph); Disordered Systems and Neural Networks (cond-mat.dis-nn)
+url: http://arxiv.org/abs/1404.1330
+abstract: We revisit the one dimensional discrete time quantum walk with 3 states and the Grover coin. We derive analytic expressions for observed the localization, an long time approximation for the probability density function (PDF). We also connect the time averaged approximation to the PDF found by Inui et. al. to a spatial average of the walk. We show that this smooth approximation constitutes a proper PDF that predicts moments of the real PDF accurately.
+
+id: 1404.1509
+title: A limit theorem for a 3-period time-dependent quantum walk
+authors: F. Alberto Gr��nbaum, Takuya Machida
+comments: Quantum Information and Computation, Vol.15 No.1&2, pp.50-60 (2015)
+journal: 
+subjects: Quantum Physics (quant-ph); Probability (math.PR)
+url: http://arxiv.org/abs/1404.1509
+abstract: We consider a discrete-time 2-state quantum walk on the line. The state of the quantum walker evolves according to a rule which is determined by a coin-flip operator and a position-shift operator. In this paper we take a 3-periodic time evolution as the rule. For such a quantum walk, we get a limit distribution which expresses the asymptotic behavior of the walker after a long time. The limit distribution is different from that of a time-independent quantum walk or a 2-period time-dependent quantum walk. We give some analytical results and then consider a number of variants of our model and indicate the result of simulations for these ones.
+
+id: 1404.1522
+title: Limit theorems of a 3-state quantum walk and its application for discrete uniform measures
+authors: Takuya Machida
+comments: Quantum Information and Computation, Vol.15 No.5&6, pp.406-418 (2015)
+journal: 
+subjects: Quantum Physics (quant-ph); Probability (math.PR)
+url: http://arxiv.org/abs/1404.1522
+abstract: We present two long-time limit theorems of a 3-state quantum walk on the line when the walker starts from the origin. One is a limit measure which is obtained from the probability distribution of the walk at a long-time limit, and the other is a convergence in distribution for the walker's position in a rescaled space by time. In addition, as an application of the walk, we obtain discrete uniform limit measures from the 3-state walk with a delocalized initial state.
+
+id: 1404.1611
+title: A one-dimensional quantum walk with multiple-rotation on the coin
+authors: Peng Xue, Rong Zhang, Hao Qin, Xiang Zhan, Zhihao Bian, Jian Li
+comments: 4 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1404.1611
+abstract: We introduce and analyze a one-dimensional quantum walk with two time-independent rotations on the coin. We study the influence on the property of quantum walk due to the second rotation on the coin. Based on the asymptotic solution in the long time limit, a ballistic behaviour of this walk is observed. This quantum walk retains the quadratic growth of the variance if the combined operator of the coin rotations is unitary. That confirms no localization exhibits in this walk. This result can be extended to the walk with multiple time-independent rotations on the coin.
+
+id: 1404.3634
+title: Optimal Quench for Distance-Independent Entanglement and Maximal Block Entropy
+authors: Bedoor Alkurtass, Leonardo Banchi, Sougato Bose
+comments: 9 pages, 7 figures
+journal: Phys. Rev. A 90, 042304 (2014)
+subjects: Quantum Physics (quant-ph); Other Condensed Matter (cond-mat.other); Statistical Mechanics (cond-mat.stat-mech)
+url: http://arxiv.org/abs/1404.3634
+abstract: We optimize a quantum walk of multiple fermions following a quench in a spin chain to generate near ideal resources for quantum networking. We first prove an useful theorem mapping the correlations evolved from specific quenches to the apparently unrelated problem of quantum state transfer between distinct spins. This mapping is then exploited to optimize the dynamics and produce large amounts of entanglement distributed in very special ways. Two applications are considered: the simultaneous generation of many Bell states between pairs of distant spins (maximal block entropy), or high entanglement between the ends of an arbitrarily long chain (distance-independent entanglement). Thanks to the generality of the result, we study its implementation in different experimental setups using present technology: NMR, ion traps and ultracold atoms in optical lattices.
+
+id: 1404.3912
+title: Ideal negative measurements in quantum walks disprove theories based on classical trajectories
+authors: Carsten Robens, Wolfgang Alt, Dieter Meschede, Clive Emary, Andrea Alberti
+comments: 10 pages, 4 figures
+journal: Phys. Rev. X 5, 011003 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1404.3912
+abstract: We report on a stringent test of the non-classicality of the motion of a massive quantum particle, which propagates on a discrete lattice. Measuring temporal correlations of the position of single atoms performing a quantum walk, we observe a $6\sigma$ violation of the Leggett-Garg inequality. Our results rigorously excludes (i.e. falsifies) any explanation of quantum transport based on classical, well-defined trajectories. We use so-called ideal negative measurements -- an essential requisite for any genuine Leggett-Garg test -- to acquire information about the atom's position, yet avoiding any direct interaction with it. The interaction-free measurement is based on a novel atom transport system, which allows us to directly probe the absence rather than the presence of atoms at a chosen lattice site. Beyond the fundamental aspect of this test, we demonstrate the application of the Leggett-Garg correlation function as a witness of quantum superposition. We here employ the witness to discriminate different types of walks spanning from merely classical to wholly quantum dynamics.
+
+id: 1404.4499
+title: Discrete Lorentz covariance for Quantum Walks and Quantum Cellular Automata
+authors: Pablo Arrighi, Stefano Facchini, Marcelo Forets
+comments: 21 pages, 15 figures
+journal: New J. Phys. 16 (2014) 093007
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1404.4499
+abstract: We formalize a notion of discrete Lorentz transforms for Quantum Walks (QW) and Quantum Cellular Automata (QCA), in (1 + 1)-dimensional discrete spacetime. The theory admits a diagrammatic representation in terms of a few local, circuit equivalence rules. Within this framework, we show the first-order-only covariance of the Dirac QW. We then introduce the Clock QW and the Clock QCA, and prove that they are exactly discrete Lorentz covariant. The theory also allows for non-homogeneous Lorentz transforms, between non-inertial frames.
+
+id: 1404.4509
+title: Discrete time quantum walks on percolation graphs
+authors: B��lint Koll��r, Jaroslav Novotn?, Tam��s Kiss, Igor Jex
+comments: 22 pages, 3 figures
+journal: Eur. Phys. J. Plus 129, 103 (2014)
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1404.4509
+abstract: Randomly breaking connections in a graph alters its transport properties, a model used to describe percolation. In the case of quantum walks, dynamic percolation graphs represent a special type of imperfections, where the connections appear and disappear randomly in each step during the time evolution. The resulting open system dynamics is hard to treat numerically in general. We shortly review the literature on this problem. We then present our method to solve the evolution on finite percolation graphs in the long time limit, applying the asymptotic methods concerning random unitary maps. We work out the case of one dimensional chains in detail and provide a concrete, step by step numerical example in order to give more insight into the possible asymptotic behavior. The results about the case of the two-dimensional integer lattice are summarized, focusing on the Grover type coin operator.
+
+id: 1404.6898
+title: Quantum Attacks on Classical Proof Systems - The Hardness of Quantum Rewinding
+authors: Andris Ambainis, Ansis Rosmanis, Dominique Unruh
+comments: An extended abstract has appeared at FOCS 2014
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1404.6898
+abstract: Quantum zero-knowledge proofs and quantum proofs of knowledge are inherently difficult to analyze because their security analysis uses rewinding. Certain cases of quantum rewinding are handled by the results by Watrous (SIAM J Comput, 2009) and Unruh (Eurocrypt 2012), yet in general the problem remains elusive. We show that this is not only due to a lack of proof techniques: relative to an oracle, we show that classically secure proofs and proofs of knowledge are insecure in the quantum setting. More specifically, sigma-protocols, the Fiat-Shamir construction, and Fischlin's proof system are quantum insecure under assumptions that are sufficient for classical security. Additionally, we show that for similar reasons, computationally binding commitments provide almost no security guarantees in a quantum setting. To show these results, we develop the "pick-one trick", a general technique that allows an adversary to find one value satisfying a given predicate, but not two.
+
+id: 1404.1276
+title: An uncertainty principle for unimodular quantum groups
+authors: Jason Crann, Mehrdad Kalantar
+comments: A few notational changes and a corrected proof of the final theorem
+journal: J. Math. Phys. 55, (2014) 081704
+subjects: Mathematical Physics (math-ph); Operator Algebras (math.OA); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1404.1276
+abstract: We present a generalization of Hirschman's entropic uncertainty principle for locally compact abelian groups to unimodular locally compact quantum groups. As a corollary, we strengthen a well-known uncertainty principle for compact groups, and generalize the relation to compact quantum groups of Kac type. We also establish the complementarity of finite-dimensional quantum group algebras. In the non-unimodular setting, we obtain an uncertainty relation for arbitrary locally compact groups using the relative entropy with respect to the Haar weight as the measure of uncertainty. We also show that when restricted to normal central states of discrete quantum groups, the relative entropy with respect to the Haar weight reduces to the canonical entropy of the random walk generated by the central state.
+
+id: 1404.1684
+title: Exact quantum algorithms have advantage for almost all Boolean functions
+authors: Andris Ambainis, Jozef Gruska, Shenggen Zheng
+comments: 17 pages. Accepted to Quantum information & Computation
+journal: 
+subjects: Computational Complexity (cs.CC); Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/1404.1684
+abstract: It has been proved that almost all $n$-bit Boolean functions have exact classical query complexity $n$. However, the situation seemed to be very different when we deal with exact quantum query complexity. In this paper, we prove that almost all $n$-bit Boolean functions can be computed by an exact quantum algorithm with less than $n$ queries. More exactly, we prove that ${AND}_n$ is the only $n$-bit Boolean function, up to isomorphism, that requires $n$ queries.
+

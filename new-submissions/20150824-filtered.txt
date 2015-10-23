@@ -1,12 +1,3 @@
-id: 1508.05108
-title: Grover's search with faults on some marked elements
-authors: Dmitry Kravchenko, Nikolajs Nahimovs, Alexander Rivosh
-comments: 17 pages, 6 figures
-journal: 
-subjects: Quantum Physics (quant-ph)
-url: http://arxiv.org/abs/1508.05108
-abstract: Grover's algorithm is a quantum query algorithm solving the unstructured search problem of size $N$ using $O(\sqrt{N})$ queries. It provides a significant speed-up over any classical algorithm \cite{Gro96}. The running time of the algorithm, however, is very sensitive to errors in queries. It is known that if query may fail (report all marked elements as unmarked) the algorithm needs $\Omega(N)$ queries to find a marked element \cite{RS08}. \cite{AB+13} have proved the same result for the model where each marked element has its own probability to be reported as unmarked. We study the behavior of Grover's algorithm in the model where the search space contains both faulty and non-faulty marked elements. We show that in this setting it is indeed possible to find one of non-faulty marked items in $O(\sqrt{N})$ queries. We also analyze the limiting behavior of the algorithm for a large number of steps and show the existence and the structure of limiting state $\rho_{lim}$.
-
 id: 1508.05270
 title: Simulating the discrete-time quantum walk dynamics with simultaneous coin and shift operators
 authors: Jalil Khatibi Moqadam, Marcos Cesar de Oliveira
@@ -15,22 +6,4 @@ journal:
 subjects: Quantum Physics (quant-ph)
 url: http://arxiv.org/abs/1508.05270
 abstract: We implement the discrete-time quantum walk model using the continuous-time evolution of the Hamiltonian that includes both the shift and the coin generators. Based on the Trotter-Suzuki first-order approximation, we consider an optimization problem in which the Hellinger distance between the walker probability distributions resulted from the evolution of such Hamiltonian and the quantum walk dynamics is minimized. The phase space implementation of the quantum walk is considered where the walker state is encoded on the coherent state of a resonator and the coin on the two-level state of a qubit. In this approach, no mechanism for switching between the coin and the shift operators is included. We show the Hellinger distance is bounded for large number of time steps. The distance is small when we deviate from the standard quantum walk model, namely, when the walker is allowed to move in between the sites. In simulating the standard quantum walk model, the distance is large but bounded by $26\%$ for a relevant number of time steps. Even so, the system evolution shows the essential characteristics of the standard quantum walk dynamics, namely, the ballistic evolution of the probability distribution and the linear growth of the corresponding standard deviation. Moreover, the entanglement generated in this approach is approximately the same as the entanglement generated in the standard quantum walk dynamics. Finally, the system dynamics under the influence of the decoherence also shows the similar quantum-to-classical transition as in the standard quantum walk dynamics.
-
-id: 1508.05138
-title: Phonon routing in integrated optomechanical cavity-waveguide systems
-authors: Kejie Fang, Matthew H. Matheny, Xingsheng Luan, Oskar Painter
-comments: 16 pages, 7 figures
-journal: 
-subjects: Optics (physics.optics); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
-url: http://arxiv.org/abs/1508.05138
-abstract: The mechanical properties of light have found widespread use in the manipulation of gas-phase atoms and ions, helping create new states of matter and realize complex quantum interactions. The field of cavity-optomechanics strives to scale this interaction to much larger, even human-sized mechanical objects. Going beyond the canonical Fabry-Perot cavity with a movable mirror, here we explore a new paradigm in which multiple cavity-optomechanical elements are wired together to form optomechanical circuits. Using a pair of optomechanical cavities coupled together via a phonon waveguide we demonstrate a tunable delay and filter for microwave-over-optical signal processing. In addition, we realize a tight-binding form of mechanical coupling between distant optomechanical cavities, leading to direct phonon exchange without dissipation in the waveguide. These measurements indicate the feasibility of phonon-routing based information processing in optomechanical crystal circuitry, and further, to the possibility of realizing topological phases of photons and phonons in optomechanical cavity lattices.
-
-id: 1410.4184
-title: Squashed entanglement, k-extendibility, quantum Markov chains, and recovery maps
-authors: Ke Li, Andreas Winter
-comments: 7 pages, revtex4. In v2 we have removed the claim about multi-party squashed entanglement (see new Appendix B for why) and corrected other smaller mistakes; v3 takes into account the developments since the original posting and has a new structure
-journal: 
-subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
-url: http://arxiv.org/abs/1410.4184
-abstract: 
 

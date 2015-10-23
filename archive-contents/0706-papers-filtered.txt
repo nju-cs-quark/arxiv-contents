@@ -1,0 +1,27 @@
+id: 0706.0304
+title: Efficient quantum circuit implementation of quantum walks
+authors: B. L. Douglas, J. B. Wang
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/0706.0304
+abstract: Quantum walks, being the quantum analogue of classical random walks, are expected to provide a fruitful source of quantum algorithms. A few such algorithms have already been developed, including the `glued trees' algorithm, which provides an exponential speedup over classical methods, relative to a particular quantum oracle. Here, we discuss the possibility of a quantum walk algorithm yielding such an exponential speedup over possible classical algorithms, without the use of an oracle. We provide examples of some highly symmetric graphs on which efficient quantum circuits implementing quantum walks can be constructed, and discuss potential applications to quantum search for marked vertices along these graphs.
+
+id: 0706.0479
+title: How to Compile Some NAND Formula Evaluators
+authors: Robert R. Tucci
+comments: Ver.1- 58 pages (files: 1 .tex, 2 .sty, 14 .eps); Ver.2- 64 pages (files: 1 .tex, 2 .sty, 15 .eps, 2 .m, 1 .xxx) Corrected serious error that arose from neglecting time-ordering of exponential. Tree graph compilation is now claimed approximate rather than exact
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/0706.0479
+abstract: We say a unitary operator acting on a set of qubits has been compiled if it has been expressed as a SEO (sequence of elementary operations, like CNOTs and single-qubit operations). SEO's are often represented as quantum circuits. arXiv:quant-ph/0702144 by Farhi-Goldstone-Gutmann has inspired a recent flurry of papers, that propose quantum algorithms for evaluating NAND formulas via quantum walks over tree graphs. These algorithms use two types of unitary evolution: oracle and non-oracle. Non-oracle evolutions are independent of the NAND formula input, whereas oracle evolutions depend on this input. In this paper we compile (i.e., give explicit SEOs and their associated quantum circuits for) the oracle and non-oracle evolution operators used in some of these NAND formula evaluators. We consider here only the case of balanced binary NAND trees. Our compilation methods are based on the CSD (Cosine Sine Decomposition), a matrix decomposition from Linear Algebra. The CS decomposition has been used very successfully in the past to compile unstructured unitary matrices exactly.
+
+id: 0706.3181
+title: Simulation of the Single- and Double-Slit Experiments with Quantum Walkers
+authors: Amanda C. Oliveira, Renato Portugal, Raul Donangelo
+comments: 7 pages, 8 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://arxiv.org/abs/0706.3181
+abstract: We employ the broken-link model to create a barrier with slits in a two-dimensional lattice. The diffraction and interference patterns of the probability distribution of quantum walkers passing through the slits are analyzed. Simulations were performed using the main types of coins, and display diffraction and interference patterns that depend on the choice of coins.
+
