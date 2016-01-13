@@ -1,0 +1,27 @@
+---
+layout: arxiv
+title: 202015 Filtered arXiv Papers
+---
+
+**1.    Revivals in Quantum Walks with quasi-periodically time-dependent coin**  
+C. Cedzich, R. F. Werner  
+http://www.arxiv.org/abs/1510.08905  
+<blockquote>
+<p>
+We provide an explanation of recent experimental results of Xue et al., where full revivals in a time-dependent quantum walk model with a periodically changing coin are found. Using methods originally developed for "electric" walks with a space-dependent, rather than a time-dependent coin, we provide a full explanation of the observations of Xue et al. We extend the analysis from periodic time-dependence to quasi-periodic behaviour with periods incommensurate to the step size. Spectral analysis, one of the principal tools for the study of electric walks, fails for time-dependent systems, but we find qualitative propagation behaviour of the time-dependent system in close analogy to the electric case.
+</p>
+</blockquote>
+
+------
+
+**2.    Quantum Walks and discrete Gauge Theories**  
+Pablo Arnault, Fabrice Debbasch  
+http://www.arxiv.org/abs/1508.00038  
+<blockquote>
+<p>
+
+</p>
+</blockquote>
+
+------
+

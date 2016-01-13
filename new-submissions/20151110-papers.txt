@@ -1,0 +1,540 @@
+id: 1511.02235
+title: NAND-Trees, Average Choice Complexity, and Effective Resistance
+authors: Stacey Jeffery, Shelby Kimmel
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC); Data Structures and Algorithms (cs.DS)
+url: http://www.arxiv.org/abs/1511.02235
+abstract: We show that the quantum query complexity of evaluating NAND-tree instances with average choice complexity at most $W$ is $O(W)$, where average choice complexity is a measure of the difficulty of winning the associated two-player game. This generalizes a superpolynomial speedup over classical query complexity due to Zhan et al. [Zhan et al., ITCS 2012, 249-265]. We further show that the player with a winning strategy for the two-player game associated with the NAND-tree can win the game with an expected $\widetilde{O}(N^{1/4}\sqrt{{\cal C}(x)})$ quantum queries against a random opponent, where ${\cal C }(x)$ is the average choice complexity of the instance. This gives an improvement over the query complexity of the naive strategy, which costs $\widetilde{O}(\sqrt{N})$ queries. The results rely on a connection between NAND-tree evaluation and $st$-connectivity problems on certain graphs, and span programs for $st$-connectivity problems. Our results follow from relating average choice complexity to the effective resistance of these graphs, which itself corresponds to the span program witness size.
+
+id: 1511.02247
+title: Optimal control of complex atomic quantum systems
+authors: S. van Frank, M. Bonneau, J. Schmiedmayer, S. Hild, C. Gross, M. Cheneau, I. Bloch, T. Pichler, A. Negretti, T. Calarco, S. Montangero
+comments: 12 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Quantum Gases (cond-mat.quant-gas)
+url: http://www.arxiv.org/abs/1511.02247
+abstract: Quantum technologies will ultimately require manipulating many-body quantum systems with high precision. Cold atom experiments represent a stepping stone in that direction: a high degree of control has been achieved on systems of increasing complexity, however, this control is still sub-optimal. Optimal control theory is the ideal candidate to bridge the gap between early stage and optimal experimental protocols, particularly since it was extended to encompass many-body quantum dynamics. Here, we experimentally demonstrate optimal control applied to two dynamical processes subject to interactions: the coherent manipulation of motional states of an atomic Bose-Einstein condensate and the crossing of a quantum phase transition in small systems of cold atoms in optical lattices. We show theoretically that these transformations can be made fast and robust with respect to perturbations, including temperature and atom number fluctuations, resulting in a good agreement between theoretical predictions and experimental results.
+
+id: 1511.02265
+title: Tripartite non-separability in classical optics
+authors: W. F. Balthazar, C. E. R. Souza, D. P. Caetano, E. F. Galv?o, J. A. O. Huguenin, A. Z. Khoury
+comments: 5 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.02265
+abstract: It is possible to prepare classical optical beams which cannot be characterized by a tensor product of vectors describing each of their degrees of freedom. Here we report the experimental creation of such a non-separable, tripartite GHZ-like state of path, polarization and transverse modes of a classical laser beam. We use a Mach-Zehnder interferometer with an additional mirror and other optical elements to perform measurements that violate Mermin's inequality. This demonstration of a classical optical analogue of tripartite entanglement paves the path to novel optical applications inspired by multipartite quantum information protocols.
+
+id: 1511.02306
+title: Quantum linear systems algorithm with exponentially improved dependence on precision
+authors: Andrew M. Childs, Robin Kothari, Rolando D. Somma
+comments: 28 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.02306
+abstract: Harrow, Hassidim, and Lloyd showed that for a suitably specified $N \times N$ matrix $A$ and $N$-dimensional vector $\vec{b}$, there is a quantum algorithm that outputs a quantum state proportional to the solution of the linear system of equations $A\vec{x}=\vec{b}$. If $A$ is sparse and well-conditioned, their algorithm runs in time $\mathrm{poly}(\log N, 1/\epsilon)$, where $\epsilon$ is the desired precision in the output state. We improve this to an algorithm whose running time is polynomial in $\log(1/\epsilon)$, exponentially improving the dependence on precision while keeping essentially the same dependence on other parameters. Our algorithm is based on a general technique for implementing any operator with a suitable Fourier or Chebyshev series representation. This allows us to bypass the quantum phase estimation algorithm, whose dependence on $\epsilon$ is prohibitive.
+
+id: 1511.02309
+title: Entropic lower bound for distinguishability of quantum states
+authors: Seungho Yang, Jinhyoung Lee, Hyunseok Jeong
+comments: 5 pages, 2 figures
+journal: Advances in Mathematical Physics, Volume 2015, Article ID 683658
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.02309
+abstract: For a system randomly prepared in a number of quantum states, we present a lower bound for the distinguishability of the quantum states, that is, the success probability of determining the states in the form of entropy. When the states are all pure, acquiring the entropic lower bound requires only the density operator and the number of the possible states. This entropic bound shows a relation between the von Neumann entropy and the distinguishability.
+
+id: 1511.02317
+title: Linear and nonlinear quantum Zeno and anti-Zeno effects in a nonlinear optical coupler
+authors: Kishore Thapliyal, Anirban Pathak, Jan Perina
+comments: 13 pages 9 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.02317
+abstract: Quantum Zeno and anti-Zeno effects are studied in a symmetric nonlinear optical coupler, which is composed of two nonlinear ($\chi^{\left(2\right)}$) waveguides that are interacting with each other via the evanescent waves. Both the waveguides operate under second harmonic generation. However, to study quantum Zeno and anti-Zeno effects one of them is considered as the system and the other one is considered as the probe. Considering all the fields involved as weak, a completely quantum mechanical description is provided, and the analytic solutions of Heisenberg's equations of motion for all the field modes are obtained using a perturbative technique. Photon number statistics of the second harmonic mode of the system is shown to depend on the presence of the probe, and this dependence is considered as quantum Zeno and anti-Zeno effects. Further, it is established that as a special case of the momentum operator for $\chi^{\left(2\right)}-\chi^{\left(2\right)}$ symmetric coupler we can obtain momentum operator of $\chi^{\left(2\right)}-\chi^{\left(1\right)}$ asymmetric coupler with linear ($\chi^{\left(1\right)}$) waveguide as the probe, and in such a particular case, the expressions obtained for Zeno and anti-Zeno effects with nonlinear probe (which we referred to as nonlinear quantum Zeno and anti-Zeno effects) may be reduced to the corresponding expressions with linear probe (which we referred to as the linear quantum Zeno and anti-Zeno effects). Linear and nonlinear quantum Zeno and anti-Zeno effects are rigorously investigated, and it is established that in the stimulated case, we may switch between quantum Zeno and anti-Zeno effects just by controlling the phase of the second harmonic mode of the system or probe.
+
+id: 1511.02338
+title: Towards Quantum Enigma Cipher II-A protocol based on quantum illumination-
+authors: Osamu Hirota
+comments: Submitted to Quantum ICT Research Institute Bulletin
+journal: 
+subjects: Quantum Physics (quant-ph); Cryptography and Security (cs.CR)
+url: http://www.arxiv.org/abs/1511.02338
+abstract: This research note II introduces a way to understand a basic concept of the quantum enigma cipher. The conventional cipher is designed by a mathematical algorithm and its security is evaluated by the complexity of the algorithm in security analysis and ability of computers. This kind of cipher can be decrypted with probability one in principle by the Brute force attack in which an eavesdropper tries all the possible keys based on the correct ciphertext and some known plaintext. A cipher with quantum effects in physical layer may protect the system from the Brute force attack by means of the quantum no cloning theorem and randomizations based on quantum noise effect. The randomizations for the ciphertext which is the output from the mathematical encryption box is crucial to realize a quantum enigma cipher. Especially, by randomizations, it is necessary to make a substantial difference in accuracy of ciphertext in eavesdropper's observation and legitimate user's observation. The quantum illumination protocol can make a difference in error performance of the legitimate's receiver and the eavesdropper's receiver. This difference is due to differences in ability of the legitimate's receiver with entanglement and the eavesdropper's receiver without entanglement. It is shown in this note that the quantum illumination can be employed as an element of the most simple quantum enigma cipher.
+
+id: 1511.02344
+title: Purification of Logic-Qubit Entanglement
+authors: Lan Zhou, Yu-Bo Sheng
+comments: 7 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.02344
+abstract: Recently, the theoretical work of Fr\"owis and W. D\"ur (Phys. Rev. Lett. \textbf{106}, 110402 (2011)) and the experiment of Lu \emph{et al.} (Nat. Photon. \textbf{8}, 364 (2014)) both showed that the logic-qubit entanglement has its potential application in future quantum communication and quantum network. However, the entanglement will suffer from the noise and decoherence. In this paper, we will investigate the entanglement purification for logic-qubit entanglement. We show that both the bit-flip error and phase-flip error in logic-qubit entanglement can be well purified. Moreover, the bit-flip error and in physical-qubit entanglement can be completely corrected. The phase-flip error equals to the bit-flip error in logic-qubit entanglement which can also be purified. This EPP may provide some potential applications in future quantum communication and quantum network.
+
+id: 1511.02355
+title: Experimental simulation of decoherence in photonics qudits
+authors: B. Marques, A. A. Matoso, W. M. Pimenta, A. J. Guti¨¦rrez-Esparza, M. F. Santos, S. P¨¢dua
+comments: 
+journal: Scientific Report 5, 16049 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.02355
+abstract: We experimentally perform the simulation of open quantum dynamics in single-qudit systems. Using a spatial light modulator as a dissipative optical device, we implement dissipative-dynamical maps onto qudits encoded in the transverse momentum of spontaneous parametric down-converted photon pairs. We show a well-controlled technique to prepare entangled qudits states as well as to implement dissipative local measurements; the latter realize two specific dynamics: dephasing and amplitude damping. Our work represents a new analogy-dynamical experiment for simulating an open quantum system.
+
+id: 1511.02438
+title: A novel exact solution to transmission problem of electron wave in a nonlinear Kronig-Penney superlattice
+authors: Chao Kong, Kuo Hai, Jintao Tan, Hao Chen, Wenhua Hai
+comments: 8 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.02438
+abstract: Nonlinear Kronig-Penney model has been frequently employed to study transmission problem of electron wave in a nonlinear electrified chain or in a doped semiconductor superlattice. Here from an integral equation we derive a novel exact solution of the problem, which contains a simple nonlinear map connecting transmission coefficient with system parameters. Consequently, we suggest a scheme for manipulating electronic distribution and transmission by adjusting the system parameters. A new effect of quantum coherence is evidenced in the strict expression of transmission coefficient by which for some different system parameters we obtain the similar aperiodic distributions and arbitrary transmission coefficients including the approximate zero transmission and total transmission, and the multiple transmissions. The method based on the concise exact solution can be applied directly to some nonlinear cold atomic systems and a lot of linear Kronig-Penney systems, and also can be extended to investigate electron transport in different discrete nonlinear systems.
+
+id: 1511.02463
+title: Sympathetic cooling in a large ion crystal
+authors: Guin-Dar Lin, L.-M. Duan
+comments: 8 pages, 9 figures
+journal: Quantum Information Processing, pp 1-15 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.02463
+abstract: We analyze the dynamics and steady state of a linear ion array when some of the ions are continuously laser cooled. We calculate the ions' local temperature measured by its position fluctuation under various trapping and cooling configurations, taking into account background heating due to the noisy environment. For a large system, we demonstrate that by arranging the cooling ions evenly in the array, one can suppress the overall heating considerably. We also investigate the effect of different cooling rates and find that the optimal cooling efficiency is achieved by an intermediate cooling rate. We discuss the relaxation time for the ions to approach the steady state, and show that with periodic arrangement of the cooling ions, the cooling efficiency does not scale down with the system size.
+
+id: 1511.02471
+title: Entanglement witness via symmetric two-body correlations
+authors: Ernest Y.-Z. Tan, Dagomir Kaszlikowski, L.C. Kwek
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.02471
+abstract: We construct an entanglement witness for many-qubit systems, based on symmetric two-body correlations with two measurement settings. This witness is able to detect the entanglement of some Dicke states for any number of particles, and such detection exhibits some robustness against white noise and thermal noise under the Lipkin-Meshkov-Glick Hamiltonian. In addition, it detects the entanglement of spin-squeezed states, with a detection strength that approaches the maximal value for sufficiently large numbers of particles. As spin-squeezed states can be experimentally generated, the properties of the witness with respect to these states may be amenable to experimental investigation. Finally, we show that while the witness is unable to detect GHZ states, it is instead able to detect superpositions of Dicke states with GHZ states.
+
+id: 1511.02473
+title: Dynamics of entanglement in qubit-qutrit with x component of DM interaction
+authors: Kapil K. Sharma, S. N. Pandey
+comments: 8 pages,8 figures, Submitted, Communications in Theoritical physics, 2015
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.02473
+abstract: In this present paper we study the entanglement dynamics in qubit A-qutrit B pair under x component of Dzyaloshinshkii-Moriya $(D_{x})$ by taking an auxiliary qubit C. Here we consider an entangled qubit-qutrit pair initially prepared in two parameter qubit-qutrit states and one auxiliary qubit prepared in pure state interacts with the qutrit of the pair through DM interaction. We trace away the auxiliary qubit and calculate the reduced dynamics in qubit A-qutrit B pair to study the influence of the state of auxiliary qubit C and $D_{x}$ on entanglement. We find that the state (probability amplitude) of auxiliary qubit does not influence the entanglement, only $D_{x}$ influences the same. The phenomenon of entanglement sudden death (ESD) induced by $D_{x}$ has also been observed. We also present the affected and unaffected two parameter qubit-qutrit states by $D_{x}$.
+
+id: 1511.02480
+title: Lensing effect of electromagnetically induced transparency involving a Rydberg state
+authors: Jingshan Han, Thibault Vogt, Manukumara Manjappa, Ruixiang Guo, Martin Kiffner, Wenhui Li
+comments: 6 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Atomic Physics (physics.atom-ph)
+url: http://www.arxiv.org/abs/1511.02480
+abstract: We study the lensing effect experienced by a weak probe field under conditions of electromagnetically induced transparency (EIT) involving a Rydberg state. A Gaussian coupling beam tightly focused on a laser-cooled atomic cloud produces an inhomogeneity in the coupling Rabi frequency along the transverse direction and makes the EIT area acting like a gradient-index medium. We image the probe beam at the position where it exits the atomic cloud, and observe that a red-detuned probe light is strongly focused with a greatly enhanced intensity whereas a blue-detuned one is de-focused with a reduced intensity. Our experimental results agree very well with the numerical solutions of Maxwell-Bloch equations.
+
+id: 1511.02519
+title: Nonlinear actuation dynamics of driven Casimir oscillators with rough surfaces
+authors: Wijnand Broer, Holger Waalkens, Vitaly B. Svetovoy, Jasper Knoester, George Palasantzas
+comments: 7 pages, 4 figures, to appear in Phys. Rev. Applied
+journal: 
+subjects: Quantum Physics (quant-ph); Chaotic Dynamics (nlin.CD); Classical Physics (physics.class-ph)
+url: http://www.arxiv.org/abs/1511.02519
+abstract: At separations below 100 nm, Casimir-Lifshitz forces strongly influence the actuation dynamics of micro-electromechanical systems (MEMS) in dry vacuum conditions. For a micron size plate oscillating near a surface, which mimics a frequently used setup in experiments with MEMS, we show that the roughness of the surfaces significantly influences the qualitative dynamics of the oscillator. Via a combination of analytical and numerical methods, it is shown that surface roughness leads to a clear increase of initial conditions associated with chaotic motion, that eventually lead to stiction between the surfaces. Since stiction leads to malfunction of MEMS oscillators, our results are of central interest for the design of microdevices. Moreover, they are of significance for fundamentally motivated experiments performed with MEMS.
+
+id: 1511.02576
+title: Maximally coherent states and coherence-preserving operations
+authors: Yi Peng, Yong Jiang, Heng Fan
+comments: 7 pages, 1 figure
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.02576
+abstract: We investigate the maximally coherent states to provide a refinement in quantifying coherence and give a measure-independent definition of the coherence-preserving operations. A maximally coherent state can be considered as the resource to create arbitrary quantum states of the same dimension by merely incoherent operations. We propose that only the maximally coherent states should achieve the maximal value for a coherence measure. Using this condition as an additional criterion for coherence measures, we can obtain a refinement in quantifying coherence and exclude the invalid and inefficient coherence measures. Under this new criterion, we then give a measure-independent definition of the coherence-preserving operations, which play a similar role in quantifying coherence as that palyed by the local unitary operations in the scenario of studying entanglement.
+
+id: 1511.02581
+title: Quantum annealing via environment-mediated quantum diffusion
+authors: Vadim N. Smelyanskiy, Davide Venturelli, Alejandro Perdomo-Ortiz, Sergey Knysh, Mark I. Dykman
+comments: 4.5 pages of main text, 3.5 pages of Supplementary Material, 1 Figure
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
+url: http://www.arxiv.org/abs/1511.02581
+abstract: We show that quantum diffusion near the quantum critical point can provide an efficient mechanism of open-system quantum annealing. It is based on the diffusion-mediated recombination of excitations. Our analysis refers to an Ising spin chain coupled to transverse field and bosonic bath. It shows that the diffusion sharply slows down as the system moves away from the quantum critical region. This leads to spatial correlations and effective freezing of the excitation density at the value that non-monotonically depends on the annealing rate. We find analytically that obtaining an approximate solution via the diffusion-mediated quantum annealing can be faster than via closed-system quantum annealing or Glauber dynamics.
+
+id: 1511.02596
+title: Fault-tolerant conversion between stabilizer codes by Clifford operations
+authors: Yongsoo Hwang, Byung-Soo Choi, Young-chai Ko, Jun Heo
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.02596
+abstract: We propose a scheme that converts a stabilizer code into another stabilizer code in a fault tolerant manner. The scheme first puts both codes in specific forms, and proceeds the conversion from a source code to a target code by applying Clifford gates. The Clifford gates are chosen from the comparisons between both codes. The fault tolerance of the conversion is guaranteed by quantum error correction in every step during the entire conversion process. As examples, we show three conversions: the $[[5,1,3]]$ stabilizer code and Steane code, Steane code and $[[15,1,3]]$ Reed-Muller code, and Steane code and $(3,4)$-QPC code.
+
+id: 1511.02617
+title: Exactly solvable problems in the momentum space with a minimum uncertainty in position
+authors: M. I. Samar, V. M. Tkachuk
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.02617
+abstract: A new approach in solution of simple quantum mechanical problems in deformed space with minimal length is presented. We propose the generalization of Schro\"edinger equation in momentum representation on the case of deformed Heisenberg algebra with minimal length. Assuming that the kernel of potential energy operator do not change in the case of deformation, we obtain exact solution of eigenproblem of a particle in delta potential as well as double delta potential. Particle in Coulomb like potential is revisited and the problem of inversibility and hermicity of inverse coordinate operator is solved.
+
+id: 1511.02627
+title: Exponential Decay of Matrix $¦µ$-Entropies on Markov Semigroups with Applications to Dynamical Evolutions of Quantum Ensembles
+authors: Hao-Chung Cheng, Min-Hsiu Hsieh, Marco Tomamichel
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Information Theory (cs.IT); Mathematical Physics (math-ph); Operator Algebras (math.OA); Probability (math.PR)
+url: http://www.arxiv.org/abs/1511.02627
+abstract: In the study of Markovian processes, one of the principal achievements is the equivalence between the $\Phi$-Sobolev inequalities and an exponential decrease of the $\Phi$-entropies. In this work, we develop a framework of Markov semigroups on matrix-valued functions and generalize the above equivalence to the exponential decay of matrix $\Phi$-entropies. This result also specializes to spectral gap inequalities and modified logarithmic Sobolev inequalities in the random matrix setting. To establish the main result, we define a non-commutative generalization of the carr\'e du champ operator, and prove a de Bruijn's identity for matrix-valued functions. The proposed Markov semigroups acting on matrix-valued functions have immediate applications in the characterization of the dynamical evolution of quantum ensembles. We consider two special cases of quantum unital channels, namely, the depolarizing channel and the phase-damping channel. In the former, since there exists a unique equilibrium state, we show that the matrix $\Phi$-entropy of the resulting quantum ensemble decays exponentially as time goes on. Consequently, we obtain a stronger notion of monotonicity of the Holevo quantity - the Holevo quantity of the quantum ensemble decays exponentially in time and the convergence rate is determined by the modified log-Sobolev inequalities. However, in the latter, the matrix $\Phi$-entropy of the quantum ensemble that undergoes the phase-damping Markovian evolution generally will not decay exponentially. This is because there are multiple equilibrium states for such a channel. Finally, we also consider examples of statistical mixing of Markov semigroups on matrix-valued functions. We can explicitly calculate the convergence rate of a Markovian jump process defined on Boolean hypercubes, and provide upper bounds of the mixing time on these types of examples.
+
+id: 1511.02649
+title: Quantum steering of Gaussian states via non-Gaussian measurements
+authors: Se-Wan Ji, Jaehak Lee, Jiyong Park, Hyunchul Nha
+comments: 8 pages, 2 figures, with supplemental explanations
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.02649
+abstract: Quantum steering has recently attracted a growing interest from both fundamental and practical aspects. It is a strong form of quantum correlation that can be verified even when one party or its measuring device is fully untrusted thereby offering some important practical applications, e.g. one-sided device independent cryptography. In continuous-variable systems, Gaussian states among others have been extensively studied, but most of studies have so far considered only Gaussian measurements for their steerability. It was even conjectured that Gaussian measurements are optimal for steering of Gaussian states. Here, we introduce a formalism based on local uncertainty relations of non-Gaussian measurements and show that there exist some two-mode Gaussian states for which Gaussian measurements cannot detect steerability but our non-Gaussian formulation can. To this aim, we specifically look into Gaussian states of practical relevance, i.e. two-mode squeezed states under a lossy and an amplifying Gaussian channel. Our finding significantly modifies the characteristics of Gaussian-state steering so far established such as monogamy relations and one-way steering under Gaussian measurements, thus opening a new direction for critical studies beyond Gaussian regime.
+
+id: 1511.02658
+title: Relativistic EPR-type experiments for photons in the background of reducible representation HOLA algebras
+authors: Klaudia Wrzask
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.02658
+abstract: Relativistic EPR-type experiments for photons in the background of reducible representation algebras are discussed. A model for the four Bell states, such that maintains maximally correlated in two bases: linear and circular in all reference frames is developed. Relativistic correlation functions are derived for two cases: when the detectors are transformed under Lorentz transformation in such a way that they still remain in the same reference frame and when just one of the detectors is transformed.
+
+id: 1511.02704
+title: Quantum Computing with Parafermions
+authors: Adrian Hutter, Daniel Loss
+comments: 8 pages, 1 figure
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Other Condensed Matter (cond-mat.other)
+url: http://www.arxiv.org/abs/1511.02704
+abstract: $\mathbb{Z}_d$ Parafermions are exotic non-Abelian quasiparticles generalizing Majorana fermions, which correspond to the case $d=2$. In contrast to Majorana fermions, braiding of parafermions with $d>2$ allows to perform an entangling gate. This has spurred interest in parafermions and a variety of condensed matter systems have been proposed as potential hosts for them. In this work, we study the computational power of braiding parafermions more systematically. We make no assumptions on the underlying physical model but derive all our results from the algebraical relations that define parafermions. We find a familiy of $2d$ representations of the braid group that are compatible with these relations. The braiding operators derived this way reproduce those derived previously from physical grounds as special cases. We show that if a $d$-level qudit is encoded in the fusion space of four parafermions, braiding of these four parafermions allows to generate the entire single-qudit Clifford group (up to phases), for any $d$. If $d$ is odd, then we show that in fact the entire many-qudit Clifford group can be generated.
+
+id: 1511.02708
+title: The ultimate precision limits for noisy frequency estimation
+authors: Andrea Smirne, Jan Kolodynski, Susana F. Huelga, Rafal Demkowicz-Dobrzanski
+comments: 5+11 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.02708
+abstract: Quantum metrology protocols allow to surpass precision limits typical to classical statistics. However, in recent years, no-go theorems have been formulated, which state that typical forms of uncorrelated noise can constrain the quantum enhancement to a constant factor, and thus bound the error to the standard asymptotic scaling. In particular, that is the case of time-homogeneous (Lindbladian) dephasing and, more generally, all semigroup dynamics that include phase covariant terms, which commute with the system Hamiltonian. We show that the standard scaling can be surpassed when the dynamics is no longer ruled by a semigroup and becomes time-inhomogeneous. In this case, the ultimate precision is determined by the system short-time behaviour, which when exhibiting the natural Zeno regime leads to a non-standard asymptotic resolution. In particular, we demonstrate that the relevant noise feature dictating the precision is the violation of the semigroup property at short timescales, while non-Markovianity does not play any specific role.
+
+id: 1511.02728
+title: Multiconfigurational quantum propagation with trajectory-guided generalized coherent states
+authors: Adriano Grigolo, Thiago F. Viscondi, Marcus A. M. de Aguiar
+comments: 29 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Chemical Physics (physics.chem-ph); Classical Physics (physics.class-ph); Computational Physics (physics.comp-ph)
+url: http://www.arxiv.org/abs/1511.02728
+abstract: A generalized version of the coupled coherent states method for coherent states of arbitrary Lie groups is developed. In contrast to the original formulation, which is restricted to frozen-Gaussian basis sets, the extended method is suitable for propagating quantum states of systems featuring diversified physical properties, such as spin degrees of freedom or particle indistinguishability. The approach is illustrated with systems of interacting bosons trapped in double- and triple-well potentials, most adequately described in terms of SU(2) and SU(3) bosonic coherent states, respectively.
+
+id: 1511.02738
+title: Free Nano-Object Ramsey Interferometry for Large Quantum Superpositions
+authors: C. Wan, M. Scala, G. W. Morley, ATM. A. Rahman, H. Ulbricht, J. Bateman, P. F. Baker, S. Bose, M. S. Kim
+comments: 7 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.02738
+abstract: We propose an interferometric scheme based on an untrapped nano-object subjected to classical gravity. The center of mass (CM) of the free object is coupled to its internal spin system magnetically, and a free flight scheme is developed in which the matter wave of the test object is split and merged in a double slit interferometry fashion. It shows the capability of generating a large spatially separated superposition of the composite system and consequently evidencing it via a Ramsey interferometry that reveals a gravity induced dynamical phase accrued solely on the spin. We find a remarkable immunity to the motional noise in the CM so that our scheme would work for a thermal initial state with moderate cooling. The mass independence of our scheme makes it viable for nano-object ensembles with a high mass variability. The $100$ nm scale of spatial separation of the superposed components, as well as the high visibility of the resulting Ramsey interference over $100 \mu$s provides a route to test postulated modifications of quantum theory such as continuous spontaneous localisation.
+
+id: 1511.02739
+title: Probing vacuum-induced coherence via magneto-optical rotation in molecular systems
+authors: Pardeep Kumar, Bimalendu Deb, Shubhrangshu Dasgupta
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1511.02739
+abstract: We investigate theoretically the effects of vacuum-induced coherence (VIC) on magneto-optical rotation (MOR). We carry out a model study to show that VIC in the presence of a control laser and a magnetic field can lead to large enhancement in the rotation of the plane of polarization of a linearly polarized weak laser with vanishing circular dichroism. This effect can be realized in cold molecular gases and may be used as a sensitive probe for VIC. Such a large MOR angle can also be used to detect weak magnetic field with large measurement sensitivity.
+
+id: 1511.02741
+title: Supersensitive measurement using single-atom control of an atomic ensemble
+authors: Calum MacCormick, Silvia Bergamini, Chris Mansell, Hugo Cable, Kavan Modi
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.02741
+abstract: We analyze the operation of a novel sensor based on atom interferometry, which can achieve supra-classical sensitivity by exploiting quantum correlations in mixed states of many qubits. The interferometer is based on quantum gates which use coherently-controlled Rydberg interactions between a single atom (which acts as a control qubit) and an atomic ensemble (which provides register qubits). In principle, our scheme can achieve precision scaling with the size of the ensemble - which can extend to large numbers of atoms - while using only single-qubit operations on the control and bulk operations on the ensemble. We investigate realistic implementation of the interferometer, and our main aim is to develop a new approach to quantum metrology that can achieve quantum-enhanced measurement precision by exploiting coherent operations on large impure quantum states. We propose an experiment to demonstrate the enhanced sensitivity of the protocol, and to investigate a transition from classical to supra-classical sensitivity which occurs when using highly-mixed probe states.
+
+id: 1511.02781
+title: Tunable optical parametric generator based on the pump spatial walk-off
+authors: Andrea Cavanna, Felix Just, Polina R. Sharapova, Michael Taheri, Gerd Leuchs, Maria V. Chekhova
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1511.02781
+abstract: We suggest a novel optical parametric generator (OPG) in which one of the down-converted beams is spontaneously generated along the Poynting vector of the pump beam. In this configuration, the generation takes advantage of the walk-off of the extraordinary pump rather than being degraded by it. As a result the generated beams, signal and idler, are bright, due to a high conversion efficiency, spatially nearly single-mode, due to the preferred direction of the Poynting vector, tuneable over a wide range of wavelengths, and broadband. The two beams are also correlated in frequency and in the photon number per pulse. Furthermore due to their thermal statistics these beams can be used as a pump to efficiently generate other nonlinear processes.
+
+id: 1511.02839
+title: Instantaneous non-local computation of low T-depth quantum circuits
+authors: Florian Speelman
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.02839
+abstract: The instantaneous non-local quantum computation task requires multiple parties to jointly perform a quantum operation, using pre-shared entanglement and a single round of simultaneous communication. We study this task for its close connection to position-based quantum cryptography, but it also has natural applications in the context of foundations of quantum physics and in distributed computing. The best known general construction for instantaneous non-local quantum computation requires a pre-shared state which is exponentially large in the number of qubits involved in the operation, while efficient constructions are known for very specific cases only. We partially close this gap by presenting new schemes for efficient instantaneous non-local computation of several classes of quantum circuits, using the Clifford+T gate set. Our main result is a protocol which uses entanglement exponential in the T-depth of a quantum circuit, able to perform non-local computation of quantum circuits with a (poly-)logarithmic number of layers of T gates with quasi-polynomial entanglement. Our proofs combine ideas from blind and delegated quantum computation with the garden-hose model, a combinatorial model of communication complexity which was recently introduced as a tool for studying certain schemes for quantum position verification. As application of our results, we additionally present an efficient attack on a recently-proposed scheme for position verification by Chakraborty and Leverrier.
+
+id: 1511.02272
+title: Spontaneous Quantum Teleportation in a Quenched Spin Lattice
+authors: Nickolas Pilgram, Thomas D. Gutierrez
+comments: 16 pages, 11 figures
+journal: 
+subjects: Disordered Systems and Neural Networks (cond-mat.dis-nn); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.02272
+abstract: An Ising-inspired numerical model is developed to study spontaneous quantum teleportation in a quenched spin lattice. Quantum teleportation is an operation that can, using entangled pairs of particles, transport a quantum state across arbitrary distances with high fidelity. In doing so, it destroys the state in one location and relocates it to another. In this context, teleportation serves as a long range interaction that randomly introduces correlations and disorder into a lattice. In addition, different Bell state projection and entangled pair swapping models are also explored, as are the effects of decoherence. The results are compared to the standard Ising model in one- and two-dimensions across several thermodynamic parameters versus temperature.
+
+id: 1511.02382
+title: On the M?bius transformation in the entanglement entropy of fermionic chains
+authors: F. Ares, J. G. Esteve, F. Falceto, A. R. de Queiroz
+comments: 25 pages, 3 figures
+journal: 
+subjects: Mathematical Physics (math-ph); Statistical Mechanics (cond-mat.stat-mech); High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.02382
+abstract: There is an intimate relation between entanglement entropy and Riemann surfaces. This fact is explicitly noticed for the case of quadratic fermionic Hamiltonians with finite range couplings. After recollecting this fact, we make a comprehensive analysis of the action of the M\"obius transformations on the Riemann surface. We are then able to uncover the origin of some symmetries and dualities of the entanglement entropy already noticed recently in the literature. These results give further support for the use of entanglement entropy to analyse phase transition.
+
+id: 1511.02477
+title: Hadronic deuteron polarizability contribution to the Lamb shift in muonic deuterium
+authors: A.V. Eskin, R.N. Faustov, A.P. Martynenko, F.A. Martynenko
+comments: 11 pages, 2 figures
+journal: 
+subjects: High Energy Physics - Phenomenology (hep-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.02477
+abstract: Hadronic deuteron polarizability correction to the Lamb shift of muonic deuterium is calculated on the basis of unitary isobar model and modern experimental data on the structure functions of deep inelastic lepton-deuteron scattering and their parameterizations in the resonance and nonresonance regions.
+
+id: 1511.02777
+title: Geometric phase in the G3+ quantum state evolution
+authors: Alexander Soiguine
+comments: 
+journal: 
+subjects: General Physics (physics.gen-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.02777
+abstract: When quantum mechanical qubits as elements of two dimensional complex Hilbert space are generalized to elements of even subalgebra of geometric algebra over three dimensional Euclidian space, geometrically formal complex plane becomes explicitly defined as an arbitrary, variable plane in 3D. The result is that the quantum state definition and evolution receive more detailed description, including clear calculations of geometric phase, with important consequences for topological quantum computing.
+
+id: 1511.02823
+title: Negative Probabilities and Contextuality
+authors: J. Acacio de Barros, Janne Kujala, Gary Oas
+comments: 28 pages, 5 figures
+journal: 
+subjects: Data Analysis, Statistics and Probability (physics.data-an); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.02823
+abstract: There has been a growing interest, both in physics and psychology, in understanding contextuality in experimentally observed quantities. Different approaches have been proposed to deal with contextual systems, and a promising one is contextuality-by-default, put forth by Dzhafarov and Kujala. The goal of this paper is to present a tutorial on a different approach: negative probabilities. We do so by presenting the overall theory of negative probabilities in a way that is consistent with contextuality-by-default and by examining with this theory some simple examples where contextuality appears, both in physics and psychology.
+
+id: 1511.02835
+title: Variational Approach and Deformed Derivatives
+authors: Jos¨¦ Weberszpil, Jos¨¦ Abdalla Helay?l-Neto
+comments: 13 pages. arXiv admin note: text overlap with arXiv:1502.07606
+journal: 
+subjects: Mathematical Physics (math-ph); Statistical Mechanics (cond-mat.stat-mech); High Energy Physics - Theory (hep-th); Exactly Solvable and Integrable Systems (nlin.SI); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.02835
+abstract: Recently, we have demonstrated that there exists a possible relationship between q-deformed algebras in two different contexts of Statistical Mechanics, namely, the Tsallis' framework and the Kaniadakis' scenario, with a local form of fractional-derivative operators for fractal media, the so-called Hausdorff derivatives, mapped into a continuous medium with a fractal measure. Here, in this paper, we present an extension of the traditional calculus of variations for systems containing deformed-derivatives embedded into the Lagrangian and the Lagrangian densities for classical and field systems. The results extend the classical Euler-Lagrange equations and the Hamiltonian formalism. The resulting dynamical equations seem to be compatible with those found in the literature, specially with mass-dependent and with nonlinear equations for systems in classical and quantum mechanics. Examples are presented to illustrate applications of the formulation. Also, the conserved Nether current, are worked out.
+
+id: 1212.3406
+title: Efficient method to generate time evolution of the Wigner function for open quantum systems
+authors: Renan Cabrera, Denys I. Bondar, Kurt Jacobs, Herschel A. Rabitz
+comments: 
+journal: Phys. Rev. A 92, 042122, 2015
+subjects: Quantum Physics (quant-ph); Computational Physics (physics.comp-ph)
+url: http://www.arxiv.org/abs/1212.3406
+abstract: 
+
+id: 1305.0949
+title: Ideal quantum clocks and operator time
+authors: Walter Gessner
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1305.0949
+abstract: 
+
+id: 1307.4513
+title: Effective field theory of interactions on the lattice
+authors: Manuel Valiente, Nikolaj T. Zinner
+comments: 7 pages, 0 figures
+journal: Few-Body Systems: Volume 56, Issue 11 (2015), Page 845-851
+subjects: Nuclear Theory (nucl-th); Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1307.4513
+abstract: 
+
+id: 1307.7726
+title: Tensor network trial states for chiral topological phases in two dimensions and a no-go theorem in any dimension
+authors: J. Dubail, N. Read
+comments: 5 pages plus 4 pages supplementary material, inc 3 figures. v2: improved no-go theorem, additional references. v3: changed to regular article format; 16 pages, 3 figures, no supplemental material; main change is much extended proof of no-go theorem. v4: minor changes; as-published version
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Strongly Correlated Electrons (cond-mat.str-el); High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1307.7726
+abstract: 
+
+id: 1406.3007
+title: Measuring Non-Hermitian Operators via Weak Values
+authors: Arun Kumar Pati, Uttam Singh, Urbasi Sinha
+comments: 8 pages, 2 figures, title changed (previous title was "Quantum Theory Allows Measurement of Non-Hermitian Operators"), accepted in PRA
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1406.3007
+abstract: 
+
+id: 1407.2875
+title: Quantum Dynamics, Minkowski-Hilbert space, and A Quantum Stochastic Duhamel Principle
+authors: Matthew F. Brown
+comments: 
+journal: 
+subjects: Mathematical Physics (math-ph); Information Theory (cs.IT); Dynamical Systems (math.DS); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1407.2875
+abstract: 
+
+id: 1411.4641
+title: Algorithmic Cooling in Liquid State NMR
+authors: Yosi Atia, Yuval Elias, Tal Mor, Yossi Weinstein
+comments: 6 pages, 7 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1411.4641
+abstract: 
+
+id: 1411.4787
+title: Requirements for a loophole-free photonic Bell test using imperfect setting generators
+authors: Johannes Kofler, Marissa Giustina, Jan-?ke Larsson, Morgan W. Mitchell
+comments: 11 pages, significantly improved version
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1411.4787
+abstract: 
+
+id: 1412.7320
+title: Nonlocal random motions: The trapping problem
+authors: Piotr Garbaczewski, Mariusz ?aba
+comments: 11 pp, 7 figures. In this version, minor correction next to Eq. (7)
+journal: Acta Phys. Pol. B 46 (2), 231-246, (2015)
+subjects: Mathematical Physics (math-ph); Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1412.7320
+abstract: 
+
+id: 1502.05593
+title: Ground-state Stabilization of Open Quantum Systems by Dissipation
+authors: Yu Pan, Valery Ugrinovskii, Matthew R. James
+comments: 18 pages, to appear in Automatica
+journal: 
+subjects: Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1502.05593
+abstract: 
+
+id: 1503.03249
+title: Interpolation Approach to Hamiltonian-varying Quantum Systems and the Adiabatic Theorem
+authors: Yu Pan, Zibo Miao, Nina H. Amini, Valery Ugrinovskii, Matthew R. James
+comments: 12 pages, to appear in EPJ Quantum Technology
+journal: 
+subjects: Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1503.03249
+abstract: 
+
+id: 1504.02541
+title: Non-Hermitian heat engine with all-quantum-adiabatic-process cycle
+authors: S. Lin, Z. Song
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1504.02541
+abstract: 
+
+id: 1504.06838
+title: Quantum Set Theory Extending the Standard Probabilistic Interpretation of Quantum Theory
+authors: Masanao Ozawa
+comments: latex, 31 pages. An extended abstract of this paper was presented in the 11th International Workshop on Quantum Physics and Logic (QPL 2014), Kyoto University, Japan, June 4-6, 2014 and appeared in EPTCS 172, 2014, pp. 15-26, arXiv:1412.8540 [quant-ph]
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph); Logic (math.LO)
+url: http://www.arxiv.org/abs/1504.06838
+abstract: 
+
+id: 1505.00031
+title: Cavity squeezing by a quantum conductor
+authors: Udson C. Mendes, Christophe Mora
+comments: 13 pages, 4 figures, includes Supplementary info
+journal: New J. Phys. 17, 113014 (2015)
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1505.00031
+abstract: 
+
+id: 1505.03670
+title: The Born Rule and Time-Reversal Symmetry of Quantum Equations of Motion
+authors: Aleksey V. Ilyin
+comments: 3 pages, 1 figure
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1505.03670
+abstract: 
+
+id: 1505.03888
+title: Anapole moment of a chiral molecule revisited
+authors: Takeshi Fukuyama, Takamasa Momose, Daisuke Nomura
+comments: 21 pages, 2 figures. v2: Appendix added, references added, typos corrected, version to appear in Eur. Phys. J. D
+journal: 
+subjects: High Energy Physics - Phenomenology (hep-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1505.03888
+abstract: 
+
+id: 1505.07850
+title: Quantum speed limits for leakage and decoherence
+authors: Iman Marvian, Daniel A. Lidar
+comments: 4 pages+15 pages Supplementary Material, references added, minor edits and clarifications, published version
+journal: 
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech)
+url: http://www.arxiv.org/abs/1505.07850
+abstract: 
+
+id: 1506.05767
+title: Electron spin coherence of shallow donors in natural and isotopically enriched germanium
+authors: A. J. Sigillito, R. M. Jock, A. M. Tyryshkin, J. W. Beeman, E. E. Haller, K. M. Itoh, S. A. Lyon
+comments: 
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Materials Science (cond-mat.mtrl-sci); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1506.05767
+abstract: 
+
+id: 1507.05269
+title: $\mathbb{Z}_3$ Parafermionic Chain Emerged From Yang-Baxter Equation
+authors: Li-Wei Yu, Mo-Lin Ge
+comments: Main text: 11 pages; Supplementary: 7 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1507.05269
+abstract: 
+
+id: 1507.08136
+title: Classification of quantum coherences for quantum thermalization
+authors: Ceren B. Da?, ?zg¨¹r E. M¨¹stecapl?o?lu
+comments: 14 pages, 6 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1507.08136
+abstract: 
+
+id: 1508.04042
+title: Work fluctuation-dissipation trade-off in heat engines
+authors: Ken Funo, Masahito Ueda
+comments: 16 pages, 4 figures
+journal: 
+subjects: Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1508.04042
+abstract: 
+
+id: 1509.00889
+title: Symmetries of general non-Markovian Gaussian diffusive unravelings
+authors: Adrian A. Budini
+comments: 10 pages, published version
+journal: Phys. Rev. A 92, 052101 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.00889
+abstract: 
+
+id: 1510.05810
+title: Yang-Baxter integrable models in experiments: from condensed matter to ultracold atoms
+authors: Murray T. Batchelor, Angela Foerster
+comments: 25 pages, 14 figures. Review article intended for Exactly Solved Models and Beyond: a special issue in honour of R J Baxter's 75th birthday in J Phys A. Additional references, comments welcome
+journal: 
+subjects: Statistical Mechanics (cond-mat.stat-mech); Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.05810
+abstract: 
+
+id: 1510.09173
+title: Quantum neural computation of entanglement is robust to noise and decoherence
+authors: E.C. Behrman, N.H. Nguyen, J.E. Steck, M. McCann
+comments: to be published in Quantum Inspired Computational Intelligence (Elsevier, 2016)
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.09173
+abstract: 
+

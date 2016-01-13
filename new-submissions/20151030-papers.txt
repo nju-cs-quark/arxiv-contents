@@ -1,0 +1,279 @@
+id: 1510.08447
+title: An exponential time upper bound for Quantum Merlin-Arthur games with unentangled provers
+authors: Martin Schwarz
+comments: 13 pages, 1 figure
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC)
+url: http://www.arxiv.org/abs/1510.08447
+abstract: We prove a deterministic exponential time upper bound for Quantum Merlin-Arthur games with k unentangled provers. This is the first non-trivial upper bound of QMA(k) better than NEXP and can be considered an exponential improvement, unless EXP=NEXP. The key ideas of our proof are to use perturbation theory to reduce the QMA(2)-complete Separable Sparse Hamiltonian problem to a variant of the Separable Local Hamiltonian problem with an exponentially small promise gap, and then to decide this instance using epsilon-net methods. Our results imply an exponential time algorithm for the Pure State N-Representability problem in quantum chemistry, which is in QMA(2), but is not known to be in QMA. We also discuss the implications of our results on the Best Separable State problem.
+
+id: 1510.08595
+title: Quantum communication with macroscopically bright nonclassical states
+authors: Vladyslav C. Usenko, Laszlo Ruppert, Radim Filip
+comments: 10 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.08595
+abstract: We analyze homodyne detection of macroscopically bright multimode nonclassical states of light and propose their application in quantum communication. We observe that the homodyne detection is sensitive to a mode-matching of the bright light to the highly intense local oscillator. Unmatched bright modes of light result in additional noise which technically limits detection of Gaussian entanglement at macroscopic level. When the mode-matching is sufficient, we show that multimode quantum key distribution with bright beams is feasible. It finally merges the quantum communication with classical optical technology of visible beams of light.
+
+id: 1510.08634
+title: Three approaches for representing Lindblad dynamics by a matrix-vector notation
+authors: Morag Am-Shallem, Amikam Levy, Ido Schaefer, Ronnie Kosloff
+comments: 17 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.08634
+abstract: Markovian dynamics of open quantum systems are described by the L-GKS equation, known also as the Lindblad equation. The equation is expressed by means of left and right matrix multiplications. This formulation hampers numerical implementations. Representing the dynamics by a matrix-vector notation overcomes this problem. We review three approaches to obtain such a representation. The methods are demonstrated for a driven two-level system subject to spontaneous emission.
+
+id: 1510.08645
+title: Quantum adiabatic evolution with energy-degeneracy levels
+authors: Qi Zhang
+comments: 7 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.08645
+abstract: A classical-kind phase-space formalism is developed to address the tiny intrinsic dynamical deviation from what is predicted by Wilczek-Zee theorem during quantum adiabatic evolution on degeneracy levels. In this formalism, the Hilbert space and the aggregate of degenerate eigenstates become the classical-kind phase-space and a high-dimensional subspace in the phase-space, respectively. Compared with the previous same study by a different method, the current result is qualitatively different in that the first-order deviation derived here is always perpendicular to the degeneracy subspace. A tripod scheme Hamiltonian with two degenerate dark states is employed to illustrate the adiabatic deviation with degeneracy levels.
+
+id: 1510.08652
+title: Non-Markovian continuous-time quantum walks on lattices with dynamical disorders
+authors: Claudia Benedetti, Fabrizio Buscemi, Paolo Bordone, Matteo G. A. Paris
+comments: 10 pages, 7 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.08652
+abstract: We address the dynamics of continuous-time quantum walks on one-dimensional disordered lattices. Noise is introduced as time-dependent fluctuations of the tunneling amplitudes between adjacent sites, and attention is focused on non-Gaussian telegraph noise. We demonstrate the emergence of two different dynamical behaviors for the walker, corresponding to two opposite noise regimes: {\em slow} noise confines the walker into few lattice nodes, while {\em fast} noise induce a transition between quantum and classical diffusion over the lattice. By tuning the ratio between the autocorrelation time of the noise and the coupling between the walker and the external environment generating the noise, it is possible to move continuosly from one dynamical behavior to the other. We also address the non-Markovianity of the quantum map by assessing its divisibility as well as evaluating the information backflow to the system. Our results suggest that the non-Markovian character of the evolution is linked to the dynamical behavior in the slow noise regime, and that fast noise induces a Markovian dynamics for the walker.
+
+id: 1510.08657
+title: Efficient Quantum Walk on a Quantum Processor
+authors: Xiaogang Qiang, Thomas Loke, Ashley Montanaro, Kanin Aungskunsiri, Xiaoqi Zhou, Jeremy L. O'Brien, Jingbo Wang, Jonathan C. F. Matthews
+comments: 10 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.08657
+abstract: The random walk formalism is used across a wide range of applications, from modelling share prices to predicting population genetics. Likewise quantum walks have shown much potential as a frame- work for developing new quantum algorithms. In this paper, we present explicit efficient quantum circuits for implementing continuous-time quantum walks on the circulant class of graphs. These circuits allow us to sample from the output probability distributions of quantum walks on circulant graphs efficiently. We also show that solving the same sampling problem for arbitrary circulant quantum circuits is intractable for a classical computer, assuming conjectures from computational complexity theory. This is a new link between continuous-time quantum walks and computational complexity theory and it indicates a family of tasks which could ultimately demonstrate quantum supremacy over classical computers. As a proof of principle we have experimentally implemented the proposed quantum circuit on an example circulant graph using a two-qubit photonics quantum processor.
+
+id: 1510.08710
+title: Anomalous broadening in driven dissipative Rydberg systems
+authors: E. A. Goldschmidt, T. Boulier, R. C. Brown, S. B. Koller, J. T. Young, A. V. Gorshkov, S. L. Rolston, J. V. Porto
+comments: 6+2 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Quantum Gases (cond-mat.quant-gas)
+url: http://www.arxiv.org/abs/1510.08710
+abstract: We observe interaction-induced broadening of the two-photon 5s-18s transition in 87Rb atoms trapped in a 3D optical lattice. The measured linewidth increases by nearly two orders of magnitude with increasing atomic density and excitation strength, with corresponding suppression of resonant scattering and enhancement of off-resonant scattering. We attribute the increased linewidth to resonant dipole-dipole interactions of 18s atoms with spontaneously created populations of nearby np states. Over a range of initial atomic densities and excitation strengths, the transition width is described by a single function of the steady-state density of Rydberg atoms, and the observed resonant excitation rate corresponds to that of a two-level system with the measured, rather than natural, linewidth. The broadening mechanism observed here is likely to have negative implications for many proposals with coherently interacting Rydberg atoms.
+
+id: 1510.08737
+title: Floodlight Quantum Key Distribution: Breaking The One Photon Per Bit Barrier
+authors: Quntao Zhuang, Zheshen Zhang, Justin Dove, Franco N. C. Wong, Jeffrey H. Shapiro
+comments: 13 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.08737
+abstract: Existing quantum key distribution protocols typically transmit at most one photon per bit, so that the no-cloning theorem ensures their security. As a result, their key rates suffer dramatically in long-distance transmission because of channel loss. We introduce floodlight quantum key distribution (FL-QKD), which breaks the one photon per bit barrier and overcomes loss by exploiting a huge number of optical modes per bit. FL-QKD is capable of 2 Gbps secret-key rates over a 50 km fiber link. Its security follows from employing less than one photon per mode and using photon-coincidence channel monitoring.
+
+id: 1510.08746
+title: Self-similar analogues of Stark ladders: a path to fractal potentials
+authors: E. Sadurn¨ª, S. Castillo
+comments: Presented at the Symposium Quantum Theory and Symmetries IX, Armenia
+journal: 
+subjects: Quantum Physics (quant-ph); Other Condensed Matter (cond-mat.other); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1510.08746
+abstract: We treat the eigenvalue problem posed by self-similar potentials, i.e. homogeneous functions under a particular affine transformation, by means of symmetry techniques. We find that the eigenfunctions of such problems are localized, even when the potential does not rise to infinity in every direction. It is shown that the logarithm of the energy displays levels contained in families that are analogous to Wannier-Stark ladders. The position of each ladder is proved to be determined by the specific details of the potential and not by its transformation properties. This is done by direct computation of matrix elements. The results are compared with numerical solutions of the Schr\"odinger equation.
+
+id: 1510.08752
+title: Quantum teleportation between a single-rail single-photon qubit and a coherent state qubit using hybrid entanglement under decoherence effects
+authors: Hyunseok Jeong, Seunglee Bae, Seongjeon Choi
+comments: 15 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.08752
+abstract: We study quantum teleportation between two different types of optical qubits using hybrid entanglement as a quantum channel under decoherence effects. One type of qubit employs the vacuum and single photon states for the basis, called a single-rail single-photon qubit, and the other utilizes coherent states of opposite phases. We find that teleportation from a single-rail single-photon qubit to a coherent state qubit is better than the opposite direction in terms of fidelity and success probability. We compare our results with those using a different type of hybrid entanglement between a polarized single-photon qubit and a coherent state.
+
+id: 1510.08800
+title: Detecting genuine entanglement in the semi-device-independent framework
+authors: C. Jebarathinam
+comments: 5 pages, RevTeX 4, all comments are welcome
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.08800
+abstract: We introduce Svetlichny and Mermin steering to characterize the presence of tripartite EPR-steering in probability distributions arising from local measurements on genuinely entangled states. We derive inequalities to detect these two types of genuine steering from the structure of Bell-type inequalities detecting genuine nonlocality and GHZ paradox. Svetlichny and Mermin steerability of statistics which have local hidden variable model originate from incompatible measurements that give rise to Svetlichny nonlocality and GHZ paradox. We observe that there are compatible measurements which can be used to demonstrate tripartite steering.
+
+id: 1510.08052
+title: The PVLAS experiment: measuring vacuum magnetic birefringence and dichroism with a birefringent Fabry-Perot cavity
+authors: F. Della Valle, E. Milotti, A. Ejlli, U. Gastaldi, G. Messineo, G. Zavattini, R. Pengo, G. Ruoso
+comments: 
+journal: 
+subjects: Optics (physics.optics); High Energy Physics - Experiment (hep-ex); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.08052
+abstract: Vacuum magnetic birefringence was predicted long time ago and is still lacking a direct experimental confirmation. Several experimental efforts are striving to reach this goal, and the sequence of results promises a success in the next few years. This measurement generally is accompanied by the search for hypothetical light particles that couple to two photons. The PVLAS experiment employs a sensitive polarimeter based on a high finesse Fabry-Perot cavity. In this paper we report on the latest experimental results of this experiment. The data are analysed taking into account the intrinsic birefringence of the dielectric mirrors of the cavity. Besides the limit on the vacuum magnetic birefringence, the measurements also allow the model-independent exclusion of new regions in the parameter space of axion-like and milli-charged particles. In particular, these last limits hold also for all types of neutrinos, resulting in a laboratory limit on their charge.
+
+id: 1510.08492
+title: Proposal for the Quantum Simulation of the CP(2) Model on Optical Lattices
+authors: Catherine Laflamme, Wynne Evans, Marcello Dalmonte, Urs Gerber, H¨¦ctor Mej¨ªa-D¨ªaz, Wolfgang Bietenholz, Uwe-Jens Wiese, Peter Zoller
+comments: 7 pages, LaTex, 5 figures, contribution to the 33rd International Symposium on Lattice Field Theory
+journal: 
+subjects: High Energy Physics - Lattice (hep-lat); High Energy Physics - Phenomenology (hep-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.08492
+abstract: The 2d CP(N-1) models share a number of features with QCD, like asymptotic freedom, a dynamically generated mass gap and topological sectors. They have been formulated and analysed successfully in the framework of the so-called D-theory, which provides a smooth access to the continuum limit. In that framework, we propose an experimental set-up for the quantum simulation of the CP(2) model. It is based on ultra-cold Alkaline-Earth Atoms (AEAs) located on the sites of an optical lattice, where the nuclear spins represent the relevant degrees of freedom. We present numerical results for the correlation length and for the real time decay of a false vacuum, to be compared with such a future experiment. The latter could also enable the exploration of theta-vacua and of the phase diagram at finite chemical potentials, since it does not suffer from any sign problem.
+
+id: 1510.08643
+title: Symmetries of the pseudo-diffusion equation, and its unconventional 2-sided kernel
+authors: Jamil Daboul, Faruk Gungor, Dongsheng Liu, David McAnally
+comments: 25 pages
+journal: 
+subjects: Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.08643
+abstract: We determine by two related methods the invariance algebra $\g$ of the \emph{`pseudo-diffusion equation'} (PSDE) $$ L~Q \equiv \left[\frac {\partial}{\partial t} -\frac 1 4 \left(\frac {\partial^2}{\partial x^2} -\frac 1 {t^2} \frac {\partial^2}{\partial p^2}\right)\right]~Q(x,p,t)=0, $$ which describes the behavior of the $Q$ functions in the $(x,p)$-phase space as a function of a squeeze parameter $y$, where $t=e^{2y}$. The algebra turns out to be isomorphic to that of its constant coefficient version. Relying on this isomorphism we construct a local point transformation which maps the factor $t^{-2}$ to 1. We show that any generalized version $u_t-u_{xx}+ b(t) u_{yy}=0$ of PSDE has a smaller symmetry algebra than $\g$, except for $b(t)$ equals to a constant or it is proportional to $t^{-2}$. We apply the group elements $G_i(\ga) := \exp[\ga A_i]$ and obtain new solutions of the PSDE from simple ones, and interpret the physics of some of the results. We make use of the `factorization property' of the PSDE to construct its \textit{`2-sided kernel'}, because it has to depend on two times, $t_0 < t < t_1$. We include a detailed discussion of the identification of the Lie algebraic structure of the symmetry algebra $\g$, and its contraction from $\su(1,1)\oplus\so(3,1)$.
+
+id: 1406.1682
+title: A Nonlocal Wave-Particle Duality
+authors: Mohd Asad Siddiqui, Tabish Qureshi
+comments: Revised version, to appear in Quantum Stud.: Math. Found
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1406.1682
+abstract: 
+
+id: 1408.6139
+title: Treatment of $N$-dimensional Schr?dinger equation for anharmonic potential via Laplace transform
+authors: Tapas Das
+comments: Nine pages, No figure
+journal: 
+subjects: Quantum Physics (quant-ph); High Energy Physics - Phenomenology (hep-ph)
+url: http://www.arxiv.org/abs/1408.6139
+abstract: 
+
+id: 1411.6364
+title: Exceptional points for parameter estimation in open quantum systems: Analysis of the Bloch equations
+authors: Morag Am-Shallem, Ronnie Kosloff, Nimrod Moiseyev
+comments: 12 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Atomic Physics (physics.atom-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1411.6364
+abstract: 
+
+id: 1503.03090
+title: Quantum Phase Transition and Universal Dynamics in the Rabi model
+authors: Myung-Joong Hwang, Ricardo Puebla, Martin B. Plenio
+comments: 5 pages, 3 figures
+journal: Phys. Rev. Lett. 115, 180404 (2015)
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
+url: http://www.arxiv.org/abs/1503.03090
+abstract: 
+
+id: 1503.04763
+title: Self-referenced continuous-variable quantum key distribution protocol
+authors: Daniel B. S. Soh, Constantin Brif, Patrick J. Coles, Norbert L¨¹tkenhaus, Ryan M. Camacho, Junji Urayama, Mohan Sarovar
+comments: 14 pages, 10 figures. Published version
+journal: Phys. Rev. X 5, 041010 (2015)
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1503.04763
+abstract: 
+
+id: 1503.05270
+title: Efficiently Controllable Graphs
+authors: Can Gokler, Seth Lloyd, Peter Shor, Kevin Thompson
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1503.05270
+abstract: 
+
+id: 1503.08582
+title: Spin-mixing Interferometry with Bose-Einstein Condensates
+authors: Marco Gabbrielli, Luca Pezze', Augusto Smerzi
+comments: 5 pages, 4 figures
+journal: Phys. Rev. Lett. 115, 163002 (2015)
+subjects: Quantum Physics (quant-ph); Quantum Gases (cond-mat.quant-gas)
+url: http://www.arxiv.org/abs/1503.08582
+abstract: 
+
+id: 1505.04016
+title: Dynamical generation and detection of entanglement in neutral leviton pairs
+authors: David Dasenbrook, Christian Flindt
+comments: 5 pages, 3 figures, 1 page of Supplemental Material
+journal: Phys. Rev. B 92, 161412(R) (2015)
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1505.04016
+abstract: 
+
+id: 1506.02176
+title: Active magneto-optical control of spontaneous emission in graphene
+authors: W. J. M. Kort-Kamp, B. Amorim, G. Bastos, F. A. Pinheiro, F. S. S. Rosa, N. M. R. Peres, C. Farina
+comments: Accepted PRB. Longer version including calculation details. 10 pages, 5 figures
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Other Condensed Matter (cond-mat.other); Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1506.02176
+abstract: 
+
+id: 1506.04528
+title: Aging and coarsening in isolated quantum systems after a quench: exact results for the quantum $O(N)$ model with $N \to \infty$
+authors: Anna Maraga, Alessio Chiocchetta, Aditi Mitra, Andrea Gambassi
+comments: 
+journal: Phys. Rev. E 92, 042151 (2015)
+subjects: Statistical Mechanics (cond-mat.stat-mech); Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1506.04528
+abstract: 
+
+id: 1507.07773
+title: Relaxation times of dissipative many-body quantum systems
+authors: Marko Znidaric
+comments: 18 pages; v2: additional explanation of exponentially small gap
+journal: Phys. Rev. E 92, 042143 (2015)
+subjects: Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1507.07773
+abstract: 
+
+id: 1508.01743
+title: Broadband Filters for Abatement of Spontaneous Emission in Circuit Quantum Electrodynamics
+authors: Nicholas T. Bronn, Yanbing Liu, Jared B. Hertzberg, Antonio D. C¨®rcoles, Andrew A. Houck, Jay M. Gambetta, Jerry M. Chow
+comments: 5 pages, 3 figures
+journal: Applied Physics Letters 107, 172601 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1508.01743
+abstract: 
+
+id: 1509.01150
+title: Spin effects in Kapitza-Dirac scattering at light with elliptical polarization
+authors: Rico Erhard, Heiko Bauke
+comments: 
+journal: Physical Review A, vol. 92, article 042123 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.01150
+abstract: 
+
+id: 1509.02788
+title: Freed by interaction kinetic states in the Harper model
+authors: Klaus M. Frahm, Dima L. Shepelyansky
+comments: 26 pages, 21 pdf and png figures, additional data and high quality figures are available at this http URL , parts of sections 2 and 3 moved to appendices, manuscript accepted for EPJ B
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.02788
+abstract: 
+
+id: 1510.02083
+title: Extended nonlocal games and monogamy-of-entanglement games
+authors: Nathaniel Johnston, Rajat Mittal, Vincent Russo, John Watrous
+comments: 19 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.02083
+abstract: 
+
+id: 1510.05703
+title: A quantum coprocessor for accelerating simulations of non-equilibrium many body quantum dynamics
+authors: J. M. Kreula, S. R. Clark, D. Jaksch
+comments: Updated version, main text 4 pages, 4 figures, and 7 pages of Supplementary Materials
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.05703
+abstract: 
+
+id: 1510.07716
+title: Gaussian state interferometry with passive and active elements
+authors: Carlo Sparaciari, Stefano Olivares, Matteo G. A. Paris
+comments: 14 pages, 12 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.07716
+abstract: 
+

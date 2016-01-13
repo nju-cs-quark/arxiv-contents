@@ -1,0 +1,18 @@
+id: 1511.01937
+title: Separations in query complexity using cheat sheets
+authors: Scott Aaronson, Shalev Ben-David, Robin Kothari
+comments: 31 pages; subsumes arXiv:1506.08106
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC)
+url: http://www.arxiv.org/abs/1511.01937
+abstract: We show a power 2.5 separation between bounded-error randomized and quantum query complexity for a total Boolean function, refuting the widely believed conjecture that the best such separation could only be quadratic (from Grover's algorithm). We also present a total function with a power 4 separation between quantum query complexity and approximate polynomial degree, showing severe limitations on the power of the polynomial method. Finally, we exhibit a total function with a quadratic gap between quantum query complexity and certificate complexity, which is optimal (up to log factors). These separations are shown using a new, general technique that we call the cheat sheet technique. The technique is based on a generic transformation that converts any (possibly partial) function into a new total function with desirable properties for showing separations. The framework also allows many known separations, including some recent breakthrough results of Ambainis et al., to be shown in a unified manner.
+
+id: 1511.01962
+title: Quantum Walks on Generalized Quadrangles
+authors: Chris Godsil, Krystal Guo, Tor G.J. Myklebust
+comments: 5 pages
+journal: 
+subjects: Combinatorics (math.CO); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.01962
+abstract: We study the transition matrix of a quantum walk on strongly regular graphs. It is proposed by Emms, Hancock, Severini and Wilson in 2006, that the spectrum of $S^+(U^3)$, a matrix based on the amplitudes of walks in the quantum walk, distinguishes strongly regular graphs. We probabilistically compute the spectrum of the line intersection graphs of two non-isomorphic generalized quadrangles of order $(5^2,5)$ under this matrix and thus provide strongly regular counter-examples to the conjecture.
+

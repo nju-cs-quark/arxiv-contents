@@ -1,0 +1,18 @@
+id: 1510.08652
+title: Non-Markovian continuous-time quantum walks on lattices with dynamical disorders
+authors: Claudia Benedetti, Fabrizio Buscemi, Paolo Bordone, Matteo G. A. Paris
+comments: 10 pages, 7 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.08652
+abstract: We address the dynamics of continuous-time quantum walks on one-dimensional disordered lattices. Noise is introduced as time-dependent fluctuations of the tunneling amplitudes between adjacent sites, and attention is focused on non-Gaussian telegraph noise. We demonstrate the emergence of two different dynamical behaviors for the walker, corresponding to two opposite noise regimes: {\em slow} noise confines the walker into few lattice nodes, while {\em fast} noise induce a transition between quantum and classical diffusion over the lattice. By tuning the ratio between the autocorrelation time of the noise and the coupling between the walker and the external environment generating the noise, it is possible to move continuosly from one dynamical behavior to the other. We also address the non-Markovianity of the quantum map by assessing its divisibility as well as evaluating the information backflow to the system. Our results suggest that the non-Markovian character of the evolution is linked to the dynamical behavior in the slow noise regime, and that fast noise induces a Markovian dynamics for the walker.
+
+id: 1510.08657
+title: Efficient Quantum Walk on a Quantum Processor
+authors: Xiaogang Qiang, Thomas Loke, Ashley Montanaro, Kanin Aungskunsiri, Xiaoqi Zhou, Jeremy L. O'Brien, Jingbo Wang, Jonathan C. F. Matthews
+comments: 10 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.08657
+abstract: The random walk formalism is used across a wide range of applications, from modelling share prices to predicting population genetics. Likewise quantum walks have shown much potential as a frame- work for developing new quantum algorithms. In this paper, we present explicit efficient quantum circuits for implementing continuous-time quantum walks on the circulant class of graphs. These circuits allow us to sample from the output probability distributions of quantum walks on circulant graphs efficiently. We also show that solving the same sampling problem for arbitrary circulant quantum circuits is intractable for a classical computer, assuming conjectures from computational complexity theory. This is a new link between continuous-time quantum walks and computational complexity theory and it indicates a family of tasks which could ultimately demonstrate quantum supremacy over classical computers. As a proof of principle we have experimentally implemented the proposed quantum circuit on an example circulant graph using a two-qubit photonics quantum processor.
+

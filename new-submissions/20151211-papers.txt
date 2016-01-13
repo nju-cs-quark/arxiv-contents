@@ -1,0 +1,315 @@
+id: 1512.03145
+title: Can small quantum systems learn?
+authors: Nathan Wiebe, Christopher Granade
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.03145
+abstract: We examine the question of whether quantum mechanics places limitations on the ability of small quantum devices to learn. We specifically examine the question in the context of Bayesian inference, wherein the prior and posterior distributions are encoded in the quantum state vector. We conclude based on lower bounds from Grover's search that an efficient blackbox method for updating the distribution is impossible. We then address this by providing a new adaptive form of approximate quantum Bayesian inference that is polynomially faster than its classical analogue and tractable if the quantum system is augmented with classical memory or if the low-order moments of the distribution are protected using a repetition code. This work suggests that there may be a connection between fault tolerance and the capacity of a quantum system to learn from its surroundings.
+
+id: 1512.03178
+title: One- and two-dimensional nuclear magnetic resonance spectroscopy with a diamond quantum sensor
+authors: J. M. Boss, K. Chang, J. Armijo, K. Cujia, T. Rosskopf, J. R. Maze, C. L. Degen
+comments: 5 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.03178
+abstract: We report on Fourier spectroscopy experiments performed with near-surface nitrogen-vacancy centers in a diamond chip. By detecting the free precession of nuclear spins rather than applying a multipulse quantum sensing protocol, we are able to unambiguously identify the NMR species devoid of harmonics. We further show that by engineering different Hamiltonians during free precession, the hyperfine coupling parameters as well as the nuclear Larmor frequency can be selectively measured with high precision (here 5 digits). The protocols can be combined to demonstrate two-dimensional Fourier spectroscopy. The technique will be useful for mapping nuclear coordinates in molecules en route to imaging their atomic structure.
+
+id: 1512.03218
+title: Quantum Transport of Energy in Controlled Synthetic Quantum Magnets
+authors: Alejandro Bermudez, Tobias Schaetz
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Gases (cond-mat.quant-gas)
+url: http://www.arxiv.org/abs/1512.03218
+abstract: We introduce a scheme that exploits laser cooling and phonon-mediated spin-spin interactions in crystals of trapped atomic ions to explore the transport of energy through a quantum magnet. We show how to implement an effective transport window to control the flow of energy through the magnet even in the absence of fermionic statistics for the carriers. This is achieved by shaping the density of states of the effective thermal reservoirs that arise from the interaction with the external bath of the modes of the electromagnetic field, and can be experimentally controlled by tuning the laser frequencies and intensities appropriately. The interplay of this transport window with the spin-spin interactions is exploited to build an analogue of the Coulomb-blockade effect in nano-scale electronic devices, and opens new possibilities to study quantum effects in energy transport.
+
+id: 1512.03257
+title: Simple algorithm for computing the communication complexity of quantum communication processes
+authors: A. Hansen, A. Montina, S. Wolf
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Information Theory (cs.IT); Optimization and Control (math.OC)
+url: http://www.arxiv.org/abs/1512.03257
+abstract: A two-party quantum communication process with classical inputs and outcomes can be simulated by replacing the quantum channel with a classical one. The minimal amount of classical communication required to reproduce the statistics of the quantum process is called its communication complexity. In the case of many instances simulated in parallel, the minimal communication cost per instance is called the asymptotic communication complexity. Previously, we reduced the computation of the asymptotic communication complexity to a convex minimization problem. In most cases, the objective function does not have an explicit analytic form, as the function is defined as the maximum over an infinite set of convex functions. Therefore, the overall problem takes the form of a minimax problem and cannot directly be solved by standard optimization methods. In this paper, we introduce a simple algorithm to compute the asymptotic communication complexity. For some special cases with an analytic objective function one can employ available convex-optimization libraries. In the tested cases our method turned out to be notably faster. Finally, using our method we obtain 1.238 bits as a lower bound on the asymptotic communication complexity of a noiseless quantum channel with the capacity of 1 qubit. This improves the previous bound of 1.208 bits.
+
+id: 1512.03326
+title: Entanglement quantification made easy: Polynomial measures invariant under convex decomposition
+authors: Bartosz Regula, Gerardo Adesso
+comments: 5 pages, 1 figure
+journal: 
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph); Computational Physics (physics.comp-ph)
+url: http://www.arxiv.org/abs/1512.03326
+abstract: Quantifying entanglement in composite systems is a fundamental challenge, yet exact results are only available in few special cases. This is because hard optimization problems are routinely involved, such as finding the convex decomposition of a mixed state with the minimal average pure-state entanglement, the so-called convex roof. We show that under certain conditions such a problem becomes trivial. Precisely, we prove by a geometric argument that polynomial entanglement measures of degree 2 are independent of the choice of pure-state decomposition of a mixed state, when the latter has only one pure unentangled state in its range. This allows for the analytical evaluation of convex roof extended entanglement measures in classes of rank-two states obeying such condition. We give explicit examples for the square root of the three-tangle in three-qubit states, and show that several representative classes of four-qubit pure states have marginals that enjoy this property.
+
+id: 1512.03334
+title: Demonstrating the contextuality of quantum mechanics with observables in Hilbert spaces of arbitrary dimensions
+authors: A. Laversanne-Finot, A. Ketterer, M. R. Barros, S. P. Walborn, T. Coudreau, A. Keller, P. Milman
+comments: 5 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.03334
+abstract: The contextuality of quantum mechanics can be shown by the violation of inequalities based on measurements of well chosen observables. An important property of such observables is that their expectation value can be expressed in terms of probabilities of obtaining two exclusive outcomes. In order to satisfy this, inequalities have been constructed using either observables with a dichotomic spectrum or using periodic functions obtained from displacement operators in phase space. Here we unify both strategies by introducing general conditions to demonstrate the contextuality of quantum mechanics from measurements of observables of arbitrary dimensions. Among the consequences of our results is the impossibility of having a maximal violation of contextuality in the Peres-Mermin scenario with discrete observables of odd dimensions. In addition, we show how to construct a large class of observables with a continuous spectrum enabling the realization of contextuality tests both in the gaussian and non-gaussian regimes.
+
+id: 1512.03367
+title: Entanglement of an Impurity in a Few-Body One-Dimensional Ideal Bose System
+authors: M. A. Garc¨ªa-March, A. S. Dehkharghani, N. T. Zinner
+comments: 7 pages, 6 figures, 1 appendix
+journal: 
+subjects: Quantum Physics (quant-ph); Quantum Gases (cond-mat.quant-gas)
+url: http://www.arxiv.org/abs/1512.03367
+abstract: We study the correlation between an impurity and a small ensemble of bosonic particles in one dimension. Our study analyzes the one-body density matrix and calculates the corresponding von Neumann entanglement entropy as a function of interaction strength between the impurity and the bosons when all particles have the same mass. We show that the entropy grows very fast for small and moderate interaction strength, and then increases slowly toward the strongly interacting regime. Then we study the effect over the quantum correlations of a mass imbalance between the impurity and the bosons. In the strongly interacting case, we discover that when the impurity is much heavier than the bosons, then we have the least possible correlation. However, the entropy tops its maximum when the mass ratio is between 3 and 4 in the case where there are four bosonic particles and then falls off to its minimum for higher mass imbalance.
+
+id: 1512.03387
+title: Semi device independence of the BB84 protocol
+authors: Erik Woodhead
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.03387
+abstract: The BB84 protocol for quantum key distribution is semi device independent in the sense that its security depends only on the assumption that one of the users' devices is restricted to a qubit Hilbert space and that there are no preexisting correlations between the devices. Here, we derive an analytic lower bound on the asymptotic secret key rate for the entanglement-based version of BB84 assuming only that one of the users performs unknown qubit POVMs. The result holds against the class of collective attacks and reduces to the well known Shor-Preskill key rate if noisy versions of the ideal BB84 correlations are observed.
+
+id: 1512.03415
+title: Back-action driven, robust, steady-state long-distance entanglement
+authors: Felix Motzoi, Eli Halperin, Xiaoting Wang, K. Birgitta Whaley, Sophie Schirmer
+comments: 9 pages, 6 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.03415
+abstract: We present a scheme for generating robust steady-state entanglement between qubits that do not interact and do not exchange information, using Markovian reservoir engineering. Several realizations including natural or artificial atoms coupled to a single cavity or to separate cavities with a uni- or bidirectional decay channel between them are considered. The scheme requires no dynamic control, measurements or feedback, and is optimized to be robust with regard to arbitrarily large cavity and fiber losses, thereby opening a route to stabilization of truly long-range entanglement between distant qubits. The protocol is also robust with regard to uncertainty in the system parameters and atomic decoherence and requires no knowledge of the initial state of the system.
+
+id: 1512.03416
+title: A Trotter-Suzuki approximation for Lie groups with applications to Hamiltonian simulation
+authors: Rolando D. Somma
+comments: 5 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.03416
+abstract: We present a product formula to approximate the exponential of a skew-Hermitian operator that is a sum of generators of a Lie algebra. The number of terms in the product depends on the structure factors. When the generators have large norm with respect to the dimension of the Lie algebra, or when the norm of the effective operator resulting from nested commutators is less than the product of the norms, the number of terms in the product is significantly less than that obtained from well-known results. We apply our results to construct product formulas useful for the quantum simulation of some continuous-variable and bosonic physical systems, including systems whose potential is not quadratic. For many of these systems, we show that the number of terms in the product can be sublinear or subpolynomial in the dimension of the relevant local Hilbert spaces, where such a dimension is usually determined by an energy scale of the problem. Our results emphasize the power of quantum computers for the simulation of various quantum systems.
+
+id: 1510.03875
+title: A one parameter fit for glassy dynamics as a quantum corollary of the liquid to solid transition
+authors: Zohar Nussinov
+comments: 11+2 pages, 2 figures
+journal: 
+subjects: Statistical Mechanics (cond-mat.stat-mech); Materials Science (cond-mat.mtrl-sci); Soft Condensed Matter (cond-mat.soft); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.03875
+abstract: We apply microcanonical ensemble considerations to posit that, whenever it may thermalize, a general disorder-free many-body Hamiltonian of a typical atomic system harbors solid-like eigenstates at low energies and fluid-type (and gaseous, plasma) eigenstates associated with energy densities exceeding those present in the melting (and, respectively, higher energy) transition(s). In particular, the lowest energy density at which the eigenstates of such a clean many body atomic system undergo a non-analytic change is that of the melting (or freezing) transition. We invoke this observation to analyze the evolution of a liquid upon supercooling (i.e., cooling rapidly enough to thwart solidification below the freezing temperature). Expanding the wavefunction of a supercooled liquid in the complete eigenbasis of the many-body Hamiltonian, only the higher energy liquid-type eigenstates contribute significantly to measurable hydrodynamic relaxations (e.g., those probed by viscosity) while static thermodynamic observables become weighted averages over both solid- and liquid-type eigenstates. Consequently, when extrapolated to low temperatures, hydrodynamic relaxation times of deeply supercooled liquids (i.e., glasses) may seem to diverge at nearly the same temperature at which the extrapolated entropy of the supercooled liquid becomes that of the solid. In this formal quantum framework, the increasingly sluggish (and spatially heterogeneous) dynamics in supercooled liquids as their temperature is lowered stems from the existence of the single non-analytic change of the eigenstates of the clean many-body Hamiltonian at the equilibrium melting transition (and associated translational and rotational symmetry breaking) present in low energy solid-type eigenstates. We derive a single (possibly computable) dimensionless parameter fit to the viscosity and suggest testable predictions.
+
+id: 1512.03103
+title: Polynomial Heisenberg algebras and Painlev¨¦ equations
+authors: David Bermudez
+comments: PhD Thesis, 188 pages, 66 figures, 3 tables
+journal: 
+subjects: Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.03103
+abstract: We study first the supersymmetric quantum mechanics (SUSY QM), specially the cases of the harmonic and radial oscillators. Then, we obtain a new Wronskian formula for the confluent SUSY transformation and apply the SUSY QM to the inverted oscillator. After that, we present the polynomial Heisenberg algebras (PHA). We study the general systems described by PHA: for zeroth- and first-order we obtain the harmonic and radial oscillators, respectively; for second- and third-order PHA, the potential is determined in terms of solutions to Painlev\'e IV and V equations ($P_{IV}$ and $P_{V}$), respectively. Later on, we review the six Painlev\'e equations and we study the cases of $P_{IV}$ and $P_V$. We prove a reduction theorem for $2k$th-order PHA to be reduced to second-order algebras. We also prove an analogous theorem for the $(2k+1)$th-order PHA to be reduced to third-order ones. Through these theorems we find solutions to $P_{IV}$ and $P_V$ given in terms of confluent hypergeometric functions. For some special cases, those can be classified in several solution hierarchies. In this way, we find real solutions with real parameters and complex solutions with real and complex parameters for both equations. Finally, we study the coherent states (CS) for the SUSY partners of the harmonic oscillator that are connected with $P_{IV}$, which we will call Painlev\'e IV coherent states. Since these systems have third-order ladder operators $l_k^\pm$, we seek first the CS as eigenstates of the annihilation operator $l_k^-$. We also define operators analogous to the displacement operator and we get CS departing from the extremal states in each subspace in which the Hilbert space is decomposed. We conclude our treatment applying a linearization process to the ladder operators in order to define a new displacement operator to obtain CS involving the entire Hilbert space.
+
+id: 1512.03293
+title: Two proofs of St?rmer's theorem
+authors: Guillaume Aubrun, Stanis?aw J. Szarek
+comments: 6 pages
+journal: 
+subjects: Functional Analysis (math.FA); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.03293
+abstract: The structure of the set of positivity-preserving maps between matrix algebras is notoriously difficult to describe. The notable exceptions are the results by St{\o}rmer and Woronowicz from 1960s and 1970s settling the low dimensional cases. By duality, these results are equivalent to the Peres-Horodecki positive partial transpose criterion being able to unambiguously establish whether a state in a 2 x 2 or 2 x 3 quantum system is entangled or separable. However, even in these low dimensional cases, the existing arguments (known to the authors) were based on long and seemingly ad hoc computations. We present a simple proof, based on Brouwer's fixed point theorem, for the 2 x 2 case (St{\o}rmer's theorem). For completeness, we also include another argument (following the classical outline, but highly streamlined) based on a characterization of extreme self-maps of the Lorentz cone and on a link - noticed by R. Hildebrand - to the S-lemma, a well-known fact from control theory and quadratic/semi-definite programming.
+
+id: 1512.03388
+title: Quantum entanglement in condensed matter systems
+authors: Nicolas Laflorencie
+comments: Review article, 141 pages, 56 figures
+journal: 
+subjects: Strongly Correlated Electrons (cond-mat.str-el); High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.03388
+abstract: This review focuses on the field of quantum entanglement applied to condensed matter physics systems with strong correlations, a domain which has rapidly grown over the last decade. By tracing out part of the degrees of freedom of correlated quantum systems, useful and non-trivial informations can be obtained through the study of the reduced density matrix, whose eigenvalue spectrum (the entanglement spectrum) and the associated R\'enyi entropies are now well recognized to contains key features. In particular, the celebrated area law for the entanglement entropy of ground-states will be discussed from the perspective of its subleading corrections which encode universal details of various quantum states of matter, e.g. symmetry breaking states or topological order. Going beyond entropies, the study of the low-lying part of the entanglement spectrum also allows to diagnose topological properties or give a direct access to the excitation spectrum of the edges, and may also raise significant questions about the underlying entanglement Hamiltonian. All these powerful tools can be further applied to shed some light on disordered quantum systems where impurity/disorder can conspire with quantum fluctuations to induce non-trivial effects. Disordered quantum spin systems, the Kondo effect, or the many-body localization problem, which have all been successfully (re)visited through the prism of quantum entanglement, will be discussed in details. Finally, the issue of experimental access to entanglement measurement will be addressed, together with its most recent developments.
+
+id: 1512.03401
+title: Lieb's concavity theorem, matrix geometric means, and semidefinite optimization
+authors: Hamza Fawzi, James Saunderson
+comments: 17 pages
+journal: 
+subjects: Optimization and Control (math.OC); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.03401
+abstract: A famous result of Lieb establishes that the map $(A,B) \mapsto \text{tr}\left[K^* A^{1-t} K B^t\right]$ is jointly concave in the pair $(A,B)$ of positive definite matrices, where $K$ is a fixed matrix and $t \in [0,1]$. In this paper we show that Lieb's function admits an explicit semidefinite programming formulation for any rational $t \in [0,1]$. Our construction follows more generally from a semidefinite formulation of weighted matrix geometric means. We make available an implementation of our constructions in Matlab.
+
+id: 1512.03407
+title: Interferometric Measurements of Many-body Topological Invariants using Mobile Impurities
+authors: Fabian Grusdt, Norman Y. Yao, Dmitry A. Abanin, Michael Fleischhauer, Eugene A. Demler
+comments: 11 pages, 3 figures, 3 pages Supplementary
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Other Condensed Matter (cond-mat.other); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.03407
+abstract: Topological quantum phases cannot be characterized by Ginzburg-Landau type order parameters, and are instead described by non-local topological invariants. Experimental platforms capable of realizing such exotic states now include "synthetic" many-body systems such as ultracold atoms or photons. Unique tools available in these systems enable a new characterization of strongly correlated many-body states. Here we propose a general scheme for detecting topological order using interferometric measurements of elementary excitations. The key ingredient is the use of mobile impurities which bind to quasiparticles of a host many-body system. Specifically we show how fractional charges can be probed in the bulk of fractional quantum Hall systems. We demonstrate that combining Ramsey interference with Bloch oscillations can be used to measure Chern numbers of individual quasiparticles, which gives a direct probe of their fractional charges. We discuss possible extensions of our method to other topological many-body systems, such as spin liquids.
+
+id: 1001.4090
+title: Thermodynamic Evidence for Water as a Quantum Mechanical Liquid
+authors: A. Widom, J. Swain, S. Sivasubramanian, D. Drosdoff, Y.N. Srivastava
+comments: ReVTeX 4, 4 pages no figures
+journal: 
+subjects: Other Condensed Matter (cond-mat.other); Chemical Physics (physics.chem-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1001.4090
+abstract: 
+
+id: 1404.5746
+title: Non-linear optomechanical measurement of mechanical motion
+authors: G. A. Brawley, M. R. Vanner, P. E. Larsen, S. Schmid, A. Boisen, W. P. Bowen
+comments: 8 pages, 4 figures, significantly expanded outlook, supplementary information available on request
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1404.5746
+abstract: 
+
+id: 1406.5094
+title: Hidden Frustrated Interactions and Quantum Annealing in Trapped Ion Spin-Phonon Chains
+authors: Pedro Nevado, Diego Porras
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1406.5094
+abstract: 
+
+id: 1409.5255
+title: Semi-Classical Localisation Properties of Quantum Oscillators on a Noncommutative Configuration Space
+authors: Fabio Benatti, Laure Gouba
+comments: 12 pages
+journal: Open Systems & Information Dynamics, Vol. 22, No 3 (2015) 1550001
+subjects: Quantum Physics (quant-ph); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1409.5255
+abstract: 
+
+id: 1411.6364
+title: Exceptional points for parameter estimation in open quantum systems: Analysis of the Bloch equations
+authors: Morag Am-Shallem, Ronnie Kosloff, Nimrod Moiseyev
+comments: 12 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Atomic Physics (physics.atom-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1411.6364
+abstract: 
+
+id: 1502.03450
+title: On the robustness of bucket brigade quantum RAM
+authors: Srinivasan Arunachalam, Vlad Gheorghiu, Tomas Jochym-O'Connor, Michele Mosca, Priyaa Varshinee Srinivasan
+comments: Replaced with the published version. 13 pages, 9 figures
+journal: New Journal of Physics, Vol. 17, No. 12, Pp. 123010 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1502.03450
+abstract: 
+
+id: 1506.03199
+title: Quantum Coherence Sets The Quantum Speed Limit For Mixed States
+authors: Debasis Mondal, Chandan Datta, Sk Sazim
+comments: (9+\epsilon) pages, 2 figures, accepted in PLA
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1506.03199
+abstract: 
+
+id: 1507.08587
+title: Increasing relative nonclassicality quantified by standard entanglement potentials by dissipation and unbalanced beam splitting
+authors: Adam Miranowicz, Karol Bartkiewicz, Neill Lambert, Yueh-Nan Chen, Franco Nori
+comments: 13 pages, 4 figures
+journal: Phys. Rev. A 92, 062314 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1507.08587
+abstract: 
+
+id: 1508.07754
+title: Storing a single photon as a spin wave entangled with a flying photon in telecomband
+authors: Wei Zhang, Dong-Sheng Ding, Shuai Shi, Yan Li, Zhi-Yuan Zhou, Bao-Sen Shi, Guang-Can Guo
+comments: comments welcome
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1508.07754
+abstract: 
+
+id: 1509.00537
+title: Volumes of orthogonal groups and unitary groups
+authors: Lin Zhang
+comments: v1: 80 pages, LaTeX, no figure. Any comments are welcome! v2:95 pages, selberg's integral is added and a ref also added. v3: 102 pages, a ref is added and some details are created. This review article is just pedagogical
+journal: 
+subjects: Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.00537
+abstract: 
+
+id: 1509.04592
+title: Relations between coherence and path information
+authors: Emilio Bagan, Janos A. Bergou, Seth S. Cottrell, Mark Hillery
+comments: The original result has been strengthened, an entropic duality relation has been added, and an author has been added. The title has also been modified
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.04592
+abstract: 
+
+id: 1509.04637
+title: Partly invariant steady state of two interacting open quantum systems
+authors: J¨®zsef Zsolt Bern¨¢d, Juan Mauricio Torres
+comments: 15 pages, 4 figures
+journal: Phys. Rev. A 92, 062114 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.04637
+abstract: 
+
+id: 1509.09145
+title: Electron spin rotations induced by oscillating Rashba interaction in a quantum wire
+authors: J. Paw?owski, P. Szumniak, S. Bednarek
+comments: 9 pages, 14 figures
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.09145
+abstract: 
+
+id: 1510.03768
+title: Simulation of Quantum Spin Dynamics by Phase Space Sampling of BBGKY Trajectories
+authors: Lorenzo Pucci, Analabha Roy, Michael Kastner
+comments: 9 pages, 10 figures; v2: typos corrected, not all of them minor
+journal: 
+subjects: Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.03768
+abstract: 
+
+id: 1510.08634
+title: Three approaches for representing Lindblad dynamics by a matrix-vector notation
+authors: Morag Am-Shallem, Amikam Levy, Ido Schaefer, Ronnie Kosloff
+comments: 17 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.08634
+abstract: 
+
+id: 1511.02581
+title: Quantum annealing via environment-mediated quantum diffusion
+authors: Vadim N. Smelyanskiy, Davide Venturelli, Alejandro Perdomo-Ortiz, Sergey Knysh, Mark I. Dykman
+comments: 4.5 pages of main text, 3.5 pages of Supplementary Material, 1 Figure, replacement contains minor corrections
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
+url: http://www.arxiv.org/abs/1511.02581
+abstract: 
+
+id: 1511.07205
+title: Parameter estimation in atomic spectroscopy using exceptional points
+authors: Morag Am-Shallem, Ronnie Kosloff, Nimrod Moiseyev
+comments: 28 pages, 6 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Atomic Physics (physics.atom-ph)
+url: http://www.arxiv.org/abs/1511.07205
+abstract: 
+
+id: 1511.08538
+title: Simple one-shot bounds for various source coding problems using smooth Renyi quantities
+authors: Naqueeb Ahmad Warsi
+comments: Accepted for publication at Problems of Information Transmission. To appear in the January issue of the journal
+journal: 
+subjects: Information Theory (cs.IT); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.08538
+abstract: 
+
+id: 1512.02206
+title: What is the Computational Value of Finite Range Tunneling?
+authors: Vasil S. Denchev, Sergio Boixo, Sergei V. Isakov, Nan Ding, Ryan Babbush, Vadim Smelyanskiy, John Martinis, Hartmut Neven
+comments: 17 pages, 13 figures. References updated, and typos corrected
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.02206
+abstract: 
+

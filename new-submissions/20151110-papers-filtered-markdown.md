@@ -1,0 +1,16 @@
+---
+layout: arxiv
+title: 202015 Filtered arXiv Papers
+---
+
+**1.    Quantum linear systems algorithm with exponentially improved dependence on precision**  
+Andrew M. Childs, Robin Kothari, Rolando D. Somma  
+http://www.arxiv.org/abs/1511.02306  
+<blockquote>
+<p>
+Harrow, Hassidim, and Lloyd showed that for a suitably specified $N \times N$ matrix $A$ and $N$-dimensional vector $\vec{b}$, there is a quantum algorithm that outputs a quantum state proportional to the solution of the linear system of equations $A\vec{x}=\vec{b}$. If $A$ is sparse and well-conditioned, their algorithm runs in time $\mathrm{poly}(\log N, 1/\epsilon)$, where $\epsilon$ is the desired precision in the output state. We improve this to an algorithm whose running time is polynomial in $\log(1/\epsilon)$, exponentially improving the dependence on precision while keeping essentially the same dependence on other parameters. Our algorithm is based on a general technique for implementing any operator with a suitable Fourier or Chebyshev series representation. This allows us to bypass the quantum phase estimation algorithm, whose dependence on $\epsilon$ is prohibitive.
+</p>
+</blockquote>
+
+------
+

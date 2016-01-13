@@ -1,0 +1,162 @@
+id: 1512.09211
+title: Generalized Monogamy Relations of Concurrence for N-qubit Systems
+authors: Xue-Na Zhu, Shao-Ming Fei
+comments: 4 pages
+journal: Phys. Rev. A 92 (2015) 062345
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.09211
+abstract: We present a new kind of monogamous relations based on concurrence and concurrence of assistance. For $N$-qubit systems $ABC_1...C_{N-2}$, the monogamy relations satisfied by the concurrence of $N$-qubit pure states under the partition $AB$ and $C_1...C_{N-2}$, as well as under the partition $ABC_1$ and $C_2...C_{N-2}$ are established, which give rise to a kind of restrictions on the entanglement distribution and trade off among the subsystems.
+
+id: 1512.09218
+title: Coupling qubits in circuit-QED cavities connected by a bridge qubit
+authors: Mun Dae Kim, Jaewan Kim
+comments: 7 pages, 5 figures, to appear in PRA
+journal: 
+subjects: Quantum Physics (quant-ph); Superconductivity (cond-mat.supr-con)
+url: http://www.arxiv.org/abs/1512.09218
+abstract: We analyze a coupling scheme for qubits in different cavities of circuit-QED architecture. In contrast to the usual scheme where the cavities are coupled by an interface capacitance we employ a bridge qubit connecting cavities to mediate two-qubit coupling. This active coupling scheme makes it possible to switch on/off and adjust the strength of qubit-qubit coupling, which is essential for scalability of quantum circuit. By transforming the Hamiltonian we obtain an exact expression of two-qubit coupling in the rotating-wave approximation. For the general case of $n$ qubits the Hamiltonian can produce the W state as an eigenstate of the system. We calculate the decay rate of the coupled qubit-resonator system to find that it is viable in real experiments.
+
+id: 1512.09243
+title: Computational Complexity of Some Quantum Theories in $1+1$ Dimensions
+authors: Saeed Mehraban
+comments: The material presented here is based on the author's Master's thesis, advised by Scott Aaronson, submitted to the department of electrical engineering and computer science at MIT on August 28, 2015. Editions and modifications has been made to the original thesis, also a new chapter, chapter 4 is added
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC)
+url: http://www.arxiv.org/abs/1512.09243
+abstract: We study the computational complexity of certain integrable quantum theories in 1+1 dimensions. We formalize a model of quantum computation based on these theories. In this model, distinguishable particles start out with known momenta and initial superposition of different configurations. Then the label of these particles are measured at the end. We prove that additive approximation to single amplitudes of these models can be obtained by the one-clean-qubit model, if no initial superpositions are allowed. However, if arbitrary initial states and non-adaptive intermediate measurements are allowed, we show that conditioned on infinite polynomial hierarchy assumption it is hard to sample from the output distribution of these models on a classical randomized computer. A classical analogue of this model is also formalized and its computational power is pinned down within the complexity classes below BPP and NP.
+
+id: 1512.09247
+title: Comment on "Entanglement and chaos in the kicked top"
+authors: Vaibhav Madhok
+comments: see also, the reply, Phys. Rev. E 92, 036902, 2015
+journal: Phys. Rev. E \textbf{92}, 036901, 2015
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.09247
+abstract: We comment on the investigation of the connection between chaos and dynamically generated entanglement in Phys. Rev. E, \textbf{83}, 016207, (2011). While, in the referred paper, the authors give an explicit example of a state initially localized in the regular region and still has entanglement properties similar to the states localized in the chaotic region, a few clarifications related to previous works are in order. Firstly, it is crucial to point out that such a behavior can occur for states initially localized near the border between the chaotic region and regular island, which seems to be the case in the example provided in the referred paper. We comment on the time evolution of such states and the extent to which these can be regarded as having "regular dynamics". Secondly, the degree to which entanglement is correlated with the chaos in the system is better understood when we analyze the same initial state and increase the chaoticity in the system gradually. We also discuss in what capacity entanglement can be regarded as a signature of chaos in such studies.
+
+id: 1512.09256
+title: Dynamical sensitivity control of a single-spin quantum sensor
+authors: Andrii Lazariev, Silvia Arroyo-Camejo, Ganesh Rahane, Vinaya Kumar Kavatamane, Gopalakrishnan Balasubramanian
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.09256
+abstract: The Nitrogen-Vacancy (NV) defect in diamond is a unique quantum system that offers precision sensing of nanoscale physical quantities beyond the current state-of-the-art. Here we present a method to controllably encode the interactions in the population of the spin states, thereby introducing a way to control the sensitivity of a single spin as a continuum in contrast to free-evolution based methods. By adopting this feature we demonstrate high-accuracy NV magnetometry without 2pi ambiguities, enhance the dynamic range by a factor of 4*10^3 achieve interaction times exceeding 2 ms in off-the-shelf diamond. We perform nuclear spin-noise spectroscopy in the frequency domain by dynamically controlling the NV spin's sensitivity piecewise and in a smooth manner thereby precluding harmonic artefacts and undesired interactions. On a broader perspective dynamical sensitivity control provides an elegant handle on the inherent dynamics of quantum systems, while offering decisive advantages for NV centre applications notably in quantum controls and single molecule NMR/MRI.
+
+id: 1512.09269
+title: Measurement-Device-Independent Quantum Coin Tossing
+authors: Liangyuan Zhao, Zhenqiang Yin, Shuang Wang, Wei Chen, Hua Chen, Guangcan Guo, Zhengfu Han
+comments: Close to the published version
+journal: Physical Review A 92, 062327(2015)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.09269
+abstract: Quantum coin tossing (QCT) is an important primitive of quantum cryptography and has received continuous interest. However, in practical QCT, Bob's detectors can be subjected to detector-side channel attacks launched by dishonest Alice, which will possibly make the protocol completely insecure. Here, we report a simple strategy of a detector-blinding attack based on a recent experiment. To remove all the detector side channels, we present a solution of measurement-device-independent QCT (MDI-QCT). This method is similar to the idea of MDI quantum key distribution (QKD). MDI-QCT is loss tolerant with single-photon sources and has the same bias as the original loss-tolerant QCT under a coherent attack. Moreover, it provides the potential advantage of doubling the secure distance for some special cases. Finally, MDI-QCT can also be modified to fit the weak coherent-state sources. Thus, based on the rapid development of practical MDI-QKD, our proposal can be implemented easily.
+
+id: 1512.09288
+title: An Integrated Optical Memory based on Laser Written Waveguides
+authors: Giacomo Corrielli, Alessandro Seri, Margherita Mazzera, Roberto Osellame, Hugues de Riedmatten
+comments: 6 Pages, 5 Figures
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1512.09288
+abstract: We report on the first realization of an integrated optical memory for light based on a laser written waveguide in a doped crystal. Using femto-second laser micromachining, we fabricate waveguides in Pr$^{3+}$:Y$_2$SiO$_5$ crystal. We demonstrate that the waveguide inscription does not affect the coherence properties of the material and that the light confinement in the waveguide increases the interaction with the active ions by a factor 6. We also demonstrate that, analogously to the bulk crystals, we can operate the optical pumping protocols necessary to prepare the population in atomic frequency combs, that we use to demonstrate light storage in excited and spin states of the Praseodymium ions. Our results represent the first realization of laser written waveguides in a Pr$^{3+}$:Y$_2$SiO$_5$ crystal and the first implementation of an integrated on-demand spin wave optical memory. They open new perspectives for integrated quantum memories.
+
+id: 1512.09307
+title: Unitary-Scaling Decomposition and Dissipative Behaviour in Finite-Dimensional Linblad Dynamics
+authors: Fattah Sakuldee, Sujin Suwanna
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Information Theory (cs.IT); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1512.09307
+abstract: We investigate the problem of a decomposition of a dissipative dynamical map, which is used in quantum dynamics of a finite open quantum system, into two distinct types of mapping on a Hilbert-Schmidt space of quantum states represented by density matrices. One type corresponds to reversible behaviours, while the other to irreversible characteristics. For a finite dimensional system, in which one can equip the state-observable system by a complex matrix space, we employ real vectors or Bloch representations and express a map on the state space as a real matrix acting on the representation. It is found that rotation and scaling transformations on the real vector space, obtained from the orthogonal-symmetric or the real-polar decomposition, behave as building blocks for a dynamical map. We introduce an additional parameter of the dynamics together with the time parameter. This assertion is reduced to a scaling parameter in the scaling part of the dynamical matrix as a function in time $t$, making the dynamical map be a one-parameter map. Specifically, for the Lindblad-type dynamical map, in which the dynamical map forms a one-parameter semigroup satisfying the complete positivity condition, normal condition and Makovianity, we interpret the conditions on the Lindblad map in our framework. As results, we find that the change of linear entropy or purity, which we use it as an indicator of dissipative behaviours, is increasing in time and possesses an asymptote expected in thermodynamics. The rate of change of the linear entropy depends on the structure of the scaling part of the dynamical matrix. Moreover, the initial state plays an important role in this change. The issues on initial dependence of dissipative behaviours and the role of eigensubspace partitioning of the dynamical matrix are discussed, and an example on a qubit system is illustrated.
+
+id: 1512.09326
+title: On two exactly-solvable one-dimensional Hamiltonians with PT symmetry
+authors: Francisco M. Fern¨¢ndez
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.09326
+abstract: We provide an explanation to the behaviour of the spectra of two exactly-solvable one-dimensional Hamiltonians with PT symmetry proposed earlier. We calculate the branch points at which pairs of eigenvalues coalesce and discuss the perturbation series.
+
+id: 1512.09328
+title: Homology Computation of Large Point Clouds using Quantum Annealing
+authors: Raouf Dridi, Hedayat Alghassi
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Learning (cs.LG)
+url: http://www.arxiv.org/abs/1512.09328
+abstract: In this paper we present a quantum annealing algorithm for computation of homology of large point clouds. It is designed to work on resizable cloud computing platforms. The algorithm takes as input a witness complex K approximating the given point cloud. It uses quantum annealing to compute a clique cover of the 1-skeleton of K and then uses this cover to blow up K into a Mayer-Vietoris complex. Finally, it computes the homology of the Mayer-Vietoris complex in parallel. The novelty here is the use of clique covering which, compared to graph partitioning, substantially reduces the computational load assigned to each slave machine in the computing cluster. We describe two different clique covers and their quantum annealing formulation in the form of quadratic unconstrained binary optimization (QUBO).
+
+id: 1512.09346
+title: Optimised multi-ion cavity coupling
+authors: Stephen Begley, Markus Vogt, Gurpreet Kaur Gulati, Hiroki Takahashi, Matthias Keller
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.09346
+abstract: Recent technological advances in cavity quantum electrodynamics (CQED) are paving the way to utilise multiple quantum emitters confined in a single optical cavity. In such systems it is crucially important to control the quantum mechanical coupling of individual emitters to the cavity mode. In this regard, combining ion trap technologies with CQED provides a particularly promising approach due to the well-established motional control over trapped ions. Here we experimentally demonstrate coupling of up to five trapped ions in a string to a high-finesse optical cavity. By changing the axial position and spacing of the ions in a fully deterministic manner, we systematically characterise their coupling to the cavity mode through visibility measurements of the cavity emission. In good agreement with the theoretical model, the results demonstrate that the geometrical configuration of multiple trapped ions can be manipulated to obtain optimal cavity coupling. Our system presents a new ground to explore CQED with multiple quantum emitters, enabled by the highly controllable collective light-matter interaction.
+
+id: 1512.09195
+title: Gatemon Benchmarking and Two-Qubit Operation
+authors: L. Casparis, T. W. Larsen, M. S. Olsen, F. Kuemmeth, P. Krogstrup, J. Nyg?rd, K. D. Petersson, C. M. Marcus
+comments: 
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Superconductivity (cond-mat.supr-con); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.09195
+abstract: Recent experiments have demonstrated superconducting transmon qubits with semiconductor nanowire Josephson junctions. These hybrid gatemon qubits utilize field effect tunability characteristic for semiconductors to allow complete qubit control using gate voltages, potentially a technological advantage over conventional flux-controlled transmons. Here, we present experiments with a two-qubit gatemon circuit. We characterize qubit coherence and stability and use randomized benchmarking to demonstrate single-qubit gate errors below 0.7% for all gates, including voltage-controlled $Z$ rotations. We show coherent capacitive coupling between two gatemons and coherent swap operations. Finally, we perform a two-qubit controlled-phase gate with an estimated fidelity of 91%, demonstrating the potential of gatemon qubits for building scalable quantum processors.
+
+id: 1512.09334
+title: Hubbard model for atomic impurities bound by the vortex lattice of a rotating BEC
+authors: T. H. Johnson, Y. Yuan, W. Bao, S. R. Clark, C. Foot, D. Jaksch
+comments: 5 pages main text, 18 pages supplemental material
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.09334
+abstract: We investigate cold bosonic impurity atoms trapped in a vortex lattice formed by condensed bosons of another species. We describe the dynamics of the impurities by a bosonic Hubbard model containing occupation-dependent parameters to capture the effects of strong impurity-impurity interactions. These include both a repulsive direct interaction and an attractive effective interaction mediated by the BEC. The occupation dependence of these two competing interactions drastically affects the Hubbard model phase diagram, including causing the disappearance of some Mott lobes
+
+id: 1512.09376
+title: Hall conductance of two-band systems in a quantized field
+authors: Z. C. Shi, H. Z. Shen, X. X. Yi
+comments: 6 pages, 7 figures
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Other Condensed Matter (cond-mat.other); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.09376
+abstract: Kubo formula gives a linear response of a quantum system to external fields, which are classical and weak with respect to the energy of the system. In this work, we take the quantum nature of the external field into account, and define a Hall conductance to characterize the linear response of a two-band system to the quantized field. The theory is then applied to topological insulators. Comparisons with the traditional Hall conductance are presented and discussed.
+
+id: 1503.05342
+title: Beyond Complete Positivity
+authors: Jason M. Dominy, Daniel A. Lidar
+comments: 9 pages, 1 figure
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1503.05342
+abstract: 
+
+id: 1506.07030
+title: Photon Berry phases, Instantons, Schrodinger Cats with oscillating parities and crossover from $ U(1) $ to $ Z_2 $ limit in cavity QED systems
+authors: Yu Yi-Xiang, Jinwu Ye, W.M. Liu, CunLin Zhang
+comments: 14 pages, REVTEX4-1, 8 Color figures
+journal: 
+subjects: Atomic Physics (physics.atom-ph); Quantum Gases (cond-mat.quant-gas); Strongly Correlated Electrons (cond-mat.str-el); Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1506.07030
+abstract: 
+
+id: 1512.06462
+title: Entangling qubit registers via many-body states of ultracold atoms
+authors: R. G. Melko, C. M. Herdman, D. Iouchtchenko, P.-N. Roy, A. Del Maestro
+comments: 5 pages, 4 figures; typos fixed
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.06462
+abstract: 
+
+id: 1512.08989
+title: Optomechanics based on angular momentum exchange between light and matter
+authors: Hao Shi, Mishkat Bhattacharya
+comments: Invited PhD tutorial, J. Phys. B., 33 pages, 13 figures, comments welcome
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1512.08989
+abstract: 
+

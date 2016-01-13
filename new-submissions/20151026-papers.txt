@@ -1,0 +1,306 @@
+id: 1510.06743
+title: Quantum-proof multi-source randomness extractors in the Markov model
+authors: Rotem Arnon-Friedman, Christopher Portmann, Volkher B. Scholz
+comments: 20 pages + appendix, comments are welcome!
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC); Cryptography and Security (cs.CR)
+url: http://www.arxiv.org/abs/1510.06743
+abstract: Randomness extractors, widely used in classical and quantum cryptography and other fields of computer science, e.g., derandomization, are functions which generate almost uniform randomness from weak sources of randomness. In the quantum setting one must take into account the quantum side information held by an adversary which might be used to break the security of the extractor. In the case of seeded extractors the presence of quantum side information has been extensively studied. For multi-source extractors one can easily see that high conditional min-entropy is not sufficient to guarantee security against arbitrary side information, even in the classical case. Hence, the interesting question is under which models of (both quantum and classical) side information multi-source extractors remain secure. In this work we suggest a natural model of side information, which we call the Markov model, and prove that any multi-source extractor remains secure in the presence of quantum side information of this type (albeit with weaker parameters). This improves on previous results in which more restricted models were considered and the security of only some types of extractors was shown.
+
+id: 1510.06750
+title: Quantum vs Classical Proofs and Subset Verification
+authors: Bill Fefferman, Shelby Kimmel
+comments: 24 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC)
+url: http://www.arxiv.org/abs/1510.06750
+abstract: We study the ability of efficient quantum verifiers to decide properties of exponentially large subsets given either a classical or quantum witness. We develop a general framework that can be used to prove that QCMA machines, with only classical witnesses, cannot verify certain properties of subsets given implicitly via an oracle. We use this framework to prove an oracle separation between QCMA and QMA using an ``in-place'' permutation oracle, making the first progress on this question since Aaronson and Kuperberg in 2007. We also use the framework to prove a particularly simple standard oracle separation between QCMA and AM.
+
+id: 1510.06761
+title: Flavor entanglement in neutrino oscillations in the wave packet description
+authors: Massimo Blasone, Fabio Dell'Anno, Silvio De Siena, Fabrizio Illuminati
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.06761
+abstract: The wave packet approach to neutrino oscillations provides an enlightening description of quantum decoherence induced, during propagation, by localization effects. Within this approach, we show that a deeper insight into the dynamical aspects of particle mixing can be obtained if one investigates the behavior of quantum correlations associated to flavor oscillations. By identifying the neutrino three-flavor modes with (suitably defined) three-qubit modes, the exploitation of tools of quantum information theory for mixed states allows a detailed analysis of the dynamical behavior of flavor entanglement during free propagation. This provides further elements leading to a more complete understanding of the phenomenon of neutrino oscillations, and a basis for possible applicative implementations. The analysis is carried out by studying the distribution of the flavor entanglement and by detecting the presence of genuine multipartite entanglement; to this aim, we perform combined investigations of the behaviors of the two-flavor concurrence and of the logarithmic negativities associated with specific bipartitions of the three flavors.
+
+id: 1510.06768
+title: Local randomness in Cabello's non-locality argument from the Information Causality principle
+authors: Golnaz Zoka, Ali Ahanj
+comments: 9 pages, 3 tables. arXiv admin note: text overlap with arXiv:1007.4992, arXiv:1311.3710, arXiv:1308.4003 by other authors
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.06768
+abstract: The principle of non-violation of ``information causality", has been proposed as one of the foundational properties of nature\cite{nature}. The main goal of the paper is to explore the gap between quantum mechanical correlations and those allowed by ``information causality" in the context of local randomness by using Cabello's nonlocality argument. This is interesting because the gap is slightly different than in the context of Hardy's similar nonlocality argument\cite{gazi}
+
+id: 1510.06789
+title: Quantum proofs can be verified using only single qubit measurements
+authors: Tomoyuki Morimae, Daniel Nagaj, Norbert Schuch
+comments: 7 pages, 1 figure
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC)
+url: http://www.arxiv.org/abs/1510.06789
+abstract: QMA (Quantum Merlin Arthur) is the class of problems which, though potentially hard to solve, have a quantum solution which can be verified efficiently using a quantum computer. It thus forms a natural quantum version of the classical complexity class NP (and its probabilistic variant MA, Merlin-Arthur games), where the verifier has only classical computational resources. In this paper, we study what happens when we restrict the quantum resources of the verifier to the bare minimum: individual measurements on single qubits received as they come, one-by-one. We find that despite this grave restriction, it is still possible to soundly verify any problem in QMA for the verifier with the minimum quantum resources possible, without using any quantum memory or multiqubit operations. We provide two independent proofs of this fact, based on measurement based quantum computation and the local Hamiltonian problem, respectively. The former construction also applies to QMA$_1$, i.e., QMA with one-sided error.
+
+id: 1510.06801
+title: Time-optimal control with finite bandwidth
+authors: M. Hirose, P. Cappellaro
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.06801
+abstract: Optimal control theory provides recipes to achieve quantum operations with high fidelity and speed, as required in quantum technologies such as quantum sensing and computation. While technical advances have achieved the ultrastrong driving regime in many physical systems, these capabilities have yet to be fully exploited for the precise control of quantum systems, as other limitations, such as the generation of higher harmonics or the finite bandwidth of the control fields, prevent the implementation of theoretical time-optimal control. Here we present a method to achieve time-optimal control of qubit systems that can take advantage of fast driving beyond the rotating wave approximation. We exploit results from optimal control theory to design driving protocols that can be implemented with realistic, finite-bandwidth control and we find a relationship between bandwidth limitations and achievable control fidelity.
+
+id: 1510.06836
+title: Quantum description of electromagnetic fields in waveguides
+authors: Akira Kitagawa
+comments: 13 pages, 6 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1510.06836
+abstract: Using quantum theory, we study the propagation of an optical field in an inhomogeneous dielectric, and apply this scheme to traveling optical fields in a waveguide. We introduce a field-atom interaction Hamiltonian and derive the refractive index using quantum optics. We show that the transmission and reflection of optical fields at an interface between different materials can be described with normalized Fresnel coefficients and that this representation is related to the beam splitter operator. We then study the propagation properties of the optical fields for two types of slab waveguides: step-index and graded-index. The waveguides are divided into multiple layers to represent the spatial dependence of the optical field. We can evaluate the number of photons in an arbitrary volume in the waveguide using this procedure. Using the present method, the quantum properties of weak optical fields in a waveguide are revealed, while coherent states with higher amplitudes reduces to representation of classical waveguide optics.
+
+id: 1510.06888
+title: No-iteration of unknown quantum gates
+authors: Mehdi Soleimanifar, Vahid Karimipour
+comments: 14 pages, 7 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.06888
+abstract: We propose a new no-go theorem by proving the impossibility of constructing a deterministic quantum circuit that iterates a unitary oracle by calling it only once. Different schemes are provided to bypass this result and to approximately realize the iteration. The optimal scheme is also studied. An interesting observation is that for large number of iterations, a trivial strategy like using the identity channel has the optimal performance, and preprocessing, postprocessing, or using resources like entanglement does not help at all. Intriguingly, the number of iterations, when being large enough, does not affect the performance of the proposed schemes.
+
+id: 1510.06893
+title: Non-autonomous Hamiltonian quantum systems, operator equations and representations of Bender-Dunne Weyl ordered basis under time-dependent canonical transformations
+authors: Mariagiovanna Gianfreda, Giulio Landolfi
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph); Exactly Solvable and Integrable Systems (nlin.SI)
+url: http://www.arxiv.org/abs/1510.06893
+abstract: We address the problem of integrating operator equations concomitant with the dynamics of non autonomous quantum systems by taking advantage of the use of time-dependent canonical transformations. In particular, we proceed to a discussion in regard to basic examples of one-dimensional non-autonomous dynamical systems enjoying the property that their Hamiltonian can be mapped through a time-dependent linear canonical transformation into an autonomous form, up to a time-dependent multiplicative factor. The operator equations we process essentially reproduce at the quantum level the classical integrability condition for these systems. Operator series form solutions in the Bender-Dunne basis of pseudo-differential operators for one dimensional quantum system are sought for such equations. The derivation of generating functions for the coefficients involved in the \emph{minimal} representation of the series solutions to the operator equations under consideration is particularized. We also provide explicit form of operators that implement arbitrary linear transformations on the Bender-Dunne basis by expressing them in terms of the initial Weyl ordered basis elements. We then remark that the matching of the minimal solutions obtained independently in the two basis, i.e. the basis prior and subsequent the action of canonical linear transformation, is perfectly achieved by retaining only the lowest order contribution in the expression of the transformed Bender-Dunne basis elements.
+
+id: 1510.06918
+title: Quantum advice enhances social optimality in three-party conflicting interest games
+authors: Haozhen Situ, Cai Zhang, Fang Yu
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.06918
+abstract: Quantum pseudo-telepathy games are good examples of explaining the strangeness of quantum mechanics and demonstrating the advantage of quantum resources over classical resources. Most of the quantum pseudo-telepathy games are common interest games, nevertheless conflicting interest games are more widely used to model real world situations. Recently Pappa et al. (Phys. Rev. Lett. 114, 020401, 2015) proposed the first two-party conflicting interest game where quantum advice enhances social optimality. In the present paper we give two new three-party conflicting interest games and show that quantum advice can enhance social optimality in a three-party setting. The first game we propose is based on the famous GHZ game which is a common interest game. The second game we propose is related to the Svetlichny inequality which demonstrates quantum mechanics cannot be explained by the local hidden variable model in a three-party setting.
+
+id: 1510.06938
+title: $\mathcal{PT}$ symmetry breaking for the scattering problem in a one-dimensional non-Hermitian lattice model
+authors: Baogang Zhu, Rong L¨¹, Shu Chen
+comments: 6 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Other Condensed Matter (cond-mat.other)
+url: http://www.arxiv.org/abs/1510.06938
+abstract: We study the $\mathcal{PT} $-symmetry breaking for the scattering problem in a one-dimensional (1D) non-Hermitian tight-binding lattice model with balanced gain and loss distributed on two adjacent sites. In the scattering process the system undergoes a transition from the exact $\mathcal{PT} $-symmetry phase to the phase with spontaneously breaking $\mathcal{PT} $-symmetry as the amplitude of complex potentials increases. Using the S-matrix method, we derive an exact discriminant, which can be used to distinguish different symmetry phases, and analytically determine the exceptional point for the symmetry breaking. In the $\mathcal{PT} $-symmetry breaking region, we also confirm the appearance of the unique feature, i.e., the coherent perfect absorption Laser, in this simple non-Hermitian lattice model. The study of the scattering problem of such a simple model provides an additional way to unveil the physical effect of non-Hermitian $\mathcal{PT} $-symmetric potentials.
+
+id: 1510.06995
+title: Geometric measures of quantum correlations: characterization, quantification, and comparison by distances and operations
+authors: Wojciech Roga, Dominique Spehner, Fabrizio Illuminati
+comments: 36 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.06995
+abstract: We investigate and compare three distinguished geometric measures of bipartite quantum correlations that have been recently introduced in the literature: the geometric discord, the measurement-induced geometric discord, and the discord of response, each one defined according to three contractive distances on the set of quantum states, namely the trace, Bures, and Hellinger distances. We establish a set of exact functional relations and inequalities between the different measures. In many cases, we determine which bounds are tight. In particular, we show that the geometric discord and the discord of response based on the Hellinger distance are easy to compute analytically for all quantum states whenever the reference subsystem is a qubit. These two measures thus provide the first instance of discords that are simultaneously fully computable, reliable (since they satisfy all the basic Axioms that must be obeyed by a proper measure of quantum correlations), and operationally viable (in terms of state distinguishability). We apply the general mathematical structure to determine the closest classical-quantum state of a given state and the maximally quantum-correlated states at fixed global state purity according to the different distances, as well as a necessary condition for a channel to be quantumness breaking.
+
+id: 1510.06996
+title: Comparison between two models of absorption of matter waves by a thin time-dependent barrier
+authors: Maximilien Barbier, Mathieu Beau, Arseni Goussev
+comments: 17 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Other Condensed Matter (cond-mat.other)
+url: http://www.arxiv.org/abs/1510.06996
+abstract: We report a quantitative, analytical and numerical, comparison between two models of the interaction of a non-relativistic quantum particle with a thin time-dependent absorbing barrier. The first model represents the barrier by a set of time-dependent discontinuous matching conditions, which are closely related to Kottler boundary conditions used in stationary wave optics as a mathematical basis for Kirchhoff diffraction theory. The second model mimics the absorbing barrier with an off-diagonal $\delta$-potential with a time-dependent amplitude. We show that the two models of absorption agree in their predictions in a semiclassical regime -- the regime readily accessible in modern experiments with ultracold atoms.
+
+id: 1510.06754
+title: Dynamical Gauge Fields in Optomechanics
+authors: Stefan Walter, Florian Marquardt
+comments: 5 pages + Supplemental Material, 3 figures
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.06754
+abstract: Artificial gauge fields for neutral particles such as photons, recently attracted a lot of attention in various fields ranging from photonic crystals to ultracold atoms in optical lattices to optomechanical arrays. Here we point out that, among all implementations of gauge fields, the optomechanical setting allows for the most natural extension where the gauge field becomes dynamical. The mechanical oscillation phases determine the effective artificial magnetic field for the photons, and once these phases are allowed to evolve, they respond to the flow of photons in the structure. We discuss a simple three-site model where we identify four different regimes of the gauge-field dynamics. Furthermore, we extend the discussion to a two-dimensional lattice. Our proposed scheme could for instance be implemented using optomechanical crystals.
+
+id: 1510.06766
+title: Robust luminescence of the silicon-vacancy center in diamond at high temperatures
+authors: Stefano Lagomarsino, Federico Gorelli, Mario Santoro, Nicole Fabbri, Ahmed Hajeb, Silvio Sciortino, Lara Palla, Caroline Czelusniak, Mirko Massi, Francesco Taccetti, Lorenzo Giuntini, Nicla Gelli, Dmitry Yu Fedyanin, Francesco Saverio Cataliotti, Costanza Toninelli, Mario Agio
+comments: 6 pages, 5 figures
+journal: 
+subjects: Materials Science (cond-mat.mtrl-sci); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.06766
+abstract: We performed high-temperature luminescence studies of silicon-vacancy color centers obtained by ion implantation in single crystal diamond. We observed reduction of the integrated fluorescence upon increasing temperature, ascribable to a transition channel with an activation energy of 180 meV that populates a shelving state. Nonetheless, the signal decreased only 50% and 75% with respect to room temperature at 500 K and 700 K, respectively. In addition, the color center is found highly photostable at temperatures exceeding 800 K. The luminescence of this color center is thus extremely robust even at large temperatures and it holds promise for novel diamond-based light-emitting devices.
+
+id: 1510.06778
+title: Dissipative transport in superlattices within the Wigner function formalism
+authors: O. Jonasson, I. Knezevic
+comments: Special JCEL issue on Wigner functions, this http URL
+journal: J. Comput. Electron. 14, 879 (2015)
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Materials Science (cond-mat.mtrl-sci); Other Condensed Matter (cond-mat.other); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.06778
+abstract: We employ the Wigner function formalism to simulate partially coherent, dissipative electron transport in biased semiconductor superlattices. We introduce a model collision integral with terms that describe energy dissipation, momentum relaxation, and the decay of spatial coherences (localization). Based on a particle-based solution to the Wigner transport equation with the model collision integral, we simulate quantum electronic transport at 10 K in a GaAs/AlGaAs superlattice and accurately reproduce its current density vs field characteristics obtained in experiment.
+
+id: 1510.06841
+title: Play or science?: a study of learning and framing in crowdscience games
+authors: Andreas Lieberoth, Mads Kock Pedersen, Jacob Sherson
+comments: 26 pages, 3 figures
+journal: Well Played 4(2), 30 (2015)
+subjects: Physics Education (physics.ed-ph); Computers and Society (cs.CY); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.06841
+abstract: Crowdscience games may hold unique potentials as learning opportunities compared to games made for fun or education. They are part of an actual science problem solving process: By playing, players help scientists, and thereby interact with real continuous research processes. This mixes the two worlds of play and science in new ways. During usability testing we discovered that users of the crowdscience game Quantum Dreams tended to answer questions in game terms, even when directed explicitly to give science explanations.We then examined these competing frames of understanding through a mixed correlational and grounded theory analysis. This essay presents the core ideas of crowdscience games as learning opportunities, and reports how a group of players used "game", "science" and "conceptual" frames to interpret their experience. Our results suggest that oscillating between the frames instead of sticking to just one led to the largest number of correct science interpretations, as players could participate legitimately and autonomously at multiple levels of understanding.
+
+id: 1510.06910
+title: Theory of low-energy behaviors in topological $s$-wave pairing superconductors
+authors: Yukihiro Ota, Yuki Nagai, Masahiko Machida
+comments: Proceedings of 27th International Symposium on Superconductivity (ISS2014). Comments are welcome
+journal: Physica C 518 (2015) 5-9
+subjects: Superconductivity (cond-mat.supr-con); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.06910
+abstract: We construct a low-energy effective theory of topological $s$-wave pairing superconductors, focusing on the mean-field model of superconductor $\mbox{Cu}_{x}\mbox{Bi}_{2}\mbox{Se}_{3}$. Our approach is second-order perturbation with respect to the inverse of the mass (i.e., large-mass expansion) in the Dirac-type electron dispersion from topological insulator $\mbox{Bi}_{2}\mbox{Se}_{3}$. Since the Dirac-type dispersion with a large mass describes non-relativistic electrons, the large-mass expansion corresponds to a low-energy theory with respect to the original setup. We show that the effective gap function has not only a $p$-wave-like component as the primary contribution, but also an $s$-wave-like one as higher-order corrections. The mixture of $p$- and $s$-wave explains the numerical results [Phys. Rev. B 89 (2014) 214506] of the non-magnetic impurity effects.
+
+id: quant-ph/0701163
+title: Remarks on the undecidability of the quantum halting problem
+authors: Daegene Song
+comments: This paper has been withdrawn since it has been superseded by arXiv:0706.4180
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/quant-ph/0701163
+abstract: 
+
+id: 1407.1361
+title: Classical simulation of Yang-Baxter gates
+authors: Gorjan Alagic, Aniruddha Bapat, Stephen Jordan
+comments: 17 pages. Corrected error in proof of Theorem 1
+journal: 9th Conference on the Theory of Quantum Computation, Communication and Cryptography (TQC 2014), p. 161-175
+subjects: Quantum Physics (quant-ph); Quantum Algebra (math.QA)
+url: http://www.arxiv.org/abs/1407.1361
+abstract: 
+
+id: 1408.0745
+title: Topos logic in measurement-based quantum computation
+authors: Leon Loveridge, Raouf Dridi, Robert Raussendorf
+comments: Minor typos fixed
+journal: Proc. R. Soc. A 2015 471: 20140716
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1408.0745
+abstract: 
+
+id: 1412.1766
+title: Quantum mechanics of the free Dirac electrons and Einstein photons, and the Cauchy process
+authors: A.A. Beilinson
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1412.1766
+abstract: 
+
+id: 1412.7921
+title: Entanglement Generation by Communication using Phase-Squeezed Light with Photon Loss
+authors: Fumiaki Matsuoka, Akihisa Tomita, Atsushi Okamoto
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1412.7921
+abstract: 
+
+id: 1501.01478
+title: Influence of relativistic effects on satellite-based clock synchronization
+authors: Jieci Wang, Zehua Tian, Jiliang Jing, Heng Fan
+comments: 7 pages, 3 figures, title changed, references added, revised according to referees' comments
+journal: 
+subjects: Quantum Physics (quant-ph); General Relativity and Quantum Cosmology (gr-qc); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1501.01478
+abstract: 
+
+id: 1502.00669
+title: On quantum computation, anyons, and categories
+authors: Andreas Blass, Yuri Gurevich
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1502.00669
+abstract: 
+
+id: 1504.03562
+title: Two-Mode Bosonic Quantum Metrology with Number Fluctuations
+authors: Antonella De Pasquale, Paolo Facchi, Giuseppe Florio, Vittorio Giovannetti, Koji Matsuoka, Kazuya Yuasa
+comments: 13 pages, 4 figures
+journal: Physical Review A 92, 042115 (2015)
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1504.03562
+abstract: 
+
+id: 1506.04414
+title: Gravitational Decoherence for Mesoscopic Systems
+authors: Stephen L. Adler, Angelo Bassi
+comments: Latex, 8 pages. v2 is expanded version that will appear in Phys. Lett. A
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1506.04414
+abstract: 
+
+id: 1507.01541
+title: From the Physics to the Computational Complexity of Multiboson Correlation Interference
+authors: Simon Laibacher, Vincenzo Tamma
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1507.01541
+abstract: 
+
+id: 1507.08942
+title: Statistical approach to Casimir-Polder potentials in heterogeneous media
+authors: Nicolas Cherroret, Romain Gu¨¦rout, Astrid Lambrecht, Serge Reynaud
+comments: 8 pages, 8 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Disordered Systems and Neural Networks (cond-mat.dis-nn)
+url: http://www.arxiv.org/abs/1507.08942
+abstract: 
+
+id: 1508.00454
+title: An exact relation between number of black box computations required to solve an oracle problem quantumly and quantum retrocausality
+authors: Giuseppe Castagnoli
+comments: Added a short history of the birth of quantum computation, a positioning of the work, and various clarifications, 29 pages. arXiv admin note: text overlap with arXiv:1308.5077
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1508.00454
+abstract: 
+
+id: 1509.00019
+title: Exact solution of the Schr?dinger equation for the inverse square root potential $V_0/{\sqrt{x}}$
+authors: A.M. Ishkhanyan
+comments: 
+journal: Eur. Phys. Lett. 112, 10006 (2015)
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1509.00019
+abstract: 
+
+id: 1509.09109
+title: Characterization of coherent power of concatenation of quantum channels
+authors: Kaifeng Bu, Lin Zhang, Junde Wu
+comments: This is a new version of this paper, add a figure and give a new operational meaning of coherent power. arXiv admin note: text overlap with arXiv:1506.01773, arXiv:quant-ph/0610253 by other authors
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.09109
+abstract: 
+
+id: 1510.03229
+title: Statistically efficient tomography of low rank states with incomplete measurements
+authors: Anirudh Acharya, Theodore Kypraios, Madalin Guta
+comments: 19 pages, 6 figures ; V2: updated figure 5, added references, changed title, updated abstract
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph); Applications (stat.AP)
+url: http://www.arxiv.org/abs/1510.03229
+abstract: 
+
+id: 1510.05737
+title: Realization of microwave amplification, attenuation, and frequency conversion using a single three-level superconducting quantum circuit
+authors: Yan-Jun Zhao, Jiang-Hao Ding, Z. H. Peng, Yu-xi Liu
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.05737
+abstract: 
+

@@ -1,1 +1,0 @@
-java -jar arxiv-manager.jar -f "D:\workspaces\repositories\arxiv-contents\new-submissions\20151019-papers.txt"

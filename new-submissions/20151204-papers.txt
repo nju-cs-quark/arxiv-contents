@@ -1,0 +1,324 @@
+id: 1512.00859
+title: Faster than Classical Quantum Algorithm for dense Formulas of Exact Satisfiability and Occupation Problems
+authors: Salvatore Mandr¨¤, Gian Giacomo Guerreschi, Al¨¢n Aspuru-Guzik
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Data Structures and Algorithms (cs.DS)
+url: http://www.arxiv.org/abs/1512.00859
+abstract: We present an exact quantum algorithm for solving the Exact Satisfiability problem, which is known to belong to the important NP-complete complexity class. The algorithm is based on an intuitive approach that can be divided into two parts: The first step consists in the identification and efficient characterization of a restricted subspace that contains all the valid assignments (if any solution exists) of the Exact Satisfiability; while the second part performs a quantum search in such restricted subspace. The quantum algorithm can be used either to find a valid assignment (or to certify that no solutions exist) or to count the total number of valid assignments. The query complexity for the worst-case is, respectively, bounded by $O(\sqrt{2^{n-M^{\prime}}})$ and $O(2^{n-M^{\prime}})$, where $n$ is the number of variables and $M^{\prime}$ the number of linearly independent clauses. Remarkably, the proposed quantum algorithm results to be faster than any known exact classical algorithm to solve dense formulas of Exact Satisfiability. When compared to heuristic techniques, the proposed quantum algorithm is faster than the classical WalkSAT heuristic and Adiabatic Quantum Optimization for random instances with a density of constraints close to the satisfiability threshold, the regime in which instances are typically the hardest to solve. The quantum algorithm that we propose can be straightforwardly extended to the generalized version of the Exact Satisfiability known as Occupation problems. The general version of the algorithm is presented and analyzed.
+
+id: 1512.00880
+title: The GTR-model: a universal framework for quantum-like measurements
+authors: Diederik Aerts, Massimiliano Sassoli de Bianchi
+comments: 33 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Artificial Intelligence (cs.AI)
+url: http://www.arxiv.org/abs/1512.00880
+abstract: We present a very general geometrico-dynamical description of physical or more abstract entities, called the 'general tension-reduction' (GTR) model, where not only states, but also measurement-interactions can be represented, and the associated outcome probabilities calculated. Underlying the model is the hypothesis that indeterminism manifests as a consequence of unavoidable fluctuations in the experimental context, in accordance with the 'hidden-measurements interpretation' of quantum mechanics. When the structure of the state space is Hilbertian, and measurements are of the 'universal' kind, i.e., are the result of an average over all possible ways of selecting an outcome, the GTR-model provides the same predictions of the Born rule, and therefore provides a natural completed version of quantum mechanics. However, when the structure of the state space is non-Hilbertian and/or not all possible ways of selecting an outcome are available to be actualized, the predictions of the model generally differ from the quantum ones, especially when sequential measurements are considered. Some paradigmatic examples will be discussed, taken from physics and human cognition. Particular attention will be given to some known psychological effects, like question order effects and response replicability, which we show are able to generate non-Hilbertian statistics. We also suggest a realistic interpretation of the GTR-model, when applied to human cognition and decision, which we think could become the generally adopted interpretative framework in quantum cognition research.
+
+id: 1512.00936
+title: Atom-Field Entanglement in Cavity QED: Nonlinearity and Saturation
+authors: Robert Rogers, Nick Cummings, Leno Pedrotti, Perry Rice
+comments: 16 pages, 9 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.00936
+abstract: We investigate the degree of entanglement between an atom and a driven cavity mode, in the presence of dissipation. Previous work has shown that in the limit of weak driving fields, the steady state entanglement is proportional to the square of the driving intensity. This quadratic dependence is due to the generation of entanglement by the creation of pairs of photons/excitations. In this work we investigate the entanglement between an atom and a cavity in the presence of multiple photons. Nonlinearity of the atomic response is needed to generate entanglement, but as that nonlinearity saturates the entanglement vanishes. We posit that this is due to spontaneous emission, which puts the atom in the ground state and the atom-field state into a direct product state. An intermediate value of the driving field, near the field that saturates the atomic response, optimizes the atom-field entanglement. In a parameter regime for which multiphoton resonances occur, we find that entanglement recurs at those resonances. \\cite{Shamailov-10} In this regime, we find that the entanglement decreases with increaing photon number. We also investigate, in the bimodal regime of Alsing et. al.\cite{Alsing-91-DressedState} \cite{Alsing-92-DSS}\\cite{Carm-15-X}, the entanglement as a function of atom and/or cavity detuning. Here we find that there is evidence of a phase transition in the entanglement, which occurs at $2\epsilon/g \geq 1$.
+
+id: 1512.00983
+title: Cavity quantum electrodynamics with ferromagnetic magnons in a small yttrium-iron-garnet sphere
+authors: Dengke Zhang, Xin-Ming Wang, Tie-Fu Li, Xiao-Qing Luo, Weidong Wu, Franco Nori, J. Q. You
+comments: 11 pages, 7 figures, 1 table
+journal: npj Quantum Information 1, 15014 (2015)
+subjects: Quantum Physics (quant-ph); Materials Science (cond-mat.mtrl-sci)
+url: http://www.arxiv.org/abs/1512.00983
+abstract: Hybridizing collective spin excitations and a cavity with high cooperativity provides a new research subject in the field of cavity quantum electrodynamics and can also have potential applications to quantum information. Here we report an experimental study of cavity quantum electrodynamics with ferromagnetic magnons in a small yttrium-iron-garnet (YIG) sphere at both cryogenic and room temperatures. We observe for the first time a strong coupling of the same cavity mode to both a ferromagnetic-resonance (FMR) mode and a magnetostatic (MS) mode near FMR in the quantum limit. This is achieved at a temperature ~ 22 mK, where the average microwave photon number in the cavity is less than one. At room temperature, we also observe strong coupling of the cavity mode to the FMR mode in the same YIG sphere and find a slight increase of the damping rate of the FMR mode. These observations reveal the extraordinary robustness of the FMR mode against temperature. However, the MS mode becomes unobservable at room temperature in the measured transmission spectrum of the microwave cavity containing the YIG sphere. Our numerical simulations show that this is due to a drastic increase of the damping rate of the MS mode.
+
+id: 1512.00990
+title: Quantum simulation of the dynamical Casimir effect with trapped ions
+authors: Nils Trautmann, Philipp Hauke
+comments: 19, pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.00990
+abstract: Quantum vacuum fluctuations are a direct manifestation of Heisenberg's uncertainty principle. The dynamical Casimir effect allows for the observation of these vacuum fluctuations by turning them into real, observable photons. However, the observation of this effect in a cavity QED experiment would require the rapid variation of the length of a cavity with relativistic velocities, a daunting challenge. Here, we propose a quantum simulation of the dynamical Casimir effect using an ion chain confined in a segmented ion trap. We derive a discrete model that enables us to map the dynamics of the multimode radiation field inside a variable-length cavity to radial phonons of the ion crystal. We perform a numerical study comparing the ion-chain quantum simulation under realistic experimental parameters to an ideal Fabry-Perot cavity, demonstrating the viability of the mapping. The proposed quantum simulator, therefore, allows for probing the photon (respectively phonon) production caused by the dynamical Casimir effect on the single photon level.
+
+id: 1512.01020
+title: Heralded single photon sources for QKD applications
+authors: M. Schiavon, G. Vallone, F. Ticozzi, P. Villoresi
+comments: 11 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.01020
+abstract: Single photon sources (SPS) are a fundamental building block for optical implementations of quantum information protocols. Among SPSs, multiple crystal heralded single photon sources seem to give the best compromise between high pair production rate and low multiple photon events. In this work, we study their performance in a practical quantum key distribution experiment, by evaluating the achievable key rates. The analysis focuses on the two different schemes, symmetric and asymmetric, proposed for the practical implementation of heralded single photon sources, with attention on the performance of their composing elements. The analysis is based on the protocol proposed by Bennett and Brassard in 1984 and on its improvement exploiting decoy state technique. Finally, a simple way of exploiting the post-selection mechanism for a passive, one decoy state scheme is evaluated.
+
+id: 1512.01035
+title: How device-independent approaches change the meaning of Physics
+authors: Alexei Grinbaum
+comments: 15 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Physics and Society (physics.soc-ph)
+url: http://www.arxiv.org/abs/1512.01035
+abstract: Dirac sought an interpretation of mathematical formalism in terms of physical entities and Einstein insisted that physics should describe "the real states of the real systems". While Bell inequalities put into question the reality of states, modern device-independent approaches do away with the idea of entities: physics is not built of physical systems. Focusing on the correlations between operationally defined inputs and outputs, device-independent methods promote a view more distant from conventional theory than Einstein's 'principle theories' were from 'constructive theories'. On the examples of indefinite causal orders and almost quantum correlations, we ask a puzzling question: if physical theory is not about systems, then what is it about? The answer given by the device-independent models is that physics is about languages. In moving away from the information-theoretic reconstructions of quantum theory, this answer marks a new conceptual development in the foundations of physics.
+
+id: 1512.01048
+title: Deterministic generation of bright single resonance fluorescence photons from a Purcell-enhanced quantum dot-micropillar system
+authors: Sebastian Unsleber, Christian Schneider, Sebastian Maier, Yu-Ming He, Stefan Gerhardt, Chao-Yang Lu, Jian-Wei Pan, Martin Kamp, Sven H?fling
+comments: accepted for publication in Optics Express
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
+url: http://www.arxiv.org/abs/1512.01048
+abstract: We report on the observation of bright emission of single photons under pulsed resonance fluorescence conditions from a single quantum dot (QD) in a micropillar cavity. The brightness of the QD fluorescence is greatly enhanced via the coupling to the fundamental mode of a micropillar, allowing us to determine a single photon extraction efficiency of $(20.7\pm0.8)~\%$ per linear polarization basis. This yields an overall extraction efficiency of $(41.4\pm1.5)~\%$ in our device. We observe the first Rabi-oscillation in a weakly coupled quantum dot-micropillar system under coherent pulsed optical excitation, which enables us to deterministically populate the excited QD state. In this configuration, we probe the single photon statistics of the device yielding $g^{(2)}(0)=0.072\pm0.011$ at a QD-cavity detuning of $75~\mu$eV.
+
+id: 1512.01062
+title: Connecting quantum contextuality and genuine multipartite nonlocality with the quantumness witness
+authors: Xu Chen, Hong-Yi Su, Jing-Ling Chen
+comments: 4 pages. Accpeted in Chin. Phys. Lett
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.01062
+abstract: The Clauser-Horne-Shimony-Holt-type noncontextuality inequality and the Svetlichny inequality are derived from the Alicki-Van Ryn quantumness witness. Thus a connection between quantumness and quantum contextuality, and that between quantumness and genuine multipartite nonlocality, are established.
+
+id: 1512.01070
+title: Observation of resonance fluorescence and the Mollow-triplet from a coherently driven site-controlled quantum dot
+authors: Sebastian Unsleber, Sebastian Maier, Dara P. S. McCutcheon, Yu-Ming He, Michael Dambach, Manuel Gschrey, Jesper M?rk, Stephan Reitzenstein, Sven H?fling, Christian Schneider, Martin Kamp
+comments: accepted for publication in Optica
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
+url: http://www.arxiv.org/abs/1512.01070
+abstract: Resonant excitation of solid state quantum emitters has the potential to deterministically excite a localized exciton while ensuring a maximally coherent emission. In this work, we demonstrate the coherent coupling of an exciton localized in a lithographically positioned, site-controlled semiconductor quantum dot to an external resonant laser field. For strong continuous-wave driving we observe the characteristic Mollow triplet and analyze the Rabi splitting and sideband widths as a function of driving strength and temperature. The sideband widths increase linearly with temperature and the square of the driving strength, which we explain via coupling of the exciton to longitudinal acoustic phonons. We also find an increase of the Rabi splitting with temperature, which indicates a temperature induced delocalization of the excitonic wave function resulting in an increase of the oscillator strength. Finally, we demonstrate coherent control of the exciton excited state population via pulsed resonant excitation and observe a damping of the Rabi oscillations with increasing pulse area, which is consistent with our exciton-photon coupling model. We believe that our work outlines the possibility to implement fully scalable platforms of solid state quantum emitters. The latter is one of the key prerequisites for more advanced, integrated nanophotonic quantum circuits.
+
+id: 1512.01098
+title: Noise tailoring for scalable quantum computation via randomized compiling
+authors: Joel J. Wallman, Joseph Emerson
+comments: 7+4 pages, comments welcome
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.01098
+abstract: Quantum computers are poised to radically outperform their classical counterparts by manipulating coherent quantum systems. A realistic quantum computer will experience errors due to the environment and imperfect control. When these errors are even partially coherent, they present a major obstacle to achieving robust computation. Here, we propose a method for introducing independent random single-qubit gates into the logical circuit in such a way that the effective logical circuit remains unchanged. We prove that this randomization tailors the noise into stochastic Pauli errors, leading to dramatic reductions in worst-case and cumulative error rates, while introducing little or no experimental overhead. Moreover we prove that our technique is robust to variation in the errors over the gate sets and numerically illustrate the dramatic reductions in worst-case error that are achievable. Given such tailored noise, gates with significantly lower fidelity are sufficient to achieve fault-tolerant quantum computation, and, importantly, the worst case error rate of the tailored noise can be directly and efficiently measured through randomized benchmarking experiments. Remarkably, our method enables the realization of fault-tolerant quantum computation under the error rates observed in recent experiments.
+
+id: 1512.01130
+title: The not-so-effective mass of photons in a planar optical cavity
+authors: Maxime Richard
+comments: 5 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph); General Relativity and Quantum Cosmology (gr-qc)
+url: http://www.arxiv.org/abs/1512.01130
+abstract: It is a well established and understood fact that photons propagating in free space interact with the gravitational field, leading to well-known effects such as gravitational redshift or gravitational lensing. While these phenomena might give an impression that photons in free space have a sort of mass, this impression falls short upon considering their dispersion relation. In this letter we show that unlike in free space, when photons are brought to a stop within a planar cavity, they acquire a mass that cannot not be distinguished from that of a solid-state body freely moving in a bidimensional space, both from the inertial and gravitational point of view.
+
+id: 1512.01131
+title: Near-complete polarization Bell-state analysis based on symmetry-broken scheme with linear optics
+authors: Ling-Jun Kong, Yongnan Li, Yu Si, Rui Liu, Chenghou Tu, Hui-Tian Wang
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1512.01131
+abstract: Bell-state analysis is a considerable challenge and an essential requirement for reliable implementation of quantum communication proposals. An open question is the one for the maximal fraction of successful Bell measurements. It has been pointed out that no scheme using only linear elements can implement a Bell state analyzer. Some effort has paid attention to the complete polarization-entangled Bell-state analysis using linear optics, with the aid of auxiliary means. Here we present a symmetry-broken scheme with linear optics only, without any aid of other auxiliary means, for discriminating polarization-entangled Bell states. Although our scheme is unable of realizing complete Bell-state measurement for less photon-pairs situation, it can deterministically identify four Bell states with success probabilities beyond 99.2% provided that photon-pairs are not less than 8. Our scheme as a significant breakthrough is simpler and feasible with respect to the current technology for the near-complete Bell-state analysis. Symmetry breaking is indispensable in our scheme as in other physical systems.
+
+id: 1512.01141
+title: Entanglement in a quantum neural network based on quantum dots
+authors: Mikhail V. Altaisky, Nadezhda N. Zolnikova, Natalia E. Kaputkina, Victor A. Krylov, Yurii E. Lozovik, Nikesh S. Dattani
+comments: Revtex, 6 pages, 2 eps figures. arXiv admin note: text overlap with arXiv:1503.05125
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.01141
+abstract: We studied the quantum correlations between the nodes in a quantum neural network built of an array of quantum dots with dipole-dipole interaction. By means of the quasiadiabatic path integral simulation of the density matrix evolution in a presence of the common phonon bath we have shown the coherence in such system can survive up to the liquid nitrogen temperature of 77K and above. The quantum correlations between quantum dots are studied by means of calculation of the entanglement of formation in a pair of quantum dots with the typical dot size of a few nanometers and the interdot distance of the same order. We have shown that the proposed quantum neural network can keep the mixture of entangled states of QD pairs up to the above mentioned high temperatures.
+
+id: 1512.01148
+title: Bose Operators, Truncation, Lie Algebras and Spectrum
+authors: Willi-Hans Steeb, Garreth Kemp, Yorick Hardy
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1512.01148
+abstract: We study truncated Bose operators in finite dimensional Hilbert spaces. In particular the Lie algebra structure and the spectrum of the truncated Bose operators are discussed.
+
+id: 1512.01189
+title: Microcanonical and resource-theoretic derivations of the Non-Abelian Thermal State
+authors: Nicole Yunger Halpern, Philippe Faist, Jonathan Oppenheim, Andreas Winter
+comments: 11 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech)
+url: http://www.arxiv.org/abs/1512.01189
+abstract: A Non-Abelian Thermal State (NATS), the thermal state of a system that exchanges heat and non-commuting charges with other systems, can be derived from the Principle of Maximum Entropy, even though the charges fail to commute with each other. To what extent this state has physical significance, and whether it aligns with other notions of the thermal state (such as complete passivity and equilibrium considerations), has been questioned. We show that the NATS is the thermal state, deriving its form via multiple strategies. We derive its form from the microcanonical state of the system-and-bath composite, by introducing the notion of an approximate microcanonical subspace. This gives plausibility to the notion that typical evolution laws will have the NATS as an equilibrium point locally. We also show that the form of the NATS can be derived from a resource theory in which the state is completely passive. We also prove a zeroeth law and a family of second laws for thermodynamics that involves noncommuting conserved charges.
+
+id: 1512.01190
+title: Thermodynamics of quantum systems with multiple conserved quantities
+authors: Yelena Guryanova, Sandu Popescu, Anthony J. Short, Ralph Silva, Paul Skrzypczyk
+comments: 16 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.01190
+abstract: We consider a generalisation of thermodynamics that deals with multiple conserved quantities at the level of individual quantum systems. Each conserved quantity, which, importantly, need not commute with the rest, can be extracted and stored in its own battery. Unlike in standard thermodynamics, where the second law places a constraint on how much of the conserved quantity (energy) that can be extracted, here, on the contrary, there is no limit on how much of any individual conserved quantity that can be extracted. However, other conserved quantities must be supplied, and the second law constrains the combination of extractable quantities and the trade-offs between them which are allowed. We present explicit protocols which allow us to perform arbitrarily good trade-offs and extract arbitrarily good combinations of conserved quantities from individual quantum systems.
+
+id: 1512.01200
+title: Phase-dependent fluctuations in intermittent resonance fluorescence
+authors: Hector M. Castro-Beltran, Ricardo Roman-Ancheyta, Luis Gutierrez
+comments: 11 pages, 7 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.01200
+abstract: Electron shelving gives rise to bright and dark periods in the resonance fluorescence of a three-level atom. The corresponding incoherent spectrum contains a very narrow inelastic peak on top of a two-level-like spectrum. Using the theories of balanced and conditional homodyne detection we study ensemble averaged phase-dependent fluctuations of intermittent resonance fluorescence. The sharp peak is found only in the spectra of the squeezed quadrature. In balanced homodyne detection that peak is positive, which greatly reduces the squeezing, also seen in its variance. In conditional homodyne detectionCHD, for weak to moderate laser intensity, the peak is negative, enhancing the squeezing, and for strong fields the sidebands become dispersive which, together with the positive sharp peak dominate the spectrum. The latter effect is due to non-negligible third order fluctuations produced by the atom-laser nonlinearity and the increased steady state population of the shelving state. A simple mathematical approach allows us to obtain accurate analytical results.
+
+id: 1203.4411
+title: Blowup alternative for Gross-Pitaevskii hierarchies
+authors: Zeqian Chen, Chengjun He, Chuangye Liu
+comments: 27 pages. arXiv admin note: text overlap with arXiv:1011.4641
+journal: 
+subjects: Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1203.4411
+abstract: In this paper, we prove the blowup alternative for Gross-Pitaevskii hierarchies on $\mathbb{R}^n$ and give the associated lower bounds on the blowup rate. In particular, we prove that any solution of density operators to the focusing Gross-Pitaevskii hierarchy blow up in finite time for $n \ge 3$ if the energy per some $k$ particles in the initial condition is negative. All of these results hold without the assumption of factorized conditions for initial values as well as the admissible ones. Our analysis is based on use of a quasi-Banach space of sequences of marginal density matrices.
+
+id: 1512.00848
+title: Understanding analog quantum simulation dynamics in coupled ion-trap qubits
+authors: Yang-Le Wu, S. Das Sarma
+comments: 5 pages, 6 figures
+journal: 
+subjects: Disordered Systems and Neural Networks (cond-mat.dis-nn); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.00848
+abstract: We study numerically a disordered transverse-field Ising Hamiltonian with long-range couplings. This model was recently investigated experimentally in a trapped-ion quantum simulator and was found to exhibit features of many-body localization at strong disorder. We use exact diagonalization to study the collective state preservation and the eigenstate entanglement structure as a function of both disorder strength and interaction range. Our numerical results, using the same system sizes as the experiment, verify the observation of many-body localization reported in the recent quantum simulation experiment.
+
+id: 1512.01086
+title: Many-body manifestation of interaction-free measurement: the Elitzur-Vaidman bomb
+authors: Oded Zilberberg, Alessandro Romito, Yuval Gefen
+comments: 6 pages, 2 figures, comments are welcome
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.01086
+abstract: We consider an implementation of the Elitzur-Vaidman bomb experiment in a DC-biased electronic Mach-Zehnder interferometer with a leakage port on one of its arms playing the role of a "lousy bom". Many-body correlations tend to screen out manifestations of interaction-free measurement. Analyzing the correlations between the current at the interformeter's drains and at the leakage port, we identify the limit where the originally proposed single-particle effect is recovered. Specifically, we find that in the regime of sufficiently diluted injected electron beam and short measurement times, effects of quantum mechanical wave-particle duality emerge in the cross-current correlations.
+
+id: 1512.01115
+title: Application of the low finesse frequency comb for high resolution spectroscopy
+authors: R. N. Shakhmuratov, F. G. Vagizov, Marlan O. Scully, Olga Kocharovskaya
+comments: 13 pages, 6 figures
+journal: 
+subjects: Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.01115
+abstract: High finesse frequency combs (HFC) with large ratio of the frequency spacing to the width of the spectral components have demonstrated remarkable results in many applications such as precision spectroscopy and metrology. We found that low finesse frequency combs having very small ratio of the frequency spacing to the width of the spectral components are more sensitive to the exact resonance with absorber than HFC. Our method is based on time domain measurements reviling oscillations of the radiation intensity after passing through an optically thick absorber. Fourier analysis of the oscillations allows to reconstruct the spectral content of the comb. If the central component of the incident comb is in exact resonance with the single line absorber, the contribution of the first sideband frequency into oscillations is exactly zero. We demonstrate this technique with gamma-photon absorbtion by M\"{o}ssbauer nuclei providing the spectral resolution beyond the natural broadening.
+
+id: 1512.01125
+title: Approaching conformality with the Tensor Renormalization Group method
+authors: Yannick Meurice, Li-Ping Yang, Judah Unmuth-Yockey, Yuzhi Liu, James Osborn, Zhiyuan Xie, Haiyuan Zou
+comments: Submitted as PoS(LATTICE 2015)285. Talk given by Yannick Meurice at the The 33rd International Symposium on Lattice Field Theory, 14 -18 July 2015, Kobe, Japan. Latex with 7 pages and 9 figures
+journal: 
+subjects: High Energy Physics - Lattice (hep-lat); Statistical Mechanics (cond-mat.stat-mech); High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.01125
+abstract: We discuss the Tensor Renormalization Group (TRG) method for the O(2) model with a chemical potential in 1+1 dimensions with emphasis on near gapless/conformal situations. We emphasize the role played by the late Leo Kadanoff in the development of this theoretical framework. We describe the entanglement entropy in the superfluid phase (see arXiv:1507.01471 for details). We present recent progress on optimized truncation methods.
+
+id: 1512.01158
+title: Universal sign-control of coupling in tight-binding lattices
+authors: Robert Keil, Charles Poli, Matthias Heinrich, Jake Arkinstall, Gregor Weihs, Henning Schomerus, Alexander Szameit
+comments: 
+journal: 
+subjects: Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.01158
+abstract: We present a method of locally inverting the sign of the coupling term in tight-binding systems, by means of inserting a judiciously designed ancillary site and eigenmode matching of the resulting vertex triplet. Our technique can be universally applied to all lattice configurations, as long as the individual sites can be detuned. We experimentally verify this method in laser-written photonic lattices and confirm both the magnitude and the sign of the coupling by interferometric measurements. Based on these findings, we demonstrate how such universal sign-flipped coupling links can be embedded into extended lattice structures to impose a $\mathbb{Z}_2$-gauge transformation. This opens a new avenue for investigations on topological effects arising from magnetic fields with aperiodic flux patterns or in disordered systems.
+
+id: 1512.01210
+title: Nearly optimal separations between communication (or query) complexity and partitions
+authors: Robin Kothari
+comments: 13 pages
+journal: 
+subjects: Computational Complexity (cs.CC); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.01210
+abstract: We show a nearly quadratic separation between deterministic communication complexity and the logarithm of the partition number, which is essentially optimal. This improves upon a recent power 1.5 separation of G\"o\"os, Pitassi, and Watson (FOCS 2015). In query complexity, we establish a nearly quadratic separation between deterministic (and even randomized) query complexity and subcube partition complexity, which is also essentially optimal. We also establish a nearly power 1.5 separation between quantum query complexity and subcube partition complexity, the first superlinear separation between the two measures. Lastly, we show a quadratic separation between quantum query complexity and one-sided subcube partition complexity. Our query complexity separations use the recent cheat sheet framework of Aaronson, Ben-David, and the author. Our query functions are built up in stages by alternating function composition with the cheat sheet construction. The communication complexity separation follows from lifting the query separation to communication complexity.
+
+id: 1405.6140
+title: Entropy bounds for quantum processes with initial correlations
+authors: Sai Vinjanampathy, Kavan Modi
+comments: Close to published version, 5 pages, RevTex4-1
+journal: Phys. Rev. A 92, 052310 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1405.6140
+abstract: 
+
+id: 1503.07662
+title: The holographic quantum
+authors: P. Fernandez de Cordoba, J.M. Isidro, J. Vazquez Molina
+comments: 17 pages; major revision
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1503.07662
+abstract: 
+
+id: 1503.08592
+title: Exact holographic mapping in free fermion systems
+authors: Ching Hua Lee, Xiao-Liang Qi
+comments: 32 pages, 7 figures
+journal: 
+subjects: High Energy Physics - Theory (hep-th); Strongly Correlated Electrons (cond-mat.str-el); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1503.08592
+abstract: 
+
+id: 1504.01602
+title: Experimental observation of weak non-Markovianity
+authors: Nadja K. Bernardes, Alvaro Cuevas, Adeline Orieux, C. H. Monken, Paolo Mataloni, Fabio Sciarrino, Marcelo F. Santos
+comments: v2: final version
+journal: Scientific Reports 5, 17520 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1504.01602
+abstract: 
+
+id: 1508.00207
+title: Robust quantum spatial search
+authors: Avatar Tulsi
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1508.00207
+abstract: 
+
+id: 1510.01472
+title: A quantum rectifier in a one-dimensional photonic channel
+authors: E. Mascarenhas, M. F. Santos, A. Auffeves, D. Gerace
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.01472
+abstract: 
+
+id: 1510.06996
+title: Comparison between two models of absorption of matter waves by a thin time-dependent barrier
+authors: Maximilien Barbier, Mathieu Beau, Arseni Goussev
+comments: 17 pages, 5 figures
+journal: Phys. Rev. A 92, 053630 (2015)
+subjects: Quantum Physics (quant-ph); Other Condensed Matter (cond-mat.other)
+url: http://www.arxiv.org/abs/1510.06996
+abstract: 
+
+id: 1511.06458
+title: Bayesian inference via rejection filtering
+authors: Nathan Wiebe, Christopher Granade, Ashish Kapoor, Krysta M Svore
+comments: 
+journal: 
+subjects: Learning (cs.LG); Quantum Physics (quant-ph); Machine Learning (stat.ML)
+url: http://www.arxiv.org/abs/1511.06458
+abstract: 
+
+id: 1512.00304
+title: Vibronic framework for quantum mixmaster universe
+authors: Herv¨¦ Bergeron, Ewa Czuchry, Jean-Pierre Gazeau, Przemys?aw Ma?kiewicz
+comments: 29 pages, 12 figures
+journal: 
+subjects: General Relativity and Quantum Cosmology (gr-qc); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.00304
+abstract: 
+
+id: 1512.00536
+title: Protecting coherence of a single quantum dot system via non-Markovian coherent feedback
+authors: Shibei Xue, Re-Bing Wu, Michael R. Hush, Tzyh-Jong Tarn
+comments: 9 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.00536
+abstract: 
+
+id: 1512.00840
+title: Temporal second-order coherence function for displaced-squeezed thermal states
+authors: Moorad Alexanian
+comments: in Journal Of Modern Optics, 2015
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1512.00840
+abstract: 
+
