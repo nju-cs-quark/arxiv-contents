@@ -1,0 +1,360 @@
+id: 1601.07544
+title: Lorentz Covariant Quantum 4-Potential and Orbital Angular Momentum for the Transverse Confinement of Matter Waves
+authors: Robert J. Ducharme, Irismar Gon?alves da Paz
+comments: 9 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.07544
+abstract: In two recent papers exact Hermite-Gaussian solutions to relativistic wave equations have been obtained for both electromagnetic and particle beams that include Gouy phase. The solutions for particle beams correspond to those of the Schr\"{o}dinger equation in the non-relativistic limit. Here, distinct canonical and kinetic 4-momentum operators will be defined for quantum particles in matter wave beams. The kinetic momentum is equal to the canonical momentum minus the transient terms resulting from the transverse confinement centered on the beam waist. Three results are obtained. First, the observable energy of a particle in a beam depends on the rest mass of the particle, the kinetic axial momentum and the size of the beam waist but not on the beam mode numbers. Second, transient terms from transverse confinement couple into the canonical 4-momentum of the beam particles as a Lorentz covariant quantum 4-potential originating at the waist. The quantum 4-potential plays an analogous role in relativistic Hamiltonian quantum mechanics to the Bohm potential in the non-relativistic quantum Hamilton-Jacobi equation. Third, the orbital angular momentum (OAM) operator must be defined in terms of canonical momentum operators. It is further shown that kinetic 4-momentum does not contribute to OAM indicating that OAM can therefore be regarded as a pure manifestation of quantum 4-potential.
+
+id: 1601.07545
+title: Beyond Complementarity
+authors: R. E. Kastner
+comments: Comments welcome
+journal: 
+subjects: Quantum Physics (quant-ph); History and Philosophy of Physics (physics.hist-ph)
+url: http://www.arxiv.org/abs/1601.07545
+abstract: It is argued that Niels Bohr ultimately arrived at positivistic and antirealist-flavored statements because of weaknesses in his initial objective of accounting for measurement in physical terms. Bohr's investigative approach faced a dilemma, the choices being (i) conceptual inconsistency or (ii) taking the classical realm as primitive. In either case, Bohr's `Complementarity' does not adequately explain or account for the emergence of a macroscopic, classical domain from a microscopic domain described by quantum mechanics. A diagnosis of the basic problem is offered, and an alternative way forward is indicated.
+
+id: 1601.07555
+title: Entropic nonsignalling correlations
+authors: Rafael Chaves, Costantino Budroni
+comments: 14 pages (including appendix), 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.07555
+abstract: We introduce the concept of entropic nonsignalling correlations, i.e., entropies arising from probabilistic theories that are compatible with the fact that we cannot transmit information instantaneously. We characterize and show the relevance of these entropic correlations in a variety of different scenarios, ranging from typical Bell experiments to more refined descriptions such as bilocality and information causality. In particular, we apply the framework to derive the first entropic inequality testing genuine tripartite nonlocality in quantum systems of arbitrary dimension and also prove the first known monogamy relation for entropic Bell inequalities. Further, within the context of complex Bell networks, we show that entropic nonlocal correlations can be activated.
+
+id: 1601.07601
+title: Improved classical simulation of quantum circuits dominated by Clifford gates
+authors: Sergey Bravyi, David Gosset
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.07601
+abstract: The Gottesman-Knill theorem asserts that a quantum circuit composed of Clifford gates can be efficiently simulated on a classical computer. Here we revisit this theorem and extend it to quantum circuits composed of Clifford and T gates, where T is the single-qubit 45-degree phase shift. We assume that the circuit outputs a bit string x obtained by measuring some subset of w qubits. Two simulation tasks are considered: (1) computing the probability of a given output x, and (2) sampling x from the output probability distribution. It is shown that these tasks can be solved on a classical computer in time $poly(n,m)+2^{0.5 t} t^3$ and $poly(n,m)+2^{0.23 t} t^3 w^4$ respectively, where t is the number of T-gates, m is the total number of gates, and n is the number of qubits. The proposed simulation algorithms may serve as a verification tool for medium-size quantum computations that are dominated by Clifford gates. The main ingredient of both algorithms is a subroutine for approximating the norm of an n-qubit state which is given as a linear combination of $\chi$ stabilizer states. The subroutine runs in time $\chi n^3 \epsilon^{-2}$, where $\epsilon$ is the relative error. We also develop techniques for approximating tensor products of "magic states" by linear combinations of stabilizer states. To demonstrate the power of the new simulation methods, we performed a classical simulation of a hidden shift quantum algorithm with 40 qubits, a few hundred Clifford gates, and nearly 50 T-gates.
+
+id: 1601.07612
+title: Coherent-State Approach for Majorana representation
+authors: H. D. Liu, L. B. Fu, Xiaoguang Wang
+comments: 8 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.07612
+abstract: By representing a quantum state and its evolution with the majorana stars on the Bloch sphere, the Majorana representation (MR) provide us an intuitive way to study a physical system with SU(2) symmetry. In this work, based on coherent states, we propose a method to establish generalization of MR for a general symmetry. By choosing a generalized coherent state as a reference state, we give a more general MR for both finite and infinite systems and the corresponding star equations are given. Using this method, we study the squeezed vacuum states for three different symmetries, Heisenberg-Weyl, SU(2) and SU(1,1), and express the effect of squeezing parameter on the distribution of stars. Furthermore, we also study the dynamical evolution of stars for an initial coherent state driven by a nonlinear Hamiltonian, and find that at a special time point, the stars are distributed on two orthogonal large circles.
+
+id: 1601.07623
+title: Mechanism for Time Reparametrization Symmetry Breaking in Spinor Gravity Coupled to Long-Range Spinor Particles
+authors: Eiji Konishi
+comments: 7 pages, 2 figures, revtex
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.07623
+abstract: We propose a mechanism for time reparametrization symmetry breaking in canonical gravity. We consider a model of spinor gravity, based on Sen's reformulation of canonical gravity as a spin system, with one additional long-range self-interacting massive spinor particle that is coupled to spinor gravity. The symmetry breaking is identified with the origin of the quantum mechanical non-unitary evolution. A part of our approach to deriving non-unitary time-dependent processes of wave functions follows the Diosi-Penrose argument on gravity's role in quantum state reduction.
+
+id: 1601.07668
+title: Vacuum polarization of planar Dirac fermions by a superstrong Coulomb potential
+authors: V.R. Khalilov, I.V. Mamsurov
+comments: 12 pages. arXiv admin note: substantial text overlap with arXiv:1509.02775
+journal: 
+subjects: Quantum Physics (quant-ph); High Energy Physics - Phenomenology (hep-ph)
+url: http://www.arxiv.org/abs/1601.07668
+abstract: We study the vacuum polarization of planar charged Dirac fermions by a strong Coulomb potential. Induced vacuum charge density is calculated and analyzed at the subcritical and supercritical Coulomb potentials for massless and massive fermions. For the massless case the induced vacuum charge density is localized at the origin when the Coulomb center charge is subcritical while it has a power-law tail when the Coulomb center charge is supercritical. The finite mass contribution into the induced charge due to the vacuum polarization is small and insignificantly distorts the Coulomb potential only at distances of order of the Compton length. The induced vacuum charge has a screening sign. As is known the quantum electrodynamics vacuum becomes unstable when the Coulomb center charge is increased from subcritical to supercritical values. In the supercritical Coulomb potential the quantum electrodynamics vacuum acquires the charge due to the so-called real vacuum polarization. We calculate the real vacuum polarization charge density. Screening of the Coulomb center charge are briefly discussed. We expect that our results will be helpful for more deep understanding of the fundamental problem of quantum electrodynamics and can as a matter of principle be tested in graphene with a supercritical Coulomb impurity.
+
+id: 1601.07683
+title: Quantum state magnification
+authors: O. Hosten, R. Krishnakumar, N. J. Engelsen, M. A. Kasevich
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.07683
+abstract: Quantum metrology exploits entangled states of particles to improve sensing precision beyond the limit achievable with uncorrelated particles. All previous methods required detection noise levels below this standard quantum limit to realize the benefits of the intrinsic sensitivity provided by these states. Remarkably, a recent proposal has shown that, in principle, such low-noise detection is not a necessary requirement. Here, we experimentally demonstrate a widely applicable method for entanglement-enhanced measurements without low-noise detection. Using an intermediate magnification step, we perform squeezed state metrology 8 dB below the standard quantum limit with a detection system that has a noise floor 10 dB above the standard quantum limit. Beyond its conceptual significance, this method eases implementation complexity and is expected to find application in next generation quantum sensors.
+
+id: 1601.07704
+title: Bipartite separability and non-lo cal quantum operations on graphs
+authors: Supriyo Dutta, Bibhas Adhikari, Subhashish Banerjee, R. Srikanth
+comments: 11 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph); Combinatorics (math.CO)
+url: http://www.arxiv.org/abs/1601.07704
+abstract: We consider the separability problem for bipartite quantum states from a graph theoretical perspective. Earlier it was proved that the degree criterion is the graph theoretical counterpart of familiar PPT criterion for separability. There are entangled states with positive partial transpose for which degree criterion fails. Here, we indicate a tighter bound on entangled states. We have developed the idea of some non-traditional symmetries in a graph that are necessary for separability. Moreover, we have studied graph isomorphisms as a tool for mixed state entanglement generation from mixed separable states.
+
+id: 1601.07771
+title: On angular momentum of photons: the role of transversality condition in quantum mechanics
+authors: Chun-Fang Li
+comments: 24 pages. This is an improved version of article arXiv:1501.06672
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.07771
+abstract: Whether the total angular momentum of the photon can be separated into spin and orbital parts has been a long-standing problem due to the constraint of transversality condition on its vector wavefunction. A careful analysis shows that the situation arises from a misuse of the constraint in quantum mechanics. To use the constraint properly, we convert the vector representation into a two-component representation in which the wavefunction is not constrained by any conditions. Upon doing so, we not only separate the spin conceptually from the orbital angular momentum but also identify the Berry gauge in which the two-component wavefunction can be canonically quantized. A corollary is that only in one particular Berry gauge can a radiation field be canonically quantized in terms of the plane waves. The degree of freedom to fix the Berry gauge, which reflects a symmetry of the constraint, turns out to have observable quantum effects.
+
+id: 1601.07772
+title: A General Framework for Wigner Function Generation and Entanglement Measures
+authors: Todd Tilma, M.J. Everitt, J.H. Samson, William J. Munro, Kae Nemoto
+comments: 5 pages, 3 figures, comments welcome
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1601.07772
+abstract: The possibility of constructing a complete, continuous Wigner function for any quantum system has been a subject of investigation for over 50 years. A key system that has served to illustrate the difficulties of this problem has been an ensemble of spins. While numerous attempts have come close to generating a complete Wigner phase-space description, each has either being artificial in its construction or fallen short of realising this ambition. Here we present a natural method of constructing Wigner functions that can be used to fully describe any quantum object or systems of systems. We see no reason why our approach should be limited to non-relativistic quantum mechanics; it may even lead to phase-space methods for more exotic frameworks such as string theory. In addition we show that the natural visual representation of the quantum state by the Wigner function leads to multiple and intuitive entanglement measures.
+
+id: 1601.07796
+title: Ultrashort Pulses for Far-Field Nanoscopy
+authors: Patrick Maurer, J. Ignacio Cirac, Oriol Romero-Isart
+comments: 8 pages (including supplementary material), 2+1 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1601.07796
+abstract: The Abbe diffraction limit prevents focusing monochromatic light in the far-field beyond a spot size half its wavelength. For microscopy purposes at the nanoscale, namely nanoscopy, such limit can be circumvented by either using near-fields, which are not diffraction-limited, or, in fluorescence nanoscopy, by manipulating bright and dark states of the fluorescent markers. Here we propose and analyze an alternative approach for far-field nanoscopy based on using coherent polychromatic light, that is, ultrashort pulses. Such pulses have spectral bandwidths comparable, and even larger in the attosecond regime, than a carrier optical frequency. We show that a train of ultrashort pulses can be used to excite markers with nanoscale resolution. In particular, we show that they can be focused to a spot size given by the wavelength associated to its spectral bandwidth and that they can excite a two-level marker with an optical transition. The excitation mechanism is non-conventional for two-level systems, as it relies on the existence of processes where an excitation is created together with the emission of a photon. The detection of the light emitted after fluorescence, or any other method used to detect the excitation, would thus lead to far-field nanoscopy. In this sense, our results open the door to design fluorescence nanoscopes that circumvent the Abbe's barrier without manipulating the states of the markers but using coherent polychromatic light.
+
+id: 1601.07802
+title: Propagation of Gaussian beams in the presence of gain and loss
+authors: Eva-Maria Graefe, Alexander Rush, Roman Schubert
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1601.07802
+abstract: We consider the propagation of Gaussian beams in a waveguide with gain and loss in the paraxial approximation governed by the Schr\"odinger equation. We derive equations of motion for the beam in the semiclassical limit that are valid when the waveguide profile is locally well approximated by quadratic functions. For Hermitian systems, without any loss or gain, these dynamics are given by Hamilton's equations for the center of the beam and its conjugate momentum. Adding gain and/or loss to the waveguide introduces a non-Hermitian component, causing the width of the Gaussian beam to play an important role in its propagation. Here we show how the width affects the motion of the beam and how this may be used to filter Gaussian beams located at the same initial position based on their width.
+
+id: 1601.07808
+title: Characterizing the dynamical semigroups that do not decrease a quantum entropy
+authors: Paolo Aniello, Dariusz Chruscinski
+comments: 24 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1601.07808
+abstract: In finite dimensions, we provide characterizations of the quantum dynamical semigroups that do not decrease the von Neumann, the Tsallis and the Renyi entropies, as well as a family of functions of density operators strictly related to the Schatten norms. A few remarkable consequences --- in particular, a description of the associated infinitesimal generators --- are derived, and some significant examples are discussed. Extensions of these results to semigroups of trace-preserving positive (i.e., not necessarily completely positive) maps and to a more general class of quantum entropies are also considered.
+
+id: 1601.07817
+title: Clearer visibility Hong-Ou-Mandel effect with correlation function based on rates rather than intensities
+authors: Krzysztof Roso?ek, Kamil Kostrzewa, Arijit Dutta, Wies?aw Laskowski, Marcin Wie?niak, Marek ?ukowski
+comments: 5 pages, 1 figure
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.07817
+abstract: We test ideas put forward e.g in arXiv:1508.02368, which suggest that using rates in quantum optics can lead to better indicators of non-classicality for states of quantum optical fields with undefined photon numbers. By rate we mean the ratio of registered photons in a given detector to the total number of detected photons in all detectors in the experiment. For the Hong-Ou-Mandel effect for parametric down conversion fields, we show that by using two detector correlation functions which are defined in terms of averages of products of measured rates, rather than usual intensities, one can observe non -- classical visibilities beyond $1/2$ for significantly higher pump rates. At such rates we already have a partially stimulated emission which leads to significant amplitudes for multiple pairs production, still the new approach allows to clearly see the non-classical dip.
+
+id: 1601.07822
+title: Few-Photon Spectroscopy
+authors: Gustavo C Amaral, Thiago Ferreira da Silva, Guilherme P Tempor?o, Jean Pierre von der Weid
+comments: 10 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.07822
+abstract: We perform a high resolution Fourier Transform Spectroscopy of optical sources in the few-photon regime based on the phenomenon of two-photon interference in a beam splitter. The method proves to be a useful asset for spectral characterization of faint optical sources below the range covered by classical heterodyne beating techniques.
+
+id: 1601.07823
+title: Pattern classification with linear regression on a quantum computer
+authors: Maria Schuld, Ilya Sinayskiy, Francesco Petruccione
+comments: 5 pages, 1 figure
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.07823
+abstract: We give an algorithm that solves the problem of pattern classification on a quantum computer, effectively performing linear regression with least squares optimisation. Opposed to related previous contributions suffering from the problem of reading out the optimal parameters of the fit, our scheme focuses on prediction for machine learning tasks and the result can be accessed through a single qubit measurement. The quantum algorithm is logarithmic in the dimension of the input space and independent of the size of the dataset if the data is given as quantum information.
+
+id: 1601.07833
+title: Stronger Attacks on Causality-Based Key Agreement
+authors: Benno Salwey, Stefan Wolf
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.07833
+abstract: Remarkably, it has been shown that in principle, security proofs for quantum key-distribution (QKD) protocols can be independent of assumptions on the devices used and even of the fact that the adversary is limited by quantum theory. All that is required instead is the absence of any hidden information flow between the laboratories, a condition that can be enforced either by shielding or by space-time causality. All known schemes for such Causal Key Distribution (CKD) that offer noise-tolerance (and, hence, must use privacy amplification as a crucial step) require multiple devices carrying out measurements in parallel on each end of the protocol, where the number of devices grows with the desired level of security. We investigate the power of the adversary for more practical schemes, where both parties each use a single device carrying out measurements consecutively. We provide a novel construction of attacks that is strictly more powerful than the best known attacks and has the potential to decide the question whether such practical CKD schemes are possible in the negative.
+
+id: 1601.07860
+title: Coherence by environmental decoherence in the damped and dephased Jaynes-Cummings models
+authors: Juan Mauricio Torres, Thomas H. Seligman
+comments: 6 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.07860
+abstract: We study two extensions to the Jaynes Cummings model described by Markovian master equations with Lindblad operators causing either dephasing or photon losses solely involving the cavity mode. We treat the two-level atom as the central system under investigation, while the mode of the cavity plays the role of a near environment coupled via the Lindblad operators to an imagined far environment. We show that increasing the dephasing or damping parameter of the cavity systematically slows the decoherence of the atom. The exact solvability allows us to determine the relation to the quantum Zeno effect and the perturbative regime.
+
+id: 1601.07866
+title: Ultrarelativistic bound states in the spherical well
+authors: Mariusz ?aba, Piotr Garbaczewski
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph); Spectral Theory (math.SP)
+url: http://www.arxiv.org/abs/1601.07866
+abstract: We address an eigenvalue problem for the ultrarelativistic (Cauchy) operator $(-\Delta )^{1/2}$, whose action is restricted to functions that vanish beyond the interior of a unit sphere in three spatial dimensions. We provide high accuracy spectral datafor lowest eigenvalues and eigenfunctions of this infinite spherical well problem. Our focus is on radial and orbital shapes of eigenfunctions. The spectrum consists of an ordered set of strictly positive eigenvalues which naturally splits into non-overlapping, orbitally labelled $E_{(k,l)}$ series. For each orbital label $l=0,1,2,...$ the label $k =1,2,...$ enumerates consecutive $l$-th series eigenvalues. Each of them is $2l+1$-degenerate. The $l=0$ eigenvalues series $E_{(k,0)}$ are identical with the set of even labeled eigenvalues for the $d=1$ Cauchy well: $E_{(k,0)}(d=3)=E_{2 k}(d=1)$. Likewise, the eigenfunctions $\psi_{(k,0 )}(d=3)$ and $\psi_{2k }(d=1)$ show affinity. We have identified the generic functional form of eigenfunctions of the spherical well which appear to be composed of a product of a solid harmonic and of a suitable purely radial function. The method to evaluate (approximately) the latter has been found to follow the universal pattern which effectively allows to skip all, sometimes involved, intermediate calculations (those were in usage, while computing the eigenvalues for $l \leq 3$).
+
+id: 1601.07874
+title: Lindbladian operators, von Neumann entropy and energy conservation in time-dependent quantum open systems
+authors: Congjie Ou, Ralph V. Chamberlin, Sumiyoshi Abe
+comments: 11 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech)
+url: http://www.arxiv.org/abs/1601.07874
+abstract: In this paper, first a simple formula is presented for time evolution of the von Neumann entropy under the Lindblad equation for a density matrix. Then, the following question is posed: In a quantum open system with a time-dependent Hamiltonian, what is a master equation for the quantum state that keeps the internal energy of the system constant in time? Here, this question is answered under the assumption of the Lindblad form for the equation. Time evolution of the von Neumann entropy is discussed, and a compact expression is derived for it. As an illustrative example, the time-dependent harmonic oscillator is analyzed, and the Lindbladian operator is determined with the help of a Lie-algebraic structure. It is shown how the sign of the time derivative of the von Neumann entropy is determined in accordance with the time dependence of the Hamiltonian.
+
+id: 1601.07568
+title: Realization of d-electron spin transport at room temperature at a LaAlO3/SrTiO3 interface
+authors: Ryo Ohshima, Yuichiro Ando, Kosuke Matsuzaki, Tomofumi Susaki, Mathias Weiler, Stefan Klingler, Hans Huebl, Eiji Shikoh, Teruya Shinjo, Sebastian T. B. Goennenwein, Masashi Shiraishi
+comments: 30 pages, 4 Figures, 1 Table, Supplemental Information
+journal: 
+subjects: Materials Science (cond-mat.mtrl-sci); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.07568
+abstract: A d-orbital electron has an anisotropic electron orbital and is a source of magnetism. The realization of a 2-dimensional electron gas (2DEG) embedded at a LaAlO3/SrTiO3 interface surprised researchers in materials and physical sciences because the 2DEG consists of 3d-electrons of Ti with extraordinarily large carrier mobility, even in the insulating oxide heterostructure. To date, a wide variety of physical phenomena, such as ferromagnetism and the quantum Hall effect, have been discovered in this 2DEG systems, demonstrating the ability of the d-electron 2DEG systems to provide a material platform for the study of interesting physics. However, because of both ferromagnetism and the Rashba field, long-range spin transport and the exploitation of spintronics functions have been believed difficult to implement in the d-electron 2DEG systems. Here, we report the experimental demonstration of room-temperature spin transport in the d-electron-based 2DEG at a LaAlO3/SrTiO3 interface, where the spin relaxation length is ca. exceeding 200 nm. Our finding, which counters the conventional understandings to d-electron 2DEGs, opens a new field of d-electron spintronics. Furthermore, this work highlights a novel spin function in the conductive oxide system.
+
+id: 1601.07611
+title: Integer effects in the entanglement and spin fluctuations of a quantum Hall system with Rashba interactions
+authors: Rona F. Barbarona, Francis N. C. Paraan
+comments: 7 pages PDFLATEX, 5 figures
+journal: 
+subjects: Strongly Correlated Electrons (cond-mat.str-el); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.07611
+abstract: We report distinct nonanalytic signatures in the spin-orbit entanglement of a 2D electron gas with Rashba interactions at integer values of the filling factor and at certain level crossings. The accompanying sharp changes in the bulk spin-orbit entanglement entropy can be probed by measuring the fluctuation in the spin polarization of the electron gas.
+
+id: 1601.07616
+title: Precursor problem and holographic mutual information
+authors: Ning Bao, Issac H. Kim
+comments: 13 pages, 1 figure
+journal: 
+subjects: High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.07616
+abstract: The recent proposal of Almheiri et al.this http URL, together with the Ryu-Takayanagi formula, implies the entanglement wedge hypothesis for certain choices of boundary subregions. This fact is derived in the pure AdS space. A similar conclusion holds in the presence of quantum corrections, but in a more restricted domain of applicability. We also comment on this http URL and some similarities and differences with this work
+
+id: 1601.07726
+title: Orbital Feshbach Resonance with Small Energy Gap between Open and Closed Channels
+authors: Yanting Cheng, Ren Zhang, Peng Zhang
+comments: 
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Atomic Physics (physics.atom-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.07726
+abstract: Recently a new type of Feshbach resonance, i.e., orbital Feshbach resonance (OFR) was proposed for the ultracold alkali-earth (like) atoms, and experimentally observed in the ultracold gases of $^{{\rm 173}}$Yb atoms. Unlike most of the magnetic Feshbach resonances of ultracold alkali atoms, when the OFR of $^{{\rm 173}}$Yb atoms appears, the energy gap between the thresholds of the open channel (OC) and the closed channel (CC) is much smaller than the characteristic energy of the inter-atomic interaction, i.e., the van der Waals energy. In this paper we study the OFR in the systems with small CC-OC threshold gap. We show that in these systems the OFR can be induced by the coupling between the OC and either an isolated bound state of the CC or the scattering states of the CC. Moreover, we also show that in each case the two-channel Huang-Yang pesudopoential is always applicable for the approximate calculation of the low-energy scattering amplitude. Our results imply that in the theoretical calculations for these systems it is appropriate to take into account the contributions from the scattering states of the CC.
+
+id: 1601.07764
+title: What is a particle-conserving Topological Superfluid?
+authors: Gerardo Ortiz, Emilio Cobanera
+comments: 
+journal: 
+subjects: Superconductivity (cond-mat.supr-con); Strongly Correlated Electrons (cond-mat.str-el); Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.07764
+abstract: We establish a criterion for characterizing superfluidity in interacting, particle-number conserving systems of fermions as topologically trivial or non-trivial. Because our criterion is based on the concept of many-body fermionic parity switches, it is directly associated to the observation of the fractional Josephson effect and indicates the emergence of zero-energy modes that anticommute with fermionic parity. We tested these ideas on the Richardson-Gaudin-Kitaev chain, a particle-number conserving system that is solvable by way of the algebraic Bethe ansatz, and reduces to a long-range Kitaev chain in the mean-field approximation. Guided by its closed-form solution, we introduce a procedure for constructing many-body Majorana zero-energy modes of gapped topological superfluids in terms of coherent superpositions of states with different number of fermions. We discuss their significance and the physical conditions required to enable quantum control in the light of superselection rules.
+
+id: 1601.07784
+title: Probabilities and Signalling in Quantum Field Theory
+authors: Robert Dickinson, Jeff Forshaw, Peter Millington
+comments: 23 pages, 3 figures
+journal: 
+subjects: High Energy Physics - Theory (hep-th); High Energy Physics - Phenomenology (hep-ph); Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.07784
+abstract: We present an approach to computing probabilities in quantum field theory for a wide class of source-detector models. The approach works directly with probabilities and not with squared matrix elements, and the resulting probabilities can be written in terms of expectation values of nested commutators and anti-commutators. We present results that help in the evaluation of these, including an expression for the vacuum expectation values of general nestings of commutators and anti-commutators in scalar field theory. This approach allows one to see clearly how faster-than-light signalling is prevented, because it leads to a diagrammatic expansion in which the retarded propagator plays a prominent role. We illustrate the formalism using the simple case of the much-studied Fermi two-atom problem.
+
+id: 1601.07899
+title: Coherent dynamics and decoherence in a superconducting weak link
+authors: J. T. Peltonen, Z. H. Peng, Yu. P. Korneeva, B. M. Voronov, A. A. Korneev, A. V. Semenov, G. N. Gol'tsman, J. S. Tsai, O. V. Astafiev
+comments: 5 pages, 3 figures
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Superconductivity (cond-mat.supr-con); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.07899
+abstract: We demonstrate coherent dynamics of quantized magnetic fluxes in a superconducting loop with a weak link - a nanobridge patterned from the same thin NbN film as the loop. The bridge is a short rounded shape constriction, close to 10 nm long and 20 - 30 nm wide, having minimal width at its center. Quantum state control and coherent oscillations in the driven time evolution of the tunnel-junctionless system are achieved. Decoherence and energy relaxation in the system are studied using a combination of microwave spectroscopy and direct time-domain techniques. The effective flux noise behavior suggests inductance fluctuations as a possible cause of the decoherence.
+
+id: quant-ph/0406061
+title: Entanglement Witnesses in Spin Models
+authors: Geza Toth
+comments: 5 pages including 3 figures, revtex4; some typos corrected
+journal: Physical Review A 71, 010301(R) (2005)
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech)
+url: http://www.arxiv.org/abs/quant-ph/0406061
+abstract: 
+
+id: 1504.00388
+title: Symmetric extendibility of quantum states
+authors: Marcin L. Nowakowski
+comments: Revised version with main changes in section II, 9 pages, 1 figure, RevTex
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1504.00388
+abstract: 
+
+id: 1504.03909
+title: Entanglement R¨¦nyi $¦Á$-entropy
+authors: Yu-Xin Wang, Liang-Zhu Mu, Vlatko Vedral, Heng Fan
+comments: 11 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1504.03909
+abstract: 
+
+id: 1506.06479
+title: The Classical-Quantum Channel with Random State Parameters Known to the Sender
+authors: Holger Boche, Ning Cai, Janis N?tzel
+comments: 26 pages, no figures. Many typos corrected. More details added to the proofs. Added proof for the direct part of capacity theorem for causal encoding
+journal: 
+subjects: Quantum Physics (quant-ph); Information Theory (cs.IT)
+url: http://www.arxiv.org/abs/1506.06479
+abstract: 
+
+id: 1508.02698
+title: Bipartite correlations in quantum resonance states
+authors: Przemyslaw Koscik
+comments: 5 pages, 2 figures, Accepted by PLA
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1508.02698
+abstract: 
+
+id: 1508.04110
+title: Approaching the Heisenberg limit without single-particle detection
+authors: Emily Davis, Gregory Bentsen, Monika Schleier-Smith
+comments: 5 + 4 pages (main text + supplement), 4 figures; in press at PRL
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1508.04110
+abstract: 
+
+id: 1508.07780
+title: Closing a quantum feedback loop inside a cryostat: Autonomous state preparation and long-time memory of a superconducting qubit
+authors: Christian Kraglund Andersen, Joseph Kerckhoff, Konrad W. Lehnert, Benjamin J. Chapman, Klaus M?lmer
+comments: 13 pages, 10 figures
+journal: Phys. Rev. A 93, 012346 (27 January 2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1508.07780
+abstract: 
+
+id: 1509.04719
+title: Spectral properties for a family of two-dimensional quantum antiferromagnets
+authors: Andrew S. Darmawan, Stephen D. Bartlett
+comments: 14 pages, 6 figures, comments welcome; v2 published version
+journal: Phys. Rev. B 93, 045129 (2016)
+subjects: Quantum Physics (quant-ph); Strongly Correlated Electrons (cond-mat.str-el)
+url: http://www.arxiv.org/abs/1509.04719
+abstract: 
+
+id: 1509.08014
+title: Concentric transmon qubit featuring fast tunability and an anisotropic magnetic dipole moment
+authors: Jochen Braum¨¹ller, Martin Sandberg, Michael R. Vissers, Andre Schneider, Steffen Schl?r, Lukas Gr¨¹nhaupt, Hannes Rotzinger, Michael Marthaler, Alexander Lukashenko, Amadeus Dieter, Alexey V. Ustinov, Martin Weides, David P. Pappas
+comments: 6 pages + 4 pages Supplemental Material, 6 figures
+journal: Appl. Phys. Lett. 108, 032601 (2016)
+subjects: Quantum Physics (quant-ph); Superconductivity (cond-mat.supr-con)
+url: http://www.arxiv.org/abs/1509.08014
+abstract: 
+
+id: 1512.02109
+title: Obtaining A Linear Combination of the Principal Components of a Matrix on Quantum Computers
+authors: Anmer Daskin
+comments: The title of the paper is changed. A couple of sections are extended. 8 pages and 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Learning (cs.LG); Statistics Theory (math.ST)
+url: http://www.arxiv.org/abs/1512.02109
+abstract: 
+
+id: 1512.08275
+title: The Too-Late-Choice Experiment: Bell's Proof within a Setting where the Nonlocal Effect's Target is an Earlier Event
+authors: Avshalom C. Elitzur, Eliahu Cohen, Tomer Shushi
+comments: Accepted for publication in International Journal of Quantum Foundations
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.08275
+abstract: 
+
+id: 1601.03569
+title: Cusps in the quenched dynamics of a Bloch state
+authors: J. M. Zhang
+comments: 5 pages, 6 figures; any comment is welcome
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.03569
+abstract: 
+

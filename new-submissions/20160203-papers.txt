@@ -1,0 +1,288 @@
+id: 1602.00703
+title: Direct certification of a class of quantum simulations
+authors: D. Hangleiter, M. Kliesch, M. Schwarz, J. Eisert
+comments: 8 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Quantum Gases (cond-mat.quant-gas)
+url: http://www.arxiv.org/abs/1602.00703
+abstract: One of the main challenges in the field of quantum simulation and computation is to identify ways to certify the correct functioning of a device when a classical efficient simulation is not available. In such a situation one cannot simply classically keep track of the dynamics of the device. In this note, we discuss weak-membership notions of the certification for ground state preparations of frustration-free Hamiltonians based on simple energy measurements of local Hamiltonian terms. These considerations have applications to classically intractable analog quantum simulations: for example, using Feynman-Kitaev Hamiltonians, one can realise universal quantum computers. Our certification approach is non-interactive and thus avoids challenges arising from interactive proof systems. Moreover, our certification protocol is applicable to recent results on so-called IQP circuits aiming at the demonstration of quantum supremacy.
+
+id: 1602.00709
+title: Quantum perceptron over a field and neural network architecture selection in a quantum computer
+authors: Adenilton J. da Silva, Teresa B. Ludermir, Wilson R. de Oliveira
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Neural and Evolutionary Computing (cs.NE)
+url: http://www.arxiv.org/abs/1602.00709
+abstract: In this work, we propose a quantum neural network named quantum perceptron over a field (QPF). Quantum computers are not yet a reality and the models and algorithms proposed in this work cannot be simulated in actual (or classical) computers. QPF is a direct generalization of a classical perceptron and solves some drawbacks found in previous models of quantum perceptrons. We also present a learning algorithm named Superposition based Architecture Learning algorithm (SAL) that optimizes the neural network weights and architectures. SAL searches for the best architecture in a finite set of neural network architectures with linear time over the number of patterns in the training set. SAL is the first learning algorithm to determine neural network architectures in polynomial time. This speedup is obtained by the use of quantum parallelism and a non-linear quantum operator.
+
+id: 1602.00781
+title: Robust entanglement between a movable mirror and atomic ensemble and entanglement transfer in coupled optomechanical system
+authors: Cheng-Hua Bai, Dong-Yang Wang, Hong-Fu Wang, Ai-Dong Zhu, Shou Zhang
+comments: 18 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.00781
+abstract: We propose a scheme for the creation of robust entanglement between a movable mirror and atomic ensemble at the macroscopic level in coupled optomechanical system. In experimentally accessible parameter regimes, we show that critical temperature of the bipartite continuous variable entanglement in our scheme can be raised from previous 24 K [Vitali {\it et al.}, Phys. Rev. Lett. \textbf{98}, 030405 (2007)] and 20 K [Genes {\it et al.}, Phys. Rev. A \textbf{77}, 050307(R) (2008)] to 32 K. We also investigate the entanglement transfer based on this coupled system. The scheme can be used for the realization of quantum memories for continuous variable quantum information processing and quantum-limited displacement measurements.
+
+id: 1602.00791
+title: Analysis and improvement of Tian-Zhang-Li voting protocol based on controlled quantum teleportation
+authors: Kishore Thapliyal, Rishi Dutt Sharma, Anirban Pathak
+comments: 9 pages no figure
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.00791
+abstract: Recently Tian, Zhang and Li (TZL) have proposed a protocol for voting based on controlled quantum teleportation (Int. J. Theor. Phys. DOI 10.1007/s10773-015-2868-8). We have critically analyzed the protocol and have shown that it's neither efficient nor secure. Further, it is shown that in the TZL protocol, the scrutineer Charlie does not have the required control over the voting process. Apart from showing the limitations of TZL protocol, two improved protocols for quantum voting along the line of TZL protocol are proposed here. One of the proposed protocols is designed using a standard scheme of controlled deterministic secure quantum communication, and the other one is designed using the idea of quantum cryptographic switch which uses a technique known as permutation of particles (PoP). A few possible alternative approaches to accomplish the same task have also been discussed. Further, the efficiencies of the proposed protocols are reported, and it is shown that the proposed protocols are free from the limitations of the TZL protocol, and they are more efficient than the TZL protocol.
+
+id: 1602.00832
+title: Multiparty Quantum Key Agreement based on Quantum Secret Direct Communication with GHZ states
+authors: Guo-Jyun Zeng, Kuan-Hung Chen, Zhe-Hua Chang, Yu-Shan Yang, Yao-Hsin Chou
+comments: 9 pages, 12 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.00832
+abstract: Quantum Key Agreement (QKA) signifies that two or more participants together generate a key and QKA has to satisfy the following conditions: 1 Every participant can change the key and the key is not decided by any participant individually. 2 Only participants can know the key; nonparticipants cannot get the key through illegal means. Because of the condition 1 of participating together, it makes transport inefficient in the current mainstream protocols. They use unicast to exchange messages one by one, so it will considerably limit transmission efficiency and increase cost time spent. This study proposes a protocol based on Multiparty Quantum Secret Direct Communication (MQSDC) with multicast. In addition to satisfying the above conditions, it uses multicast to not only achieve the effect and purpose of QKA, but also to defend against internal and external attacks at the same time. In regard to resource consumption, this study involves linear growth and is more efficient than other mainstream protocols which employ exponential growth.
+
+id: 1602.00871
+title: Multiple particle-hole pair creation in the Fermi-Hubbard model by a pump laser
+authors: Nicolai ten Brinke, Manuel Ligges, Uwe Bovensiepen, Ralf Sch¨¹tzhold
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Strongly Correlated Electrons (cond-mat.str-el)
+url: http://www.arxiv.org/abs/1602.00871
+abstract: We study the Fermi-Hubbard model in the strongly correlated Mott phase under the influence of a harmonically oscillating electric field, e.g., a pump laser. In the Peierls representation, this pump field can be represented as an oscillating phase of the hopping rate $J(t)$, such that the effective time-averaged rate $\bar J$ is reduced, i.e., switching the pump laser suddenly is analogous to a quantum quench. Apart from this time-averaged rate $\bar J$, it is well known that the oscillating component of $J(t)$ can resonantly create particle-hole pairs if the pump frequency $\omega_{\rm pump}$ equals (or a little exceeds) the Mott gap. In addition, we find that it is possible to create multiple pairs if $\omega_{\rm pump}$ is near an integer multiple of the gap. These findings should be relevant for pump-probe experiments.
+
+id: 1602.00909
+title: Rydberg systems in parallel electric and magnetic fields: an improved method for finding exceptional points
+authors: Matthias Feldmaier, J?rg Main, Frank Schweiner, Holger Cartarius, G¨¹nter Wunner
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.00909
+abstract: Exceptional points are special parameter points in spectra of open quantum systems, at which resonance energies degenerate and the associated eigenvectors coalesce. Typical examples are Rydberg systems in parallel electric and magnetic fields, for which we solve the Schr\"odinger equation in a complete basis to calculate the resonances and eigenvectors. Starting from an avoided crossing within the parameter-dependent spectra and using a two-dimensional matrix model, we develop an iterative algorithm to calculate the field strengths and resonance energies of exceptional points and to verify their basic properties. Additionally, we are able to visualise the wave functions of the degenerate states. We report the existence of various exceptional points. For the hydrogen atom these points are in an experimentally inaccessible regime of field strengths. However, excitons in cuprous oxide in parallel electric and magnetic fields, i. e., the corresponding hydrogen analogue in a solid state body, provide a suitable system, where the high-field regime can be reached at much smaller external fields and for which we propose an experiment to detect exceptional points.
+
+id: 1602.00924
+title: (Quantum) Fractional Brownian Motion and Multifractal Processes under the Loop of a Tensor Networks
+authors: Beno?t Descamps
+comments: 10 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Physics (physics.comp-ph); Applications (stat.AP)
+url: http://www.arxiv.org/abs/1602.00924
+abstract: We derive fractional Brownian motion and stochastic processes with multifractal properties using a framework of network of Gaussian conditional probabilities. This leads to the derivation of new representations of fractional Brownian motion. These constructions are inspired from renormalization. The main result of this paper consists of constructing each increment of the process from two-dimensional gaussian noise inside the light-cone of each seperate increment. Not only does this allows us to derive fractional Brownian motion, we can introduce extensions with multifractal flavour. In another part of this paper, we discuss the use of the multi-scale entanglement renormalization ansatz (MERA), introduced in the study critical systems in quantum spin lattices, as a method for sampling integrals with respect to such multifractal processes. After proper calibration, a MERA promises the generation of a sample of size $N$ of a multifractal process in the order of $O(N\log(N))$, an improvement over the known methods, such as the Cholesky decomposition and the circulant methods, which scale between $O(N^2)$ and $O(N^3)$.
+
+id: 1602.00926
+title: Non-Markovian Dynamics in Chiral Quantum Networks with Spins and Photons
+authors: Tom¨¢s Ramos, Beno?t Vermersch, Philipp Hauke, Hannes Pichler, Peter Zoller
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Atomic Physics (physics.atom-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1602.00926
+abstract: We study the dynamics of chiral quantum networks consisting of nodes coupled by unidirectional or asymmetric bidirectional quantum channels. In contrast to the familiar photonic networks consisting of driven two-level atoms exchanging photons via 1D photonic nanostructures, we propose and study a setup where interactions between the atoms are mediated by spin excitations (magnons) in 1D XX-spin chains representing a spin waveguide. While Markovian quantum network theory eliminates quantum channels as structureless reservoirs in a Born-Markov approximation to obtain a master equation for the nodes, we are interested in non-Markovian dynamics. This arises from the nonlinear character of the dispersion with band-edge effects, and from finite spin propagation velocities leading to time delays in interactions. To account for the non-Markovian dynamics we treat the quantum degrees of freedom of the nodes and connecting channel as a composite spin system with the surrounding of the quantum network as a Markovian bath, allowing for an efficient solution with time-dependent density matrix renormalization group techniques. We illustrate our approach showing non-Markovian effects in the driven-dissipative formation of quantum dimers, and we present examples for quantum information protocols involving quantum state transfer with engineered elements as basic building blocks of quantum spintronic circuits.
+
+id: 1602.01005
+title: Deterministic Single-Phonon Source Triggered by a Single Photon
+authors: Immo S?llner, Leonardo Midolo, Peter Lodahl
+comments: 7 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1602.01005
+abstract: We propose a scheme that enables the deterministic generation of single phonons at GHz frequencies triggered by single photons in the near infrared. This process is mediated by a quantum dot embedded on-chip in an opto-mechanical circuit, which allows for the simultaneous control of the relevant photonic and phononic frequencies. We devise new opto-mechanical circuit elements that constitute the necessary building blocks for the proposed scheme and are readily implementable within the current state-of-the-art of nano-fabrication. This will open new avenues for implementing quantum functionalities based on phonons as an on-chip quantum bus.
+
+id: 1602.01056
+title: Optical magnetic detection of single-neuron action potentials using quantum defects in diamond
+authors: J. F. Barry, M. J. Turner, J. M. Schloss, D. R. Glenn, Y. Song, M. D. Lukin, H. Park, R. L. Walsworth
+comments: 23 pages, 12 figures, 2 tables
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Atomic Physics (physics.atom-ph); Neurons and Cognition (q-bio.NC)
+url: http://www.arxiv.org/abs/1602.01056
+abstract: A key challenge for neuroscience is noninvasive, label-free sensing of action potential (AP) dynamics in whole organisms with single-neuron resolution. Here, we present a new approach to this problem: using nitrogen-vacancy (NV) quantum defects in diamond to measure the time-dependent magnetic fields produced by single-neuron APs. Our technique has a unique combination of features: (i) it is noninvasive, as the light that probes the NV sensors stays within the biocompatible diamond chip and does not enter the organism, enabling activity monitoring over extended periods; (ii) it is label-free and should be widely applicable to most organisms; (iii) it provides high spatial and temporal resolution, allowing precise measurement of the AP waveforms and conduction velocities of individual neurons; (iv) it directly determines AP propagation direction through the inherent sensitivity of NVs to the associated AP magnetic field vector; (v) it is applicable to neurons located within optically opaque tissue or whole organisms, through which magnetic fields pass largely unperturbed; and (vi) it is easy-to-use, scalable, and can be integrated with existing techniques such as wide-field and superresolution imaging. We demonstrate our method using excised single neurons from two invertebrate species, marine worm and squid; and then by single-neuron AP magnetic sensing exterior to whole, live, opaque marine worms for extended periods with no adverse effect. The results lay the groundwork for real-time, noninvasive 3D magnetic mapping of functional neuronal networks, ultimately with synapse-scale (~10 nm) resolution and circuit-scale (~1 cm) field-of-view.
+
+id: 1602.00694
+title: Quantum Brownian motion in a Landau level
+authors: Emilio Cobanera, Peter Kristel, Cristiane Morais Smith
+comments: 
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.00694
+abstract: Motivated by questions about the open-system dynamics of topological quantum matter, we investigated the quantum Brownian motion of an electron in a homogeneous magnetic field. When the Fermi length $l_F=\hbar/(v_Fm_{\text{eff}})$ becomes much longer than the magnetic length $l_B=(\hbar c/eB)^{1/2}$, then the spatial coordinates $X,Y$ of the electron cease to commute, $[X,Y]=il_B^2$. As a consequence, localization of the electron becomes limited by Heisenberg uncertainty, and the linear bath-electron coupling becomes unconventional. Moreover, because the kinetic energy of the electron is quenched by the strong magnetic field, the electron has no energy to give to or take from the bath, and so the usual connection between frictional forces and dissipation no longer holds. These two features make quantum Brownian motion topological, in the regime $l_F\gg l_B$, which is at the verge of current experimental capabilities. We model topological quantum Brownian motion in terms of an unconventional operator Langevin equation derived from first principles, and solve this equation with the aim of characterizing diffusion. While diffusion in the noncommutative plane turns out to be conventional, with the mean displacement squared being proportional to $t^\alpha$ and $\alpha=1$, there is an exotic regime for the proportionality constant in which it is directly proportional to the friction coefficient and inversely proportional to the square of the magnetic field: in this regime, friction helps diffusion and the magnetic field suppresses all fluctuations. We also show that quantum tunneling can be completely suppressed in the noncommutative plane for suitably designed metastable potential wells, a feature that might be worth exploiting for storage and protection of quantum information.
+
+id: 1602.00916
+title: Stress tensor for a scalar field in a spatially varying background potential: Divergences, "renormalization," anomalies, and Casimir forces
+authors: Kimball A. Milton, Stephen A. Fulling, Prachi Parashar, Pushpa Kalauni, Taylor Murphy
+comments: 20 pages, 6 figures
+journal: 
+subjects: High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.00916
+abstract: Motivated by a desire to understand quantum fluctuation energy densities and stress within a spatially varying dielectric medium, we examine the vacuum expectation value for the stress tensor of a scalar field with arbitrary conformal parameter, in the background of a given potential that depends on only one spatial coordinate. We regulate the expressions by incorporating a temporal-spatial cutoff in the (imaginary) time and transverse-spatial directions. The divergences are captured by the zeroth- and second-order WKB approximations. Then the stress tensor is "renormalized" by omitting the terms that depend on the cutoff. The ambiguities that inevitably arise in this procedure are both duly noted and restricted by imposing certain physical conditions; one result is that the renormalized stress tensor exhibits the expected trace anomaly. The renormalized stress tensor exhibits no pressure anomaly, in that the principle of virtual work is satisfied for motions in a transverse direction. We then consider a potential that defines a wall, a one-dimensional potential that vanishes for $z<0$ and rises like $z^\alpha$, $\alpha>0$, for $z>0$. The full finite stress tensor is computed numerically for the two cases where explicit solutions to the differential equation are available, $\alpha=1$ and 2. The energy density exhibits an inverse linear divergence as the boundary is approached from the inside for a linear potential, and a logarithmic divergence for a quadratic potential. Finally, the interaction between two such walls is computed, and it is shown that the attractive Casimir pressure between the two walls also satisfies the principle of virtual work (i.e., the pressure equals the negative derivative of the energy with respect to the distance between the walls).
+
+id: 1602.00952
+title: Controlling dynamical entanglement in a Josephson tunneling junction
+authors: K. Ziegler
+comments: 9 pages, 5 figures
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.00952
+abstract: We analyze the evolution of an entangled many-body state in a Josephson tunneling junction. A N00N state, which is a superposition of two complementary Fock states, appears in the evolution with sufficient probability only for a moderate many-body interaction on an intermediate time scale. This time scale is inversely proportional to the tunneling rate. Interaction between particles supports entanglement: The probability for creating an entangled state decays exponentially with the number of non-interacting particles, whereas it decays only like the inverse square root of the number of interacting particles.
+
+id: 1602.00974
+title: Efficient mode conversion in an optical nanoantenna mediated by quantum emitters
+authors: Jakob Straubel, Robert Filter, Carsten Rockstuhl, Karolina Slowik
+comments: 5 pages, 3 figures
+journal: 
+subjects: Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.00974
+abstract: Converting signals between different electromagnetic modes is an asset for future information technologies. In general, slightly asymmetric optical nanoantennas enable the coupling between bright and dark modes sustained by an optical nanoantenna. However, the conversion efficiency might be very low. Here, we show that the additional incorporation of a quantum emitter allows to tremendously enhance this efficiency. The enhanced local density of states cycles the quantum emitter between its upper and lower level at an extremely hight rate; hence converting the energy very efficient. The process is robust with respect to possible experimental tolerances and adds a new ingredient to be exploited while studying and applying coupling phenomena in optical nanosystems.
+
+id: 1602.01037
+title: Optical resonance shifts in the fluorescence imaging of thermal and cold Rubidium atomic gases
+authors: S. D. Jenkins, J. Ruostekoski, J. Javanainen, R. Bourgain, S. Jennewein, Y. R. P. Sortais, A. Browaeys
+comments: 
+journal: 
+subjects: Atomic Physics (physics.atom-ph); Quantum Gases (cond-mat.quant-gas); Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.01037
+abstract: We show that the resonance shifts in fluorescence of a cold gas of rubidium atoms substantially differ from those of thermal atomic ensembles that obey the standard continuous medium electrodynamics. The analysis is based on large-scale microscopic numerical simulations and experimental measurements of the resonance shifts in a steady-state response in light propagation.
+
+id: 1602.01048
+title: Probing QED and fundamental constants through laser spectroscopy of vibrational transitions in HD+
+authors: J. Biesheuvel, J.-Ph. Karr, L. Hilico, K. S. E. Eikema, W. Ubachs, J. C. J. Koelemeij
+comments: 
+journal: Nature Communications 7, 10385 (2016)
+subjects: Atomic Physics (physics.atom-ph); Chemical Physics (physics.chem-ph); Plasma Physics (physics.plasm-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.01048
+abstract: The simplest molecules in nature, molecular hydrogen ions in the form of H2+ and HD+, provide an important benchmark system for tests of quantum electrodynamics in complex forms of matter. Here, we report on such a test based on a frequency measurement of a vibrational overtone transition in HD+ by laser spectroscopy. We find that the theoretical and experimental frequencies are equal to within 0.6(1.1) parts per billion, which represents the most stringent test of molecular theory so far. Our measurement not only confirms the validity of high-order quantum electrodynamics in molecules, but also enables the long predicted determination of the proton-to-electron mass ratio from a molecular system, as well as improved constraints on hypothetical fifth forces and compactified higher dimensions at the molecular scale. With the perspective of comparisons between theory and experiment at the 0.01 part-per-billion level, our work demonstrates the potential of molecular hydrogen ions as a probe of fundamental physical constants and laws.
+
+id: 1602.01079
+title: Design of defect spins in piezoelectric aluminum nitride for solid-state hybrid quantum technologies
+authors: Hosung Seo, Marco Govoni, Giulia Galli
+comments: In press. 32 pages, 4 figures, 3 tables, Scientific Reports 2016
+journal: 
+subjects: Materials Science (cond-mat.mtrl-sci); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.01079
+abstract: Spin defects in wide-band gap semiconductors are promising systems for the realization of quantum bits, or qubits, in solid-state environments. To date, defect qubits have only been realized in materials with strong covalent bonds. Here, we introduce a strain-driven scheme to rationally design defect spins in functional ionic crystals, which may operate as potential qubits. In particular, using a combination of state-of-the-art ab-initio calculations based on hybrid density functional and many-body perturbation theory, we predicted that the negatively charged nitrogen vacancy center in piezoelectric aluminum nitride exhibits spin-triplet ground states under realistic uni- and bi-axial strain conditions; such states may be harnessed for the realization of qubits. The strain-driven strategy adopted here can be readily extended to a wide range of point defects in other wide-band gap semiconductors, paving the way to controlling the spin properties of defects in ionic systems for potential spintronic technologies.
+
+id: 0911.1142
+title: Quantum Mechanics of Consecutive Measurements
+authors: Jennifer R. Glick, Christoph Adami
+comments: 5 pages, 3 figures. Significantly improved version. Added co-author, and Supplementary Text
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/0911.1142
+abstract: 
+
+id: 1401.3707
+title: Scattering of coherent pulses on a two-level system - single-photon generation
+authors: Joel Lindkvist, G?ran Johansson
+comments: 11 pages, 6 figures
+journal: New J. Phys. 16 055018 (2014)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1401.3707
+abstract: 
+
+id: 1412.8462
+title: An operational approach to spacetime symmetries: Lorentz transformations from quantum communication
+authors: Philipp A. Hoehn, Markus P. Mueller
+comments: 42 pages, 7 figures. Substantially revised version with overall improved and streamlined presentation. Many clarifications implemented. New figures
+journal: 
+subjects: Quantum Physics (quant-ph); General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); History and Philosophy of Physics (physics.hist-ph)
+url: http://www.arxiv.org/abs/1412.8462
+abstract: 
+
+id: 1506.02333
+title: Mixedness and Entanglement in the presence of Localized Closed Timelike Curves
+authors: Eylee Jung, DaeKil Park
+comments: 10 pages, 1 figure; V2 12 pages, references added
+journal: 
+subjects: High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1506.02333
+abstract: 
+
+id: 1506.07265
+title: Necessity of Eigenstate Thermalization
+authors: Giacomo De Palma, Alessio Serafini, Vittorio Giovannetti, Marcus Cramer
+comments: 7 pages, misprint corrected in Eqs. (A14), (A15)
+journal: Phys. Rev. Lett. 115, 220401 (2015)
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1506.07265
+abstract: 
+
+id: 1510.03065
+title: Broadband parametric amplification with impedance engineering: Beyond the gain-bandwidth product
+authors: Tanay Roy, Suman Kundu, Madhavi Chand, A. M. Vadiraj, A. Ranadive, N. Nehra, Meghan P. Patankar, J. Aumentado, A. A. Clerk, R. Vijay
+comments: Updated: Main text (5 pages, 4 figures) and Supplementary Material (10 pages, 6 figures)
+journal: Appl. Phys. Lett. 107, 262601 (2015)
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.03065
+abstract: 
+
+id: 1510.05550
+title: Bounds on probability of state transfer with respect to readout time and edge weight
+authors: Whitney Gordon, Steve Kirkland, Chi-Kwong Li, Sarah Plosker, Xiaohong Zhang
+comments: 8 pages; fixed numerous typos (in particular, in proofs of Proposition III.2 and Theorem III.3
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.05550
+abstract: 
+
+id: 1511.08733
+title: Dynamics of dissipative Bose-Einstein condensation
+authors: Stephan Caspar, Florian Hebenstreit, David Mesterh¨¢zy, Uwe-Jens Wiese
+comments: 5 pages, 4 figures; version accepted for publication in PRA
+journal: Phys. Rev. A 93, 021602(R) (2016)
+subjects: Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.08733
+abstract: 
+
+id: 1512.05572
+title: Entanglement convertibility by sweeping through the phase diagram of one dimensional $XXZ$ model with bond alternation
+authors: Yu-Chin Tzeng, Li Dai, Ming-Chiang Chung, Luigi Amico, Leong-Chuan Kwek
+comments: Substantially revised manuscript. Refs. added. Precision improved
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Statistical Mechanics (cond-mat.stat-mech); Strongly Correlated Electrons (cond-mat.str-el); Computational Physics (physics.comp-ph)
+url: http://www.arxiv.org/abs/1512.05572
+abstract: 
+
+id: 1512.07698
+title: Polarization-entangled photon-pair source obtained via type-II non-collinear SPDC process with PPKTP crystal
+authors: Sang Min Lee, Heonoh Kim, Myoungsik Cha, Han Seb Moon
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.07698
+abstract: 
+
+id: 1601.06816
+title: Hawking spectrum for a fiber-optical analogue of the event horizon
+authors: David Bermudez, Ulf Leonhardt
+comments: 14 pages, 11 figures, 47 references
+journal: 
+subjects: General Relativity and Quantum Cosmology (gr-qc); Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.06816
+abstract: 
+
+id: 1601.07545
+title: Beyond Complementarity
+authors: R. E. Kastner
+comments: Typos corrected and a reference added; this is a contribution to Quantum Structural Studies, a volume edited by J. Jekni\'c-Dugi\'c, G. Jaroszkiewicz, and R. E. Kastner; to be published by World Scientific. Comments welcome
+journal: 
+subjects: Quantum Physics (quant-ph); History and Philosophy of Physics (physics.hist-ph)
+url: http://www.arxiv.org/abs/1601.07545
+abstract: 
+
+id: 1601.07940
+title: An Improved Semidefinite Programming Upper Bound on Distillable Entanglement
+authors: Xin Wang, Runyao Duan
+comments: 5 pages, 2 figures, comments are welcome
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.07940
+abstract: 
+
+id: 1602.00630
+title: Analytical solution for multisingular vortex Gaussian beams: The mathematical theory of scattering modes
+authors: A. Ferrando, M.A. Garcia-March
+comments: 19 pages, 2 tables, 1 figure
+journal: 
+subjects: Optics (physics.optics); Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.00630
+abstract: 
+

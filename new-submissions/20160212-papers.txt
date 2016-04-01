@@ -1,0 +1,270 @@
+id: 1602.03539
+title: Efficient classical simulation of matchgate circuits with generalized inputs and measurements
+authors: Daniel J. Brod
+comments: 11 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.03539
+abstract: Matchgates are a restricted set of two-qubit gates known to be classically simulable under particular conditions. Specifically, if a circuit consists only of nearest-neighbour matchgates, an efficient classical simulation is possible if either (i) the input is a computational basis state and the simulation requires computing probabilities of multi-qubit outcomes (including also adaptive measurements), or (ii) if the input is an arbitrary product state, but the output of the circuit consists of a single qubit. In this paper we extend these results to show that matchgates are classically simulable even in the most general combination of these settings, namely, if the inputs are arbitrary input states, if the measurements are over arbitrarily many output qubits, and if adaptive measurements are allowed. This remains true even for arbitrary single-qubit measurements, albeit only in a weaker notion of classical simulation. These results make for an interesting contrast with other restricted models of computation, such as Clifford circuits or (bosonic) linear optics, where the complexity of simulation varies greatly under similar modifications.
+
+id: 1602.03705
+title: Non-Hermitian wave packet approximation for coupled two-level systems in weak and intense fields
+authors: Raiju Puthumpally-joseph, Maxim Sukharev, Eric Charron
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Physics (physics.comp-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1602.03705
+abstract: We introduce an accurate non-Hermitian Schr\"odinger-type approximation of Bloch optical equations for two-level systems. This approximation provides a complete description of the excitation, relaxation and decoherence dynamics in both weak and strong laser fields. In this approach, it is sufficient to propagate the wave function of the quantum system instead of the density matrix, providing that relaxation and dephasing are taken into account via automatically-adjusted time-dependent gain and decay rates. The developed formalism is applied to the problem of scattering and absorption of electromagnetic radiation by a thin layer comprised of interacting two-level emitters.
+
+id: 1602.03731
+title: Quantum Correlations and Coherence in Spin-1 Heisenberg Chains
+authors: A. L. Malvezzi, G. Karpat, B. ?akmak, F. F. Fanchini, T. Debarba, R. O. Vianna
+comments: 8 pages. 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech)
+url: http://www.arxiv.org/abs/1602.03731
+abstract: We explore quantum and classical correlations along with coherence in the ground states of spin-1 Heisenberg chains, namely the one-dimensional XXZ model and the one-dimensional bilinear biquadratic model, with the techniques of density matrix renormalization group theory. Exploiting the tools of quantum information theory, that is, by studying quantum discord, quantum mutual information and three recently introduced coherence measures in the reduced density matrix of two nearest neighbor spins in the bulk, we investigate the quantum phase transitions and special symmetry points in these models. We point out the relative strengths and weaknesses of correlation and coherence measures as figures of merit to witness the quantum phase transitions and symmetry points in the considered spin-1 Heisenberg chains. In particular, we demonstrate that as none of the studied measures can detect the infinite order Kosterlitz-Thouless transition in the XXZ model, they appear to be able to signal the existence of the same type of transition in the biliear biquadratic model. However, we argue that what is actually detected by the measures here is the SU(3) symmetry point of the model rather than the infinite order quantum phase transition. Moreover, we show in the XXZ model that examining even single site coherence can be sufficient to spotlight the second-order phase transition and the SU(2) symmetry point.
+
+id: 1602.03769
+title: Path-polarization hyperentangled and cluster states of photons on a chip
+authors: Mario A. Ciampini, Adeline Orieux, Stefano Paesani, Fabio Sciarrino, Giacomo Corrielli, Andrea Crespi, Roberta Ramponi, Roberto Osellame, Paolo Mataloni
+comments: 7 pages, 7 figures, RevTex4-1, Light: Science & Applications AAP:this http URL
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.03769
+abstract: Encoding many qubits in different degrees of freedom (DOFs) of single photons is one of the routes towards enlarging the Hilbert space spanned by a photonic quantum state. Hyperentangled photon states (i.e. states showing entanglement in multiple DOFs) have demonstrated significant implications for both fundamental physics tests and quantum communication and computation. Increasing the number of qubits of photonic experiments requires miniaturization and integration of the basic elements and functions to guarantee the set-up stability. This motivates the development of technologies allowing the precise control of different photonic DOFs on a chip. We demonstrate the contextual use of path and polarization qubits propagating within an integrated quantum circuit. We tested the properties of four-qubit linear cluster states built on both DOFs. Our results pave the way towards the full integration on a chip of hybrid multiqubit multiphoton states.
+
+id: 1602.03772
+title: Nonlinear Schr?dinger equation in foundations: summary of 4 catches
+authors: Lajos Di¨®si
+comments: 5pp, 1photo
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.03772
+abstract: Fundamental modifications of the standard Schr\"odinger equation by additional nonlinear terms have been considered for various purposes over the recent decades. It came as a surprise when, inverting Abner Shimony's observation of "peaceful coexistence" between standard quantum mechanics and relativity, N. Gisin proved in 1990 that any (deterministic) nonlinear Schr\"odinger equation would allow for superluminal communication. This is by now the most spectacular and best known anomaly. We discuss further anomalies, simple but foundational, less spectacular but not less dramatic.
+
+id: 1602.03783
+title: No-signaling versus quantum constraints for spatio-temporal correlations caused by weak measurement
+authors: Justyna ?odyga, Waldemar K?obus, Andrzej Grudka, Micha? Horodecki, Ryszard Horodecki
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.03783
+abstract: Heisenberg uncertainty principle is a trademark of quantum mechanics. In its original form it states that one cannot gain information about a system without disturbing it, which is a core of novel cryptographic techniques based on quantum effects. The principle can be derived from mathematical formalism of quantum theory. However the formalism itself is very abstract - unlike in classical mechanics, it does not directly refer to what we perceive. The question arises: can we derive the principle from more comprehensible assumptions? Here we derive Heisenberg trade-off from two assumptions: impossibility of instantaneous messaging at a distance (no-signaling), and violation of Bell inequalities (non-locality). The former is a natural and simple assumption, while the latter is an observable phenomenon implied by quantum mechanics. That the trade-off is a consequence of the above two assumptions is indirectly implied by existing schemes of secure cryptography based on the above two assumptions. Surprisingly, despite of vast literature on such crypto-systems, no direct connection between no-signaling, non-locality and Heisenberg principle was ever proposed. We also analyze a Bayesian trade-off, and note that there exists a range of parameters, where assumptions of no-signaling precisely reconstruct quantum predictions.
+
+id: 1602.03797
+title: The Superposition of Two Identical States: The Empty State
+authors: Anas Othman
+comments: 25 pages, 6 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.03797
+abstract: In this paper we define and study a new class of states (the empty states). These states are the superposition of two identical states (self-superposition state). We defined three different representations of theses states, namely, the source, the operator, and the self-superposition representations. Then, we apply the empty state to an elementary example state and find its three different representations. We apply the empty state to Fock states and find an undetermined state. Then, we apply the empty state to the coherent state to produce the empty state of the coherent state (the EC state), and determine some of its mathematical, statistical and nonclassical properties.
+
+id: 1602.03812
+title: Entanglement Generalization in Coupled Harmonic Oscillators
+authors: Danyer P¨¦rez Ad¨¢n, Fernando Guzm¨¢n Martinez, Oscar Rodr¨ªguez Hoyos
+comments: 6 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.03812
+abstract: A general and in principle exact approach for the continuous variable entanglement in a system of coupled harmonic oscillators in contact with a thermal bath is formulated. This allows a generalization to describe entanglement's existence between two sites in any system of this kind. It is employed a method of simultaneous diagonalization of two quadratic forms to obtain the uncoupled quantum Hamiltonian. Making use of the transformations that uncouple the system, the covariance matrix for two positions is constructed, and through a modification of the positive partial transpose criterion (PPT-criterion), the condition that determines the existence or not of quantum correlation between the sites is obtained.
+
+id: 1602.03827
+title: Generalized guidance equation for peaked quantum solitons and effective gravity
+authors: Thomas Durt
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.03827
+abstract: In this paper we consider a situation in which several quantum particles are located relatively far away from each other. We assume that each particle remains in a sharply localised state throughout time, a peaked soliton, due to the existence of some confinement mechanism, for instance a self-focusing non-linear interaction. In a previous work we showed that in this case there exist a class of solutions of the quantum dynamics such that at the zero order of perturbation the peaked quantum solitons (solitary waves) obey a generalized de Broglie-Bohm (dB-B) guidance equation. Here we show that, at the first order of perturbation, our model predicts the appearance of an effective gravitational field.
+
+id: 1602.03863
+title: Resolving the problem of definite outcomes of measurements
+authors: Art Hobson
+comments: 17 pages, 2 figures. arXiv admin note: substantial text overlap with arXiv:1502.06585
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.03863
+abstract: The entangled "Schrodinger's cat" state of a quantum and its measurement apparatus is not a superposition of quantum states but is instead a non-paradoxical superposition of nonlocal correlations between quantum states. This elucidation of entanglement is demonstrated by experiments conducted in 1990 using entangled photon pairs. Thus the Schrodinger's cat state does not predict a dead-and-alive cat. Instead of indefinite superpositions, it predicts indeterminate but definite outcomes. When a superposed quantum entangles with a measurement apparatus, the composite system instantly collapses locally to incoherent mixtures of definite outcomes of the quantum and of the apparatus, while the global superposition of correlations maintains its unitary evolution. This transfer of coherence from the quantum system to correlations between the system and its measuring apparatus is the reason instantaneous local collapse can occur upon measurement without interrupting the smooth global evolution that follows Schrodinger's equation. Objections to this resolution (namely improper density operators, and basis ambiguity) are rebutted.
+
+id: 1602.03878
+title: Gravitational Effects in Quantum Mechanics
+authors: A. D. K. Plato, C. N. Hughes, M. S. Kim
+comments: 24 pages, 3 figures, review article. Submitted to Contemporary Physics
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.03878
+abstract: To date, both quantum theory, and Einstein's theory of general relativity have passed every experimental test in their respective regimes. Nevertheless, almost since their inception, there has been debate surrounding whether they should be unified and by now there exists strong theoretical arguments pointing to the necessity of quantising the gravitational field. In recent years, a number of experiments have been proposed which, if successful, should give insight into features at the Planck scale. Here we review some of the motivations, from the perspective of semi-classical arguments, to expect new physical effects at the overlap of quantum theory and general relativity. We conclude with a short introduction to some of the proposals being made to facilitate empirical verification.
+
+id: 1602.03621
+title: Thermal noise free opto-mechanics using strong optical springs
+authors: Michael Page, Yiqiu Ma, Chunnong Zhao, David Blair, Li Ju, Huang-Wei Pan, Shiuh Chao, Valery Mitrofanov, Hamed Sadeghian
+comments: 12 pages, 11 figures
+journal: 
+subjects: Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.03621
+abstract: Thermal noise generally greatly exceeds quantum noise in optomechanical devices unless the mechanical frequency is very high or the thermodynamic temperature is very low. This paper addresses the design concept for a novel optomechanical device capable of ultrahigh quality factors with negligible thermal noise. The proposed system consists of a minimally supported millimeter scale pendulum mounted in a Double End-Mirror Sloshing (DEMS) cavity that is topologically equivalent to a Membrane-in-the-Middle (MIM) cavity. The radiation pressure inside the high-finesse cavity allows for high optical stiffness, cancellation of terms which lead to unwanted negative damping and suppression of quantum radiation pressure noise. We solve for the optical spring dynamics of the system using the Hamiltonian, find the noise spectral density and show that stable optical trapping is possible. We also assess various loss mechanisms, one of the most important being the acceleration loss due to the optical spring. We show that practical devices could operate at frequencies up to $\sim$ 200 kHz with an optically diluted quality factor up to $\sim 10^{11}$ and discuss methods of fabrication for devices with membrane or nanowire suspension. Applications for such devices include white light cavities for improvement of gravitational wave detectors, or sensors able to operate near the quantum limit.
+
+id: 1602.03691
+title: Valley-enhanced fast relaxation of gate-controlled donor qubits in silicon
+authors: P¨¦ter Boross, G¨¢bor Sz¨¦chenyi, Andr¨¢s P¨¢lyi
+comments: 12 pages, 3 figures
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.03691
+abstract: Gate control of donor electrons near interfaces is a generic ingredient of donor-based quantum computing. Here, we address the question: how is the phonon-assisted qubit relaxation time $T_1$ affected as the electron is shuttled between the donor and the interface? We focus on the example of the `flip-flop qubit' [Tosi et al., arXiv:1509.08538v1], defined as a combination of the nuclear and electronic states of a phosphorous donor in silicon, promising fast electrical control and long dephasing times when the electron is halfway between the donor and the interface. We theoretically describe orbital relaxation, flip-flop relaxation, and electron spin relaxation. We estimate that the flip-flop qubit relaxation time can be of the order of $100 \, \mu\text{s}$, 8 orders of magnitude shorter than the value for an on-donor electron in bulk silicon, and a few orders of magnitude shorter (longer) than the predicted inhomogeneous dephasing time (gate times). All three relaxation processes are boosted by (i) the nontrivial valley structure of the electron-phonon interaction, and (ii) the different valley compositions of the involved electronic states.
+
+id: 1602.03754
+title: Comment on the paper "The finite square well: whatever is worth teaching at all is worth teaching well ", arXiv:1505.03376v2 [physics.ed-ph] by K. Razi Naqvi and S. Waldenstr?m
+authors: Victor Barsan
+comments: 3 pages, no figure
+journal: 
+subjects: Physics Education (physics.ed-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.03754
+abstract: In the aforementioned paper, the authors claim that my results concerning the consequent application of Garrett's method for obtaining approximate expressions of the bound states energy of a particle in a finite rectangular well are incorrect. I shall show hat this is not the case, and demonstrate that both their and my results lead to the same conclusion, i.e. that the consequent application of Garrett's method is equivalent to Barker's approximation.
+
+id: 1602.03776
+title: Lattice gauge theories simulations in the quantum information era
+authors: M. Dalmonte, S. Montangero
+comments: Pedagogical review article. Originally submitted to Contemporary Physics, the final version will appear soon on the on-line version of the journal. 34 pages
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Statistical Mechanics (cond-mat.stat-mech); High Energy Physics - Lattice (hep-lat); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.03776
+abstract: The many-body problem is ubiquitous in the theoretical description of physical phenomena, ranging from the behavior of elementary particles to the physics of electrons in solids. Most of our understanding of many-body systems comes from analyzing the symmetry properties of Hamiltonian and states: the most striking example are gauge theories such as quantum electrodynamics, where a local symmetry strongly constrains the microscopic dynamics. The physics of such gauge theories is relevant for the understanding of a diverse set of systems, including frustrated quantum magnets and the collective dynamics of elementary particles within the standard model. In the last few years, several approaches have been put forward to tackle the complex dynamics of gauge theories using quantum information concepts. In particular, quantum simulation platforms have been put forward for the realization of synthetic gauge theories, and novel classical simulation algorithms based on quantum information concepts have been formulated. In this review we present an introduction to these approaches, illustrating the basics concepts and highlighting the connections between apparently very different fields, and report the recent developments in this new thriving field of research.
+
+id: 1602.03857
+title: A Model for Lightcone Fluctuations due to Stress Tensor Fluctuations
+authors: C.H.G. Bessa, V.A. De Lorenci, L.H. Ford, C.C.H. Ribeiro
+comments: 9 pages, 2 figures
+journal: 
+subjects: General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.03857
+abstract: We study a model for quantum lightcone fluctuations in which vacuum fluctuations of the electric field and of the squared electric field in a nonlinear dielectric material produce variations in the flight times of probe pulses. When this material has a non-zero third order polarizability, the flight time variations arise from squared electric field fluctuations, and are analogous to effects expected when the stress tensor of a quantized field drives passive spacetime geometry fluctuations. We also discuss the dependence of the squared electric field fluctuations upon the geometry of the material, which in turn determines a sampling function for averaging the squared electric field along the path of the pulse. This allows us to estimate the probability of especially large fluctuations, which is a measure of the probability distribution for quantum stress tensor fluctuations.
+
+id: 1311.5619
+title: Towards universal quantum computation through relativistic motion
+authors: David Edward Bruschi, Carlos Sab¨ªn, Pieter Kok, G?ran Johansson, Per Delsing, Ivette Fuentes
+comments: 22 pages, 4 figures. I. F. previously published as I. Fuentes-Guridi and I. Fuentes-Schuller. Updated to match published version
+journal: Sci. Rep. 6, 18349 (2016)
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); General Relativity and Quantum Cosmology (gr-qc)
+url: http://www.arxiv.org/abs/1311.5619
+abstract: 
+
+id: 1502.05917
+title: Ionization Time and Exit Momentum in Strong-Field Tunnel Ionization
+authors: Nicolas Teeny, Enderalp Yakaboylu, Heiko Bauke, Christoph H. Keitel
+comments: 
+journal: Physical Review Letters, vol. 116, article 063003 (2016)
+subjects: Quantum Physics (quant-ph); Atomic Physics (physics.atom-ph)
+url: http://www.arxiv.org/abs/1502.05917
+abstract: 
+
+id: 1507.00069
+title: Quantum state transfer and controlled-phase gate on one-dimensional superconducting resonators assisted by a quantum bus
+authors: Ming Hua, Ming-Jie Tao, Fu-Guo Deng
+comments: 11 pages, 4 figures, one column
+journal: Scientific Reports 6, 22037 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1507.00069
+abstract: 
+
+id: 1508.07754
+title: Storing a single photon as a spin wave entangled with a flying photon in telecomband
+authors: Wei Zhang, Dong-Sheng Ding, Shuai Shi, Yan Li, Zhi-Yuan Zhou, Bao-Sen Shi, Guang-Can Guo
+comments: 16 pages, 8 figures
+journal: Phys. Rev. A 93, 022316 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1508.07754
+abstract: 
+
+id: 1509.03973
+title: Quantum Langevin approach for non-Markovian quantum dynamics of the spin-boson model
+authors: Zheng-Yang Zhou, Mi Chen, Ting Yu, J. Q. You
+comments: 8 pages, 1 figure
+journal: Phys. Rev. A 93, 022105 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.03973
+abstract: 
+
+id: 1510.03897
+title: Violation of Bell's inequality with a quantum dot in a tapered nanowire waveguide
+authors: Klaus D. J?ns, Lucas Schweickert, Marijn A. M. Versteegh, Dan Dalacu, Philip J. Poole, Angelo Gulinatti, Andrea Giudice, Val Zwiller, Michael E. Reimer
+comments: 
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.03897
+abstract: 
+
+id: 1510.04633
+title: Quantum Supremacy of Many-Particle Thermal Machines
+authors: Juan Jaramillo, Mathieu Beau, Adolfo del Campo
+comments: 6+15pp, 3+5 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Quantum Gases (cond-mat.quant-gas)
+url: http://www.arxiv.org/abs/1510.04633
+abstract: 
+
+id: 1511.00094
+title: Complete nondestructive analysis of two-photon six-qubit hyperentangled Bell states assisted by cross-Kerr nonlinearity
+authors: Qian Liu, Guan-Yu Wang, Qing Ai, Mei Zhang, Fu-Guo Deng
+comments: 11 pages, 5 figures, one column
+journal: Scientific Reports 6, 22016 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.00094
+abstract: 
+
+id: 1512.04565
+title: A Quantum Theory of the Glass Transition Suggests Universality Amongst Glass Formers
+authors: Nicholas B. Weingartner, Chris Pueblo, K. F. Kelton, Zohar Nussinov
+comments: 15 pages, 17 Figures, 4 Tables, Minor Corrections Made, Figures Updated; Figure Update, typos fixed
+journal: 
+subjects: Disordered Systems and Neural Networks (cond-mat.dis-nn); Materials Science (cond-mat.mtrl-sci); Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.04565
+abstract: 
+
+id: 1512.06120
+title: Generalization of the Kohn-Sham system enabling representing arbitary one electron density matrices
+authors: Hubertus J J van Dam
+comments: A section on the equations of motion has been added. More emphasis is placed on the use of natural orbitals and correlation functions to construct generalized orbitals. The results have been updated. Two references have been added. Various typos have been fixed
+journal: 
+subjects: Chemical Physics (physics.chem-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.06120
+abstract: 
+
+id: 1601.01797
+title: The Riemann zeros as spectrum and the Riemann hypothesis
+authors: Germ¨¢n Sierra
+comments: 35 pages, 17 figures, submitted as Topical Review to J. Phys. A: Math and Theor. Several corrections have been made to the first version
+journal: 
+subjects: Mathematical Physics (math-ph); High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.01797
+abstract: 
+
+id: 1602.00909
+title: Rydberg systems in parallel electric and magnetic fields: an improved method for finding exceptional points
+authors: Matthias Feldmaier, J?rg Main, Frank Schweiner, Holger Cartarius, G¨¹nter Wunner
+comments: 21 pages, 6 figures. Correction of Eq.(2) and magnetic field strengths for cuprous oxide in the text and tables
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Chaotic Dynamics (nlin.CD); Atomic Physics (physics.atom-ph)
+url: http://www.arxiv.org/abs/1602.00909
+abstract: 
+
+id: 1602.02581
+title: Absolute Measurement of Quantum-Limited Interferometric Displacements
+authors: Val¨¦rian Thiel, Pu Jian, Claude Fabre, Nicolas Treps, Jonathan Roslund
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1602.02581
+abstract: 
+
+id: 1602.03487
+title: Information content of interacting fields in an expanding spacetime
+authors: Helder Alexander, Gustavo de Souza, I. G. da Paz, Marcos Sampaio
+comments: 6 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph); High Energy Physics - Theory (hep-th)
+url: http://www.arxiv.org/abs/1602.03487
+abstract: 
+

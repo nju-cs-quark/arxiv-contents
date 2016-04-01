@@ -1,0 +1,38 @@
+---
+layout: arxiv
+title: 202016 Filtered arXiv Papers
+---
+
+**1.    Extraordinary behaviors in two-dimensional decoherent alternative quantum walk**  
+Tian Chen, Xiangdong Zhang  
+http://www.arxiv.org/abs/1601.06483  
+<blockquote>
+<p>
+The quantum and classical behaviors of two-dimensional (2D) alternative quantum walk (AQW) in the presence of decoherence have been discussed in detail. For any kinds of decoherence, the analytic expressions for the moments of position distribution of AQW have been obtained. Taking the broken line noise and coin-decoherence as examples of decoherence, we find that when the decoherence only emerges in one direction, the anisotropic position distribution pattern appears, and not all the motions of quantum walkers exhibit the transition from quantum to classical behaviors. The correlations between the walkers and the coin in 2D AQW have been discussed. The anisotropic correlations between walkers and coin have been revealed in the presence of decoherence.
+</p>
+</blockquote>
+
+------
+
+**2.    Spontaneously emitted X-rays: an experimental signature of the dynamical reduction models**  
+C. Curceanu, S. Bartalucci, A. Bassi, M. Bazzi, S. Bertolucci, C. Berucci, A. M. Bragadireanu, M. Cargnelli, A. Clozza, L. De Paolis, S. Di Matteo, S. Donadi, A. DUffizi, J-P. Egger, C. Guaraldo, M. Iliescu, T. Ishiwatari, M. Laubenstein, J. Marton, E. Milotti, A. Pichler, D. Pietreanu, K. Piscicchia, T .Ponta, E. Sbardella, A. Scordo, H. Shi, D.L. Sirghi, F. Sirghi, L. Sperandio, O. Vazquez Doce, J. Zmeskal  
+http://www.arxiv.org/abs/1601.06617  
+<blockquote>
+<p>
+We present the idea of searching for X-rays as a signature of the mechanism inducing the spontaneous collapse of the wave function. Such a signal is predicted by the continuous spontaneous localization theories, which are solving the "measurement problem" by modifying the Schrodinger equation. We will show some encouraging preliminary results and discuss future plans and strategy.
+</p>
+</blockquote>
+
+------
+
+**3.    Interferometric superlocalization of two incoherent optical point sources**  
+Ranjith Nair, Mankei Tsang  
+http://www.arxiv.org/abs/1512.08304  
+<blockquote>
+<p>
+
+</p>
+</blockquote>
+
+------
+

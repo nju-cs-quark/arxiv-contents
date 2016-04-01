@@ -1,0 +1,423 @@
+id: 1601.04721
+title: Simulation of anyonic statistics and its topological path independence using a 7-qubit quantum simulator
+authors: Annie Jihyun Park, Emma McKay, Dawei Lu, Raymond Laflamme
+comments: 12 pages and 9 figures. All comments are welcome!
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.04721
+abstract: Anyons, quasiparticles living in two-dimensional spaces with exotic exchange statistics, can serve as the fundamental units for fault-tolerant quantum computation. However, experimentally demonstrating anyonic statistics is a challenge due to the technical limitations of current experimental platforms. Here, we take a state perpetration approach to mimic anyons in the Kitaev lattice model using a 7-qubit nuclear magnetic resonance quantum simulator. Anyons are created by dynamically preparing the ground and excited states of the 7-qubit Kitaev lattice model, and are subsequently braided along two distinct, but topologically equivalent, paths. We observe that the phase acquired by the anyons is independent of the path, and coincides with the ideal theoretical predictions when decoherence and implementation errors are taken into account. As the first demonstration of the topological path independence of anyons, our experiment helps to study and exploit the anyonic properties towards the goal of building a topological quantum computer.
+
+id: 1601.04735
+title: Normal modes. The true story
+authors: Emil Zak
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.04735
+abstract: The aim of this article is a comprehensive description of normal modes of molecular vibrations. The starting point is chosen to be a general molecular system with separated center of mass and an arbitrary embedding of body-fixed axes. This allows to focus on internal degrees of freedom only, leaving the problem of rotational motion behind. Nevertheless, for the sake of completeness we first introduce a general quantum-mechanical Hamiltonian in Eckart-Watson representation, to make a quick leap into a simplified harmonic description for internal motion and rigid rotor for rotational degrees of freedom. This regime constitutes a basis for more sophisticated calculations.
+
+id: 1601.04742
+title: Effect of non-Markovianity on the dynamics of coherence, concurrence and Fisher information
+authors: Samyadeb Bhattacharya, Subhashish Banerjee, Arun Kumar Pati
+comments: 12 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.04742
+abstract: A master equation has been constructed for a global system-bath interaction both in the absence as well as presence of non-Markovian noise. The master equation has been exactly solved for a special class of two qubit X states (which contains Bell diagonal and Werner states). The $l_1$ norm of coherence has been calculated to observe the dynamics of quantum coherence in the presence of a global system-bath interaction. We show that the global part of the system-bath interaction compensates for the decoherence, resulting in the slow down of coherence decay. The concurrence and the Fisher information, explicitly calculated for a particular two qubit Werner state, indicate that the decay of these quantum features also slow down under a global system-bath interaction. We also show that the coherence is the most robust of all the three non-classical features under environmental interaction. Entanglement is shown to be the most costly of them all. For an appropriately defined limiting case, all the three quantities show freezing behaviour. This limiting condition is attainable when the separations between the energy levels of both the atomic qubits are small.
+
+id: 1601.04817
+title: Witnessing random unitary and projective quantum channels: Complementarity between separable and maximally entangled states
+authors: D. Bruns, J. Sperling, S. Scheel
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.04817
+abstract: Modern applications in quantum computation and quantum communication require the precise characterization of quantum states and quantum channels. In practice, this means that one has to determine the quantum capacity of a physical system in terms of measurable quantities. Witnesses, if properly constructed, succeed in performing this task. We derive a method that is capable to compute witnesses for identifying deterministic evolutions and measurement-induced collapse processes. At the same time, applying the Choi-Jamiolkowski isomorphism, it uncovers the entanglement characteristics of bipartite quantum states. Remarkably, a statistical mixture of unitary evolutions is mapped onto mixtures of maximally entangled states, and classical separable states originate from genuine quantum-state reduction maps. Based on our treatment we are able to witness these opposing attributes at once and, furthermore, obtain an insight into their different geometric structures. The complementarity is further underpinned by formulating a complementary Schmidt decomposition of a state in terms of maximally entangled states and discrete Fourier-transformed Schmidt coefficients.
+
+id: 1601.04832
+title: Free quantum field theory from quantum cellular automata: derivation of Weyl, Dirac and Maxwell quantum cellular automata
+authors: Alessandro Bisio, Giacomo Mauro D'Ariano, Paolo Perinotti, Alessandro Tosini
+comments: 10 pages
+journal: Foundations of Physics, Volume 45, Issue 10, pp 1137-1152 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.04832
+abstract: After leading to a new axiomatic derivation of quantum theory, the new informational paradigm is entering the domain of quantum field theory, suggesting a quantum automata framework that can be regarded as an extension of quantum field theory to including an hypothetical Planck scale, and with the usual quantum field theory recovered in the relativistic limit of small wave-vectors. Being derived from simple principles (linearity, unitarity, locality, homogeneity, isotropy, and minimality of dimension), the automata theory is quantum ab-initio, and does not assume Lorentz covariance and mechanical notions. Being discrete it can describe localized states and measurements (unmanageable by quantum field theory), solving all the issues plaguing field theory originated from the continuum. These features make the theory an ideal framework for quantum gravity, with relativistic covariance and space-time emergent solely from the interactions, and not assumed a priori. The paper presents a synthetic derivation of the automata theory, showing how from the principles lead to a description in terms of a quantum automaton over a Cayley graph of a group. Restricting to Abelian groups we show how the automata recover the Weyl, Dirac and Maxwell dynamics in the relativistic limit. We conclude with some new routes about the more general scenario of non-Abelian Cayley graphs.
+
+id: 1601.04842
+title: Weyl, Dirac and Maxwell Quantum Cellular Automata: analitical solutions and phenomenological predictions of the Quantum Cellular Automata Theory of Free Fields
+authors: Alessandro Bisio, Giacomo Mauro D'Ariano, Paolo Perinotti, Alessandro Tosini
+comments: 13 pages, 5 figures
+journal: Foundations of Physics, Volume 45, Issue 10, pp 1203-1221 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.04842
+abstract: Recent advances on quantum foundations achieved the derivation of free quantum field theory from general principles, without referring to mechanical notions and relativistic invariance. From the aforementioned principles a quantum cellular automata (QCA) theory follows, whose relativistic limit of small wave-vector provides the free dynamics of quantum field theory. The QCA theory can be regarded as an extended quantum field theory that describes in a unified way all scales ranging from an hypothetical discrete Planck scale up to the usual Fermi scale. The present paper reviews the elementary automaton theory for the Weyl field, and the composite automata for Dirac and Maxwell fields. We then give a simple analysis of the dynamics in the momentum space in terms of a dispersive differential equation for narrowband wave-packets, and some account on the position space description in terms of a discrete path-integral approach. We then review the phenomenology of the free-field automaton and consider possible visible effects arising from the discreteness of the framework. We conclude introducing the consequences of the automaton distorted dispersion relation, leading to a deformed Lorentz covariance and to possible effects on the thermodynamics of ideal gases.
+
+id: 1601.04864
+title: Quantum Networks: general theory and applications
+authors: Alessandro Bisio, Giulio Chiribella, Giacomo Mauro D'Ariano, Paolo Perinotti
+comments: 118 pages, review article
+journal: Acta Physica Slovaca 61, No.3, 273-390 (2011)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.04864
+abstract: In this work we present a general mathematical framework to deal with Quantum Networks, i.e. networks resulting from the interconnection of elementary quantum circuits. The cornerstone of our approach is a generalization of the Choi isomorphism that allows one to efficiently represent any given Quantum Network in terms of a single positive operator. Our formalism allows one to face and solve many quantum information processing problems that would be hardly manageable otherwise, the most relevant of which are reviewed in this work: quantum process tomography, quantum cloning and learning of transformations, inversion of a unitary gate, information-disturbance tradeoff in estimating a unitary transformation, cloning and learning of a measurement device.
+
+id: 1601.04865
+title: Zoology of Atlas-groups: dessins d'enfants, finite geometries and quantum commutation
+authors: Michel Planat, Hishamuddin Zainuddin
+comments: 19 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph); Group Theory (math.GR)
+url: http://www.arxiv.org/abs/1601.04865
+abstract: Every finite simple group P can be generated by two of its elements. Pairs of generators for P are available in the Atlas of finite group representations as (not neccessarily minimal) permutation representations P. It is unusual but significant to recognize that a P is a Grothendieck's dessin d'enfant D and that most standard graphs and finite geometries G-such as near polygons and their generalizations-are stabilized by a D. In our paper, tripods P -- D -- G of rank larger than two, corresponding to simple groups, are organized into classes, e.g. symplectic, unitary, sporadic, etc (as in the Atlas). An exhaustive search and characterization of non-trivial point-line configurations defined from small index representations of simple groups is performed, with the goal to recognize their quantum physical significance. All the defined geometries G' s have a contextuality parameter close to its maximal value 1.
+
+id: 1601.04868
+title: Nonclassicality Invariant of Bipartite Gaussian States
+authors: Ievgen I. Arkhipov, Jan Pe?ina Jr., Ji?¨ª Svozil¨ªk, Adam Miranowicz
+comments: 6 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.04868
+abstract: We introduce a new quantity for describing nonclassicality of an arbitrary bipartite Gaussian state which remains invariant under any global symplectic transformation of the covariance matrix of the state. The invariant naturally splits into a symplectic entanglement monotone and local nonclassicality quantifiers applied to the reduced states. Twin beams and their transformations at a beam splitter are analyzed as an example providing squeezed light. An extension of this approach to three-mode Gaussian states is discussed.
+
+id: 1601.04892
+title: Time, chance and quantum theory
+authors: Anthony Sudbery
+comments: 16 pages, to appear in "Probing the Meaning and Structure of Quantum Mechanics: Superpositions, Semantics, Dynamics and Identity", edited by Diederik Aerts, Christian de Ronde, Hector Freytes and Roberto Giuntini. The ever-helpful arXiv will alert you to substantial text overlap with some of my previous papers. arXiv admin note: substantial text overlap with arXiv:1103.4318, arXiv:1009.3914
+journal: 
+subjects: Quantum Physics (quant-ph); History and Philosophy of Physics (physics.hist-ph)
+url: http://www.arxiv.org/abs/1601.04892
+abstract: I propose an understanding of Everett and Wheeler's relative-state interpretation of quantum mechanics, which restores the feature of indeterminism to the theory. This incorporates a theory of probability as truth values in a many-valued logic for future statements, and a contextual theory of truth which gives objective and subjective perspectives equal validity.
+
+id: 1601.04896
+title: On the Quantum Simulation of the Factorization Problem
+authors: Jose Luis Rosales, Vicente Martin
+comments: 5 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Cryptography and Security (cs.CR); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1601.04896
+abstract: Feynman's prescription for a quantum computer was to find a Hamitonian for a system that could serve as a computer. Here we concentrate in a system to solve the problem of decomposing a large number $N$ into its prime factors. The spectrum of this computer is exactly calculated obtaining the factors of $N$ from the arithmetic function that represents the energy of the computer. As a corollary, in the semi-classical large $N$ limit, we compute a new prime counting asymptote $\pi(x|N)$, where $x$ is a candidate to factorize $N$, that has no counterpart in analytic number theory. This rises the conjecture that the quantum solution of factoring obtains prime numbers, thus reaching consistency with Euclid's unique factorization theorem: primes should be quantum numbers of a Feynman's factoring simulator.
+
+id: 1601.04900
+title: Spontaneous crystallization of light and ultracold atoms
+authors: Stefan Ostermann, Francesco Piazza, Helmut Ritsch
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Quantum Gases (cond-mat.quant-gas)
+url: http://www.arxiv.org/abs/1601.04900
+abstract: Coherent scattering of light from ultracold atoms involves an exchange of energy and momentum introducing a wealth of non-linear dynamical phenomena. As a prominent example particles can spontaneously form stationary periodic configurations which simultaneously maximize the light scattering and minimize the atomic potential energy in the emerging optical lattice. Such self-ordering effects resulting in periodic lattices via bimodal symmetry breaking have been experimentally observed with cold gases and Bose-Einstein condensates (BECs) inside an optical resonator. Here we study a new regime of periodic pattern formation for an atomic BEC in free space, driven by far off-resonant counterpropagating and non-interfering lasers of orthogonal polarization. In contrast to previous works, no spatial light modes are preselected by any boundary conditions and the transition from homogeneous to periodic order amounts to a crystallization of both light and ultracold atoms breaking a continuous translational symmetry. In the crystallized state the BEC acquires a phase similar to a supersolid with an emergent intrinsic length scale whereas the light-field forms an optical lattice allowing phononic excitations via collective back scattering. The studied system constitutes a novel configuration allowing the simulation of synthetic solid state systems with ultracold atoms including long-range phonon dynamics.
+
+id: 1601.04909
+title: Quantitative characterization of highly efficient correlated photon-pair source using biexciton resonance
+authors: Yasuo Yamamoto, Goro Oohata, Kohji Mizoguchi
+comments: 7 pages with 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.04909
+abstract: A high efficiency method for the generation of correlated photon pairs accompanied by a reliable means to characterize the efficiency of that process is needed in the study of correlated photon pairs and entangled states involving more than three photons, which have important potential applications in quantum information and quantum communication. In this study, we report the first characterization of the efficiency of generation of correlated photon pairs emitted from a CuCl single crystal using the biexciton-resonance hyper-parametric scattering (RHPS) method which is the highly efficient method of generation of correlated photon pairs. In order to characterize the generation efficiency and signal-to-noise ratio of correlated photon pairs using this method, we investigated the excitation density dependence on the photon counting rate and coincidence counting rate under resonant excitation. The excitation density dependence shows that the power characteristics of the photon counting rates changes from linear to quadratic dependence of the excitation density. This behavior represents a superposition of contributions from correlated photon pairs and non-correlated photons. Photon counting signals in this study were recorded as time-tag data, which provide the photon counting rate and coincidence counting rate simultaneously, and improve the coincidence counting rate by the factor of 200 compared to that obtained in previous work [K. Edamatsu $\it{et\ al}$. Nature $\bf{431}$, 167-170 (2004)]. The analysis of the excitation density dependence shows that one photon-pair is produced by a pump pulse with $2 \times 10^6$ photons. Moreover, the generation efficiency of this method is improved by a factor of $10^7$ compared to that of several methods based on the $\chi^{(3)}$ parametric process.
+
+id: 1601.04910
+title: Probing the electron charge distribution via Kapitza-Dirac diffraction
+authors: Pedro Sancho
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.04910
+abstract: We analyze the diffraction of elementary systems as the electron by light gratings when they are described by charge distributions instead of the usual point-like form. The treatment of the problem is based on the introduction, in analogy with atomic polarizability, of state-dependent non-permanent multi-pole moments for the charge. The diffraction patterns can provide bounds on these moments. With this approach we can experimentally explore some aspects of the interpretation of the wave picture of single charges.
+
+id: 1601.05013
+title: Ultra-narrow optical inhomogeneous linewidth in a stoichiometric rare earth crystal
+authors: R. L. Ahlefeldt, M. R. Hush, M. J. Sellars
+comments: 6 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Materials Science (cond-mat.mtrl-sci); Atomic Physics (physics.atom-ph)
+url: http://www.arxiv.org/abs/1601.05013
+abstract: We have measured a low optical inhomogeneous linewidth of 25 MHz in the stoichiometric rare earth crystal EuCl3.6H2O by isotopically purifying the crystal in 35Cl. The hyperfine levels of 153Eu3+ are spectrally resolved and retain their long coherence times, allowing the whole population of 153Eu3+ ions to be prepared in the same hyperfine state using hole burning techniques. Combined with this ability, the crystal has two useful properties for quantum information applications. First, a high optical density, which can be exploited to produce highly efficient Raman-type quantum memories. Second, due to the close ion spacing, large excitation induced ion-ion frequency shifts similar to those seen in cold atom lattice Rydberg systems. These interactions can lead to quantum many-body states that could be observed using standard optical spectroscopy techniques.
+
+id: 1601.05045
+title: Spatial interference between pairs of optical paths with a chaotic source
+authors: Michele Cassano, Milena D'Angelo, Augusto Garuccio, Tao Peng, Yanhua Shih, Vincenzo Tamma
+comments: 23 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.05045
+abstract: We demonstrate a second-order spatial interference effect with a chaotic source. This phenomenon arises from the indistinguishability between pairs of optical paths emerging from correlation measurements in the photon-number fluctuations. We show how this effect can be used to simulate a controlled-$NOT$ gate, as well as arbitrary-order on-demand entanglement correlations in more complex interferometric networks.
+
+id: 1601.04158
+title: Gauge Covariance and Spin Current Conservation in the Gauge Field Formulation of Systems with Spin-Orbit Coupling
+authors: M.S.Shikakhwa, S.Turgut, N.K.pak
+comments: 11 pages, no figures
+journal: Journal of Physics A: Mathematical and Theoretical 45 (10), 105305 (2012)
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.04158
+abstract: The question of gauge-covariance in the non-Abelian gauge-field formulation of two space-dimensional systems with spin-orbit coupling relevant to spintronics is investigated. Although, these are generally gauge-fixed models, it is found that for the class of gauge fields that are space-time independent and satisfy a U(1) algebra, thus having a vanishing field strength, there is a residual gauge freedom in the Hamiltonian. The gauge transformations assume the form of a space-dependent rotation of the transformed wave functions with rotation angles and axes determined by the specific form of the gauge-field, i.e., the spin-orbit coupling. The fields can be gauged away, reducing the Hamiltonian to one which is isospectral to the free-particle Hamiltonian, and giving rise to the phenomenon of persistent spin helix reported first by B.~A.~Bernevig \emph{et al.} [Phys.~Rev.~Lett. \textbf{97}, 236601 (2006)]. The investigation of the global gauge transformations leads to the derivation of a continuity equation where the component of the spin-density along given directions, again fixed by the specific form of the gauge field, is conserved.
+
+id: 1601.04728
+title: Superradiance at the localization-delocalization crossover in tubular chlorosomes
+authors: Rafael A. Molina, Enrique Benito-Mat¨ªas, Alejandro Somoza, Lipeng Chen, Yang Zhao
+comments: 8 pages, 5 figures
+journal: 
+subjects: Biological Physics (physics.bio-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.04728
+abstract: We study the effect of disorder on spectral properties of tubular chlorosomes in green sulfur bacteria Cf. aurantiacus. Employing a Frenkel-exciton Hamiltonian with diagonal and off-diagonal disorder consistent with spectral and structural studies, we analyze excitonic localization and spectral statistics of the chlorosomes. A size-dependent localization-delocalization crossover is found to occur as a function of the excitonic energy. The crossover energy region coincides with the more optically active states with maximized superradiance, and is, consequently, more conducive for energy transfer.
+
+id: 1601.04741
+title: Topologically-protected metallic states induced by a one-dimensional extended defect in a 2D topological insulator
+authors: E. N. Lima, T. M. Schmidt, R. W. Nunes
+comments: 6 pages, 4 figures, 2 tables
+journal: 
+subjects: Materials Science (cond-mat.mtrl-sci); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Other Condensed Matter (cond-mat.other); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.04741
+abstract: We report ab initio calculations showing that a single one-dimensional extended defect can originate topologically-protected metallic states in the bulk of two-dimensional topological insulators. We find that a narrow extended defect composed of periodic units consisting of one octogonal and two pentagonal rings embedded in the hexagonal bulk of a bismuth bilayer introduces two pairs of one-dimensional Dirac-fermion states with opposite spin-momentum locking. Although both Dirac pairs are localized along the extended-defect core, their interactions are screened due to the trivial topological nature of the extended defect.
+
+id: 1601.04784
+title: Traces of Lorentz symmetry breaking in a Hydrogen atom at ground state
+authors: Luiz Henrique de Campos Borges, Fabricio Augusto Barone Rangel
+comments: 8 Latex pages, 2 figures
+journal: 
+subjects: High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.04784
+abstract: Some traces of a specific Lorentz symmetry breaking scenario in the ground state of the Hydrogen atom are investigated. It is used standard Rayleigh-Schr\"odinger perturbation theory in order to obtain the corrections to the the ground state energy and wave function. It is shown that an induced four-pole moment arises, due to the Lorentz symmetry breaking. The model considered is the one studied in reference Eur. Phys. J. C {\bf 74}, 2937 (2014), where the Lorentz symmetry is broken in the electromagnetic sector.
+
+id: 1601.04857
+title: Clocks and dynamics in quantum models of gravity
+authors: Przemyslaw Malkiewicz
+comments: 24 pages, 7 figures
+journal: 
+subjects: General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.04857
+abstract: We investigate how the quantum dynamics of gravitational models depend on the clocks employed in quantization procedure. Our previous result demonstrates that almost all physical features of quantum cosmological bounces depend on the choice of clock. The vital question whether all the quantum (or, semiclassical) solutions admit, away from the quantum interaction region in the far past and future, invariant asymptotic limits irrespectively of the clock's choice is addressed herein. We analyze the semiclassical dynamics of the Bianchi Type I model undergoing a quantum bounce. Our result follows from the universal principle of the free choice of clock and thus, it applies to all quantum gravity models based on the concept of the physical Hilbert space and inner dynamics. Then we propose a suitable interpretation of quantum models of gravity. As a by-product of the pursuit of our main goal, we elaborate the semiclassical description of anisotropic singularity resolution.
+
+id: 1601.04860
+title: Pair-eigenstates and mutual alignment of coupled molecular rotors in a magnetic field
+authors: Ketan Sharma, Bretislav Friedrich
+comments: 29 Pages, 11 figures, submitted to PCCP
+journal: 
+subjects: Chemical Physics (physics.chem-ph); Computational Physics (physics.comp-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.04860
+abstract: We examine the rotational states of a pair of polar $^2\Sigma$ molecules subject to a uniform magnetic field. The electric dipole-dipole interaction between the molecules creates entangled pair-eigenstates of two types. In one type, the Zeeman interaction between the inherently paramagnetic molecules and the magnetic field destroys the entanglement of the pair-eigenstates, whereas in the other type it does not. The pair-eigenstates exhibit numerous intersections, which become avoided for pair-eigenstates comprised of individual states that meet the selection rules $\Delta J_{i}=0,\pm 1$, $\Delta N_{i}=0,\pm 2$, and $\Delta M_{i}=0,\pm 1$ imposed by the electric dipole-dipole operator. Here $J_{i}$, $N_{i}$ and $M_{i}$ are the total, rotational and projection angular momentum quantum numbers of molecules $i=1,2$ in the absence of the electric dipole-dipole interaction. We evaluate the mutual alignment of the pair-eigenstates and find it to be independent of the magnetic field, except for states that undergo avoided crossings, in which case the alignment of the interacting states is interchanged at the magnetic field corresponding to the crossing point. We present an analytic model which provides ready estimates of the pairwise alignment cosine that characterises the mutual alignment of the coupled rotors.
+
+id: 1601.04908
+title: Graded Entailment for Compositional Distributional Semantics
+authors: Desislava Bankova, Bob Coecke, Martha Lewis, Daniel Marsden
+comments: 
+journal: 
+subjects: Computation and Language (cs.CL); Artificial Intelligence (cs.AI); Category Theory (math.CT); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.04908
+abstract: The categorical compositional distributional model of natural language provides a conceptually motivated procedure to compute the meaning of sentences, given grammatical structure and the meanings of its words. This approach has outperformed other models in mainstream empirical language processing tasks. However, until now it has lacked the crucial feature of lexical entailment -- as do other distributional models of meaning. In this paper we solve the problem of entailment for categorical compositional distributional semantics. Taking advantage of the abstract categorical framework allows us to vary our choice of model. This enables the introduction of a notion of entailment, exploiting ideas from the categorical semantics of partial knowledge in quantum computation. The new model of language uses density matrices, on which we introduce a novel robust graded order capturing the entailment strength between concepts. This graded measure emerges from a general framework for approximate entailment, induced by any commutative monoid. Quantum logic embeds in our graded order. Our main theorem shows that entailment strength lifts compositionally to the sentence level, giving a lower bound on sentence entailment. We describe the essential properties of graded entailment such as continuity, and provide a procedure for calculating entailment strength.
+
+id: 1601.04929
+title: Simulation of the many-body dynamical quantum Hall effect in an optical lattice
+authors: Dan-Wei Zhang, Xu-Chen Yang
+comments: 8 pages, 3 figures; accepted in Quantum Information Processing
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.04929
+abstract: We propose an experimental scheme to simulate the many-body dynamical quantum Hall effect with ultra-cold bosonic atoms in a one-dimensional optical lattice. We first show that the required model Hamiltonian of a spin-1/2 Heisenberg chain with an effective magnetic field and tunable parameters can be realized in this system. For dynamical response to ramping the external fields, the quantized plateaus emerge in the Berry curvature of the interacting atomic spin chain as a function of the effective spin-exchange interaction. The quantization of this response in the parameter space with the interaction-induced topological transition characterizes the many-body dynamical quantum Hall effect. Furthermore, we demonstrate that this phenomenon can be observed in practical cold-atom experiments with numerical simulations.
+
+id: 1601.04964
+title: Interacting Frobenius Algebras are Hopf
+authors: Ross Duncan, Kevin Dunne
+comments: 32 pages; submitted
+journal: 
+subjects: Logic in Computer Science (cs.LO); Category Theory (math.CT); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.04964
+abstract: Theories featuring the interaction between a Frobenius algebra and a Hopf algebra have recently appeared in several areas in computer science: concurrent programming, control theory, and quantum computing, among others. Bonchi, Sobocinski, and Zanasi (2014) have shown that, given a suitable distributive law, a pair of Hopf algebras forms two Frobenius algebras. Here we take the opposite approach, and show that interacting Frobenius algebras form Hopf algebras. We generalise (BSZ 2014) by including non-trivial dynamics of the underlying object---the so-called phase group---and investigate the effects of finite dimensionality of the underlying model. We recover the system of Bonchi et al as a subtheory in the prime power dimensional case, but the more general theory does not arise from a distributive law.
+
+id: 1601.05049
+title: Ultralong-range triatomic Rydberg molecules in an electric field
+authors: Javier Aguilera Fern¨¢ndez, Peter Schmelcher, Rosario Gonz¨¢lez-F¨¦rez
+comments: 8 pages, 8 figures
+journal: 
+subjects: Atomic Physics (physics.atom-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.05049
+abstract: We investigate the electronic structure of a triatomic Rydberg molecule formed by a Rydberg atom and two neutral ground-state atoms. Taking into account the $s$-wave and $p$-wave interactions we perform electronic structure calculations and analyze the adiabatic electronic potentials evolving from the Rb$(n=35, l\ge 3)$ Rydberg degenerate manifold. We hereby focus on three different classes of geometries of the Rydberg molecules, including symmetric, asymmetric and planar configurations. The metamorphosis of these potential energy surfaces in the presence of an external electric field is explored.
+
+id: 1601.05077
+title: Fock-state stabilization and emission in superconducting circuits using dc-biased Josephson junctions
+authors: J.-R. Souquet, A. A. Clerk
+comments: 5 pages, 5 figures
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.05077
+abstract: In this article we propose a protocol to autonomously stabilize a Fock state within a circuit QED architecture that doesn't recourse to any ac-drive nor pulse. This protocol is realized with a microwave cavity driven by a Josephson junction and coupled to quantum engineered reservoir. It relies on two important ingredients. First, a high-impedance resonator to enable photon-dependent driving used as the cavity. Such device has recently been implemented in circuit QED platforms and removes the need for periodic driving. Second, on an auxiliary, low-quality factor cavity used as a engineered environment. Its damping rate must be scaled with respect to the Josephson energy and the main cavity quality factor in order to stabilize a quantum state. A second protocol, based on the same platform, is used to produce a flying qubit.
+
+id: 1211.2173
+title: Simulating continuous quantum systems by mean field fluctuations
+authors: Zoltan Kadar, Michael Keyl, Geza Toth, Zoltan Zimboras
+comments: 29 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1211.2173
+abstract: 
+
+id: 1403.5767
+title: Optimal observables to determine entanglement of a two qubit state
+authors: Gaurav Chaudhary, V. Ravishankar
+comments: 8 pages, 1 figure
+journal: Eur. Phys. J. D (2016) 70: 10
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1403.5767
+abstract: 
+
+id: 1412.8376
+title: Electron-correlation driven capture and release in double quantum dots
+authors: Federico M. Pont, Annika Bande, Lorenz S. Cederbaum
+comments: 
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1412.8376
+abstract: 
+
+id: 1503.07446
+title: Two-electron coherence and its measurement in electron quantum optics
+authors: E. Thibierge, D. Ferraro, B. Roussel, C. Cabart, A. Marguerite, G. F¨¨ve, P. Degiovanni
+comments: 6 pages, 6 figures, version 2 with improved introduction and bibliography
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1503.07446
+abstract: 
+
+id: 1505.00642
+title: Simulating Factorization with a Quantum Computer
+authors: Jose Luis Rosales
+comments: A correction to the previous version of this draft paper: the wave functions are confluent Hypergeometric function of index 3/2 instead of 2, which was a misprint. The notation has also changed in order to make it coincide with a new paper to be uploaded including the algorithm of quantum factorization of the Feynman simulator
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1505.00642
+abstract: 
+
+id: 1506.07975
+title: Operational Resource Theory of Coherence
+authors: Andreas Winter, Dong Yang
+comments: 12 pages; v3 has more details in the technical proofs and generally an improved presentation, in particular a more accurate representation of the relation between majorization and incoherent transformations of pure states
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1506.07975
+abstract: 
+
+id: 1506.08739
+title: Bloch Radii Repulsion in Separable Two-Qubit Systems
+authors: Paul B. Slater
+comments: 50 pages, 52 figures. Moderately revised, per referee requests. Some arguments (pertaining to doubly-stochastic measures, copulas,...) removed
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph); Probability (math.PR)
+url: http://www.arxiv.org/abs/1506.08739
+abstract: 
+
+id: 1508.02785
+title: Performance of two different quantum annealing correction codes
+authors: Anurag Mishra, Tameem Albash, Daniel Lidar
+comments: 6 pages main text, 1 page appendix, 23 figures. v2 - Updated manuscript to match published version
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1508.02785
+abstract: 
+
+id: 1508.03361
+title: High efficiency in mode selective frequency conversion
+authors: Nicol¨¢s Quesada, J.E. Sipe
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1508.03361
+abstract: 
+
+id: 1509.03783
+title: Exact energy quantization condition for single Dirac particle in one-dimensional (scalar) potential well
+authors: Siddhant Das
+comments: 8 pages, 2 figure
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.03783
+abstract: 
+
+id: 1509.08492
+title: Interaction between atoms and slow light: a waveguide-design study
+authors: Xiaorun Zang, Jianji Yang, R¨¦mi Faggiani, Christopher Gill, Plamen G. Petrov, Jean-Paul Hugonin, Kevin Vynck, Simon Bernon, Philippe Bouyer, Vincent Boyer, Philippe Lalanne
+comments: 11 pages, 4 figures
+journal: 
+subjects: Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.08492
+abstract: 
+
+id: 1510.06132
+title: Space-time renormalization in phase transition dynamics
+authors: Anna Francuz, Jacek Dziarmaga, Bartlomiej Gardas, Wojciech H. Zurek
+comments: 15 pages, 11 figures; 1 figure added, version accepted in Phys. Rev. B
+journal: 
+subjects: Statistical Mechanics (cond-mat.stat-mech); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Gases (cond-mat.quant-gas); High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.06132
+abstract: 
+
+id: 1510.08030
+title: Quantification of Einstein-Podolski-Rosen steering for two-qubit states
+authors: A. C. S. Costa, R. M. Angelo
+comments: 5 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.08030
+abstract: 
+
+id: 1511.00142
+title: Generalized quantum Fokker-Planck equation for photoinduced nonequilibrium processes with positive definiteness condition
+authors: Seogjoo Jang
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.00142
+abstract: 
+
+id: 1511.01430
+title: Assessment of the LFAs-PBE exchange-correlation potential for high-order harmonic generation of aligned H2+ molecules
+authors: Hsiao-Ling Sun, Wei-Tao Peng, Jeng-Da Chai
+comments: 23 pages, 9 figures, 1 table
+journal: 
+subjects: Chemical Physics (physics.chem-ph); Atomic Physics (physics.atom-ph); Computational Physics (physics.comp-ph); Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.01430
+abstract: 
+
+id: 1511.07047
+title: Entanglement of Dirac bi-spinor states driven by Poincar¨¦ classes of $\mbox{SU}(2) \otimes \mbox{SU}(2)$ coupling potentials
+authors: Victor A. S. V. Bittencourt, Alex E. Bernardini
+comments: 29 pages, 8 figures
+journal: Ann. Phys. 364 (2016) 182
+subjects: Quantum Physics (quant-ph); High Energy Physics - Phenomenology (hep-ph)
+url: http://www.arxiv.org/abs/1511.07047
+abstract: 
+
+id: 1512.06165
+title: Dark Matter Direct Detection with Accelerometers
+authors: Peter W. Graham, David E. Kaplan, Jeremy Mardon, Surjeet Rajendran, William A. Terrano
+comments: 22 pages, 4 figures, includes 1 page Executive Summary. Version 2: typos fixed, citations added
+journal: 
+subjects: High Energy Physics - Phenomenology (hep-ph); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Experiment (hep-ex); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.06165
+abstract: 
+
+id: 1601.00327
+title: Raman fingerprints on the Bloch sphere of a spinor Bose-Einstein condensate
+authors: Justin T. Schultz, Azure Hansen, Joseph D. Murphree, Maitreyi Jayaseelan, Nicholas P. Bigelow
+comments: 13 pages, 13 figures, submitted to the Journal of Modern Optics "20 Years of Bose-Einstein condensates" Special Issue
+journal: 
+subjects: Atomic Physics (physics.atom-ph); Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.00327
+abstract: 
+
+id: 1601.00727
+title: Lie transformation method of quantum state evolution controlled by classical dynamics on a general time-dependent driven and damped parametric oscillator
+authors: Lin Zhang, Weiping Zhang
+comments: 38 pages, 17 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.00727
+abstract: 
+
+id: 1601.04502
+title: Non-thermal effects of acceleration in the resonance interaction between two uniformly accelerated identical atoms
+authors: Lucia Rizzuto, Margherita Lattuca, Jamir Marino, Antonio Noto, Salvatore Spagnolo, Roberto Passante
+comments: 10 pages
+journal: 
+subjects: Quantum Physics (quant-ph); General Relativity and Quantum Cosmology (gr-qc)
+url: http://www.arxiv.org/abs/1601.04502
+abstract: 
+
