@@ -1,0 +1,279 @@
+id: 1611.03511
+title: Quantum simulation of Hamiltonian spectra on a silicon chip
+authors: R Santagati, J Wang, A A Gentile, S Paesani, N Wiebe, J R McClean, S R Morley Short, P J Shadbolt, D Bonneau, J W Silverstone, D P Tew, X Zhou, J L OBrien, M G Thompson
+comments: 10 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.03511
+abstract: The efficient calculation of Hamiltonian spectra, a problem largely intractable on classical machines, promises to revolutionise many fields, from physics to chemistry. We propose and demonstrate a new quantum approach to make ground and excited-states experimentally accessible by introducing the concept of an "eigenstate witness", which has no direct analogue in classical algorithms. Combining favourable aspects of quantum variational methods and quantum phase estimation, this approach further enhances the accuracy in the eigenvalues calculation without additional costs. We experimentally verify this protocol on a programmable silicon quantum photonic chip, a mass-manufacturable platform, which embeds entangled state generation, arbitrary controlled-unitary operations and projective measurements. Both ground and excited-states are experimentally found with fidelities > 99%, and their eigenvalues are estimated with a 32-bits precision. Furthermore, we investigate the scalability of our approach by performing numerical simulations for more complex Hamiltonians. This result shows a new, promising tool for the implementation of quantum simulation on quantum computers.
+
+id: 1611.03539
+title: Spectra and Bifurcations
+authors: P. Grochowski, W. Kaniowski, B. Mielnik
+comments: 27 pages, 10 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.03539
+abstract: The concept of spectrum for a class of non-linear wave equations is studied. Instead of looking for stability, the key to the spectral structure is found in the instability phenomena (bifurcations). This aspect is best seen in the `classical model' of the non-linear wave mechanics. The solitons (macro-localizations) are a part of the non-linear spectral problem; their bifurcations reflect the dynamical symmetry breaking. The computer simulations suggest that the bifurcations of the asymptotic behaviour occur also for the general, non-stationary states. A~phenomenon of the soliton splitting is observed.
+
+id: 1611.03716
+title: Non-ergodicity through quantum feedback
+authors: Lewis A. Clark, Fiona Torzewska, Ben Maybee, Almut Beige
+comments: 16 pages, 9 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.03716
+abstract: Open quantum systems usually reach a unique stationary state with ergodic dynamics. In other words, the ensemble averages and the time averages of the expectation values of open quantum systems are usually the same for all quantum trajectories. Although open quantum systems are in general ergodic, many classical stochastic processes are not. Hence if classical physics emerges from microscopic quantum models, there have to be mechanisms which induce non-ergodicity in open quantum systems. In this paper, we identify such a mechanism by showing that quantum feedback dramatically alters the dynamics of open quantum systems, thereby possibly inducing non-ergodicity and a persistent dependence of ensemble averages on initial conditions. As a concrete example, we study an optical cavity inside an instantaneous quantum feedback loop.
+
+id: 1611.03717
+title: Solid-state ensemble of highly entangled photon sources at rubidium atomic transitions
+authors: Robert Keil, Michael Zopf, Yan Chen, Bianca Hoefer, Jiaxiang Zhang, Fei Ding, Oliver G. Schmidt
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1611.03717
+abstract: Semiconductor InAs/GaAs quantum dots grown by the Stranski-Krastanov method are among the leading candidates for the deterministic generation of polarization entangled photon pairs. Despite remarkable progress in the last twenty years, many challenges still remain for this material, such as the extremely low yield (<1% quantum dots can emit entangled photons), the low degree of entanglement, and the large wavelength distribution. Here we show that, with an emerging family of GaAs/AlGaAs quantum dots grown by droplet etching and nanohole infilling, it is possible to obtain a large ensemble (close to 100%) of polarization-entangled photon emitters on a wafer without any post-growth tuning. Under pulsed resonant two-photon excitation, all measured quantum dots emit single pairs of entangled photons with ultra-high purity, high degree of entanglement (fidelity up to F=0.91, with a record high concurrence C=0.90), and ultra-narrow wavelength distribution at rubidium transitions. Therefore, a solid-state quantum repeater - among many other key enabling quantum photonic elements - can be practically implemented with this new material.
+
+id: 1611.03743
+title: Experimental pre-assessing entanglement in Gaussian states mixing
+authors: A. Pecoraro, D. Buono, G. Nocerino, A. Porzio, S. Olivares, M. G. A. Paris
+comments: 10 pages, 15 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.03743
+abstract: We suggest and demonstrate a method to assess entanglement generation schemes based on mixing of Gaussian states at a beam splitter (BS). Our method is based on the fidelity criterion and represents a tool to analyze the effect of losses and noise before the BS in both symmetric and asymmetric channels with and without thermal effects. More generally, our scheme allows one to pre-assess entanglement resources and to optimize the design of BS-based schemes for the generation of continuous variable entanglement.
+
+id: 1611.03752
+title: Quantum Dynamics in Open Quantum-Classical Systems
+authors: Raymond Kapral
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.03752
+abstract: Often quantum systems are not isolated and interactions with their environments must be taken into account. In such open quantum systems these environmental interactions can lead to decoherence and dissipation, which have a marked influence on the properties of the quantum system. In many instances the environment is well-approximated by classical mechanics, so that one is led to consider the dynamics of open quantum-classical systems. Since a full quantum dynamical description of large many-body systems is not currently feasible, mixed quantum-classical methods can provide accurate and computationally tractable ways to follow the dynamics of both the system and its environment. This review focuses on quantum-classical Liouville dynamics, one of several quantum-classical descriptions, and discusses the problems that arise when one attempts to combine quantum and classical mechanics, coherence and decoherence in quantum-classical systems, nonadiabatic dynamics, surface-hopping and mean-field theories and their relation to quantum-classical Liouville dynamics, as well as methods for simulating the dynamics.
+
+id: 1611.03774
+title: Frequency domain processing of on-chip biphoton frequency comb
+authors: Jose A. Jaramillo-Villegas, Poolad Imany, Ogaga D. Odele, Daniel E. Leaird, Zhe-Yu Ou, Minghao Qi, Andrew M. Weiner
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1611.03774
+abstract: Quantum information processing (QIP) promises to improve the security of our communications as well as to solve some algorithms with exponential complexity in polynomial time. Biphotons have been demonstrated as one of the most promising platforms for real implementations of QIP systems. In particular, time-bin entangled photons have been used for implementations of quantum gates which require highly stable interferometers. On the other hand, frequency-bin entanglement has been proposed to avoid the use of interferometers and the complexity of their stabilization, which potentially makes the implementation of quantum gates highly scalable. Through Fourier transform pulse shaping and electro-optic modulation, there has been a wide range of experiments that show control of entangled photons in the frequency domain. In addition, biphoton frequency combs (BFC) have also been generated using bulk optics and frequency filtering of broadband continuous biphoton spectra. However, on-chip entangled photon pair generation provides a suitable platform because of its reduced cost and compatibility with semiconductor foundries. Here, we begin exploring the time-frequency signatures of on-chip biphoton frequency combs. For the first time, we demonstrate nonlocal dispersion cancellation, a foundational concept in time-energy entanglement, with a chip-generated BFC, suggesting the potential for large-alphabet quantum key distribution. Also, we examine the multifrequency nature of our photon-pair source in a time entanglement measurement scheme. Taking advantage of multiple frequencies from the BFC results in a modulation of the interference pattern, which simultaneously proves time-entanglement for all frequencies. These BFCs potentially offer a new path towards high-dimensional frequency-bin entanglement for highly scalable quantum computing.
+
+id: 1611.03790
+title: Weight Reduction for Quantum Codes
+authors: M. B. Hastings
+comments: 20 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.03790
+abstract: We present an algorithm that takes a CSS stabilizer code as input, and outputs another CSS stabilizer code such that the stabilizer generators all have weights $O(1)$ and such that $O(1)$ generators act on any given qubit. The number of logical qubits is unchanged by the procedure, while we give bounds on the increase in number of physical qubits and in the effect on distance and other code parameters, such as soundness (as a locally testable code) and "cosoundness" (defined later). Applications are discussed, including to codes from high-dimensional manifolds which have logarithmic weight stabilizers. Assuming a conjecture in geometry\cite{hdm}, this allows the construction of CSS stabilizer codes with generator weight $O(1)$ and almost linear distance. Another application of the construction is to increasing the distance to $X$ or $Z$ errors, whichever is smaller, so that the two distances are equal.
+
+id: 1611.03826
+title: Bell-like examples for spin-1 hidden variable theories
+authors: Kaushik Borah, N. D. Hari Dass
+comments: 23 pages 5 tables in JHEP style
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.03826
+abstract: Though John Bell had claimed that his spin-1/2 example of a hidden-variable theory(HV) is an \emph{explicit} counterexample to von Neumann's proof of the non-existence of hidden variable theories empirically equivalent to quantum mechanics, such examples can be so construed only if they met all of von Neumann's requirements. In particular, that they reproduced all the observed predictions of quantum theory. To shed light on these aspects, we have, on the one hand, simplified and critically examined Bell's original example and on the other hand, constructed explicit such examples for spin-1 systems. We have clarified the relation of our example to the Kochen-Specker and Bell's powerful earlier results. Our spin-1 examples are manifestly non-contextual, yet violating the K-S constraints configuration by configuration. Nevertheless, they reproduce the correct quantum expectation values and variances for arbitrary linear combinations of the beables in one case, and for close approximants to the beables representing K-S constraints. In conformity with the K-S theorem, the variance of the K-S constraint is nonzero. The implications of this non-vanishing variance are analysed in detail. In the other example, we show how this variance can be made arbitrarily small but not zero.
+
+id: 1611.03498
+title: On the Quantisation of Complex Higher Derivative Theories and Avoiding the Ostrogradsky Ghost
+authors: Martti Raidal, Hardi Veerm?e
+comments: 21 pages
+journal: 
+subjects: High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.03498
+abstract: Generic higher derivative theories are believed to be fundamentally unphysical because they contain Ostrogradsky ghosts. We show that within complex classical mechanics it is possible to construct higher derivative theories that circumvent the Ostrogradsky theorem and have a real energy spectrum that is bounded from below. The complex theory can be canonically quantised. The resulting quantum theory does not suffer from the kinetic instability and maintains the usual probabilistic interpretation without violating the correspondence principle. As a proof of concept, we construct a class of stable interacting complex higher derivative theories. This consistent and canonical framework allows us to analyse previous attempts to avoid the ghosts that use non-canonical quantisation schemes, such as the Lee-Wick theories, Dirac-Pauli quantisation or PT-symmetric quantum mechanics. The key to understand the would-be ghosts in any kinetically stable higher derivative theory is to accept the complex system behind it
+
+id: 1611.03529
+title: Free-Space Quantum Key Distribution
+authors: Alberto Carrasco-Casado, Ver¨®nica Fern¨¢ndez, Natalia Denisenko
+comments: 22 pages, 15 figures
+journal: Chapter of the book "Optical Wireless Communications - An Emerging Technology" (Springer International Publishing, 2016)
+subjects: Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.03529
+abstract: Based on the firm laws of physics rather than unproven foundations of mathematical complexity, quantum cryptography provides a radically different solution for encryption and promises unconditional security. Quantum cryptography systems are typically built between two nodes connected to each other through fiber optic. This chapter focuses on quantum cryptography systems operating over free-space optical channels as a cost-effective and license-free alternative to fiber optic counterparts. It provides an overview of the different parts of an experimental free-space quantum communication link developed in the Spanish National Research Council (Madrid, Spain).
+
+id: 1611.03701
+title: Experimental evidence for Wigner's tunneling time
+authors: Nicolas Camus, Enderalp Yakaboylu, Lutz Fechner, Michael Klaiber, Martin Laux, Yonghao Mi, Karen Z. Hatsagortsyan, Thomas Pfeifer, Christoph H. Keitel, Robert Moshammer
+comments: 31 pages, 15 figures including appendix
+journal: 
+subjects: Atomic Physics (physics.atom-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.03701
+abstract: Tunneling of a particle through a potential barrier remains one of the most remarkable quantum phenomena. Owing to advances in laser technology, electric fields comparable to those electrons experience in atoms are readily generated and open opportunities to dynamically investigate the process of electron tunneling through the potential barrier formed by the superposition of both laser and atomic fields. Attosecond-time and angstrom-space resolution of the strong laser-field technique allow to address fundamental questions related to tunneling, which are still open and debated: Which time is spent under the barrier and what momentum is picked up by the particle in the meantime? In this combined experimental and theoretical study we demonstrate that for strong-field ionization the leading quantum mechanical Wigner treatment for the time resolved description of tunneling is valid. We achieve a high sensitivity on the tunneling barrier and unambiguously isolate its effects by performing a differential study of two systems with almost identical tunneling geometry. Moreover, working with a low frequency laser, we essentially limit the non-adiabaticity of the process as a major source of uncertainty. The agreement between experiment and theory implies two substantial corrections with respect to the widely employed quasiclassical treatment: In addition to a non-vanishing longitudinal momentum along the laser field-direction we provide clear evidence for a non-zero tunneling time delay. This addresses also the fundamental question how the transition occurs from the tunnel barrier to free space classical evolution of the ejected electron.
+
+id: 1611.03755
+title: SLIM-Decomposition: Nearest-Neighbor Interaction Systems in the Tensor Train Format
+authors: Patrick Gel?, Stefan Klus, Sebastian Matera, Christof Sch¨¹tte
+comments: 
+journal: 
+subjects: Numerical Analysis (math.NA); Chemical Physics (physics.chem-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.03755
+abstract: Low-rank tensor approximation approaches have become an important tool in the scientific computing community. The aim is to enable the simulation and analysis of high-dimensional problems which cannot be solved using conventional methods anymore due to the so-called curse of dimensionality. This requires techniques to handle linear operators defined on extremely large state spaces and to solve the resulting systems of linear equations or eigenvalue problems. In this paper, we present a systematic tensor train decomposition for nearest neighbor interaction systems which is applicable to a host of different problems. With the aid of this decomposition, it is possible to reduce the memory consumption as well as the computational costs significantly. Furthermore, it can be shown that in some cases the rank of the tensor decomposition does not depend on the network size. The format is thus feasible even for high-dimensional systems. We will illustrate the results with several guiding examples such as the Ising model, a system of coupled oscillators, and a CO oxidation model.
+
+id: 1611.03842
+title: Strong and tunable couplings in flux-mediated optomechanics
+authors: Olga Shevchuk, Gary A. Steele, Ya. M. Blanter
+comments: 8 pages, 6 figures
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.03842
+abstract: We investigate superconducting interference device (SQUID) with two asymmetric Josephson junctions coupled to a mechanical resonator embedded in the loop of the SQUID. We quantize this system in the case when the frequency of the mechanical resonator is much lower than the cavity frequency of the SQUID and in the case when they are comparable. In the first case, the radiation pressure and cross-Kerr type interactions arise and are modified by asymmetry. Cross-Kerr type coupling is the leading term at the extremum points where radiation pressure is zero. In the second case, the main interaction is single-photon beam splitter, which exists only at finite asymmetry. Another interaction in this regime is of cross-Kerr type, which exists at all asymmetries, but generally much weaker than the beam splitter interaction. Increasing magnetic field can substantially enhance optomechanical couplings strength with the potential for the radiation pressure coupling to reach the single-photon strong coupling regime, even the ultrastrong coupling regime, in which the single-photon coupling rate exceeds the mechanical frequency.
+
+id: 1501.00942
+title: Dzyaloshinskii-Moriya interaction as an agent to free the bound entangled states
+authors: Kapil K. Sharma, S. N. Pandey
+comments: 10 pages, 8 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1501.00942
+abstract: 
+
+id: 1506.06787
+title: Simulation of the hydrogen ground state in Stochastic Electrodynamics-2: Inclusion of relativistic corrections
+authors: Theodorus M. Nieuwenhuizen, Matthew T. P. Liska
+comments: Published version, with proper title. 12 pages, 4 figures
+journal: Foundations of Physics 45, 1190-1202 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1506.06787
+abstract: 
+
+id: 1604.05834
+title: Quantum discord as a tool for comparing collapse models and decoherence
+authors: Shreya Banerjee, Sayantani Bera, Tejinder P. Singh
+comments: 8 pages, 2 figures (both newly added), 1 table; abstract, table and conclusions modified, new results added to section 4, references added, matches with published version
+journal: Phys.Lett. A380 (2016) 3778-3785
+subjects: Quantum Physics (quant-ph); General Relativity and Quantum Cosmology (gr-qc)
+url: http://www.arxiv.org/abs/1604.05834
+abstract: 
+
+id: 1604.06311
+title: Arbitrary quantum state engineering in three-state systems via Counterdiabatic driving
+authors: Ye-Hong Chen, Yan Xia, Qi-Cheng Wu, Bi-Hua Huang, Jie Song
+comments: 16 pages, 13 figures, has been accepted by Scientific Reports
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.06311
+abstract: 
+
+id: 1605.01005
+title: Quantum melting of two-component Rydberg crystals
+authors: Zhihao Lan, Weibin Li, Igor Lesanovsky
+comments: 6+2 pages, 4+1 figures, 1 table, published version
+journal: Phys. Rev. A 94, 051603(R) (2016)
+subjects: Quantum Gases (cond-mat.quant-gas); Atomic Physics (physics.atom-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.01005
+abstract: 
+
+id: 1606.03690
+title: Engineering single-phonon number states of a mechanical oscillator via photon subtraction
+authors: M. Miskeen Khan, M. Javed Akram, M. Paternostro, F. Saif
+comments: 7 pages, 10 figures, RevTeX4; This paper supersedes arXiv:1511.07617; Accepted for publication in Phys. Rev. A
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
+url: http://www.arxiv.org/abs/1606.03690
+abstract: 
+
+id: 1608.05641
+title: Almost quantum correlations and their refinements in a tripartite Bell scenario
+authors: James Vallins, Ana Bel¨¦n Sainz, Yeong-Cherng Liang
+comments: 7 pages + appendix, 1 figure and 1 table; (v2) typos corrected and references updated. (v3) New results on 'biseparable' refinements of the almost quantum set
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05641
+abstract: 
+
+id: 1608.06198
+title: Quantum Control Landscapes Are Almost Always Trap Free
+authors: Benjamin Russell, Herschel Rabitz, Rebing Wu
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Optimization and Control (math.OC)
+url: http://www.arxiv.org/abs/1608.06198
+abstract: 
+
+id: 1608.07418
+title: Single-loop multiple-pulse nonadiabatic holonomic quantum gates
+authors: Emmi Herterich, Erik Sj?qvist
+comments: Some amendments; journal reference added
+journal: Phys. Rev. A 94, 052310 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.07418
+abstract: 
+
+id: 1609.04275
+title: Magnetoexcitons in cuprous oxide
+authors: Frank Schweiner, J?rg Main, G¨¹nter Wunner, Marcel Freitag, Julian Heck?tter, Marc A?mann, Dietmar Fr?hlich, Manfred Bayer
+comments: 
+journal: 
+subjects: Materials Science (cond-mat.mtrl-sci); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1609.04275
+abstract: 
+
+id: 1610.07611
+title: Floquet symmetry-protected topological phases in cold atomic systems
+authors: Ionut-Dragos Potirniche, Andrew C. Potter, Monika Schleier-Smith, Ashvin Vishwanath, Norman Y. Yao
+comments: Updated references
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Disordered Systems and Neural Networks (cond-mat.dis-nn); Strongly Correlated Electrons (cond-mat.str-el); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.07611
+abstract: 
+
+id: 1610.07751
+title: Fast preparation of W states with superconducting quantum interference devices by using dressed states
+authors: Yi-Hao Kang, Ye-Hong Chen, Zhi-Cheng Shi, Jie Song, Yan Xia
+comments: 14 pages (one column), 8 figures, has been accepted by Physical Review A
+journal: Physical Review A 94, 052311 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.07751
+abstract: 
+
+id: 1610.08656
+title: Coherence depletion in the Grover quantum search algorithm
+authors: Hai-Long Shi, Si-Yuan Liu, Xiao-Hui Wang, Wen-Li Yang, Zhan-Ying Yang, Heng Fan
+comments: 7 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.08656
+abstract: 
+
+id: 1611.00204
+title: Reliability of digitized quantum annealing and the decay of entanglement
+authors: John P. S. Peterson, Roberto S. Sarthour, Alexandre M. Souza, Ivan S. Oliveira, Frederico Brito, Fernando de Melo
+comments: 6+4 pages, 4+4 figures. Comments welcome
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00204
+abstract: 
+
+id: 1611.01699
+title: Maximum nonlocality in the (3,2,2) scenario
+authors: Sheila L¨®pez-Rosa, Zhen-Peng Xu, Ad¨¢n Cabello
+comments: REVTeX4-1, 11 pages, 7 tables
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.01699
+abstract: 
+
+id: 1611.03120
+title: Plasmonics for emerging quantum technologies
+authors: Sergey I. Bozhevolnyi, N. Asger Mortensen
+comments: To appear in Nanophotonics
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.03120
+abstract: 
+
+id: 1611.03389
+title: Robustness of Greenberger-Horne-Zeilinger and W states against Dzyaloshinshkii-Moriya interaction
+authors: Kapil K. Sharma, S. N. Pandey
+comments: 11 pages, 6 figures in Quantum. Info. Proc. (2016)
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.03389
+abstract: 
+

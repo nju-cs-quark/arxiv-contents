@@ -1,0 +1,38 @@
+---
+layout: arxiv
+title: 202016 Filtered arXiv Papers
+---
+
+**1.    Oscillatory Localization of Quantum Walks by Classical Electric Circuits**  
+Andris Ambainis, Kri?jānis Prūsis, Jevgēnijs Vihrovs, Thomas G. Wong  
+http://www.arxiv.org/abs/1606.02136  
+<blockquote>
+<p>
+Power dissipation and effective resistance are ubiquitous quantities in electric circuits. We connect these classical notions with a new quantum phenomenon, proving that a discrete-time quantum walk oscillates between two states if the power dissipation on a related electric network is low. By applying this framework to starting states along a single edge of the graph, we show that low effective resistance implies oscillatory localization of the quantum walk. This includes a large variety of regular graphs, such as edge-transitive, expander, and high degree graphs. As a corollary, it follows that high edge-connectivity also implies localization of these states, since it is closely related to electric resistance.
+</p>
+</blockquote>
+
+------
+
+**2.    Full Characterization of Oscillatory Localization of Quantum Walks**  
+Andris Ambainis, Kri?jānis Prūsis, Jevgēnijs Vihrovs, Thomas G. Wong  
+http://www.arxiv.org/abs/1606.02139  
+<blockquote>
+<p>
+Discrete-time quantum walks are well-known for exhibiting localization, a quantum phenomenon where the walker remains at its initial location with high probability. In companion with a joint Letter, we introduce oscillatory localization, where the walker alternates between two states. The walk is given by the flip-flop shift, which is easily defined on non-lattice graphs, and the Grover coin. Extremely simple examples of the localization exist, such as a walker jumping back and forth between two vertices of the complete graph. We show that only two kinds of states, called flip states and uniform states, exhibit exact oscillatory localization. So the projection of an arbitrary state onto these gives a lower bound on the extent of oscillatory localization. Thus we completely characterize the states that oscillate under the quantum walk.
+</p>
+</blockquote>
+
+------
+
+**3.    Estimating strong correlations in optical lattices**  
+J. Gertis, M. Friesdorf, C. A. Riofrio, J. Eisert  
+http://www.arxiv.org/abs/1606.01913  
+<blockquote>
+<p>
+Ultra-cold atoms in optical lattices provide one of the most promising platforms for analog quantum simulations of complex quantum many-body systems. Large-size systems can now routinely be reached and are already used to probe a large variety of different physical situations, ranging from quantum phase transitions to artificial gauge theories. At the same time, measurement techniques are still limited and full tomography for these systems seems out of reach. Motivated by this observation, we present a method to directly detect and quantify to what extent a quantum state deviates from a local Gaussian description, based on available noise correlation measurements from in-situ and time-of-flight measurements. This is an indicator of the significance of strong correlations in ground and thermal states, as Gaussian states are precisely the ground and thermal states of non-interacting models. We connect our findings, augmented by numerical tensor network simulations, to notions of equilibration, disordered systems and the suppression of transport in Anderson insulators.
+</p>
+</blockquote>
+
+------
+

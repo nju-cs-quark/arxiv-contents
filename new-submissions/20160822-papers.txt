@@ -1,0 +1,261 @@
+id: 1608.05427
+title: Semiclassical basis sets for the computation of molecular vibrational states
+authors: F. Revuelta, E. Vergini, R. M. Benito, F. Borondo
+comments: 22 pages, 14 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05427
+abstract: In this paper, we extend a method recently reported [Phys. Rev. E 87, 042921 (2012)] for the calculation of the eigestates of classically highly chaotic systems to cases of mixed dynamics, i.e. those presenting regular and irregular motions at the same energy. The efficiency of the method, which is based on the use of a semiclassical basis set of localized wave functions, is demonstrated by applying it to the determination of the vibrational states of a realistic molecular system, namely the LiCN molecule.
+
+id: 1608.05471
+title: Depolarization dynamics in a strongly interacting solid-state spin ensemble
+authors: Soonwon Choi, Joonhee Choi, Georg Kucsko, Peter C. Maurer, Brendan J. Shields, Hitoshi Sumiya, Shinobu Onoda, Junichi Isoya, Eugene Demler, Fedor Jelezko, Norman Y. Yao, Mikhail D. Lukin
+comments: 15 pages, 8 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Disordered Systems and Neural Networks (cond-mat.dis-nn); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Statistical Mechanics (cond-mat.stat-mech); Strongly Correlated Electrons (cond-mat.str-el)
+url: http://www.arxiv.org/abs/1608.05471
+abstract: We study the depolarization dynamics of a dense ensemble of dipolar interacting spins, associated with nitrogen-vacancy centers in diamond. We observe anomalously fast, density-dependent, and non-exponential spin relaxation. To explain these observations, we propose a microscopic model where an interplay of long-range interactions, disorder, and dissipation leads to predictions that are in quantitative agreement with both current and prior experimental results. Our results pave the way for controlled many-body experiments with long-lived and strongly interacting ensembles of solid-state spins.
+
+id: 1608.05484
+title: Hidden $sl(2)$-algebraic structure in Rabi model and its 2-photon and two-mode generalizations
+authors: Yao-Zhong Zhang
+comments: LaTex 13 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1608.05484
+abstract: It is shown that the (driven) quantum Rabi model and its 2-photon and 2-mode generalizations possess a hidden $sl(2)$-algebraic structure which explains the origin of the quasi-exact solvability of these models. It manifests the first appearance of a hidden algebraic structure in quantum spin-boson systems without $U(1)$ symmetry.
+
+id: 1608.05510
+title: Hitting statistics from quantum jumps
+authors: A. Chia, T. Paterek, L. C. Kwek
+comments: Preliminary draft. Simple examples with plots to be included in a later version. Further discussion of alternative hitting-time definitions to come
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05510
+abstract: It is known that a quantum random walker is capable of moving much faster than its classical counterpart. This property of quantum walks has been taken advantage of, for example, in the design of efficient quantum algorithms. A standard quantity that reveals the quantum speed-up is the so-called hitting time which measures the time taken to reach a given destination for the first time (the time required to arrive at a solution to a problem in the context of quantum algorithms). Here we show how the quantum-jump formalism, known primarily from quantum optics, can be used to define the hitting time for continuous- time open quantum walks evolving under a Lindblad-form master equation. The quantum-jump approach is used to derive the hitting-time distribution and its average. We consider graphs that contain both unitary and non-unitary (incoherent population transfer and dephasing) interconnections between vertices. We discuss the conditions under which the hitting-time distributions of continuous- and discrete-time quantum walks coincide. Finally, we study quantum walks with coherent transitions to the destination vertex. At first glance the quantum-jump approach is not applicable in this case (as there is no jump), but we provide a remedy.
+
+id: 1608.05614
+title: All measurements in a probabilistic theory are compatible if and only if the state space is a simplex
+authors: Martin Pl¨¢vala
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05614
+abstract: We study the compatibility of measurements on finite-dimensional compact convex state space in the framework of general probabilistic theory. Our main emphasis is on formulation of necessary and sufficient conditions for two-outcome measurements to be compatible and we use these conditions to show that there exist incompatible measurements whenever the state space is not a simplex. We also formulate the linear programming problem for the compatibility of two-outcome measurements.
+
+id: 1608.05641
+title: Almost quantum correlations in tripartite Bell scenarios
+authors: James Vallins, Ana Bel¨¦n Sainz
+comments: 4 pages + appendix; 1 figure and 2 tables
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05641
+abstract: We study almost quantum correlations in tripartite Bell scenarios. In the simplest case with two dichotomic measurements per party we find that there exist tight Bell inequalities that witness almost quantum correlations beyond quantum theory, which is in contrast to its bipartite counterpart. Finally, we study the relation between the almost quantum set and the NPA hierarchy. While the former lies between the first and third level of the hierarchy, we find that the second level does not contain and is not contained within the almost quantum set.
+
+id: 1608.05672
+title: Decoherent histories approach to the cosmological measure problem
+authors: Seth Lloyd
+comments: 18 pages, plain TeX
+journal: 
+subjects: Quantum Physics (quant-ph); General Relativity and Quantum Cosmology (gr-qc)
+url: http://www.arxiv.org/abs/1608.05672
+abstract: The method of decoherent histories allows probabilities to be assigned to sequences of quantum events in systems, such as the universe as a whole, where there is no external observer to make measurements. This paper applies the method of decoherent histories to address cosmological questions. Using a series of simple examples, beginning with the harmonic oscillator, we show that systems in a stationary state such as an energy eigenstate or thermal state can exhibit decoherent histories with non-trivial dynamics. We then examine decoherent histories in a universe that undergoes eternal inflation. Decoherent histories that assign probabilities to sequences of events in the vicinity of a timelike geodesic supply a natural cosmological measure. Under reasonable conditions, such sequences of events do not suffer from the presence of unlikely statistical fluctuations that mimic reality.
+
+id: 1608.05696
+title: Bounding the costs of quantum simulation of many-body physics in real space
+authors: Ian D. Kivlichan, Nathan Wiebe, Ryan Babbush, Alan Aspuru-Guzik
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05696
+abstract: We present a quantum algorithm for simulating the dynamics of a first-quantized Hamiltonian in real space based on the truncated Taylor series algorithm. We avoid the possibility for singularities by applying various cutoffs to the system and using a high-order finite difference approximation to the kinetic energy operator. We find that our algorithm can simulate $\eta$ interacting particles using a number of calculations of the pairwise interactions that scales, for a fixed spatial grid spacing, as $\tilde{O}(\eta^3)$, versus the $\tilde{O}(\eta^5)$ time required by previous methods, and scales super-polynomially better with the error tolerance than algorithms based on the Lie-Trotter-Suzuki product formula. Finally, we analyze discretization errors that arise from the spatial grid and show that under some circumstances these errors can remove the exponential speedups typically afforded by quantum simulation.
+
+id: 1608.05409
+title: A class of characterizations of central elements in $C^*$-algebras
+authors: D¨¢niel Virosztek
+comments: 
+journal: 
+subjects: Operator Algebras (math.OA); Mathematical Physics (math-ph); Functional Analysis (math.FA); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05409
+abstract: Let $\mathcal{A}$ be a unital $C^*$-algebra. We introduce a quite large function class $\mathcal{F}$ (which includes the power function $x \mapsto x^p$ for any $p \in (1, \infty)$), and show that any function $f \in \mathcal{F}$ provides a characterization of the centrality in the following sense. If $A \in \mathcal{A}$ is a positive invertible element, then we have $A \leq B \Rightarrow f(A) \leq f(B)$ if and only if $A$ is a central element of $\mathcal{A}.$ We obtain this way a class of characterizations of central elements in $C^*$-algebras. The classical theorem of Ogasawara \cite{oga} and its improvement by Pedersen \cite{pedersen} are apparent consequences of our result (which is more general than the "local" version of Pedersen's statement). Surprisingly, the more recent results of Wu \cite{wu} and Moln\'ar \cite{mol-char} are not, despite the fact that our work was motivated by the work of Moln\'ar.
+
+id: 1608.05425
+title: An action principle of classical irreversible thermodynamics - Irreversible thermodynamic cycles and embodied bits of information
+authors: Rudolf A. Hanel
+comments: 7 pages, 3 figures
+journal: 
+subjects: Classical Physics (physics.class-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05425
+abstract: Despite its simplicity, it seems to my best of knowledge that the possibly simplest approach towards deriving equations governing irreversible thermodynamics from gas-kinetic considerations within the framework of classical mechanics has never been pursued. In this paper we address this omission and derive the equations describing the irreversible thermodynamics of a gas in a piston and associated thermodynamic cycles performed in finite time. What we find is a thermodynamic action principle: The irreversible work we require for performing a thermodynamic cycle in finite time times the time we require to run through the cycle, a isothermal compression/decompression cycle for instance, will always be larger or equal to a lower bound given by a system specific constant with the dimension of an action. This process specific action constants can take values of the order of Plank's constant for microscopic processes, such as displacing a Hydrogen atom by one atom diameter. For macroscopic processes (e.g. a bicycle pump) also the action constant takes macroscopically observable values. We discuss the finite time Carnot cycle, and estimate the lower bound for irreversible work required when rewriting physically embodied bits of information and compare the resulting values with Landauer's bond, the irreversible amount of energy that needs to be dissipated for re-writing a bit.
+
+id: 1608.05547
+title: Minimal Entanglement Witness From Electrical Current Correlations
+authors: F. Brange, O. Malkoc, P. Samuelsson
+comments: 5 pages, 3 figs
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05547
+abstract: Despite great efforts, an unambiguous demonstration of entanglement of mobile electrons in solid state conductors is still lacking. Investigating theoretically a generic entangler-detector setup, we here show that a witness of entanglement between two flying electron qubits can be constructed from only two current cross correlation measurements, for any nonzero detector efficiencies and non-collinear polarization vectors. We find that all entangled pure states, but not all mixed ones, can be detected with only two measurements, except the maximally entangled states, which require three. Moreover, detector settings for optimal entanglement witnessing are presented.
+
+id: 1608.05556
+title: Minimal Basis Iterative Stockholder: Atoms in Molecules for Force-Field Development
+authors: Toon Verstraelen, Steven Vandenbrande, Farnaz Heidar-Zadeh, Louis Vanduyfhuys, Veronique Van Speybroeck, Michel Waroquier, Paul W. Ayers
+comments: 61 pages, 12 figures, 2 tables
+journal: J. Chem. Theory Comput., 2016, 12 (8), pp 3894--3912
+subjects: Chemical Physics (physics.chem-ph); Atomic and Molecular Clusters (physics.atm-clus); Atomic Physics (physics.atom-ph); Computational Physics (physics.comp-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05556
+abstract: Atomic partial charges appear in the Coulomb term of many force-field models and can be derived from electronic structure calculations with a myriad of atoms-in-molecules (AIM) methods. More advanced models have also been proposed, using the distributed nature of the electron cloud and atomic multipoles. In this work, an electrostatic force field is defined through a concise approximation of the electron density, for which the Coulomb interaction is trivially evaluated. This approximate "pro-density" is expanded in a minimal basis of atom-centered s-type Slater density functions, whose parameters are optimized by minimizing the Kullback-Leibler divergence of the pro-density from a reference electron density, e.g. obtained from an electronic structure calculation. The proposed method, Minimal Basis Iterative Stockholder (MBIS), is a variant of the Hirshfeld AIM method but it can also be used as a density-fitting technique. An iterative algorithm to refine the pro-density is easily implemented with a linear-scaling computational cost, enabling applications to supramolecular systems. The benefits of the MBIS method are demonstrated with systematic applications to molecular databases and extended models of condensed phases. A comparison to 14 other AIM methods shows its effectiveness when modeling electrostatic interactions. MBIS is also suitable for rescaling atomic polarizabilities in the Tkatchenko-Sheffler scheme for dispersion interactions.
+
+id: 1608.05595
+title: Fundamental aspects of steady-state conversion of heat to work at the nanoscale
+authors: Giuliano Benenti, Giulio Casati, Keiji Saito, Robert S. Whitney
+comments: Review (132 pages). We encourage all comments on this preliminary version (particularly overlooked references or typos in equations). Some sections of this review are based on the short unpublished review arXiv:1311.4430
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05595
+abstract: In recent years, the study of heat to work conversion has been re-invigorated by nanotechnology. Steady-state devices do this conversion without any macroscopic moving parts, through steady-state flows of microscopic particles such as electrons, photons, phonons, etc. This review aims to introduce some of the theories used to describe these steady-state flows in a variety of mesoscopic or nanoscale systems. These theories are introduced in the context of idealized machines which convert heat into electrical power (heat-engines) or convert electrical power into a heat flow (refrigerators). In this sense, the machines could be categorized as thermoelectrics, although this should be understood to include photovoltaics when the heat source is the sun. In many cases the machines we consider have few degrees of freedom, however the reservoirs of heat and work that they interact with are assumed to be macroscopic. This review discusses different theories which can take into account different aspects of mesoscopic and nanoscale physics, such as coherent quantum transport, magnetic-field induced effects including topological ones (such as the quantum Hall effect), and single electron charging effects. It discusses the efficiency of thermoelectric conversion, and the thermoelectric figure of merit. More specifically, the theories presented are (i) linear response theory with or without magnetic fields, (ii) Landauer scattering theory in the linear response regime and far from equilibrium, (iii) Green-Kubo formula for strongly interacting systems within the linear response regime, (iv) master equation analysis for small quantum machines with or without interaction effects, (v) stochastic thermodynamic for fluctuating small systems. In all cases, we place particular emphasis on the fundamental questions... (see the manuscript for the rest of this abstract).
+
+id: 1608.05616
+title: Observation of a dynamical topological phase transition
+authors: Nick Fl?schner, Dominik Vogel, Matthias Tarnowski, Benno S. Rem, Dirk-S?ren L¨¹hmann, Markus Heyl, Jan Carl Budich, Ludwig Mathey, Klaus Sengstock, Christof Weitenberg
+comments: 
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05616
+abstract: Phase transitions are a fundamental concept in science describing diverse phenomena ranging from, e.g., the freezing of water to Bose-Einstein condensation. While the concept is well-established in equilibrium, similarly fundamental concepts for systems far from equilibrium are just being explored, such as the recently introduced dynamical phase transition (DPT). Here we report on the first observation of a DPT in the dynamics of a fermionic many-body state after a quench between two lattice Hamiltonians. With time-resolved state tomography in a system of ultracold atoms in optical lattices, we obtain full access to the evolution of the wave function. We observe the appearance, movement, and annihilation of vortices in reciprocal space. We identify their number as a dynamical topological order parameter, which suddenly changes its value at the critical times of the DPT. Our observation of a DPT is an important step towards a more comprehensive understanding of non-equilibrium dynamics in general.
+
+id: 1608.05623
+title: Electromagnetic reflection, transmission and energy density at boundaries of nonlocal media
+authors: R. J. Churchill, T. G. Philbin
+comments: 11 pages, 8 figures
+journal: 
+subjects: Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05623
+abstract: We consider a semi-infinite spatially dispersive dielectric with unequal transverse and longitudinal susceptibilities. The effect of the boundary is characterized by arbitrary reflection coefficients for polarization waves in the material that propagate to the surface. Specific values of these coefficients correspond to various additional boundary conditions (ABC) for Maxwell's equations. We derive the electromagnetic reflection and transmission coefficients at the boundary and investigate their dependence on material parameters and ABC. We also investigate the electromagnetic zero-point and thermal spectral energy density outside the dielectric. The nonlocal response removes the boundary divergence of the spectral energy density that is present in a local model. The spectral energy density shows a large dependence on the difference between the transverse and longitudinal susceptibilities, even at distances up to 10nm from the boundary.
+
+id: 1608.05700
+title: Statistics of fractionalized excitations through threshold spectroscopy
+authors: Siddhardh C. Morampudi, Ari M. Turner, Frank Pollmann, Frank Wilczek
+comments: 5+1 pages, 4 figures
+journal: 
+subjects: Strongly Correlated Electrons (cond-mat.str-el); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05700
+abstract: We show that the anyonic statistics of fractionalized excitations display characteristic signatures in threshold spectroscopic measurements. Drawing motivation from topologically ordered phases such as gapped quantum spin liquids and fractional chern insulators which possess fractionalized excitations, we consider gapped systems with abelian anyonic excitations. The low energy onset of associated correlation functions near the threshold show universal behaviour depending on the statistics of the anyons. This explains some recent theoretical results in spin systems and also provides a route towards detecting statistics in experiments such as neutron scattering and tunneling spectroscopy.
+
+id: 1508.07910
+title: Blind Quantum Computing with Decoy States
+authors: Ke Xu, Hoi-kwong Lo
+comments: The paper has been withdrawn by the author due to potential text overlap with another paper and is currently under revision
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1508.07910
+abstract: 
+
+id: 1512.07765
+title: Fast Phase-manipulation of the Single Nuclear Spin Induced by an Electric Field
+authors: T. Shimo-Oka, Y. Tokura, Y. Suzuki, N. Mizuochi
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.07765
+abstract: 
+
+id: 1602.00413
+title: Linear Programming Bounds for Entanglement-Assisted Quantum Error-Correcting Codes by Split Weight Enumerators
+authors: Ching-Yi Lai, Alexei Ashikhmin
+comments: 17 pages, 2 figures, 2 tables
+journal: 
+subjects: Information Theory (cs.IT); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.00413
+abstract: 
+
+id: 1602.01793
+title: Quantization of inductively-shunted superconducting circuits
+authors: W. C. Smith, A. Kou, U. Vool, I. M. Pop, L. Frunzio, R. J. Schoelkopf, M. H. Devoret
+comments: 10 pages, 7 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
+url: http://www.arxiv.org/abs/1602.01793
+abstract: 
+
+id: 1602.04592
+title: Implementation of bipartite or remote unitary gates with repeater nodes
+authors: Li Yu, Kae Nemoto
+comments: Updated to published version. 28 pages, 8 figures
+journal: Physical Review A 94, 022320 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.04592
+abstract: 
+
+id: 1603.02082
+title: Realising a quantum absorption refrigerator with an atom-cavity system
+authors: Mark T. Mitchison, Marcus Huber, Javier Prior, Mischa P. Woods, Martin B. Plenio
+comments: 13+4 pages. Updated to published version, replacing a previous submission titled "Autonomous quantum thermal machines in atom-cavity systems"
+journal: Quantum Science and Technology 1, 015001 (2016)
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech); Atomic Physics (physics.atom-ph)
+url: http://www.arxiv.org/abs/1603.02082
+abstract: 
+
+id: 1604.03076
+title: A universal gate for fixed-frequency qubits via a tunable bus
+authors: David C. McKay, Stefan Filipp, Antonio Mezzacapo, Easwar Magesan, Jerry M. Chow, Jay M. Gambetta
+comments: Expanded version. Topics previously covered in the supplement are now integrated into the main text. 9 pages, 6 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.03076
+abstract: 
+
+id: 1604.03914
+title: Two photons co- and counter-propagating through $N$ cross-Kerr sites
+authors: Daniel J. Brod, Joshua Combes, Julio Gea-Banacloche
+comments: 15 pages (+ appendix), 7 figures. V2: New author added. Content expanded with new results (Sec. VIII). V3: Closer to published version. See companion paper at this http URL
+journal: Phys. Rev. A 94, 023833 (2016)
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1604.03914
+abstract: 
+
+id: 1604.04278
+title: A passive CPHASE gate via cross-Kerr nonlinearities
+authors: Daniel J. Brod, Joshua Combes
+comments: 4 pages (+ appendix), 4 figures. See companion paper this http URL . v3: Closer to published version
+journal: Phys. Rev. Lett. 117, 080502 (2016)
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1604.04278
+abstract: 
+
+id: 1606.02664
+title: Simultaneous classical communication and quantum key distribution using continuous variable
+authors: Bing Qi
+comments: 7 pages, 5 figures. Comments are welcome!
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1606.02664
+abstract: 
+
+id: 1606.02757
+title: Collective resonance fluorescence in small and dense atom clouds: Comparison between theory and experiment
+authors: S. D. Jenkins, J. Ruostekoski, J. Javanainen, S. Jennewein, R. Bourgain, J. Pellegrino, Y. R. P. Sortais, A. Browaeys
+comments: 
+journal: 
+subjects: Atomic Physics (physics.atom-ph); Quantum Gases (cond-mat.quant-gas); Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1606.02757
+abstract: 
+
+id: 1607.03586
+title: The static hyperpolarizability of space-fractional quantum systems
+authors: Nathan J. Dawson
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1607.03586
+abstract: 
+
+id: 1608.05019
+title: Dilational Symmetry-Breaking in Thermodynamics
+authors: Chris L. Lin, Carlos R. Ordonez
+comments: 9 pages
+journal: 
+subjects: High Energy Physics - Theory (hep-th); Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05019
+abstract: 
+

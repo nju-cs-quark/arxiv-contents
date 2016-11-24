@@ -1,0 +1,297 @@
+id: 1605.01764
+title: Narrow band amplification of light carrying orbital angular momentum
+authors: G. C. Borba, S. Barreiro, L. Pruvost, D. Felinto, J. W. R. Tabosa
+comments: 9 pages, 4 figures
+journal: Optics Express, 24, 9, (2016)
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1605.01764
+abstract: We report on the amplification of an optical vortex beam carrying orbital angular momentum via induced narrow Raman gain in an ensemble of cold cesium atoms. A 20\% single-pass Raman gain of a weak vortex signal field is observed with a spectral width of order of 1 MHz, much smaller than the natural width, demonstrating that the amplification process preserves the phase structure of the vortex beam. The gain is observed in the degenerated two-level system associated with the hyperfine transition $6S_{1/2}(F=3)\leftrightarrow 6P_{3/2}(F^{\prime}=2)$ of cesium. Our experimental observations are explained with a simple theoretical model based on a three-level $\Lambda$ system interacting coherently with the weak Laguerre-Gauss field and a strong coupling field, including an incoherent pumping rate between the two degenerate ground-states.
+
+id: 1605.01797
+title: A decoherence-free subspace for charge: the quadrupole qubit
+authors: Mark Friesen, M. A. Eriksson, S. N. Coppersmith
+comments: 8 pages, 2 figures, supplemental materials included as appendices
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
+url: http://www.arxiv.org/abs/1605.01797
+abstract: To achieve robust implementation of semiconducting qubits, one must overcome the effects of charge noise that currently limit the coherence of gate operations. Here, we generalize the concept of decoherence-free subspace (DFS) that has been applied to spins and propose a DFS for charge that protects solid-state qubits from uniform electric field fluctuations during gating operations. The logical qubit is formed from states with charge distributions that differ but have the same center of mass, and are decoupled from leakage state(s) in a larger Hilbert space. We present a specific implementation for a charge qubit in a triple quantum dot, which we call the charge quadrupole (CQ) qubit, which should provide at least an order of magnitude improvement for coherence times compared to a conventional charge qubit. We describe architectures for implementing couplings between CQ qubits and to external charge devices, such as microwave resonators. We also show that the concept can be extended to protect spin-based logical qubits from charge noise during gate operations. These results improve the outlook for coherent quantum operations in many solid-state devices.
+
+id: 1605.01808
+title: CV-QKD with Gaussian and non-Gaussian Entangled States over Satellite-based Channels
+authors: Nedasadat Hosseinidehaj, Robert Malaney
+comments: 7 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.01808
+abstract: In this work we investigate the effectiveness of continuous-variable (CV) entangled states, transferred through high-loss atmospheric channels, as a means of viable quantum key distribution (QKD) between terrestrial stations and low-Earth orbit (LEO) satellites. In particular, we investigate the role played by the Gaussian CV states as compared to non-Gaussian states. We find that beam-wandering induced atmospheric losses lead to QKD performance levels that are in general quite different from those found in fixed-attenuation channels. For example, circumstances can be found where no QKD is viable at some fixed loss in fiber but is viable at the same mean loss in fading channels. We also find that, in some circumstances, the QKD relative performance of Gaussian and non-Gaussian states can in atmospheric channels be the reverse of that found in fixed-attenuation channels. These findings show that the nature of the atmospheric channel can have a large impact on the QKD performance. Our results should prove useful for emerging global quantum communications that use LEO satellites as communication relays.
+
+id: 1605.01881
+title: Detecting continuous spontaneous localisation with charged bodies in a Paul trap
+authors: Ying Li, Andrew M. Steane, Daniel Bedingham, G. Andrew D. Briggs
+comments: 5 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.01881
+abstract: Continuous spontaneous localisation (CSL) is a model that captures the effects of a class of extensions to quantum theory which are expected to result from quantum gravity, and is such that wavefunction collapse is a physical process. The rate of such a process could be very much lower than the upper bounds set by searches to date, and yet still modify greatly the interpretation of quantum mechanics and solve the quantum measurement problem. Consequently experiments are sought to explore this. We describe an experiment that has the potential to extend sensitivity to CSL by many orders of magnitude. The method is to detect heating of the motion of charged macroscopic objects confined in a Paul trap. We discuss the detection and the chief noise sources. We find that CSL with standard parameters could be observed using a vibration-isolated ion trap of size 1 cm at ultra-low pressure, with optical interferometric detection.
+
+id: 1605.01891
+title: Bounds on collapse models from cold-atom experiments
+authors: Marco Bilardello, Sandro Donadi, Andrea Vinante, Angelo Bassi
+comments: 16 pages, 14 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.01891
+abstract: The spontaneous localization mechanism of collapse models induces a Brownian motion in all physical systems. This effect is very weak, but experimental progress in creating ultracold atomic systems can be used to detect it. In this paper, we considered a recent experiment [1], where an atomic ensemble was cooled down to picokelvins. Any Brownian motion induces an extra increase of the position variance of the gas. We study this effect by solving the dynamical equations for the Continuous Spontaneous Localizations (CSL) model, as well as for its non-Markovian and dissipative extensions. The resulting bounds, with a 95% of confidence level, are beaten only by measurements of spontaneous X-ray emission and by experiments with cantilever (in the latter case, only for rC > 10^(-7) m, where rC is one of the two collapse parameters of the CSL model). We show that, contrary to the bounds given by X-ray measurements, non-Markovian effects do not change the bounds, for any reasonable choice of a frequency cutoff in the spectrum of the collapse noise. Therefore the bounds here considered are more robust. We also show that dissipative effects are unimportant for a large spectrum of temperatures of the noise, while for low temperatures the excluded region in the parameter space is the more reduced, the lower the temperature.
+
+id: 1605.01916
+title: The quantum change point
+authors: Gael Sent¨ªs, Emilio Bagan, John Calsamiglia, Giulio Chiribella, Ramon Munoz-Tapia
+comments: 4+5 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Data Analysis, Statistics and Probability (physics.data-an)
+url: http://www.arxiv.org/abs/1605.01916
+abstract: Sudden changes are ubiquitous in nature. Identifying them is of crucial importance for a number of applications in medicine, biology, geophysics, and social sciences. Here we investigate the problem in the quantum domain, considering a source that emits particles in a default state, until a point where it switches to another state. Given a sequence of particles emitted by the source, the problem is to find out where the change occurred. For large sequences, we obtain an analytical expression for the maximum probability of correctly identifying the change point when joint measurements on the whole sequence are allowed. We also construct strategies that measure the particles individually and provide an online answer as soon as a new particle is emitted by the source. We show that these strategies substantially underperform the optimal strategy, indicating that quantum sudden changes, although happening locally, are better detected globally.
+
+id: 1605.01927
+title: Bifurcations and exceptional points in a PT-symmetric dipolar Bose-Einstein condensate
+authors: Robin Gut?hrlein, Holger Cartarius, J?rg Main, G¨¹nter Wunner
+comments: 18 pages, 8 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Quantum Gases (cond-mat.quant-gas); Chaotic Dynamics (nlin.CD)
+url: http://www.arxiv.org/abs/1605.01927
+abstract: We investigate the bifurcation structure of stationary states in a dipolar Bose-Einstein condensate located in an external PT-symmetric potential. The imaginary part of this external potential allows for the effective description of in- and out-coupling of particles. To unveil the complete bifurcation structure and the properties of the exceptional points we perform an analytical continuation of the Gross-Pitaevskii equation, which is used to describe the system. We develop an elegant and numerically efficient method for the analytical continuation using bicomplex numbers. The Bose-Einstein condensate with dipole interaction shows a much richer bifurcation scenario than a condensate without long-range interactions. The inclusion of analytically continued states can also explain property changes of bifurcation points which were hidden before, and allows for the examination of the properties of the exceptional points associated with the branch points. We reveal the existence of an exceptional point of fifth order in this system.
+
+id: 1605.01965
+title: An anomaly in space and time and the origin of dynamics
+authors: Joan A. Vaccaro
+comments: 17 pages, 3 figures, 1 equation. Invited essay for volume on "Space, Time, and Frontiers of Human Understanding"
+journal: 
+subjects: Quantum Physics (quant-ph); History and Philosophy of Physics (physics.hist-ph)
+url: http://www.arxiv.org/abs/1605.01965
+abstract: The Hamiltonian defines the dynamical properties of the universe. Evidence from particle physics shows that there is a different version of the Hamiltonian for each direction of time. As there is no physical basis for the universe to be asymmetric in time, both versions must operate equally. However, conventional physical theories accommodate only one version of the Hamiltonian and one direction of time. This represents an unexplained anomaly in conventional physics and calls for a reworking of the concepts of time and space. Here I explain how the anomaly can be resolved by allowing dynamics to emerge phenomenologically. The resolution offers a picture of time and space that lies below our everyday experience, and one in which their differences are epiphenomenal rather than elemental.
+
+id: 1605.01975
+title: Real-space Hopfield diagonalization of inhomogeneous dispersive media
+authors: Christopher R. Gubbin, Stefan A. Maier, Simone De Liberato
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
+url: http://www.arxiv.org/abs/1605.01975
+abstract: We introduce a real-space technique able to extend the standard Hopfield approach commonly used in quantum polaritonics to the case of inhomogeneous lossless materials interacting with the electromagnetic field. We derive the creation and annihilation polaritonic operators for the system normal modes as linear, space-dependent superpositions of the microscopic light and matter fields, and we invert the Hopfield transformation expressing the microscopic fields as functions of the polaritonic operators. As an example, we apply our approach to the case of a planar interface between vacuum and a polar dielectric, showing how we can consistently treat both propagative and surface modes, and express their nonlinear interactions, arising from phonon anharmonicity, as polaritonic scattering terms. We also show that our theory can be naturally extended to the case of dissipative materials.
+
+id: 1605.02063
+title: Local quantum geometric dynamics
+authors: Ryszard Pawe? Kostecki
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1605.02063
+abstract: This paper is intended to show how the local smooth geometry of spaces of normal quantum states over W*-algebras (generalised spaces of density matrices) may be used to substantially enrich the description of quantum dynamics in both algebraic and path integral approaches to foundations of quantum theory. In the algebraic setting, we propose a method of incorporating nonlinear Poisson and relative entropic local dynamics, as well as local gauge and local source structures, into an effective description of local temporal evolution of quantum states by using fibrewise perturbations of liouvilleans in the fibre bundle of Hilbert spaces over the quantum state manifold. We apply this method to construct also an exact algebraic generalisation of Savvidou's action operator. In the path integral setting, motivated by the Savvidou--Anastopoulous analysis of the role of K\"{a}hler space geometry in the Isham--Linden hamiltonian quantum histories, we propose to incorporate local geometry by means of a generalisation of the Daubechies--Klauder coherent state phase space propagator formula. Using these tools we show that: 1) a propagation of quantum particles (in Wigner's sense) can be naturally explained as a free fall along the trajectories locally minimising the quantum relative entropy; 2) the contribution of particular trajectories to the global path integral is weighted by the local quantum entropic prior, measuring user's lack of information. We conclude this work with a proposal of a new foundational framework for nonequilibrium quantum statistical mechanics based on noncommutative Orlicz spaces, quantum Br\`{e}gman distances and Banach Lie algebras.
+
+id: 1605.02064
+title: Pseudo-Hermitian systems, involutive symmetries and pseudofermions
+authors: O. Cherbal, D. Trifonov, M. Zenad
+comments: 15 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1605.02064
+abstract: We have briefly analyzed the existence of the pseudofermionic structure of multilevel pseudo-Hermitian systems with odd time-reversal and higher order involutive symmetries. We have shown that 2N-level Hamiltonians with N-order eigenvalue degeneracy can be represented in the oscillator-like form in terms of pseudofermionic creation and annihilation operators for both real and complex eigenvalues. The example of most general four-level traceless Hamiltonian with odd time-reversal symmetry, which is an extension of the SO(5) Hermitian Hamiltonian, is considered in greater and explicit detail.
+
+id: 1603.09043
+title: Rashba-type Spin-orbit Coupling in Bilayer Bose-Einstein Condensates
+authors: S.-W. Su, S.-C. Gou, Q. Sun, L. Wen, W.-M. Liu, A.-C. Ji, J. Ruseckas, G. Juzeliunas
+comments: 13 pages, 9 figures
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Atomic Physics (physics.atom-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1603.09043
+abstract: We explore a new way of producing the Rasba spin-orbit coupling (SOC) for ultracold atoms by using a two-component (spinor) atomic Bose-Einstein condensate (BEC) confined in a bilayer geometry. The SOC of the Rashba type is created if the atoms pick up a {\pi} phase after completing a cyclic transition between four combined spin-layer states composed of two spin and two layer states. The cyclic coupling of the spin-layer states is carried out by combining an intralayer Raman coupling and an interlayer laser assisted tunneling. We theoretically determine the ground-state phases of the spin-orbit-coupled BEC for various strengths of the atom-atom interaction and the laser-assisted coupling. It is shown that the bilayer scheme provides a diverse ground-state phase diagram. In an intermediate range of the atom-light coupling two interlacing lattices of half- skyrmions and half-antiskyrmions are spontaneously created. In the strong-coupling regime, where the SOC of the Rashba-type is formed, the ground state represents plane-wave or standing-wave phases depending on the interaction between the atoms. A variational analysis is shown to be in a good agreement with the numerical results.
+
+id: 1605.01828
+title: Two-sided Quantum Amplitude Amplification and Exact-Error Algorithms
+authors: Debajyoti Bera
+comments: 
+journal: 
+subjects: Computational Complexity (cs.CC); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.01828
+abstract: Amplitude amplification is a central tool used in Grover's quantum search algorithm and has been used in various forms in numerous quantum algorithms since then. It has been shown to completely eliminate one-sided error of quantum search algorithms where input is accessed in the form of black-box queries. We generalize amplitude amplification for two-sided error quantum algorithm for decision problems in the familiar form where input is accessed in the form of initial states of quantum circuits and where arbitrary projective measurements may be used to ascertain success or failure. This generalization allows us to derive interesting applications of amplitude amplification for distinguishing between two given distributions based on their samples, detection of faults in quantum circuits and eliminating error of one and two-sided quantum algorithms with exact errors.
+
+id: 1605.01851
+title: Asymmetric sequential Landau-Zener dynamics of Bose condensed atoms in a cavity
+authors: Jiahao Huang, Pu Gong, Xizhou Qin, Honghua Zhong, Chaohong Lee
+comments: 14 pages, 6 figures
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Atomic Physics (physics.atom-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.01851
+abstract: We explore the asymmetric sequential Landau-Zener (LZ) dynamics in an ensemble of interacting Bose condensed two-level atoms coupled with a cavity field. Assuming the couplings between all atoms and the cavity field are identical, the interplay between atom-atom interaction and detuning may lead to a series of LZ transitions. Unlike the conventional sequential LZ transitions, which are symmetric to the zero detuning, the LZ transitions of Bose condensed atoms in a cavity field are asymmetric and sensitively depend on the photon number distribution of the cavity. In LZ processes involving single excitation numbers, both the variance of the relative atom number and the step slope of the sequential population ladder are asymmetric, and the asymmetry become more significant for smaller excitation numbers. Furthermore, in LZ processes involving multiple excitation numbers, there may appear asymmetric population ladders with decreasing step heights. During a dynamical LZ process, due to the atom-cavity coupling, the cavity field shows dynamical collapse and revivals. In comparison with the symmetric LZ transitions in a classical field, the asymmetric LZ transitions in a cavity field originate from the photon-number-dependent Rabi frequency. The asymmetric sequential LZ dynamics of Bose condensed atoms in a cavity field may open up a new way to explore the fundamental many-body physics in coupled atom-photon systems.
+
+id: 1605.01926
+title: Dynamical Scheme for Interferometric Measurements of Full Counting Statistics
+authors: David Dasenbrook, Christian Flindt
+comments: 6+1 pages, 3 figures, many references
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.01926
+abstract: We propose a dynamical scheme for measuring the full counting statistics in a mesoscopic conductor using an electronic Mach-Zehnder interferometer. The conductor couples capacitively to one arm of the interferometer and causes a phase shift which is proportional to the number of transferred charges. Importantly, the full counting statistics can be obtained from average current measurements at the outputs of the interferometer. The counting field can be controlled by varying the time delay between two separate voltage signals applied to the conductor and the interferometer, respectively. As a specific application we consider measuring the entanglement entropy generated by partitioning electrons on a quantum point contact. Our scheme is robust against moderate environmental dephasing and can be realized thanks to recent advances in giga-hertz quantum electronics.
+
+id: 1605.01929
+title: Currents algebra for an atom-molecule Bose-Einstein condensate model
+authors: Gilberto N. Santos Filho
+comments: 17 pages, 8 figures
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.01929
+abstract: I present an interconversion currents algebra for an atom-molecule Bose-Einstein condensate model and use it to get the quantum dynamics of the currents. For different choices of the Hamiltonian parameters I get different currents dynamics.
+
+id: 1605.02001
+title: Veldkamp Spaces: From (Dynkin) Diagrams to (Pauli) Groups
+authors: Metod Saniga, Frederic Holweck, Petr Pracna
+comments: 19 pages, 17 figures
+journal: 
+subjects: Combinatorics (math.CO); Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.02001
+abstract: Regarding a Dynkin diagram as a specific point-line incidence structure (where each line has just two points), one can associate with it a Veldkamp space. Focusing on extended Dynkin diagrams of type $\widetilde{D}_n$, $4 \leq n \leq 8$, it is shown that the corresponding Veldkamp space always contains a distinguished copy of the projective space PG$(3,2)$. Proper labelling of the vertices of the diagram (for $4 \leq n \leq 7$) by particular elements of the two-qubit Pauli group establishes a bijection between the 15 elements of the group and the 15 points of the PG$(3,2)$. The bijection is such that the product of three elements lying on the same line is the identity and one also readily singles out that particular copy of the symplectic polar space $W(3,2)$ of the PG$(3,2)$ whose lines correspond to triples of mutually commuting elements of the group; in the latter case, in addition, we arrive at a unique copy of the Mermin-Peres magic square. In the case of $n=8$, a more natural labeling is that in terms of elements of the three-qubit Pauli group, furnishing a bijection between the 63 elements of the group and the 63 points of PG$(5,2)$, the latter being the maximum projective subspace of the corresponding Veldkamp space; here, the points of the distinguished PG$(3,2)$ are in a bijection with the elements of a two-qubit subgroup of the three-qubit Pauli group, yielding a three-qubit version of the Mermin-Peres square. Moreover, save for $n=4$, each Veldkamp space is also endowed with some `exceptional' point(s). Interestingly, two such points in the $n=8$ case define a unique Fano plane whose inherited three-qubit labels feature solely the Pauli matrix $Y$.
+
+id: 1605.02053
+title: Topological Protection of Photonic Path Entanglement
+authors: Mikael C. Rechtsman, Yaakov Lumer, Yonatan Plotnik, Armando Perez-Leija, Alexander Szameit, Mordechai Segev
+comments: 
+journal: 
+subjects: Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.02053
+abstract: The recent advent of photonic topological insulators has opened the door to using the robustness of topologically protected transport (originated in the domain of condensed matter physics) in optical devices and in quantum simulation. Concurrently, quantum walks in photonic networks have been shown to yield exponential speedup for certain algorithms, such as Boson sampling. Here we theoretically demonstrate that photonic topological insulators can robustly protect the transport of quantum information through photonic networks, despite the presence of disorder.
+
+id: 1003.1150
+title: Approximate Quantum Error Correction via Complementary Observables
+authors: Joseph M. Renes
+comments: v3: This paper is superseded by arXiv:1605.01420. v2: included forgotten reference; changed confusing wording regarding state merging
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1003.1150
+abstract: 
+
+id: 1303.3771
+title: System identification for passive linear quantum systems
+authors: Madalin Guta, Naoki Yamamoto
+comments: 16 pages
+journal: IEEE Transaction on Automatic Control, 61-4, 921/936, 2016
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1303.3771
+abstract: 
+
+id: 1502.01904
+title: Two-axis-twisting spin squeezing by multi-pass quantum erasure
+authors: Mingfeng Wang, Weizhi Qu, Pengxiong Li, Han Bao, Vladan Vuleti?, Yanhong Xiao
+comments: 10 pages, 4 figures. We have improved the presentation and added a new section, in which we have generalized the scheme from a three-pass scheme to multi-pass scheme
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1502.01904
+abstract: 
+
+id: 1504.04227
+title: Replacing the Singlet Spinor of the EPR-B Experiment in the Configuration Space with two Single-Particle Spinors in Physical Space
+authors: Michel Gondran, Alexandre Gondran
+comments: 17 pages, 5 figures, accepted in Foundations of Physics 2016
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1504.04227
+abstract: 
+
+id: 1505.00555
+title: Beyond Quantum Computation Based on Classical Entanglement
+authors: Jian Fu, Xutai Ma, Wenjiang Li, Shuo Sun
+comments: Modify the errors of Fig.3 and Fig.4; 28 pages, 13 figures, Welcome to comment! Major update version of arXiv:1003.6033
+journal: 
+subjects: Quantum Physics (quant-ph); Information Theory (cs.IT)
+url: http://www.arxiv.org/abs/1505.00555
+abstract: 
+
+id: 1507.03546
+title: Doubly infinite separation of quantum information and communication
+authors: Zi-Wen Liu, Christopher Perry, Yechao Zhu, Dax Enshan Koh, Scott Aaronson
+comments: 16 pages, 2 figures. v4: minor errors fixed; close to published version; v5: financial support info added
+journal: Phys. Rev. A 93, 012347 (2016)
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC); Information Theory (cs.IT)
+url: http://www.arxiv.org/abs/1507.03546
+abstract: 
+
+id: 1508.03708
+title: Quantum feedback amplification
+authors: Naoki Yamamoto
+comments: 11 pages
+journal: Phys. Rev. Applied 5, 044012 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1508.03708
+abstract: 
+
+id: 1509.03071
+title: Thermal density functional theory: Time-dependent linear response and approximate functionals from the fluctuation-dissipation theorem
+authors: Aurora Pribram-Jones, Paul E. Grabowski, Kieron Burke
+comments: 
+journal: 
+subjects: Chemical Physics (physics.chem-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.03071
+abstract: 
+
+id: 1510.00327
+title: Robustness of round-robin differential-phase-shift quantum-key-distribution protocol against source flaws
+authors: Akihiro Mizutani, Nobuyuki Imoto, Kiyoshi Tamaki
+comments: The new version can deal with sending pulses that are classically correlated with each other in an arbitrary manner
+journal: Phys. Rev. A 92, 060303(R) (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.00327
+abstract: 
+
+id: 1510.06474
+title: Quantum speed limits, coherence and asymmetry
+authors: Iman Marvian, Robert W. Spekkens, Paolo Zanardi
+comments: 14 pages, 1 figure, Published version
+journal: 
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1510.06474
+abstract: 
+
+id: 1511.09396
+title: A Simple Hubbard Model for the Excited States of $¦Ð$ Conjugated -acene Molecules
+authors: Z.S. Sadeq, J.E. Sipe
+comments: 
+journal: 
+subjects: Chemical Physics (physics.chem-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.09396
+abstract: 
+
+id: 1601.01667
+title: Indistinguishable single photons with flexible electronic triggering
+authors: Adetunmise C. Dada, Ted S. Santana, Ralph N. E. Malein, Antonios Koutroumanis, Yong Ma, Joanna M. Zajac, Ju Y. Lim, Jin D. Song, Brian D. Gerardot
+comments: 
+journal: Optica 3, 493-498 (2016)
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Atomic Physics (physics.atom-ph)
+url: http://www.arxiv.org/abs/1601.01667
+abstract: 
+
+id: 1601.03827
+title: Time Evolution of Gaussian Wave Packets under Dirac Equation with Fluctuating Mass and Potential
+authors: Atis Yosprakob, Sujin Suwanna
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.03827
+abstract: 
+
+id: 1603.05005
+title: Engineering autonomous error correction in stabilizer codes at finite temperature
+authors: C. Daniel Freeman, C. M. Herdman, K. B. Whaley
+comments: 14 pages, 13 figures. Comments welcome, APS March Meeting session K44.00007
+journal: 
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech)
+url: http://www.arxiv.org/abs/1603.05005
+abstract: 
+
+id: 1605.01135
+title: Nonreciprocity light propagation in coupled microcavities system beyond weak-excitation approximation
+authors: A. S. Zheng, G. Zhang, H. Chen, T. Mei, J. Liu
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1605.01135
+abstract: 
+

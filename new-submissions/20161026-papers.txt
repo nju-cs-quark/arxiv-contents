@@ -1,0 +1,333 @@
+id: 1610.07595
+title: $(H,¦Ñ)$-induced dynamics and the quantum game of life
+authors: F. Bagarello, R. Di Salvo, F. Gargano, F. Oliveri
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.07595
+abstract: We propose an extended version of quantum dynamics for a certain system S, whose evolution is ruled by a Hamiltonian $H$, its initial conditions, and a suitable set $\rho$ of {\em rules}, acting repeatedly on S. The resulting dynamics is not necessarily periodic or quasi-periodic, as one could imagine for conservative systems with a finite number of degrees of freedom. In fact, it may have quite different behaviors depending on the explicit forms of $H$, $\rho$ as well as on the initial conditions. After a general discussion on this $(H,\rho)$-{\em induced dynamics}, we apply our general ideas to extend the classical game of life, and we analyze several aspects of this extension.
+
+id: 1610.07626
+title: Assessing the quantumness of a damped two-level system
+authors: Alexander Friedenberger, Eric Lutz
+comments: 8 pages, 6 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.07626
+abstract: We perform a detailed analysis of the nonclassical properties of a damped two-level system. We compute and compare three different criteria of quantumness, the $l_1$-norm of coherence, the Leggett- Garg inequality and a quantum witness based on the no-signaling in time condition. We show that all three quantum indicators decay exponentially in time as a result of the coupling to the thermal reservoir. We further demonstrate that the corresponding characteristic times are identical and given by the coherence half-life. These results quantify how violations of Leggett-Garg inequalities and nonzero values of the quantum witness are connected to the coherence of the two-level system.
+
+id: 1610.07644
+title: Discrimination power of a quantum detector
+authors: Christoph Hirche, Masahito Hayashi, Emilio Bagan, John Calsamiglia
+comments: 4+8 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Information Theory (cs.IT); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1610.07644
+abstract: We investigate the ability of a quantum measurement device to discriminate two states or, generically, two hypothesis. In full generality, the measurement can be performed a number $n$ of times, and arbitrary pre-processing of the states and post-processing of the obtained data is allowed. Even if the two hypothesis correspond to orthogonal states, perfect discrimination is not always possible. There is thus an intrinsic error associated to the measurement device, which we aim to quantify, that limits its discrimination power. We minimize various error probabilities (averaged or constrained) over all pairs of $n$-partite input states. These probabilities, or their exponential rates of decrease in the case of large $n$, give measures of the discrimination power of the device. For the asymptotic rate of the averaged error probability, we obtain a Chernoff-type bound, dual to the standard Chernoff bound for which the state pair is fixed and the optimization is over all measurements. The key point in the derivation is that i.i.d. states become optimal in asymptotic settings. Minimum asymptotic rates are also obtained for constrained error probabilities, dual to Stein's Lemma and Hoeffding's bound. We further show that adaptive protocols where the state preparer gets feedback from the measurer do not improve the asymptotic rates. These rates thus quantify the ultimate discrimination power of a measurement device.
+
+id: 1610.07689
+title: Pumped-up SU(1,1) interferometry
+authors: Stuart S. Szigeti, Robert J. Lewis-Swan, Simon A. Haine
+comments: 6 pages, 3 figures + supplemental material
+journal: 
+subjects: Quantum Physics (quant-ph); Quantum Gases (cond-mat.quant-gas)
+url: http://www.arxiv.org/abs/1610.07689
+abstract: Although SU(1,1) interferometry achieves Heisenberg-limited sensitivities, it suffers from one major drawback: only those particles outcoupled from the pump mode contribute to the phase measurement. Since the number of particles outcoupled to these `side modes' is typically small, this limits the interferometer's absolute sensitivity. We propose an alternative `pumped-up' approach where all the input particles participate in the phase measurement, and show how this can be implemented in spinor Bose-Einstein condensates and hybrid atom-light systems - both of which have experimentally realized SU(1,1) interferometry. We demonstrate that pumped-up schemes are capable of surpassing the shot-noise limit with respect to the total number of input particles and are never worse than conventional SU(1,1) interferometry. Finally, we show that pumped-up schemes continue to excel - both absolutely and in comparison to conventional SU(1,1) interferometry - in the presence of particle losses, poor particle-resolution detection, and noise on the relative phase difference between the two side modes. Pumped-up SU(1,1) interferometry therefore pushes the advantages of conventional SU(1,1) interferometry into the regime of high absolute sensitivity, which is a necessary condition for useful quantum-enhanced devices.
+
+id: 1610.07734
+title: Particle path(s) through a nested Mach-Zehnder interferometer: Reply to Griffiths
+authors: Lev Vaidman
+comments: Reply to arXiv:1604.04596 [quant-ph]
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.07734
+abstract: Griffiths [Phys. Rev. A 94, 032115 (2016)] analyzed, in the framework of consistent histories interpretation, the controversy regarding the approach to the past of a quantum particle introduced by Vaidman [Phys. Rev. A 87, 052104 (2013)]. I argue that Griffith's criticism of my approach using analysis of experiments with weak probes is unfounded.
+
+id: 1610.07751
+title: Fast preparation of W states with superconducting quantum interference devices by using dressed states
+authors: Yi-Hao Kang, Ye-Hong Chen, Zhi-Cheng Shi, Jie Song, Yan Xia
+comments: 24 pages (one column), 8 figures, has been accepted by Physical Review A
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.07751
+abstract: In this paper, we propose a protocol to prepare W states with superconducting quantum interference devices (SQUID) by using dressed states. Through choosing a set of dressed states suitably, the protocol can be used to accelerate the adiabatic passages while additional couplings are unnecessary. Moreover, we can optimize the evolution of the system with the restraint to the populations of the intermediate states by choosing suitable controlled parameters. Numerical simulations show that the protocol is robust against the parameter variations and decoherence mechanisms. Furthermore, the protocol is faster and more robust against the dephasing, compared with that by the adiabatic passages. As for the Rabi frequencies of pulses designed by the method, they can be expressed by the linear superpositions of Gaussian functions, which does not increase difficulties to the experiments. In addition, the protocol could be controlled and manipulated easily in experiments with a circuit quantum electrodynamics system.
+
+id: 1610.07777
+title: Dynamical Casimir Effect for Gaussian Boson Sampling
+authors: Borja Peropadre, Joonsuk Huh, Carlos Sab¨ªn
+comments: 5 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Superconductivity (cond-mat.supr-con)
+url: http://www.arxiv.org/abs/1610.07777
+abstract: We show that the Dynamical Casimir Effect (DCE), realized on two multimode coplanar waveguide resonators, implements a gaussian boson sampler (GBS). The appropriate choice of the mirror acceleration that couples both resonators translates into the desired initial gaussian state and many-boson interference in a boson sampling network. In particular, we show that the proposed quantum simulator naturally performs a classically hard task, known as scattershot boson sampling. Our result unveils an unprecedented computational power of DCE, and paves the way for using DCE as a resource for quantum simulation.
+
+id: 1610.07820
+title: Biseparability of 3-qubits density matrices using Hilbert-Schmidt decompositions: Sufficient conditions and explicit expressions
+authors: Y.Ben-Aryeh, A. Mann
+comments: 14 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.07820
+abstract: Hilbert-Schmidt (HS) decompositions and Frobenius norms are used to analyze biseparability of 3-qubit systems, with particular emphasis on density matrices with maximally disordered subsystems (MDS) and on the W state mixed with white noise. The biseparable form of a MDS density matrix is obtained by using the Bell states of a 2-qubit subsystem, multiplied by density matrices of the third qubit, which include the relevant HS parameters. Using our methods a sufficient condition and explicit biseparability of the W state mixed with white noise are given. They are compared with the sufficient condition for explicit full separability given in a previous work.
+
+id: 1610.07890
+title: Coherent Coupling of Remote Spin Ensembles via a Cavity Bus
+authors: Thomas Astner, Stefan Nevlacsil, Noomi Peterschofsky, Andreas Angerer, Stefan Rotter, Stefan Putz, J?rg Schmiedmayer, Johannes Majer
+comments: 11 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.07890
+abstract: We report coherent coupling between two macroscopically separated nitrogen-vacancy electron spin ensembles in a cavity quantum electrodynamics system. The coherent interaction between the distant ensembles is directly detected in the cavity transmission spectrum by observing bright and dark collective multiensemble states and an increase of the coupling strength to the cavity mode. Additionally, in the dispersive limit we show transverse ensemble-ensemble coupling via virtual photons.
+
+id: 1610.07893
+title: Non-Markovianity hierarchy of Gaussian processes and quantum amplification
+authors: Pietro Liuzzo-Scorpo, Wojciech Roga, Leonardo A. M. Souza, Nadja K. Bernardes, Gerardo Adesso
+comments: 10 pages, 1 figure
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.07893
+abstract: We investigate dynamics of Gaussian states of continuous variable systems under Gaussianity preserving channels. We introduce a hierarchy of such evolutions encompassing Markovian, weakly and strongly non-Markovian processes, and provide simple criteria to distinguish between the classes, based on the degree of positivity of intermediate Gaussian maps. We classify all single-mode phase-insensitive Gaussian channels according to their non-Markovianity degree, and show that weak non-Markovianity has an operational significance as it leads to temporary amplification of Gaussian inputs beyond the fundamental quantum limit. Explicit examples and applications are discussed.
+
+id: 1610.07896
+title: Isolated Structures in Two-Dimensional Optical Superlattice
+authors: Xinhao Zou, Baoguo Yang, Xia Xu, Pengju Tang, Xiaoji Zhou
+comments: 14 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Quantum Gases (cond-mat.quant-gas); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1610.07896
+abstract: Overlaying commensurate optical lattices with various configurations called superlattices can lead to exotic lattice topologies and, in turn, a discovery of novel physics. In this study, by overlapping the maxima of lattices, a new isolated structure is created, while the interference of minima can generate various "sublattice" patterns. Three different kinds of primitive lattices are used to demonstrate isolated square, triangular, and hexagonal "sublattice" structures in a two-dimensional optical superlattice, the patterns of which can be manipulated dynamically by tuning the polarization, frequency, and intensity of laser beams. In addition, we propose the method of altering the relative phase to adjust the tunneling amplitudes in "sublattices." Our configurations provide unique opportunities to study particle entanglement in "lattices" formed by intersecting wells and to implement special quantum logic gates in exotic lattice geometries.
+
+id: 1610.07915
+title: Implementation of pairwise longitudinal coupling in a three-qubit superconducting circuit
+authors: Tanay Roy, Suman Kundu, Madhavi Chand, Sumeru Hazra, N. Nehra, R. Cosmic, A. Ranadive, Meghan P. Patankar, Kedar Damle, R. Vijay
+comments: Main text (5 pages, 4 figures) and Supplementary Material (11 pages, 5 figures)
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
+url: http://www.arxiv.org/abs/1610.07915
+abstract: We present the "trimon", a multi-mode superconducting circuit implementing three qubits with all-to-all longitudinal coupling. This always-on interaction enables simple implementation of generalized controlled-NOT gates which form a universal set. Further, two of the three qubits are protected against Purcell decay while retaining measurability. We demonstrate high-fidelity state swapping operations between two qubits and characterize the coupling of all three qubits to a neighbouring transmon qubit. Our results offer a new paradigm for multi-qubit architecture with applications in quantum error correction, quantum simulations and quantum annealing.
+
+id: 1610.07927
+title: Biorthogonal quantum mechanics of neutral bosons
+authors: Margaret Hawton, Vincent Debierre
+comments: 21 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.07927
+abstract: We find that biorthogonal quantum mechanics with a scalar product that counts both absorbed and emitted particles leads to covariant position operators with localized eigenvectors. In this manifestly covariant formulation the probability for a transition from a one-photon state to a position eigenvector is the first order Glauber correlation function, bridging the gap between photon counting and the sensitivity of light detectors to electromagnetic energy density.
+
+id: 1610.07110
+title: Tsallis thermostatics as a statistical physics of random chains
+authors: Petr Jizba, Jan Korbel, V¨¢clav Zatloukal
+comments: 
+journal: 
+subjects: Statistical Mechanics (cond-mat.stat-mech); Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.07110
+abstract: In this paper we point out that the generalized statistics of Tsallis-Havrda-Charv\'at can be conveniently used as a conceptual framework for statistical treatment of random chains. In particular, we use the path-integral approach to show that the ensuing partition function can be identified with the partition function of a fluctuating oriented random loop of arbitrary length and shape in a background scalar potential. To put some meat on the bare bones, we illustrate this with two statistical systems; Schultz-Zimm polymer and relativistic particle. Further salient issues such as the $PSL(2;R)$ transformation properties of Tsallis' inverse-temperature parameter and a grandcanonical ensemble of fluctuating random loops related to the Tsallis-Havrda-Charv\'at statistics are also briefly discussed.
+
+id: 1610.07611
+title: Floquet symmetry-protected topological phases in cold atomic systems
+authors: Ionut-Dragos Potirniche, Andrew C. Potter, Monika Schleier-Smith, Ashvin Vishwanath, Norman Y. Yao
+comments: 
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Disordered Systems and Neural Networks (cond-mat.dis-nn); Strongly Correlated Electrons (cond-mat.str-el); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.07611
+abstract: We propose and analyze two distinct routes toward realizing interacting symmetry-protected topological (SPT) phases via periodic driving. First, we demonstrate that a driven transverse-field Ising model can be used to engineer complex interactions which enable the emulation of an equilibrium SPT. This phase remains stable only within a parametric time scale controlled by the driving frequency, beyond which its topological features break down. To overcome this issue, we consider an alternate route based upon realizing an intrinsically Floquet SPT phase that does not have any equilibrium analogue. In both cases, we show that disorder, leading to many-body localization, prevents runaway heating and enables the observation of coherent quantum dynamics at high energy densities. Furthermore, we clarify the distinction between the equilibrium and Floquet SPT phases by identifying a unique micro-motion-based entanglement spectrum signature of the latter. Finally, we propose a unifying implementation in a one dimensional chain of Rydberg-dressed atoms and show that protected edge modes are observable on realistic experimental time-scales.
+
+id: 1610.07628
+title: Higher Categories and Topological Quantum Field Theories
+authors: Shawn X. Cui
+comments: 45 pages, many figures and diagrams
+journal: 
+subjects: Quantum Algebra (math.QA); Mathematical Physics (math-ph); Category Theory (math.CT); Geometric Topology (math.GT); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.07628
+abstract: We construct a Turaev-Viro type invariant of smooth closed oriented $4$-manifolds out of a $G$-crossed braided spherical fusion category ($G$-BSFC) for $G$ a finite group. The construction can be extended to obtain a $(3+1)$-dimensional topological quantum field theory (TQFT). The invariant of $4$-manifolds generalizes several known invariants in literature such as the Crane-Yetter invariant from a ribbon fusion category and Yetter's invariant from homotopy $2$-types. If the $G$-BSFC is concentrated only at the sector indexed by the trivial group element, a co-homology class in $H^4(G,U(1))$ can be introduced to produce a different invariant, which reduces to the twisted Dijkgraaf-Witten theory in a special case. Although not proven, it is believed that our invariants are strictly different from other known invariants. It remains to see if the invariants are sensitive to smooth structures. It is expected that the most general input to the construction of $(3+1)$-TQFTs is a spherical fusion $2$-category. We show that a $G$-BSFC corresponds to a monoidal $2$-category with certain extra structures, but these structures do not satisfy all the axioms of a spherical fusion $2$-category given by M. Mackaay. Thus the question of what axioms properly define a spherical fusion $2$-category is open.
+
+id: 1610.07633
+title: Comment on: `Single-shot simulations of dynamic quantum many-body systems' [arXiv:1501.03224]
+authors: Peter D. Drummond, Joachim Brand
+comments: 2 pages, comment on arXiv:1501.03224
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.07633
+abstract: In their recent paper [Nature Physics 15, 451 (2006)], Sakmann and Kasevich study the formation of fringe patterns in ultra-cold Bose gases and claim: `Here, we show how single shots can be simulated from numerical solutions of the time-dependent many-body Schr\"odinger equation.' It would be remarkable if they had solved this exponentially complex equation. Instead they solve nonlinear equations with the aim to approximate the solution of the Schr\"odinger equation. The authors proceed to criticize phase-space approaches to simulating quantum dynamics and claim the impossibility of interpreting single trajectories of the truncated Wigner (tW) method as single-shot experimental outcomes. Here we aim to provide relevant context and elaborate why we disagree with the authors' claims.
+
+id: 1610.07637
+title: Observables, Disassembled
+authors: Bryan W. Roberts
+comments: 34 Pages, 6 Figures
+journal: 
+subjects: History and Philosophy of Physics (physics.hist-ph); Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.07637
+abstract: This paper argues that non-self-adjoint operators can be observables. There are only four ways for this to occur: non-self-adjoint observables can either be normal operators, or be symmetric, or have a real spectrum, or have none of these three properties. I explore each of these four classes of observables, arguing that the class of normal operators provides an equivalent formulation of quantum theory, whereas the other classes considerably extend it.
+
+id: 1610.07839
+title: Role of evaporation in gravitational collapse
+authors: Valentina Baccetti, Robert B. Mann, Daniel R. Terno
+comments: 5 pages, 2 figures, 6 pages of supplementary material; comments welcome
+journal: 
+subjects: General Relativity and Quantum Cosmology (gr-qc); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.07839
+abstract: We study collapse of evaporating thin dust shells using two families of metrics to describe the {exterior geometry: the outgoing Vaidya metric and the retarded Schwarzschild metric. Both allow incorporation of Page's evaporation law (the latter in terms of the time at infinity), resulting in a modified equation} of motion for the shell. In these scenarios we find in each case that the collapse is accelerated due to evaporation, but the Schwarzschild radius is not crossed. Instead the shell is always at a certain sub-Planckian distance from this would-be horizon that depends only on the mass and evaporation rate.
+
+id: 1610.07849
+title: Fermionic Matrix Product States and One-Dimensional Topological Phases
+authors: Nick Bultinck, Dominic J. Williamson, Jutho Haegeman, Frank Verstraete
+comments: 
+journal: 
+subjects: Strongly Correlated Electrons (cond-mat.str-el); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.07849
+abstract: We develop the formalism of fermionic matrix product states (fMPS) and show how irreducible fMPS fall in two different classes, related to the different types of simple $\mathbb{Z}_2$ graded algebras, which are physically distinguished by the absence or presence of Majorana edge modes. The local structure of fMPS with Majorana edge modes also implies that there is always a two-fold degeneracy in the entanglement spectrum. Using the fMPS formalism we make explicit the correspondence between the $\mathbb{Z}_8$ classification of time-reversal invariant spinless superconductors and the modulo 8 periodicity in the representation theory of real Clifford algebras. Studying fMPS with general on-site unitary and anti-unitary symmetries allows us to define invariants that label symmetry-protected phases of interacting fermions. The behavior of these invariants under stacking of fMPS is derived, which reveals the group structure of such interacting phases.We also consider spatial symmetries and show how the invariant phase factor in the partition function of reflection symmetric phases on an unorientable manifold appears in the fMPS framework.
+
+id: 1610.07987
+title: Josephson junction microwave modulators for qubit control
+authors: O. Naaman, J.A. Strong, D.G. Ferguson, J. Egan, N. Bailey, R.T. Hinkey
+comments: 
+journal: 
+subjects: Superconductivity (cond-mat.supr-con); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.07987
+abstract: We demonstrate Josephson junction based double-balanced mixer and phase shifter circuits operating at 6-10 GHz, and integrate these components to implement both a monolithic amplitude/phase vector modulator and a quadrature mixer. The devices are actuated by flux signals, dissipate no power on chip, exhibit input saturation powers in excess of 1 nW, and provide cryogenic microwave modulation solutions for integrated control of superconducting qubits.
+
+id: 1610.08040
+title: Quantum electrodynamic approach to the conductivity of gapped graphene
+authors: G. L. Klimchitskaya, V. M. Mostepanenko
+comments: 21 pages, 6 figures; to appear in Phys. Rev. B
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Materials Science (cond-mat.mtrl-sci); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.08040
+abstract: The electrical conductivity of graphene with a nonzero mass-gap parameter is investigated starting from the first principles of quantum electrodynamics in (2+1)-dimensional space-time at any temperature. The formalism of the polarization tensor defined over the entire plane of complex frequency is used. At zero temperature we reproduce the results for both real and imaginary parts of the conductivity, obtained previously in the local approximation, and generalize them taking into account the effects of nonlocality. At nonzero temperature the exact analytic expressions for real and imaginary parts of the longitudinal and transverse conductivities of gapped graphene are derived, as well as their local limits and approximate expressions in several asymptotic regimes. Specifically, a simple local result for the real part of conductivity of gapped graphene valid at any temperature is obtained. According to our results, the real part of the conductivity is not equal to zero for frequencies exceeding the width of the gap and goes to the universal conductivity with increasing frequency. The imaginary part of conductivity of gapped graphene varies from infinity at zero frequency to minus infinity at the frequency defined by the gap parameter and then goes to zero with further increase of frequency. The analytic expressions are accompanied by the results of numerical computations. Possible future generalization of the used formalism is discussed.
+
+id: 1309.1655
+title: On the dipole approximation with error estimates
+authors: Lea Bossmann, Robert Grummt, Martin Kolb
+comments: 8 pages, submitted
+journal: 
+subjects: Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1309.1655
+abstract: 
+
+id: 1507.00213
+title: Minimum Dimension of a Hilbert Space Needed to Generate a Quantum Correlation
+authors: Jamie Sikora, Antonios Varvitsiotis, Zhaohui Wei
+comments: 5 pages
+journal: Phys. Rev. Lett. 117, 060401 (2016)
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC); Information Theory (cs.IT)
+url: http://www.arxiv.org/abs/1507.00213
+abstract: 
+
+id: 1603.02242
+title: Single-Mode Displacement Sensor
+authors: Kasper Duivenvoorden, Barbara M. Terhal, Daniel Weigand
+comments: 17 pages, 11 figures. Version 4: Extensive numerical section added
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1603.02242
+abstract: 
+
+id: 1604.02197
+title: Understanding weak values without new physics
+authors: Riuji Mochizuki
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.02197
+abstract: 
+
+id: 1604.04799
+title: Contextuality-by-Default 2.0: Systems with Binary Random Variables
+authors: Ehtibar N. Dzhafarov, Janne V. Kujala
+comments: to be published in Lecture Notes in Computer Science; version 4 has some typos corrected
+journal: 
+subjects: Quantum Physics (quant-ph); Probability (math.PR)
+url: http://www.arxiv.org/abs/1604.04799
+abstract: 
+
+id: 1605.04302
+title: Open dynamics under rapid repeated interaction
+authors: Daniel Grimmer, David Layden, Robert B. Mann, Eduardo Martin-Martinez
+comments: 28 pages, 1 figure, RevTeX 4.1. V2: Updated to match published version
+journal: Phys. Rev. A 94, 032126 (2016)
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1605.04302
+abstract: 
+
+id: 1606.03878
+title: Device-independent dimension tests in the prepare-and-measure scenario
+authors: Jamie Sikora, Antonios Varvitsiotis, Zhaohui Wei
+comments: To appear in Phys. Rev. A
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC); Information Theory (cs.IT)
+url: http://www.arxiv.org/abs/1606.03878
+abstract: 
+
+id: 1606.04348
+title: Quantum leaps of black holes: Magnifying glasses of quantum gravity
+authors: Sumanta Chakraborty, Kinjalk Lochan
+comments: This essay received honorable mention in the Gravity Research Foundation 2016 Awards for Essays on Gravitation
+journal: Int. J. Mod. Phys. D 25 1644024 (2016)
+subjects: General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1606.04348
+abstract: 
+
+id: 1606.07199
+title: Extensive increase of entropy in quantum quench
+authors: Takashi Mori
+comments: 13 pages, invited paper for Special Issue of J. Phys. A "Emerging talents"
+journal: J. Phys. A 49, 444003 (2016)
+subjects: Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1606.07199
+abstract: 
+
+id: 1607.07338
+title: Nano-Scale `Dark State' Optical Potentials for Cold Atoms
+authors: M. ??cki, M. Baranov, H. Pichler, P. Zoller
+comments: 13 pages, 9 figures, to appear in Physical Review Letters
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1607.07338
+abstract: 
+
+id: 1608.03485
+title: Entanglement and Nonlocality of 1D Macroscopic Systems
+authors: Zizhu Wang, Sukhwinder Singh, Miguel Navascues
+comments: Many improvements. Read the paper to find them all!
+journal: 
+subjects: Quantum Physics (quant-ph); Strongly Correlated Electrons (cond-mat.str-el)
+url: http://www.arxiv.org/abs/1608.03485
+abstract: 
+
+id: 1608.08781
+title: Non-local Probes in Holographic Theories with Momentum Relaxation
+authors: M. Reza Mohammadi Mozaffar, Ali Mollabashi, Farzad Omidi
+comments: 30 pages, 5 figures, v2: minor corrections, references added, version to appear in JHEP
+journal: 
+subjects: High Energy Physics - Theory (hep-th); Strongly Correlated Electrons (cond-mat.str-el); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.08781
+abstract: 
+
+id: 1609.06835
+title: Experimental time-optimal universal control of spin qubits in solids
+authors: Jianpei Geng, Yang Wu, Xiaoting Wang, Kebiao Xu, Fazhan Shi, Yijin Xie, Xing Rong, Jiangfeng Du
+comments: 
+journal: Phys. Rev. Lett. 117, 170501 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1609.06835
+abstract: 
+
+id: 1610.06181
+title: Scattering effect on entanglement propagation in RCFTs
+authors: Tokiro Numasawa
+comments: 26 pages, Latex, 13 figures, reference added
+journal: 
+subjects: High Energy Physics - Theory (hep-th); Strongly Correlated Electrons (cond-mat.str-el); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.06181
+abstract: 
+
+id: 1610.07579
+title: Theory of noiseless phase-mixing amplification in a cavity optomechanical system
+authors: C. F. Ockeloen-Korppi, T. T. Heikkil?, M. A. Sillanp??, F. Massel
+comments: 10 pages, 9 figures, typos fixed, figures improved
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.07579
+abstract: 
+

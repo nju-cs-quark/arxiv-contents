@@ -1,0 +1,297 @@
+id: 1604.06460
+title: High Performance Emulation of Quantum Circuits
+authors: Thomas H?ner, Damian S. Steiger, Mikhail Smelyanskiy, Matthias Troyer
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.06460
+abstract: As quantum computers of non-trivial size become available in the near future, it is imperative to develop tools to emulate small quantum computers. This allows for validation and debugging of algorithms as well as exploring hardware-software co-design to guide the development of quantum hardware and architectures. The simulation of quantum computers entails multiplications of sparse matrices with very large dense vectors of dimension $2^n$, where $n$ denotes the number of qubits, making this a memory-bound and network bandwidth-limited application. We introduce the concept of a quantum computer \textit{emulator} as a component of a software framework for quantum computing, enabling a significant performance advantage over simulators by emulating quantum algorithms at a high level rather than simulating individual gate operations. We describe various optimization approaches and present benchmarking results, establishing the superiority of quantum computer emulators in terms of performance.
+
+id: 1604.06476
+title: Group transformations and entangled-state quantum gates with directionally unbiased linear-optical multiports
+authors: David S. Simon, Casey A. Fitzpatrick, Alexander V. Sergienko
+comments: To appear in Phys. Rev. A
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.06476
+abstract: The concept of directionally unbiased optical multiports is introduced, in which photons may reflect back out the input direction. A linear-optical implementation is described, and the simplest three-port version studied. Symmetry arguments demonstrate potential for unusual quantum information processing applications. The devices impose group structures on two-photon entangled Bell states and act as universal Bell-state processors to implement probabilistic quantum gates acting on state symmetries. These multiports allow optical scattering experiments to be carried out on arbitrary undirected graphs via linear optics and raise the possibility of linear-optical information processing using group structures formed by optical qudit states.
+
+id: 1604.06505
+title: Entangled photon added coherent states
+authors: Francisco A. Dominguez-Serna, Francisco J. Mendieta, Fernando Rojas
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.06505
+abstract: We study the degree of entanglement of arbitrary superpositions of $m,n$ photon-added coherent states (PACS) $|\psi\rangle \propto u |{\alpha},m\rangle |{\beta},n \rangle+ v |{\beta},n\rangle |{\alpha},m\rangle$ using the concurrence, and obtain the general conditions for maximal entanglement. We show that photon addition process can be identified as an entanglement enhancer operation for superpositions of coherent states (SCS). Specifically for the known bipartite positive SCS: $|\psi\rangle \propto |\alpha\rangle_a |-\alpha\rangle_b + |-\alpha\rangle_a |\alpha\rangle_b $ whose entanglement tends to zero for $\alpha \to 0$, can be maximal if al least one photon is added in a subsystem. A full family of maximally entangled PACS is also presented. We also analyzed the decoherence effects in the entangled PACS induced by a simple depolarizing channel. We find that robustness against depolarization is increased by adding photons to the coherent states of the superposition. We obtain the dependence of the critical depolarization $p_{\text{crit}}$ for null entanglement as a function of $m,n, \alpha$ and $\beta $.
+
+id: 1604.06514
+title: A coaxial line architecture for integrating and scaling 3D cQED systems
+authors: Christopher Axline, Matthew Reagor, Reinier W. Heeres, Philip Reinhold, Chen Wang, Kevin Shain, Wolfgang Pfaff, Yiwen Chu, Luigi Frunzio, Robert J. Schoelkopf
+comments: 8 pages, 5 figures, 3 tables
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.06514
+abstract: Numerous loss mechanisms can limit coherence and scalability of planar and 3D-based circuit quantum electrodynamics (cQED) devices, particularly due to their packaging. The low loss and natural isolation of 3D enclosures make them good candidates for coherent scaling. We introduce a coaxial transmission line device architecture with coherence similar to traditional 3D cQED systems. Measurements demonstrate well-controlled external and on-chip couplings, a spectrum absent of cross-talk or spurious modes, and excellent resonator and qubit lifetimes. We integrate a resonator-qubit system in this architecture with a seamless 3D cavity, and separately pattern a qubit, readout resonator, Purcell filter and high-Q stripline resonator on a single chip. Device coherence and its ease of integration make this a promising tool for complex experiments.
+
+id: 1604.06524
+title: Comparison between cohering power and de-cohering power
+authors: Kaifeng Bu, Chunhe Xiong
+comments: 7 pages, no figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.06524
+abstract: In this paper, we list the results about cohering power and de-cohering power and make a comparison between them. Moreover, we use the results about the cohering power to show that there is no monotone for $l_1$ norm of coherence under maximally incoherent operation and dephasing-covariant incoherent operation.
+
+id: 1604.06548
+title: Quantum Systems Engineering: A structured approach to accelerating the development of a quantum technology industry
+authors: M.J. Everitt, Michael J de C Henshaw, Vincent M Dwyer
+comments: Invited contribution to 18th International Conference on Transparent Optical Networks ICTON 2016 (topic: quantum photonics). Discussion paper (four pages, no figures, perspectives/opinion piece - does not contain new scientific findings)
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.06548
+abstract: The exciting possibilities in the field of new quantum technologies extend far beyond the well-reported application of quantum computing. Precision timing, gravity sensors and imagers, cryptography, navigation, metrology, energy harvesting and recovery, biomedical sensors and imagers, and real-time optimisers all indicate the potential for quantum technologies to provide the basis of a technological revolution. From the field of Systems Engineering emerges a focused strategy for the development cycle, enabling the existence of hugely complex products. It is through the adoption of systems thinking that the semiconductor industry has achieved massive industrial and economic impact. Quantum technologies rely on delicate, non-local and/or entangled degrees of freedom - leading to great potential, but also posing new challenges to the development of products and industries. We discuss some of the challenges and opportunities regarding the implementation of Systems Engineering and systems thinking into the quantum technologies space.
+
+id: 1604.06561
+title: A general framework for the Quantum Zeno and anti-Zeno effects
+authors: Adam Zaman Chaudhry
+comments: 11 pages, 8 figures, comments welcome
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.06561
+abstract: A general treatment of the quantum Zeno and anti-Zeno effects is presented which is valid for an arbitrary system-environment model in the weak system-environment coupling regime. It is shown that the effective lifetime of a quantum state that is subjected to repeated projective measurements depends on the overlap of the spectral density of the environment and a generalized `filter function' which in turn depends on the system state that is repeatedly being prepared, the measurement interval, the system parameters, the system-environment coupling, and the environment correlation function. This general framework is then used to study explicitly the Zeno to anti-Zeno crossover behavior for the spin-boson model where a single two-level system is coupled to a bosonic environment. It is shown that our framework reproduces results for the usual population decay case as well as for the pure dephasing model, while at the same time allowing us to study the Zeno to anti-Zeno transition when both decay and dephasing take place. These results are then extended to many two-level systems coupled collectively to the bosonic environment to show that the distinction between the Zeno and anti-Zeno effects becomes more pronounced as the number of two-level systems increases.
+
+id: 1604.06604
+title: Rogue wavefunctions due to noisy quantum tunneling potentials
+authors: Cihan Ahmet Bay?nd?r
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1604.06604
+abstract: In this paper we study the effects of white-noised potentials on nonlinear quantum tunneling. We use a split-step scheme to numerically solve the nonlinear Schrodinger equation (NLSE) with a tunneling potential. We consider three different types of potentials, namely; the single rectangular barrier, double rectangular barrier and triangular barrier. For all these three cases we show that white-noise given to potentials do not trigger modulation instability for tunneling of the sech type soliton solutions of the NLSE. However white-noised potentials trigger modulation instability for tunneling of the sinusoidal wavefunctions, thus such a wavefield turns into a chaotic one with many apparent peaks. We argue that peaks of such a field may be in the form of rational rogue wave solutions of the NLSE. Our results can be used to examine the effects of noise on quantum tunneling. Since a rogue wavefunction means a higher probability of the tunneling particle to be at a given (x,t) coordinate, our results may also be used for developing the quantum science and technology with many possible applications including but are not limited to increasing the resolution and efficiency of scanning tunneling microscopes, enhancing proton tunneling for DNA mutation and enhancing superconducting properties of junctions.
+
+id: 1604.06652
+title: Quantum features of natural cellular automata
+authors: Hans-Thomas Elze
+comments: 9 pages; based on invited talk at the symposium on "Emergent Quantum Mechanics" (EmQM15, Vienna, October 2015)
+journal: Journal of Physics: Conference Series 701 (2016) 01201
+subjects: Quantum Physics (quant-ph); General Relativity and Quantum Cosmology (gr-qc); Cellular Automata and Lattice Gases (nlin.CG)
+url: http://www.arxiv.org/abs/1604.06652
+abstract: Cellular automata can show well known features of quantum mechanics, such as a linear rule according to which they evolve and which resembles a discretized version of the Schroedinger equation. This includes corresponding conservation laws. The class of "natural" Hamiltonian cellular automata is based exclusively on integer-valued variables and couplings and their dynamics derives from an Action Principle. They can be mapped reversibly to continuum models by applying Sampling Theory. Thus, "deformed" quantum mechanical models with a finite discreteness scale $l$ are obtained, which for $l\rightarrow 0$ reproduce familiar continuum results. We have recently demonstrated that such automata can form "multipartite" systems consistently with the tensor product structures of nonrelativistic many-body quantum mechanics, while interacting and maintaining the linear evolution. Consequently, the Superposition Principle fully applies for such primitive discrete deterministic automata and their composites and can produce the essential quantum effects of interference and entanglement.
+
+id: 1604.06683
+title: Genuine multipartite entanglement in superconducting phases of doped quantum spin ladders
+authors: Sudipto Singha Roy, Himadri Shekhar Dhar, Debraj Rakshit, Aditi Sen De, Ujjwal Sen
+comments: 11 pages, 9 figures, RevTex 4-1
+journal: 
+subjects: Quantum Physics (quant-ph); Strongly Correlated Electrons (cond-mat.str-el)
+url: http://www.arxiv.org/abs/1604.06683
+abstract: We investigate the trends of genuine multipartite entanglement of high-temperature superconducting states, usually described by doping the Mott insulator. We begin by analyzing the ground states of a Hubbard model with large onsite interactions obtained by exact diagonalization in regimes where the superconducting phase is observed for relatively high doping. The ground states are observed to be genuine multipartite entangled, with the maximum value achieved close to the superconducting phase boundary. Subsequently, for finite hole doping, the short-range resonating valence bond (RVB) state is considered to be the ground state of the Hubbard model. We prove that doped RVB ladder states are always genuine multipartite entangled. We then formulate an analytical recursion method for the wave function, which allows us to efficiently estimate the entanglement as well as other physical quantities in large doped RVB ladders. The maximum genuine multipartite entanglement in these RVB states is observed at doping corresponding to the superconducting phase of the Hubbard model.
+
+id: 1604.06719
+title: Correspondence: Enhancing a phase measurement by sequentially probing a solid state system
+authors: P. A. Knott, W. J. Munro, J. A. Dunningham
+comments: 2 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.06719
+abstract: In a recent paper, Liu et al. [Nat. Commun. 6:6726 (2015)] claim to perform the first room temperature entanglement-enhanced phase measurement in a solid-state system. We argue here that this claim is incorrect: their measurement is not enhanced because of the entanglement in their system, but instead the enhancement comes from the fact that the phase shift is applied twice to their state.
+
+id: 1604.06729
+title: A difference-equation formalism for the nodal domains of separable billiards
+authors: Naren Manjunath, Rhine Samajdar, Sudhir R. Jain
+comments: 7 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Exactly Solvable and Integrable Systems (nlin.SI)
+url: http://www.arxiv.org/abs/1604.06729
+abstract: Recently, the nodal domain counts of planar, integrable billiards with Dirichlet boundary conditions were shown to satisfy certain difference equations in [Ann. Phys. 351, 1-12 (2014)]. The exact solutions of these equations give the number of domains explicitly. For complete generality, we demonstrate this novel formulation for three additional separable systems and thus extend the statement to all integrable billiards.
+
+id: 1604.06767
+title: Feedback-induced Bistability of an Optically Levitated Nanoparticle: A Fokker-Planck Treatment
+authors: Wenchao Ge, Brandon Rodenburg, M. Bhattacharya
+comments: 12 pages, 11 figures, comments welcome
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1604.06767
+abstract: Optically levitated nanoparticles have recently emerged as versatile platforms for investigating macroscopic quantum mechanics and enabling ultrasensitive metrology. In this article we theoretically consider two damping regimes of an optically levitated nanoparticle cooled by cavityless parametric feedback. Our treatment is based on a generalized Fokker-Planck equation derived from the quantum master equation presented recently and shown to agree very well with experiment [1]. For low damping, we find that the resulting Wigner function yields the single-peaked oscillator position distribution and recovers the appropriate energy distribution derived earlier using a classical theory and verified experimentally [2]. For high damping, in contrast, we predict a double-peaked position distribution, which we trace to an underlying bistability induced by feedback. Unlike in cavity-based optomechanics, stochastic processes play a major role in determining the bistable behavior. To support our conclusions, we present analytical expressions as well as numerical simulations using the truncated Wigner function approach. Our work opens up the prospect of developing bistability-based devices, characterization of phase-space dynamics, and investigation of the quantum-classical transition using levitated nanoparticles.
+
+id: 1604.06771
+title: Irreversibility in physics stemming from unpredictable symbol-handling agents
+authors: John M. Myers, F. Hadi Madjid
+comments: SPIE Conference 9873 Quantum Information and Computation, 2016, Baltimore, MD; paper 9873-20
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.06771
+abstract: The basic equations of physics involve a time variable t and are invariant under the transformation $t goes to -t$. This invariance at first sight appears to impose time reversibility as a principle of physics, in conflict with thermodynamics. But equations written on the blackboard are not the whole story in physics. In prior work we sharpened a distinction obscured in today's theoretical physics, the distinction between obtaining evidence from experiments on the laboratory bench and explaining that evidence in mathematical symbols on the blackboard. The sharp distinction rests on a proof within the mathematics of quantum theory that no amount of evidence, represented in quantum theory in terms of probabilities, can uniquely determine its explanation in terms of wave functions and linear operators. Building on the proof we show here a role in physics for unpredictable symbol-handling agents acting both at the blackboard and at the workbench, communicating back and forth by means of transmitted symbols. Because of their unpredictability, symbol-handling agents introduce a heretofore overlooked source of irreversibility into physics, even when the equations they write on the blackboard are invariant under t goes to -t$. Widening the scope of descriptions admissible to physics to include the agents and the symbols that link theory to experiments opens up a new source of time-irreversibility in physics.
+
+id: 1404.5269
+title: A nodal domain theorem for integrable billiards in two dimensions
+authors: Rhine Samajdar, Sudhir R. Jain
+comments: 13 pages, 5 figures
+journal: Annals of Physics 351 (2014), pp. 1-12
+subjects: Exactly Solvable and Integrable Systems (nlin.SI); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1404.5269
+abstract: Eigenfunctions of integrable planar billiards are studied - in particular, the number of nodal domains, $\nu$, of the eigenfunctions are considered. The billiards for which the time-independent Schr\"odinger equation (Helmholtz equation) is separable admit trivial expressions for the number of domains. Here, we discover that for all separable and non-separable integrable billiards, $\nu $ satisfies certain difference equations. This has been possible because the eigenfunctions can be classified in families labelled by the same value of $m\mod kn$, given a particular $k$, for a set of quantum numbers, $m, n$. Further, we observe that the patterns in a family are similar and the algebraic representation of the geometrical nodal patterns is found. Instances of this representation are explained in detail to understand the beauty of the patterns. This paper therefore presents a mathematical connection between integrable systems and difference equations.
+
+id: 1604.06469
+title: Quantum dynamics of ultracold Bose polarons
+authors: Yulia E. Shchadilova, Richard Schmidt, Fabian Grusdt, Eugene Demler
+comments: 9 pages, 4 figures
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Other Condensed Matter (cond-mat.other); Strongly Correlated Electrons (cond-mat.str-el); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.06469
+abstract: We analyze the dynamics of Bose polarons in the vicinity of a Feshbach resonance between the impurity and host atoms. We compute the radio-frequency absorption spectra for the case when the initial state of the impurity is non-interacting and the final state is strongly interacting. We compare results of different theoretical approaches including a single excitation expansion, a self-consistent T-matrix method, and a time-dependent coherent state approach. Our analysis reveals sharp spectral features arising from metastable states with several Bogoliubov excitations bound to the impurity atom. This surprising result of the interplay of many-body and few-body Efimov type bound state physics can only be obtained by going beyond the commonly used Fr\"ohlich model and including quasiparticle scattering processes. Close to the resonance we find that strong fluctuations lead to a broad, incoherent absorption spectrum where no quasi-particle peak can be assigned.
+
+id: 1604.06488
+title: Uncertain for A Century: Quantum Mechanics and The Dilemma of Interpretation
+authors: Adam Frank
+comments: 7 Pages, Annals of the New York Academy of Sciences December 2015
+journal: 
+subjects: History and Philosophy of Physics (physics.hist-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.06488
+abstract: Quantum Mechanics, the physical theory describing the microworld, represents one of science's greatest triumphs. It lies at the root of all modern digital technologies and offers unparalleled correspondence between prediction and experiments. Remarkably, however, after more than 100 years it is still unclear what quantum mechanics means in terms of basic philosophical questions about the nature of reality. While there are many interpretations of the mathematical machinery of quantum physics, there remains no experimental means to distinguish between most of them. In this contribution, (based on a discussion at the NYAS), I wish to consider the ways in which the enduring lack of an agreed upon interpretation of quantum physics influences a number of critical philosophical debates about physics and reality. I briefly review two problems effected by quantum interpretations: the meaning of the term 'Universe' and the nature of consciousness. In what follows I am explicitly not advocating for any particular quantum interpretation. Instead, I am interested in how the explicit inability of modern physics to experimentally distinguish between interpretations with wildly divergent ontological/epistemological implications plays into discussions of physics and its description of the world.
+
+id: 1604.06489
+title: Free Will - A road less travelled in quantum information
+authors: Ilyas Khan
+comments: 18 pages including references
+journal: 
+subjects: History and Philosophy of Physics (physics.hist-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.06489
+abstract: Conway and Kochen's Free Will Theory is examined as an important foundational element in a new area of activity in computer science - developing protocols for quantum computing
+
+id: 1604.06537
+title: Relativistic collapse dynamics and black hole information loss
+authors: Daniel Bedingham, Sujoy K. Modak, Daniel Sudarsky
+comments: 39 pages, 3 figures
+journal: 
+subjects: General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.06537
+abstract: We study a proposal for the resolution of the black hole information puzzle within the context of modified versions of quantum theory involving spontaneous reduction of the quantum state. The theories of this kind, which were developed in order to address the so called "measurement problem" in quantum theory have, in the past, been framed in a non-relativistic setting and in that form they were previously applied to the black hole information problem. Here, and for the first time, we show in a simple toy model, a treatment of the problem within a fully relativistic setting. We also discuss the issues that the present analysis leaves as open problems to be dealt with in future refinements of the present approach.
+
+id: 1604.06539
+title: Probing molecular spin clusters by local measurements
+authors: Filippo Troiani, Matteo G. A. Paris
+comments: 4+2 pages, 3 figures
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.06539
+abstract: We address the characterization of molecular nanomagnets at the quantum level and analyze the performance of local measurements in estimating the physical parameters in their spin Hamiltonians. To this aim, we compute key quantities in quantum estimation theory, such as the classical and the quantum Fisher information, in the prototypical case of an heterometallic antiferromagnetic ring. We show that local measurements, performed only on a portion of the molecule, allow a precise estimate of the parameters related to both magnetic defects and avoided level crossings.
+
+id: 1604.06693
+title: On a two-particle bound system on the half-line
+authors: Joachim Kerner, Tobias M¨¹hlenbruch
+comments: 
+journal: 
+subjects: Mathematical Physics (math-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Superconductivity (cond-mat.supr-con); Spectral Theory (math.SP); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.06693
+abstract: In this paper we provide an extension of the model discussed in [arXiv:1504.08283] describing two singularly interacting particles on the half-line. In this model, the particles are interacting only whenever at least one particle is situated at the origin. Stimulated by [arXiv:1503.08814] we then provide a generalisation of this model in order to include additional interactions between the particles leading to a molecular-like state. We give a precise mathematical formulation of the Hamiltonian of the system and perform spectral analysis. In particular, we are interested in the effect of the singular two-particle interactions onto the molecule.
+
+id: 1604.06742
+title: Rydberg molecule-induced remote spin-flips
+authors: Thomas Niederpr¨¹m, Oliver Thomas, Tanita Eichert, Herwig Ott
+comments: 
+journal: 
+subjects: Atomic Physics (physics.atom-ph); Chemical Physics (physics.chem-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.06742
+abstract: We have performed high resolution photoassociation spectroscopy of rubidium Rydberg molecules in the vicinity of the 25P state. Due to the hyperfine interaction in the ground state perturber atom, the emerging mixed singlet-triplet potentials contain contributions from both hyperfine states. We show that this can be used to induce remote spin-flips in the perturber atom upon excitation of a Rydberg molecule. When furthermore the spin-orbit splitting of the Rydberg state is comparable to the hyperfine splitting in the ground state, the orbital angular momentum of the Rydberg electron is entangled with the nuclear spin of the perturber atom. Our results open new possibilities for the implementation of spin-dependent short and long-range interactions for ultracold atoms in bulk systems and in optical lattices.
+
+id: 1604.06775
+title: Spooky Action at No Distance: On the individuation of quantum mechanical systems
+authors: David Weinbaum
+comments: 27 pages, Keywords: quantum entanglement, EPR paradox, individuation, metaphysics, realism , locality, causation
+journal: 
+subjects: History and Philosophy of Physics (physics.hist-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.06775
+abstract: Recent experiments have perfectly verified the fact that quantum correlations between two entangled particles are stronger than any classical, local pre-quantum worldview allows. This is famously called the EPR paradox first conceived as a thought experiment and decades later realized in the lab. We discuss in depth the nature of the paradox and show that the problematics it presents is first and foremost epistemological. After briefly exploring resolutions to the paradox that after many decades of discourse still remain controversial, we argue that the paradox is rooted in the failure of our current metaphysical scheme, being the foundation of our knowledge, to accommodate and cohere our knowledge of the phenomena of entanglement. We then develop and make the case for a novel and more fundamental resolution of the paradox by changing the underlying metaphysical foundation from one based on individuals to a one based on individuation. We discuss in detail how in the light of this new scheme concepts central to the paradox such as realism, causality and locality are adjusted to the effect that the paradox is resolved without giving up these concepts so fundamental to our thinking. We conclude with a brief note about the important role of metaphysics to the progress of knowledge and our understanding of reality.
+
+id: 1508.01209
+title: Precise space-time positioning for entanglement harvesting
+authors: Eduardo Martin-Martinez, Barry C. Sanders
+comments: 7 pages, 3 figures. RevTex 4.1. v2: Minor changes to match published version
+journal: New J. Phys. 18, 043031 (2016)
+subjects: Quantum Physics (quant-ph); General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+url: http://www.arxiv.org/abs/1508.01209
+abstract: 
+
+id: 1508.05272
+title: A Quantum Repeater Node with Trapped Ions: A Realistic Case Example
+authors: Andreas Daniel Pfister, Marcel Salz, Max Hettrich, Ulrich Georg Poschinger, Ferdinand Schmidt-Kaler
+comments: 21 pages, 14 figures
+journal: Applied Physics B, 122(4), 1-19, 2016
+subjects: Quantum Physics (quant-ph); Atomic Physics (physics.atom-ph)
+url: http://www.arxiv.org/abs/1508.05272
+abstract: 
+
+id: 1509.05811
+title: A frequency and sensitivity tunable microresonator array for high-speed quantum processor readout
+authors: J. D. Whittaker, L. J. Swenson, M. H. Volkmann, P. Spear, F. Altomare, A. J. Berkley, B. Bumble, P. Bunyk, P. K. Day, B. H. Eom, R. Harris, J. P. Hilton, E. Hoskinson, M. W. Johnson, A. Kleinsasser, E. Ladizinsky, T. Lanting, T. Oh, I. Perminov, E. Tolkacheva, J. Yao
+comments: 8 pages, 9 figures
+journal: Journal of Applied Physics 119, 014506 (2016)
+subjects: Quantum Physics (quant-ph); Superconductivity (cond-mat.supr-con); Instrumentation and Detectors (physics.ins-det)
+url: http://www.arxiv.org/abs/1509.05811
+abstract: 
+
+id: 1510.00508
+title: A quantum system strongly coupled to a finite size reservoir: the case of a hybrid opto-mechanical device
+authors: Cyril Elouard, Alexia Auff¨¨ves
+comments: 5 pages, 3 figures, Supplemental : 5 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.00508
+abstract: 
+
+id: 1511.01679
+title: Experimental quantification of asymmetric Einstein-Podolsky-Rosen steering
+authors: Kai Sun, Xiang-Jun Ye, Jin-Shi Xu, Xiao-Ye Xu, Jian-Shun Tang, Yu-Chun Wu, Jing-Ling Chen, Chuan-Feng Li, Guang-Can Guo
+comments: 12 pages, 12 figures
+journal: PRL 116, 160404 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.01679
+abstract: 
+
+id: 1511.07309
+title: Enhancing the harvesting of sunlight by exploiting its spatial coherence
+authors: Pedro Manrique, Adriana De Mendoza, Felipe Caycedo-Soler, Ferney Rodr¨ªguez, Luis Quiroga, Neil Johnson
+comments: 5 pages, 4 figures
+journal: 
+subjects: Biological Physics (physics.bio-ph); Soft Condensed Matter (cond-mat.soft); Adaptation and Self-Organizing Systems (nlin.AO); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.07309
+abstract: 
+
+id: 1603.08160
+title: A Model of Charge Transfer Excitons: Diffusion, Spin Dynamics, and Magnetic Field Effects
+authors: Chee Kong Lee, Liang Shi, Adam P. Willard
+comments: 
+journal: 
+subjects: Chemical Physics (physics.chem-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1603.08160
+abstract: 
+
+id: 1603.08477
+title: Alteration in Non-Classicality of Light on Passing Through a Linear Polarization Beam Splitter
+authors: Namrata Shukla, Ranjana Prakash
+comments: 4 pages, 2 figures
+journal: 
+subjects: Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1603.08477
+abstract: 
+
+id: 1604.04179
+title: Topological quantum fluctuations and travelling wave amplifiers
+authors: Vittorio Peano, Martin Houde, Florian Marquardt, Aashish A. Clerk
+comments: Second version with new abstract and extended Appendixes. 15 pages, 4 figures
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.04179
+abstract: 
+
+id: 1604.05438
+title: Covert Quantum Communication
+authors: Juan Miguel Arrazola, Valerio Scarani
+comments: 5 pages, 4 figures. Minor changes from previous version
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.05438
+abstract: 
+

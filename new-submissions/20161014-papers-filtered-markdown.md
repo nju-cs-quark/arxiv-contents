@@ -1,0 +1,27 @@
+---
+layout: arxiv
+title: 202016 Filtered arXiv Papers
+---
+
+**1.    Noisy quantum walks of two indistinguishable interacting particles**  
+Ilaria Siloi, Claudia Benedetti, Enrico Piccinini, Jyrki Piilo, Sabrina Maniscalco, Matteo G. A. Paris, Paolo Bordone  
+http://www.arxiv.org/abs/1610.04180  
+<blockquote>
+<p>
+We investigate the dynamics of continuous-time two-particle quantum walks on a one-dimensional noisy lattice. Depending on the initial condition, we show how the interplay between particle in- distinguishability and interaction determines distinct propagation regimes. A realistic model for the environment is considered by introducing non-Gaussian noise as time-dependent fluctuations of the tunneling amplitudes between adjacent sites. We observe that the combined effect of parti- cle interaction and fast noise (weak coupling with the environment) provides a faster propagation compared to the noiseless case. This effect can be understood in terms of the band-structure of the Hubbard-model, and a detailed analysis as a function of both noise and system parameters is presented.
+</p>
+</blockquote>
+
+------
+
+**2.    Control of quantum localization and classical diffusion in laser-kicked molecular rotors**  
+Martin Bitter, Valery Milner  
+http://www.arxiv.org/abs/1610.04193  
+<blockquote>
+<p>
+We experimentally study a system of quantum kicked rotors - an ensemble of diatomic molecules exposed to a periodic sequence of ultrashort laser pulses. In the regime, where the underlying classical dynamics is chaotic, we investigate the quantum phenomenon of dynamical localization by means of state-resolved coherent Raman spectroscopy. We examine the dependence of the exponentially localized angular momentum distribution and of the total rotational energy on the time period between the pulses and their amplitude. The former parameter is shown to provide control over the localization center, whereas the latter one controls the localization length. Similar control of the center and width of a nonlocalized rotational distribution is demonstrated in the limit of classical diffusion, established by adding noise to the periodic pulse sequence.
+</p>
+</blockquote>
+
+------
+

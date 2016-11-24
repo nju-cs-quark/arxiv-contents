@@ -1,0 +1,342 @@
+id: 1611.00028
+title: A Note On One Realization of a Scalable Shor Algorithm
+authors: Zhengjun Cao, Lihua Liu
+comments: 6 pages, two figures
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC)
+url: http://www.arxiv.org/abs/1611.00028
+abstract: Very recently, Monz, et al. [arXiv:1507.08852] have reported the demonstration of factoring 15 using a scalable Shor algorithm with an ion-trap quantum computer. In this note, we remark that the report is somewhat misleading because there are three flaws in the proposed circuit diagram of Shor algorithm. We also remark that the principles behind the demonstration have not been explained properly, including its correctness and complexity.
+
+id: 1611.00099
+title: Fermion-antifermion scattering via boson exchange in a trapped ion
+authors: Xiang Zhang, Kuan Zhang, Yangchao Shen, Jingning Zhang, Man-Hong Yung, Jorge Casanova, Julen S. Pedernales, Lucas Lamata, Enrique Solano, Kihwan Kim
+comments: 12 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00099
+abstract: Quantum field theories describe a wide variety of fundamental phenomena in physics. However, their study often involves cumbersome numerical simulations. Quantum simulators, on the other hand, may outperform classical computational capacities due to their potential scalability. Here, we report an experimental realization of a quantum simulation of fermion-antifermion scattering mediated by bosonic modes, using a multilevel trapped ion, which is a simplified model of fermion scattering in both perturbative and nonperturbative quantum electrodynamics. The simulated model exhibits prototypical features in quantum field theory including particle pair creation and annihilation, as well as self-energy interactions. These are experimentally observed by manipulating four internal levels of a $^{171}\mathrm{Yb}^{+}$ trapped ion, where we encode the fermionic modes, and two motional degrees of freedom that simulate the bosonic modes. Our experiment establishes an avenue towards the efficient implementation of fermionic and bosonic quantum field modes, which may prove useful in scalable studies of quantum field theories in perturbative and nonperturbative regimes.
+
+id: 1611.00104
+title: Quantum control of photonic entanglement with a single sub-wavelength structure
+authors: Alexander B¨¹se, Mathieu L. Juan, Nora Tischler, Vincenzo D'Ambrosio, Fabio Sciarrino, Lorenzo Marrucci, Gabriel Molina-Terriza
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00104
+abstract: Quantum entanglement is the basic resource for most quantum information schemes. A fundamental problem of using photonic states as carriers of quantum information is that they interact weakly with matter and that the interaction volume is typically limited by the wavelength of light. The use of metallic structures in quantum plasmonics has the potential to alleviate these problems. Here, we present the first results showing that a single subwavelength plasmonic nanoaperture can controllably modify the quantum state of light. In particular, we experimentally demonstrate that two-photon entanglement can be either completely preserved or completely lost after the interaction with the nanoaperture solely depending on the relative phase between the quantum states. We achieve this effect by using a specially engineered two photon state to match the properties of the nanoaperture. The effect is fundamentally mediated by quantum interference which occurs at scales smaller than the wavelength of light. This connection between nano-photonics and quantum optics not only demonstrates an unprecedented control over light-matter interaction in the quantum limit, but also probes the fundamental limits of the phenomenon of quantum interference.
+
+id: 1611.00120
+title: Heisenberg-limited Sagnac Interferometer with Multi-particle States
+authors: Chengyi Luo, Jiahao Huang, Xiangdong Zhang, Chaohong Lee
+comments: 9 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00120
+abstract: The Sagnac interferometry has been widely used to measure rotation frequency. Beyond the conventional single-particle Sagnac interferometry, we propose an atomic Sagnac interferometry via multi-particle entangled states. In our scheme, an ensemble of entangled two-state Bose atoms are moved in a ring by a state-dependent rotating potential and then are recombined for interference via Ramsey pulses after a specific time determined by the state-dependent rotating potential. The ultimate rotation sensitivity can be improved to the Heisenberg limit if the initial internal degrees of freedom are entangled. By implementing parity measurement, the ultimate measurement precision can be saturated and the achieved measurement precisions approach to the Heisenberg limit. Our results provide a promising way to exploit many-body quantum entanglement in precision metrology of rotation sensing.
+
+id: 1611.00124
+title: Complementarity via error-free measurement in a two-path interferometer
+authors: Yanjun Liu, Jing Lu, and Lan Zhou
+comments: 7 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00124
+abstract: We study both the wave-like behavior and particle-like behavior in a general Mach-Zehnder interferometer with its asymmetric beam splitter. A error-free measurement in the detector is used to extract the which-path information. The fringe visibility V and the which-path information Ipath are derived: their complementary relation V + Ipath less than or equal to 1 are found, and the condition for the equality is also presented.
+
+id: 1611.00130
+title: Spin readout of trapped electron qubits
+authors: Pai Peng, Clemens Matthiesen, Hartmut H?ffner
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00130
+abstract: We propose a scheme to read out the spin of a single electron quantum bit in a surface Paul trap using oscillating magnetic field gradients. The readout sequence is composed of cooling, driving, amplification and detection of the electron's motion. We study the scheme in the presence of noise and trap anharmonicities at liquid helium temperatures. An analysis of the the four procedures shows short measurement times ($25~\mu$s) and high fidelities ($99.7\%$) are achievable with realistic experimental parameters. Our scheme performs the function of fluorescence detection in ion trapping schemes, highlighting the potential to built all-electric quantum computers based on trapped electron spin qubits.
+
+id: 1611.00136
+title: Setting a disordered password on a photonic memory
+authors: Shih-Wei Su, Shih-Chuan Gou, Lock Yue Chew, Yu-Yen Chang, Ite A. Yu, Alexey Kalachev, Wen-Te Liao
+comments: 5 pages and 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Atomic Physics (physics.atom-ph)
+url: http://www.arxiv.org/abs/1611.00136
+abstract: Encryption is a vital tool of information technology protecting our data in the world with ubiquitous computers. While photons are regarded as ideal information carriers, it is a must to implement such data protection on all-optical storage. However, the intrinsic risk of data breaches in existing schemes of photonic memory was never addressed. We theoretically demonstrate the first protocol using spatially disordered laser fields to encrypt data stored on an optical memory, namely, encrypted photonic memory. Compare with a digital key, a continuous disorder encrypts stored light pulses with a rather long key length against brute-force attacks. To address the broadband storage, we also investigate a novel scheme of disordered echo memory with a high fidelity approaching unity. Our results pave novel ways to encrypt different schemes of photonic memory based on quantum optics and raise the security level of photonic information technology.
+
+id: 1611.00149
+title: Quantification of Concurrence via Weak Measurement
+authors: Mikko Tukiainen, Hirokazu Kobayashi, Yutaka Shikano
+comments: 6 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00149
+abstract: Since entanglement is not an observable per se, measuring its value in practise is a difficult task. Here we propose a protocol for quantifying a particular entanglement measure, namely concurrence, of arbitrary two-qubit pure state via a single fixed measurement set-up by exploiting so-called weak measurements and the associated weak values and the properties of Laguerre-Gaussian modes. The virtue of our technique is that it is generally applicable for all two-qubit systems and does not involve simultaneous copies of the entangled state. We also propose an explicit optical implementation of the protocol.
+
+id: 1611.00188
+title: Quantum optimal control via gradient ascent in function space and the time-bandwidth quantum speed limit
+authors: Dennis G. Lucarelli
+comments: 7 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00188
+abstract: A gradient ascent method for optimal quantum control synthesis is presented. In contrast to established gradient based approaches, the gradient of the objective function is derived with respect to the coefficients of a functional basis expansion of the control. Restricting the space of allowable controls to weighted sums of the Slepian sequences parameterizes the control in terms of bandwidth, resolution and evolution time. A recent bound showing minimum time evolutions scaling with the inverse of the control bandwidth [S. Lloyd and S. Montangero, PRL, 113, 010502, (2014)] is recovered and the method is shown numerically to achieve the bound on entangling two-qubit quantum gates.
+
+id: 1611.00204
+title: Reliability of digitized quantum annealing and the decay of entanglement
+authors: John P. S. Peterson, Roberto S. Sarthour, Alexandre M. Souza, Ivan S. Oliveira, Frederico Brito, Fernando de Melo
+comments: 6+4 pages, 4+4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00204
+abstract: We performed a banged-digital-analog simulation of a quantum annealing protocol in a two-qubit Nuclear Magnetic Resonance (NMR) quantum computer. Our experimental simulation employed up to 235 Trotter steps, with more than 2000 gates (pulses), and we obtained a protocol success above 80%. Given the exquisite control of the NMR quantum computer, we performed the simulation with different noise levels. We thus analyzed the reliability of the quantum annealing process, and related it to the level of entanglement produced during the protocol. Although the presence of entanglement is not a sufficient signature for a better-than-classical simulation, the level of entanglement achieved relates to the fidelity of the protocol.
+
+id: 1611.00224
+title: Genuine randomness from an incoherent source
+authors: Bing Qi
+comments: 4 pages, 4 figures. Comments are welcome
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00224
+abstract: Quantum random number generators (QRNGs) harness the intrinsic randomness in measurement processes: the measurement outputs are truly random given the input state is a superposition of the eigenstates of the measurement operators. We show in the case of trusted devices, genuine randomness could be generated even when the input to the detector is a mixed state. We propose a random number generation scheme based on measuring the quadrature fluctuations of a single mode thermal state with an optical homodyne detector. By interfering a broadband incoherent source with a single mode local oscillator at a beam splitter and performing differential photodetection, we can selectively detect the quadrature fluctuations of a single mode of the incoherent source, thanks to the "filtering" function introduced by the local oscillator. Experimentally, a quadrature variance about three orders of magnitude larger than the vacuum noise is observed from an amplified spontaneous emission source, suggesting this scheme can tolerate much high technical noises in comparison with QRNGs based on measuring the vacuum noise. The high quality of this entropy source is evidenced by the small correlation coefficients of the acquired data.
+
+id: 1611.00227
+title: Nonlinear Two-Dimensional Quantum Capacitors
+authors: Sina Khorasani, Akshay Koottandavida
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
+url: http://www.arxiv.org/abs/1611.00227
+abstract: Owing to its peculiar energy dispersion, the quantum capacitance property of graphene can be exploited in a two-dimensional layered capacitor configuration with graphene as the electrodes and boron nitride as the insulating dielectric, to obtain a strongly nonlinear behavior at zero bias and small voltages. When the temperature is held sufficiently low, the strong nonlinear interaction emerging from the quantum capacitance can exhibit a diverse range of phenomena. It is expected that the proposed structure could take over the functionalities of nonlinear elements in many cryogenic quantum systems, and in particular, quantum electro-optics. It is shown that ultrastrong coupling may be easily expected with small number of pump photons at temperatures around 1K and capacitor areas of the order of $1\mu{\textrm{m}}^2$. As potential applications, we define and discuss a measure of anharmonicity for qubit design, as well as schemes for non-reciprocal devices such as an electromagnetic frequency circulator.
+
+id: 1611.00272
+title: Weak Measurement and Two-State-Vector Formalism: Deficit of Momentum Transfer in Scattering Processes
+authors: C. A. Chatzidimitriou-Dreismann
+comments: 24 pages, 4 figures
+journal: Quanta 5, 61 (2016)
+subjects: Quantum Physics (quant-ph); Other Condensed Matter (cond-mat.other); Atomic Physics (physics.atom-ph)
+url: http://www.arxiv.org/abs/1611.00272
+abstract: The notions of weak measurement, weak value, and two-state-vector formalism provide a new quantum-theoretical frame for extracting additional information from a system in the limit of small disturbances to its state. Here, we provide an application to the case of two-body scattering with one body weakly interacting with an environment. The direct connection to real scattering experiments is pointed out by making contact with the field of impulsive incoherent neutron scattering from molecules and condensed systems. In particular, we predict a new quantum effect in neutron-atom collisions, namely an observable momentum transfer deficit; or equivalently, a reduction of effective mass below that of the free scattering atom. Two corroborative experimental findings are shortly presented. Implications for current and further experiments are mentioned. An interpretation of this effect and the associated experimental results within conventional theory is currently unavailable.
+
+id: 1611.00308
+title: A naturally stable Sagnac-Michelson nonlinear interferometer
+authors: Joseph M. Lukens, Nicholas A. Peters, Raphael C. Pooser
+comments: 12 pages, 3 figures, to appear in Optics Letters
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1611.00308
+abstract: Interferometers measure a wide variety of dynamic processes by converting a phase change into an intensity change. Nonlinear interferometers, making use of nonlinear media in lieu of beamsplitters, promise substantial improvement in the quest to reach the ultimate sensitivity limits. Here we demonstrate a new nonlinear interferometer utilizing a single parametric amplifier for mode mixing---conceptually, a nonlinear version of the conventional Michelson interferometer with its arms collapsed together. We observe up to 99.9\% interference visibility and find evidence for noise reduction based on phase-sensitive gain. Our configuration utilizes fewer components than previous demonstrations and requires no active stabilization, offering new capabilities for practical nonlinear interferometric-based sensors.
+
+id: 1611.00352
+title: Device-independent randomness generation from several Bell estimators
+authors: Olmo Nieto-Silleras, C¨¦dric Bamps, Jonathan Silman, Stefano Pironio
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00352
+abstract: Device-independent randomness generation and quantum key distribution protocols rely on a fundamental relation between the non-locality and random character of quantum theory. This relation is usually expressed in terms of a trade-off between the probability of guessing correctly the outcomes of measurements performed on quantum systems and the amount of violation of a given Bell inequality. However, a more accurate assessment of the randomness produced in Bell experiments can be obtained if the violation of several Bell inequalities is simultaneously taken into account, or if the full set of probabilities characterizing the behavior of the device is considered. We introduce protocols for device-independent randomness generation, secure against classical side information, that rely on the estimation of an arbitrary number of Bell expressions or even directly on the experimental frequencies of measurement outcomes. Asymptotically, this results in an optimal generation of randomness from experimental data (as measured by the min-entropy), without having to assume beforehand that the devices violate a specific Bell inequality.
+
+id: 1611.00355
+title: Reply to Comment on "Anomalous Edge State in a Non-Hermitian Lattice"
+authors: Tony E. Lee
+comments: 2 pages, 1 figure
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
+url: http://www.arxiv.org/abs/1611.00355
+abstract: The Comment by Xiong et al. (arXiv:1610.06275) criticizing my Letter [Phys. Rev. Lett. 116, 133903 (2016)] was rejected by Physical Review Letters. In this Reply, I show that all their claims are wrong.
+
+id: 1611.00003
+title: Quantum chaos on a critical Fermi surface
+authors: Aavishkar A. Patel, Subir Sachdev
+comments: 21 pages, 5 figures
+journal: 
+subjects: Strongly Correlated Electrons (cond-mat.str-el); High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00003
+abstract: We compute parameters characterizing many-body quantum chaos for a critical Fermi surface without quasiparticle excitations. We examine a theory of $N$ species of fermions at non-zero density coupled to a $U(1)$ gauge field in two spatial dimensions, and determine the Lyapunov rate and the butterfly velocity in an extended RPA approximation. The thermal diffusivity is found to be universally related to these chaos parameters, i.e. the relationship is independent of $N$, the gauge coupling constant, the Fermi velocity, the Fermi surface curvature, and high energy details.
+
+id: 1611.00062
+title: Energy Cascade in Quantum Gases
+authors: Tin-Lun Ho, X. Y. Yin
+comments: 5+4 pages, 5 figures
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00062
+abstract: Energy cascade is ubiquitous in systems far from equilibrium. Facilitated by particle interactions and external forces, it can lead to highly complex phenomena like fully developed turbulence, characterized by power law velocity correlation functions. Yet despite decades of research, how these power laws emerge from first principle remains unclear. Recently, experiments show that when a Bose condensate is subjected to periodic shaking, its momentum distribution exhibits a power law behavior. The flexibility of cold atom experiments has provided new opportunities to explore the emergence of these power laws, and to disentangle different sources of energy cascade. Here, we point out that recent experiments in cold atoms imply that classical turbulence is part of a larger family of scale invariant phenomena that include ideal gases. Moreover, the property of the entire family is contained in the structure of its Floquet states. For ideal gases, we show analytically that its momentum distribution acquires a $1/q^2$ tail in each dimension when it is shaken periodically.
+
+id: 1611.00100
+title: Spin-Mechanical Inertia in Antiferromagnet
+authors: Ran Cheng, Xiaochuan Wu, Di Xiao
+comments: 4 pages
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Materials Science (cond-mat.mtrl-sci); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00100
+abstract: The conservation of angular momentum has served as a guiding principle in the coupled dynamics of quantum spins and mechanical rotations. However, in an antiferromagnet with vanishing magnetization, new fundamental rules are required to properly describe spin-mechanical phenomena. Here we demonstrate that the Neel order dynamics affects the mechanical motion of a rigid body by modifying its inertia tensor in the presence of strong magnetocrystalline anisotropy. This effect depends on temperature when magnon excitations are considered. Such a spin-mechanical inertia can produce measurable consequences at small scales.
+
+id: 1611.00197
+title: Evolution of electric-field-induced quasibound states and resonances in one-dimensional open quantum systems
+authors: O. Olendski
+comments: Accepted for publication in Annalen der Physik (Berlin)
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Mathematical Physics (math-ph); Atomic Physics (physics.atom-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00197
+abstract: A comparative analysis of three different time-independent approaches to studying open quantum structures in uniform electric field $\mathscr{E}$ was performed using the example of one-dimensional attractive or repulsive $\delta$-potential and surface that supports the Robin boundary condition. The three considered methods exploit different properties of the scattering matrix $S(\mathscr{E};E)$ as a function of energy $E$: its poles, real values, and zeros of the second derivative of its phase. The essential feature of the method of zeroing the resolvent, which produces complex energies, is the unlimited growth of the wave function at infinity, which is, however, eliminated by the time-dependent interpretation. The real energies at which the unitary scattering matrix becomes real correspond to the largest possible distortion, $S=+1$, or its absence at $S=-1$ which in either case leads to the formation of quasibound states. Depending on their response to increasing electric intensity, two types of field-induced positive energy quasibound levels are identified: electron- and hole-like states. Their evolution and interaction in enlarging field lead ultimately to the coalescence of pairs of opposite states, with concomitant divergence of the associated dipole moments in what is construed as an electric breakdown of the structure. The characteristic features of the coalescence fields and energies are calculated and the behavior of the levels in their vicinity is analyzed. Similarities between the different approaches and their peculiarities are highlighted; in particular, for zero-field bound state in limit of vanishing $\mathscr{E}$, all three methods produce same results, with their outcomes deviating from each other according to growing electric intensity.
+
+id: 1611.00205
+title: An Intrinsic Topological Invariant in Strongly Interacting Quantum Systems
+authors: Xizhou Qin, Feng Mei, Yongguan Ke, Li Zhang, Chaohong Lee
+comments: 6 + 8 suppl. pages
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00205
+abstract: It is still an outstanding challenge to characterize and understand the topological features of strongly correlated states such as bound-states in interacting quantum systems. Here, from the cotranslational symmetry in an interacting multi-particle quantum system, we develop a general method to construct an intrinsic Chern invariant for identifying strongly correlated topological states. As an example, we study the topological magnons in a strongly interacting two-dimensional spinor Hofstadter model, which can be realized by the currently experimental techniques [Phys. Rev. Lett. 111, 185301 (2013); Phys. Rev. Lett. 111, 185302 (2013)]. Through calculating the two-magnon excitation spectrum and the intrinsic Chern number, we explore the emergence of topological edge bound-states and give their topological phase diagram. We also analytically derive an effective single-particle Hofsdadter superlattice model for understanding the topological bound-states. Our results not only provide a new approach to defining topological invariants, but also give deep insights into the characterization and understanding of strongly correlated topological states.
+
+id: 1611.00247
+title: A Foldy Wouthuysen and scattering matrix method for calculating the transmission of electrons through graphene
+authors: M. B. Doost
+comments: 6 pages 3 figures
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00247
+abstract: In this paper is provided a novel approach to solving the transmission of electrons through graphene, which promises to be accurate both at high and low speeds. The Dirac equation is linearised using the Foldy Wouthuysen expansion approximation [1], to reduce the problem of calculating the electron wave propagation to a scalar differentiation equation, with a linear differential operator. Also transformed is the exact solution of the Dirac equation in homogeneous space for the calculation of the propagation of electron waves. By analytically calculating the boundary conditions of the transformed wave functions, I have been able to generate transfer-matrices for the scalar propagation equations. Furthermore, I have implemented the scattering matrix method upon these transfer matrices [7]. Implementing the scattering matrix method makes a numerical stable propagation of the waves through the graphene [7]. Finally I test the convergence and accuracy of the new method against analytic solutions.
+
+id: quant-ph/0207120
+title: Hot entanglement in a simple dynamical model
+authors: S. Scheel, J. Eisert, P. L. Knight, M. B. Plenio
+comments: 5 pages, 2 figures. Contribution to the proceedings of the 'International Conference on Quantum Information', Oviedo, July 13-18, 2002. Discusses sudden changes of entanglement properties in a dynamical quantum model
+journal: J. Mod. Opt. 50, 881 (2003)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/quant-ph/0207120
+abstract: 
+
+id: 1401.1418
+title: Influence of Non-Markovian Dynamics in Thermal-Equilibrium Uncertainty-Relations
+authors: Leonardo A. Pachon, Johan F. Triana, David Zueco, Paul Brumer
+comments: 8 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Chemical Physics (physics.chem-ph)
+url: http://www.arxiv.org/abs/1401.1418
+abstract: 
+
+id: 1508.00656
+title: Progress towards quantum-enhanced interferometry with harmonically trapped quantum matter-wave bright solitons
+authors: Bettina Gertjerenken, Timothy P. Wiles, Christoph Weiss
+comments: 10 pages, 3 figures, minor revisions
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Atomic Physics (physics.atom-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1508.00656
+abstract: 
+
+id: 1511.00727
+title: Bounding experimental quantum error rates relative to fault-tolerant thresholds
+authors: Joel J. Wallman
+comments: 12 pages, comments welcome. Improves on bounds involving the unitarity presented in arxiv.org/abs/1510.05653. v2: added discussion of the average gate error, simplified proofs and expositions and improved bounds
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.00727
+abstract: 
+
+id: 1604.00651
+title: A Direct Mapping of Max k-SAT and High Order Parity Checks to a Chimera Graph
+authors: Nicholas Chancellor, Stefan Zohren, Paul A. Warburton, Simon C. Benjamin, Stephen Roberts
+comments: 8 pages, 5 figures, minor changes in version 2, mostly to improve clarity of writing changes at request of referee added in v3, accepted by Scientific Reports
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.00651
+abstract: 
+
+id: 1606.08368
+title: No-Go Theorem for the Characterisation of Work Fluctuations in Coherent Quantum Systems
+authors: Mart¨ª Perarnau-Llobet, Elisa B?umer, Karen V. Hovhannisyan, Marcus Huber, Antonio Ac¨ªn
+comments: 6+5 pages, 1 table. v2: title changed, a new result and a few references added, presentation improved
+journal: 
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech)
+url: http://www.arxiv.org/abs/1606.08368
+abstract: 
+
+id: 1608.04900
+title: On the logarithmic divergent part of entanglement entropy, smooth versus singular regions
+authors: Harald Dorn
+comments: 8 pages, 1 figure, Some sentences added in the conclusions section, version as appeared in PLB
+journal: 
+subjects: High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.04900
+abstract: 
+
+id: 1608.05197
+title: The origins of the research on the foundations of quantum mechanics (and other critical activities) in italy during the 1970s
+authors: Angelo Baracca, Silvio Bergia, Flavio Del Santo
+comments: 24 pages, substantially revised version (October 2016), new paragraphs, new notes and a new subsection (13.2.2.1)
+journal: 
+subjects: History and Philosophy of Physics (physics.hist-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05197
+abstract: 
+
+id: 1608.06831
+title: A model for reducing the angulon operator
+authors: Rytis Jursenas, Mikhail Lemeshko
+comments: This paper has been withdrawn by the author due to a number of inaccuracies
+journal: 
+subjects: Mathematical Physics (math-ph); Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.06831
+abstract: 
+
+id: 1609.06291
+title: Relativistic Energies and Scattering Phase Shifts for the Fermionic Particles Scattered by Hyperbolical potential with the Pseudo (Spin) Symmetry
+authors: Kayode John Oyewumi, Oluwatimilehin Joshua Oluwadare
+comments: 5 tables, 4 figures, 17 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1609.06291
+abstract: 
+
+id: 1609.08518
+title: Universal long-time behavior of stochastically driven interacting quantum systems
+authors: Zi Cai, Claudius Hubig, Ulrich Schollw?ck
+comments: 13 pages
+journal: 
+subjects: Strongly Correlated Electrons (cond-mat.str-el); Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1609.08518
+abstract: 
+
+id: 1610.04720
+title: Vibration-induced coherence enhancement of the performance of a biological quantum heat engine
+authors: Hong-Bin Chen, Pin-Yi Chiu, Yueh-Nan Chen
+comments: 12 pages, 6 figures
+journal: 
+subjects: Chemical Physics (physics.chem-ph); Biological Physics (physics.bio-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.04720
+abstract: 
+
+id: 1610.05122
+title: Symmetrizing Cost of Quantum States
+authors: Eyuri Wakakuwa
+comments: 11 pages, 2 figures. Sections are restructured, result unchanged. Comments are welcome
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.05122
+abstract: 
+
+id: 1610.08439
+title: Light-pressure experiments by P. N. Lebedev and modern problems of optomechanics and quantum optics
+authors: Valentina M. Berezanskaya, Igor Ya. Doskoch, Margarita A. Man'ko
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.08439
+abstract: 
+
+id: 1610.09896
+title: Multi-photon self-error-correction hyperentanglement distribution over arbitrary collective-noise channels
+authors: Cheng-Yan Gao, Guan-Yu Wan, Hao Zhang, Fu-Guo Deng
+comments: 10 pages, 2 figures. To be appeared in Quantum Information Processing
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.09896
+abstract: 
+
+id: 1610.09938
+title: Error-detected generation and complete analysis of hyperentangled Bell states for photons assisted by quantum-dot spins in double-sided optical microcavities
+authors: Guan-Yu Wang, Qing Ai, Fu-Guo Deng
+comments: 11 pages, 8 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.09938
+abstract: 
+

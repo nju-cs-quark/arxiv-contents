@@ -1,0 +1,306 @@
+id: 1608.06293
+title: Dicke phase transition without total spin conservation
+authors: Emanuele G. Dalla Torre, Yulia Shchadilova, Eli Y. Wilner, Mikhail D. Lukin, Eugene Demler
+comments: 6 pages. Comments welcome
+journal: 
+subjects: Quantum Physics (quant-ph); Quantum Gases (cond-mat.quant-gas); Strongly Correlated Electrons (cond-mat.str-el)
+url: http://www.arxiv.org/abs/1608.06293
+abstract: We develop a new fermionic path-integral formalism to analyze the phase diagram of open nonequilibrium systems. The formalism is applied to analyze an ensemble of two-level atoms interacting with a single-mode optical cavity, described by the Dicke model. While this model is often used as the paradigmatic example of a phase transition in driven-dissipative systems, earlier theoretical studies were limited to the special case when the total spin of the atomic ensemble is conserved. This assumption is not justified in most experimental realizations. Our new approach allows us to analyze the problem in a more general case, including the experimentally relevant case of dissipative processes that act on each atom individually and do not conserve the total spin. We obtain a general expression for the position of the transition, which contains as special cases the two previously known regimes: i) non-equilibrium systems with losses and conserved spin and ii) closed systems in thermal equilibrium and with the Gibbs ensemble averaging over the values of the total spin. We perform a detailed study of different types of baths and point out the possibility of a surprising non-monotonous dependence of the transition on the baths' parameters.
+
+id: 1608.06312
+title: Response to Wiseman, Rieffel, and Cavalcanti on Bell's 1964 Paper
+authors: Edward J. Gillis
+comments: 6 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.06312
+abstract: Wiseman has claimed that Bell was wrong in stating that determinism was inferred rather than assumed in the summary of the EPR argument in his 1964 paper. The reply of Wiseman and his co-authors to my comment misstates my reasons for disputing this point, and fails to address the central criticism that their claim is based on a seriously flawed formalization of Bell's argument deriving from an unreasonably strong interpretation of the the terms, 'influence', 'affect', and 'depend on'.
+
+id: 1608.06318
+title: Privacy Amplification Against Active Quantum Adversaries
+authors: Gil Cohen, Thomas Vidick
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC); Cryptography and Security (cs.CR)
+url: http://www.arxiv.org/abs/1608.06318
+abstract: Privacy amplification is the task by which two cooperating parties transform a shared weak secret, about which an eavesdropper may have side information, into a uniformly random string uncorrelated from the eavesdropper. Privacy amplification against passive adversaries, where it is assumed that the communication is over a public but authenticated channel, can be achieved in the presence of classical as well as quantum side information by a single-message protocol based on strong extractors. In 2009 Dodis and Wichs devised a two-message protocol to achieve privacy amplification against active adversaries, where the public communication channel is no longer assumed to be authenticated, through the use of a strengthening of strong extractors called non-malleable extractors which they introduced. Dodis and Wichs only analyzed the case of classical side information. We consider the task of privacy amplification against active adversaries with quantum side information. Our main result is showing that the Dodis-Wichs protocol remains secure in this scenario provided its main building block, the non-malleable extractor, satisfies a notion of quantum-proof non-malleability which we introduce. We show that an adaptation of a recent construction of non-malleable extractors due to Chattopadhyay et al. is quantum proof, thereby providing the first protocol for privacy amplification that is secure against active quantum adversaries. Our protocol is quantitatively comparable to the near-optimal protocols known in the classical setting.
+
+id: 1608.06331
+title: Quadratic Zeeman effect and spin-lattice relaxation of Tm$^{3+}$:YAG at high magnetic fields
+authors: Lucile Veissier, Charles W. Thiel, Thomas Lutz, Paul E. Barclay, Wolfgang Tittel, Rufus L. Cone
+comments: 10 pages, 9 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1608.06331
+abstract: Anisotropy of the quadratic Zeeman effect for the $^3{\rm H}_6 \rightarrow \, ^3{\rm H}_4$ transition at 793 nm wavelength in $^{169}$Tm$^{3+}$-doped Y$_3$Al$_5$O$_{12}$ is studied, revealing shifts ranging from near zero up to + 4.69 GHz/T$^2$ for ions in magnetically inequivalent sites. This large range of shifts is used to spectrally resolve different subsets of ions and study nuclear spin relaxation as a function of temperature, magnetic field strength, and orientation in a site-selective manner. A rapid decrease in spin lifetime is found at large magnetic fields, revealing the weak contribution of direct-phonon absorption and emission to the nuclear spin-lattice relaxation rate. We furthermore confirm theoretical predictions for the phonon coupling strength, finding much smaller values than those estimated in the limited number of past studies of thulium in similar crystals. Finally, we observe a significant -- and unexpected -- magnetic field dependence of the two-phonon Orbach spin relaxation process at higher field strengths, which we explain through changes in the electronic energy-level splitting arising from the quadratic Zeeman effect.
+
+id: 1608.06335
+title: A logical qubit in a linear array of semiconductor quantum dots
+authors: Cody Jones, Mark F. Gyure, Thaddeus D. Ladd, Michael A. Fogarty, Andrea Morello, Andrew S. Dzurak
+comments: 27 pages, 24 figures, 168 references
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.06335
+abstract: We design and analyze a logical qubit composed of a linear array of electron spins in semiconductor quantum dots. To avoid the difficulty of fully controlling a two-dimensional array of dots, we adapt spin control and error correction to a one-dimensional line of silicon quantum dots. Control speed and efficiency are maintained via a scheme in which electron spin states are controlled globally using broadband microwave pulses for magnetic resonance while two-qubit gates are provided by local electrical control of the exchange interaction between neighboring dots. Error correction with two-, three-, and four-qubit codes is adapted to a linear chain of qubits with nearest-neighbor gates. We estimate an error correction threshold of 2e-4, depending on the method of encoding. Furthermore, we describe a sequence of experiments to validate the methods on near-term devices starting from four coupled dots.
+
+id: 1608.06355
+title: Design considerations of high-performance InGaAs/InP single-photon avalanche diodes for quantum key distribution
+authors: Jian Ma, Bing Bai, Liu-Jun Wang, Cun-Zhu Tong, Ge Jin, Jun Zhang, Jian-Wei Pan
+comments: 6 pages, 7 figures. Accepted for publication in Applied Optics
+journal: 
+subjects: Quantum Physics (quant-ph); Instrumentation and Detectors (physics.ins-det)
+url: http://www.arxiv.org/abs/1608.06355
+abstract: InGaAs/InP single-photon avalanche diodes (SPADs) are widely used in practical applications requiring near-infrared photon counting such as quantum key distribution (QKD). Photon detection efficiency and dark count rate are the intrinsic parameters of InGaAs/InP SPADs, due to the fact that their performances cannot be improved using different quenching electronics given the same operation conditions. After modeling these parameters and developing a simulation platform for InGaAs/InP SPADs, we investigate the semiconductor structure design and optimization. The parameters of photon detection efficiency and dark count rate highly depend on the variables of absorption layer thickness, multiplication layer thickness, excess bias voltage and temperature. By evaluating the decoy-state QKD performance, the variables for SPAD design and operation can be globally optimized. Such optimization from the perspective of specific applications can provide an effective approach to design high-performance InGaAs/InP SPADs.
+
+id: 1608.06370
+title: Michelson interferometer for measuring temperature
+authors: Dong Xie, Chunling Xu, Anmin wang
+comments: 8pages, 1figure
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.06370
+abstract: We investigate that temperature can be measured by a modified Michelson interferometer, where at least one reflected mirror is replaced by a thermalized sample. Both of two mirrors replaced by the corresponding two thermalized samples can help to approximatively improve the resolution of temperature up to twice than only one mirror replaced by a thermalized sample. For further improving the precision, a nonlinear medium can be employed. The Michelson interferometer is embedded in a gas displaying Kerr nonlinearity. We obtain the analytical equations and numerically calculate the precision with parameters within the reach of current technology, proving that the precision of temperature can be greatly enhanced by using a nonlinear medium. Our results show that one can create an accurate thermometer by measuring the photons in the Michelson interferometer, with no need for directly measuring the population of thermalized sample.
+
+id: 1608.06413
+title: Generalized monogamy inequality of negativity for multi-qubit systems
+authors: Wei Chen, Gang Li, Zhu-Jun Zheng
+comments: 7 pages, no figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.06413
+abstract: In this paper, we present some generalized monogamy inequalities based on negativity and convex-roof extended negativity (CREN). The monogamy relations are satisfied by the negativity of $N-$qubit quantum systems $ABC_1\cdots C_{N-2},$ under the partition $AB$ and $C_1C_2\cdots C_{N-2}.$ This result can be generalized to the $N-$qubit pure states under the partition $ABC_1$ and $C_2\cdots C_{N-2}.$ Furthermore, we give some examples to test the generalized monogamy inequalities.
+
+id: 1608.06443
+title: Efficient single photon absorption by a trapped moving atom
+authors: Nils Trautmann, Gernot Alber, Gerd Leuchs
+comments: 9 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.06443
+abstract: The influence of the center of mass motion of a trapped two level system on efficient resonant single photon absorption is investigated. It is shown that this absorption process depends strongly on the ratio between the characteristic time scales of spontaneous photon emission and of the two level system's center of mass motion. In particular, if the spontaneous photon emission process occurs almost instantaneously on the time scale of the center of mass motion coherent control of the center of mass motion offers interesting perspectives for optimizing single photon absorption. It is demonstrated that this way time dependent modulation of a harmonic trapping frequency allows to squeeze the two level system's center of mass motion so strongly that high efficient single photon absorption is possible even in cases of weak confinement by a trapping potential.
+
+id: 1608.06479
+title: Quantum Mechanics of a Photon
+authors: Hassan Babaei, Ali Mostafazadeh
+comments: 42 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.06479
+abstract: A first quantized free photon is a complex massless vector field $A=(A^\mu)$ whose field strength satisfies Maxwell's equations in vacuum. We construct the Hilbert space $\mathscr{H}$ of the photon by endowing the vector space of the fields $A$ in the temporal-Coulomb gauge with a positive-definite and relativistically invariant inner product. We give an explicit expression for this inner product, identify the Hamiltonian for the photon with the generator of time translations in $\mathscr{H}$, determine the operators representing the momentum and the helicity of the photon, and introduce a chirality operator whose eigenfunctions correspond to fields having a definite sign of energy. We also construct a position operator for the photon whose components commute with each other and with the chirality and helicity operators. This allows for the construction of the localized states of the photon with a definite sign of energy and helicity. We derive an explicit formula for the latter and compute the corresponding electric and magnetic fields. These turn out to diverge not just at the point where the photon is localized but on a plane containing this point. We identify the axis normal to this plane with an associated helicity axis, and show that each choice of this axis determines a position basis and the corresponding position representation of the quantum mechanics of photon. In particular, we examine the position wave functions determined by such a position basis, elucidate their relationship with the Riemann-Silberstein and Landau-Peierls wave functions, and determine the probability density for the spatial localization of the photon.
+
+id: 1608.06579
+title: Quantum Correlations in NMR systems
+authors: T. S. Mahesh, C. S. Sudheer Kumar, Udaysinh T. Bhosale
+comments: 21 pages, 7 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.06579
+abstract: In conventional NMR experiments, the Zeeman energy gaps of the nuclear spin ensembles are much lower than their thermal energies, and accordingly exhibit tiny polarizations. Generally such low-purity quantum states are devoid of quantum entanglement. However, there exist certain nonclassical correlations which can be observed even in such systems. In this chapter, we discuss three such quantum correlations, namely, quantum contextuality, Leggett-Garg temporal correlations, and quantum discord. In each case, we provide a brief theoretical background and then describe some results from NMR experiments.
+
+id: 1608.06596
+title: Diagonal gates in the Clifford hierarchy
+authors: Shawn X. Cui, Daniel Gottesman, Anirudh Krishna
+comments: 8 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.06596
+abstract: The Clifford hierarchy is a set of gates that appears in the theory of fault-tolerant quantum computation, but its precise structure remains elusive. We give a complete characterization of the diagonal gates in the Clifford hierarchy for prime-dimensional qudits. They turn out to be $p^{m}$-th roots of unity raised to polynomial functions of the basis state to which they are applied, and we determine which level of the Clifford hierarchy a given gate sits in based on $m$ and the degree of the polynomial.
+
+id: 1608.06617
+title: Quantum Communication Complexity of Distributed Set Joins
+authors: Stacey Jeffery, Fran?ois Le Gall
+comments: 13 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Databases (cs.DB); Data Structures and Algorithms (cs.DS)
+url: http://www.arxiv.org/abs/1608.06617
+abstract: Computing set joins of two inputs is a common task in database theory. Recently, Van Gucht, Williams, Woodruff and Zhang [PODS 2015] considered the complexity of such problems in the natural model of (classical) two-party communication complexity and obtained tight bounds for the complexity of several important distributed set joins. In this paper we initiate the study of the *quantum* communication complexity of distributed set joins. We design a quantum protocol for distributed Boolean matrix multiplication, which corresponds to computing the composition join of two databases, showing that the product of two $n\times n$ Boolean matrices, each owned by one of two respective parties, can be computed with $\widetilde{O}(\sqrt{n}\ell^{3/4})$ qubits of communication, where $\ell$ denotes the number of non-zero entries of the product. Since Van Gucht et al. showed that the classical communication complexity of this problem is $\widetilde{\Theta}(n\sqrt{\ell})$, our quantum algorithm outperforms classical protocols whenever the output matrix is sparse. We also show a quantum lower bound and a matching classical upper bound on the communication complexity of distributed matrix multiplication over $\mathbb{F}_2$. Besides their applications to database theory, the communication complexity of set joins is interesting due to its connections to direct product theorems in communication complexity. In this work we also introduce a notion of *all-pairs* product theorem, and relate this notion to standard direct product theorems in communication complexity.
+
+id: 1608.06302
+title: Disordered Chern insulator with a two step Floquet drive
+authors: Sthitadhi Roy, G. J. Sreejith
+comments: 14 pages, 10 figures
+journal: 
+subjects: Disordered Systems and Neural Networks (cond-mat.dis-nn); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.06302
+abstract: We explore the physics of a Chern insulator subjected to a two step Floquet drive. We analytically obtain the phase diagram and show that the system can exhibit different topological phases characterized by presence and chirality of edge-modes in the two bulk gaps of the Floquet quasienergy spectrum, around $0$ and $\pi$. We find that the phase of the system depends on the mean but not on the amplitude of the drive. The bulk topological invariants characterizing the phases can be extracted by mapping the unitary evolution within a time period to an energetically trivial but topologically non-trivial time evolution. An extensive numerical study of the bulk topological invariants in the presence of quenched disorder reveals new transitions induced by strong disorder (i) from the different topological to trivial insulator phases and (ii) from a trivial to a topological Anderson insulator phase at intermediate disorder strengths. Careful analysis of level statistics of the quasienergy spectrum indicates a `levitation-annihilation' mechanism near these transitions.
+
+id: 1608.06387
+title: Discrete Parametric Oscillation and Nondiffracting Beams in a Glauber-Fock Oscillator
+authors: Z. Oztas, C. Yuce
+comments: 
+journal: Phys. Lett. A 380 3307 (2016)
+subjects: Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.06387
+abstract: We consider a Glauber-Fock oscillator and show that diffraction can be managed. We show how to design arrays of waveguides where light beams experience zero diffraction. We find an exact analytical family of nondiffracting localized solution. We predict discrete parametric oscillation in the Glauber-Fock oscillator.
+
+id: 1608.06448
+title: Time-of-flight expansion of trapped dipolar Fermi gases: from collisionless to hydrodynamic regime
+authors: Vladimir Veljic, Antun Balaz, Axel Pelster
+comments: 28 pages, 10 figues
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Computational Physics (physics.comp-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.06448
+abstract: A recent time-of-flight (TOF) expansion experiment with polarized fermionic erbium atoms measured a Fermi surface deformation from a sphere to an ellipsoid due to dipole-dipole interaction, thus confirming previous theoretical predictions. Here we perform a systematic study of the ground-state properties and TOF dynamics for trapped dipolar Fermi gases from the collisionless to the hydrodynamic regime at zero temperature. To this end we solve analytically the underlying Boltzmann-Vlasov equation within the relaxation-time approximation in the vicinity of equilibrium by using a suitable rescaling of the equilibrium distribution. The resulting ordinary differential equations for the respective scaling parameters are then solved numerically for experimentally realistic parameters and relaxation times that correspond to the collisionless, collisional, and hydrodynamic regime. The equations for the collisional regime are first solved in the approximation of a fixed relaxation time, and then this approach is extended to include a self-consistent determination of the relaxation time. The presented analytical and numerical results are relevant for a detailed quantitative understanding of ongoing experiments and the design of future experiments with ultracold fermionic dipolar atoms and molecules. In particular, the obtained results are relevant for systems with strong dipole-dipole interaction, which turn out to affect significantly the aspect ratios during the TOF expansion.
+
+id: 1608.06455
+title: On-demand entanglement generation using dynamic single-electron sources
+authors: Patrick P. Hofer, David Dasenbrook, Christian Flindt
+comments: 11 pages, 7 figures, short review for focus issue on 'Single-electron control in solid-state devices'
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.06455
+abstract: We review our recent proposals for the on-demand generation of entangled few-electron states using dynamic single-electron sources. The generation of entanglement can be traced back to the single-electron entanglement produced by quantum point contacts acting as electronic beam splitters. The coherent partitioning of a single electron leads to entanglement between the two outgoing arms of the quantum point contact. We describe our various approaches for generating and certifying entanglement in dynamic electronic conductors and we quantify the influence of detrimental effects such as finite electronic temperatures and other dephasing mechanisms. The prospects for future experiments are discussed and possible avenues for further developments are identified.
+
+id: 1608.06551
+title: Elastic scattering of vortex electrons provides direct access to the Coulomb phase
+authors: I. P. Ivanov, D. Seipt, A. Surzhykov, S. Fritzsche
+comments: 23 pages, 6 figures
+journal: 
+subjects: High Energy Physics - Phenomenology (hep-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.06551
+abstract: Vortex electron beams are freely propagating electron waves carrying adjustable orbital angular momentum with respect to the propagation direction. Such beams were experimentally realized just a few years ago and are now used to probe various electromagnetic processes. So far, these experiments used the single vortex electron beams, either propagating in external fields or impacting a target. Here, we investigate the elastic scattering of two such aligned vortex electron beams and demonstrate that this process allows one to experimentally measure features which are impossible to detect in the usual plane-wave scattering. The scattering amplitude of this process is well approximated by two plane-wave scattering amplitudes with different momentum transfers, which interfere and give direct experimental access to the Coulomb phase. This phase (shift) affects the scattering of all charged particles and has thus received significant theoretical attention but was never probed experimentally. We show that a properly defined azimuthal asymmetry, which has no counterpart in plane-wave scattering, allows one to directly measure the Coulomb phase as function of the scattering angle.
+
+id: 1608.06616
+title: Dipolar condensates with tilted dipoles in a pancake confinement
+authors: Chinmayee Mishra, Rejish Nath
+comments: 10 pages, 6 figures
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.06616
+abstract: The effect of dipolar orientation with respect to the condensate plane on the mean-field dynamics of dipolar Bose-Einstein condensates in a pancake confinement is discussed. The stability of a quasi-two-dimensional condensate, with respect to the tilting angle, is found to be different from a two-dimensional layer of dipoles, indicating the relevance of the transverse extension while characterizing two-dimensional dipolar systems. An anisotropic excitation spectrum exhibiting a highly tunable, roton-like minimum, can arise entirely from the dipole-dipole interactions, by tilting the dipoles. At the magic angle and in the absence of contact interactions, the long wavelength excitations are, not phonon-like and always unstable. The post roton-instability dynamics, in contrast to phonon-instability, in a uniform condensate, is featured by a transient, defect-free, stripe pattern, which eventually undergoes local collapses, and driving the condensate back into the stable regime can make them sustained for longer. Hopping between stripes has been observed before it melts into a uniform state in the presence of dissipation. Finally, we discuss a new class of solutions, in which a quasi-two-dimensional condensate is self-trapped in one direction, as well as a new regime of interaction parameters, including attractive short-range interactions, at which a two-dimensional anisotropic soliton can be stabilized, and we show that a Chromium condensate with relatively small number of atoms is well suited for this.
+
+id: hep-ph/0603047
+title: CP nonconservation in the leptonic sector
+authors: Petre Dita
+comments: This submission has been withdrawn by arXiv administrators because it is duplicated in arXiv:1101.4087
+journal: 
+subjects: High Energy Physics - Phenomenology (hep-ph); High Energy Physics - Lattice (hep-lat); Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/hep-ph/0603047
+abstract: 
+
+id: 1406.0633
+title: Understanding Ghost Interference
+authors: Tabish Qureshi, Pravabati Chingangbam, Sheeba Shafaq
+comments: 6 pages revtex. Closest to the published version
+journal: Int. J. Quant. Inf. 14(3), 1640036 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1406.0633
+abstract: 
+
+id: 1410.2928
+title: Highly Efficient Quantum Key Distribution Immune to All Detector Attacks
+authors: Wen-Fei Cao, Yi-Zheng Zhen, Yu-Lin Zheng, Zeng-Bing Chen, Nai-Le Liu, Kai Chen, Jian-Wei Pan
+comments: We thank all the colleagues in the quantum communication community for very valuable comments, insights sharing and discussions. Our scheme is insecure if one does not have trusted monitors and careful post data processing, which reduces largely its practical applications. Therefore we decide to withdraw this manuscript. Thank you all for understanding
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1410.2928
+abstract: 
+
+id: 1501.03750
+title: The quantum Cauchy functional and space-time approach to relativistic quantum mechanics
+authors: A.A. Beilinson
+comments: 
+journal: 
+subjects: Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1501.03750
+abstract: 
+
+id: 1512.04102
+title: Self-homodyne measurement of a dynamic Mollow triplet in the solid state
+authors: Kevin A. Fischer, Kai M¨¹ller, Armand Rundquist, Tomas Sarmiento, Alexander Y. Piggott, Yousif Kelaita, Constantin Dory, Konstantinos G. Lagoudakis, Jelena Vu?kovi?
+comments: 
+journal: Nature Photonics 10 (2016) 163-166
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.04102
+abstract: 
+
+id: 1602.02502
+title: Collective couplings: rectification and supertransmittance
+authors: Gernot Schaller, Giulio Giuseppe Giusteri, Giuseppe Luca Celardo
+comments: 19 pages, 11 figures, to appear in PRE
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.02502
+abstract: 
+
+id: 1603.03755
+title: Simulated Quantum Annealing with Two All-to-All Connectivity Schemes
+authors: Tameem Albash, Walter Vinci, Daniel A. Lidar
+comments: 17 pages, 19 figures. v2: updated to published version
+journal: Phys. Rev. A 94, 022327 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1603.03755
+abstract: 
+
+id: 1604.07859
+title: On bosonic non-Gaussian processes: photon-added Gaussian channels
+authors: Krishna Kumar Sabapathy
+comments: v2: 14 pages, 11 figures, improved the presentation and clarified some sections
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1604.07859
+abstract: 
+
+id: 1605.02944
+title: Bell's Inequalities for Continuous-Variable Systems in Generic Squeezed States
+authors: Jerome Martin, Vincent Vennin
+comments: 9 pages without appendices (38 pages total), 16 figures, matches published version in Physical Review A
+journal: Phys.Rev. A93 (2016) no.6, 062117
+subjects: Quantum Physics (quant-ph); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Theory (hep-th)
+url: http://www.arxiv.org/abs/1605.02944
+abstract: 
+
+id: 1605.08922
+title: Quantum state reconstruction made easy: a direct method for tomography
+authors: R.P. Rundle, Todd Tilma, J. H. Samson, M. J. Everitt
+comments: 9 pages, 5 figures, animations included. Now self contained and with better notation
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.08922
+abstract: 
+
+id: 1606.04085
+title: Tensor surgery and tensor rank
+authors: Matthias Christandl, Jeroen Zuiddam
+comments: 
+journal: 
+subjects: Combinatorics (math.CO); Computational Complexity (cs.CC); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1606.04085
+abstract: 
+
+id: 1606.08825
+title: Charting the circuit QED design landscape using optimal control theory
+authors: Michael H. Goerz, Felix Motzoi, K. Birgitta Whaley, Christiane P. Koch
+comments: 10 pages, 4 figures, 2 pages supplementary, 1 supplementary figure
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1606.08825
+abstract: 
+
+id: 1607.05916
+title: Absolutely covert quantum communication
+authors: Kamil Bradler, Timjan Kalajdzievski, George Siopsis, Christian Weedbrook
+comments: v2: statistics of the detector operators corrected (commuting); no change in results
+journal: 
+subjects: Quantum Physics (quant-ph); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1607.05916
+abstract: 
+
+id: 1607.07961
+title: Semi-quantum private comparison protocol under an almost-dishonest third party
+authors: Wen-Han Chou, Tzonelih Hwang, Jun Gu
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1607.07961
+abstract: 
+
+id: 1608.04900
+title: On the logarithmic divergent part of entanglement entropy, smooth versus singular regions
+authors: Harald Dorn
+comments: 8 pages, 1 figure, references added
+journal: 
+subjects: High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.04900
+abstract: 
+

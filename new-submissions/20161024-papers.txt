@@ -1,0 +1,387 @@
+id: 1610.06621
+title: Non-reciprocal quantum interactions and devices via autonomous feed-forward
+authors: A. Metelmann, A. A. Clerk
+comments: 9 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
+url: http://www.arxiv.org/abs/1610.06621
+abstract: In a recent work [A. Metelmann and A. A. Clerk, Phys. Rev. X 5, 021025 (2015)], a general reservoir-engineering approach for generating non-reciprocal quantum interactions and devices was described. We show here how in many cases this general recipe can be viewed as an example of autonomous feed-forward: the full dissipative evolution is identical to the unconditional evolution in a setup where an observer performs an ideal quantum measurement of one system, and then uses the results to drive a second system. We also extend the application of this approach to non-reciprocal quantum amplifiers, showing the added functionality possible when using two engineered reservoirs. In particular, we demonstrate how to construct an ideal phase-preserving cavity-based amplifier which is full non-reciprocal, quantum-limited and free of any fundamental gain-bandwidth constraint.
+
+id: 1610.06630
+title: Selective addressing of solid-state spins at the nanoscale via magnetic resonance frequency encoding
+authors: Huiliang Zhang, Keigo Arai, Chinmay Belthangady, Jean-Christophe Jaskula, Ronald L. Walsworth
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
+url: http://www.arxiv.org/abs/1610.06630
+abstract: The nitrogen-vacancy (NV) centre in diamond is a leading platform for nanoscale sensing and imaging, as well as quantum information processing in the solid state. To date, individual control of two NV electronic spins at the nanoscale has been demonstrated. However, a key challenge is to scale up such control to arrays of NV spins. Here we apply nanoscale magnetic resonance frequency encoding to realize site-selective addressing and coherent control of a four-site array of NV spins. Sites in the array are separated by 100 nm, with each site containing multiple NVs separated by ~15 nm. Microcoils fabricated on the diamond chip provide electrically tuneable magnetic-field gradients ~0.1 G/nm. Tailored application of gradient fields and resonant microwaves allow site-selective NV spin manipulation and sensing applications, including Rabi oscillations, imaging, and nuclear magnetic resonance (NMR) spectroscopy with nanoscale resolution. Microcoil-based magnetic resonance of solid-state spins provides a practical platform for quantum-assisted sensing, quantum information processing, and the study of nanoscale spin networks.
+
+id: 1610.06645
+title: The role of phases in detecting three qubit entanglement
+authors: Kyung Hoon Han, Seung-Hyeok Kye
+comments: 10 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.06645
+abstract: We propose separability criteria for three qubit states in terms of diagonal and anti-diagonal entries to detect entanglement with positive partial transposes. We report here that the phases of anti-diagonal entries play a crucial role. In some cases, the anti-diagonal phases of separable states must satisfy even an identity. These criteria are strong enough to detect PPT entanglement with nonzero volume. Our criteria give us complete characterizations of separability when entries of a state are zero except for diagonal and anti-diagonals, with a common magnitude for anti-diagonals.
+
+id: 1610.06646
+title: The Computational Complexity of Ball Permutations
+authors: Scott Aaronson, Adam Bouland, Greg Kuperberg, Saeed Mehraban
+comments: 59 pages, 10 figures. Partially based on Saeed Mehraban's Master's thesis (arXiv: 1512.09243)
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC)
+url: http://www.arxiv.org/abs/1610.06646
+abstract: Inspired by connections to two dimensional quantum theory, we define several models of computation based on permuting distinguishable particles (which we call balls), and characterize their computational complexity. In the quantum setting, we find that the computational power of this model depends on the initial input states. More precisely, with a standard basis input state, we show how to approximate the amplitudes of this model within additive error using the model DQC1 (the class of problems solvable with one clean qubit), providing evidence that the model in this case is weaker than universal quantum computing. However, for specific choices of input states, the model is shown to be universal for BQP in an encoded sense. We use representation theory of the symmetric group to partially classify the computational complexity of this model for arbitrary input states. Interestingly, we find some input states which yield a model intermediate between DQC1 and BQP. Furthermore, we consider a restricted version of this model based on an integrable scattering problem in 1+1 dimensions. We show it is universal under postselection, if we allow intermediate destructive measurements and specific input states. Therefore, the existence of any classical procedure to sample from the output distribution of this model within multiplicative error implies collapse of polynomial hierarchy to its third level. Finally, we define a classical version of this model in which one can probabilistically permute balls. We find this yields a complexity class which is intermediate between L and BPP. Moreover, we find a nondeterministic version of this model is NP-complete.
+
+id: 1610.06751
+title: Non-ergodicity in the Anisotropic Dicke model
+authors: Wouter Buijsman, Vladimir Gritsev, Rudolf Sprik
+comments: 4 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech)
+url: http://www.arxiv.org/abs/1610.06751
+abstract: We study the ergodic -- non-ergodic transition in a generalized Dicke model with independent co- and counter rotating light-matter coupling terms. By studying level statistics, the average ratio of consecutive level spacings, and the quantum butterfly effect (out-of-time correlation) as a dynamical probe, we show that the ergodic -- non-ergodic transition in the Dicke model is a consequence of the proximity to the integrable limit of the model when one of the couplings is set to zero. This can be interpreted as a hint for the existence of a quantum analogue of the classical Kolmogorov-Arnold-Moser theorem. Besides, we show that there is no intrinsic relation between the ergodic -- non-ergodic transition and the precursors of the normal -- superradiant quantum phase transition.
+
+id: 1610.06757
+title: Post-selection free spatial Bell state generation
+authors: E.V. Kovlakov, I.B. Bobrov, S.S. Straupe, S.P. Kulik
+comments: 7 pages, 6 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1610.06757
+abstract: Spatial states of single photons and spatially entangled photon pairs are becoming an important resource in quantum communication. This additional degree of freedom provides an almost unlimited information capacity, making the development of high-quality sources of spatial entanglement a well-motivated research direction. We report an experimental method for generation of photon pairs in a maximally entangled spatial state. In contrast to existing techniques the method does not require post-selection and allows one to use the full photon flux from the nonlinear crystal, providing a tool for creating high-brightness sources of pure spatially entangled photons. Such sources are a prerequisite for emerging applications in free-space quantum communication.
+
+id: 1610.06764
+title: Quantum rational preferences and desirability
+authors: Alessio Benavoli, Alessandro Facchini, Marco Zaffalon
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Probability (math.PR)
+url: http://www.arxiv.org/abs/1610.06764
+abstract: We develop a theory of quantum rational decision making in the tradition of Anscombe and Aumann's axiomatisation of preferences on horse lotteries. It is essentially the Bayesian decision theory generalised to the space of Hermitian matrices. Among other things, this leads us to give a representation theorem showing that quantum complete rational preferences are obtained by means of expected utility considerations.
+
+id: 1610.06854
+title: Simulation of single-photon state tomography using phase-randomized coherent states
+authors: P. Valente, A. Lezama
+comments: 6 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1610.06854
+abstract: We have experimentally simulated the quantum state tomography of single-photon states of temporal modes of duration T and constant amplitude using phase randomized coherent states (PRCS). A stationary laser beam, whose phase relative to a local oscillator is varied at random, was used as a multiple realization of a PRCS of the temporal mode. The quadrature fluctuations histograms corresponding to the marginal distributions of the PRCS, were acquired with an oscilloscope using a sampling period T. Following a recent suggestion by Yuan et al \cite{YUAN16}, we have derived estimates for the marginal distribution of the single-photon state. Based on these estimates, the approximate Wigner function and density matrix of the single-photon state were reconstructed with good precision. The sensitivity of the simulation to experimental errors and the number of PRCS used is addressed.
+
+id: 1610.06867
+title: Quench-induced resonant tunneling mechanisms of bosons in an optical lattice with harmonic confinement
+authors: G.M. Koutentakis, S.I. Mistakidis, P. Schmelcher
+comments: 14 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Quantum Gases (cond-mat.quant-gas); Atomic Physics (physics.atom-ph)
+url: http://www.arxiv.org/abs/1610.06867
+abstract: The non-equilibrium dynamics of small boson ensembles in a one-dimensional optical lattice is explored upon a sudden quench of an additional harmonic trap from strong to weak confinement. We find that the competition between the initial localization and the repulsive interaction leads to a resonant response of the system for intermediate quench amplitudes, corresponding to avoided crossings in the many-body eigenspectrum with varying final trap frequency. In particular, we show that these avoided crossings can be utilized to prepare the system in a desired state. The dynamical response is shown to depend on both the interaction strength as well as the number of atoms manifesting the many-body nature of the tunneling dynamics.
+
+id: 1610.06876
+title: Finite-key-size effect in commercial plug-and-play QKD system
+authors: Poompong Chaiwongkhot, Shihan Sajeed, Lars Lydersen, Vadim Makarov
+comments: 4 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.06876
+abstract: We demonstrate the ability of an eavesdropper to control the sifted-key size in a commercial plug-and-play QKD system Clavis2 from ID Quantique, and its effect on security analysis. Experimentally, we could consistently force the system to generate the key outside of the secure regime. We also test manufacturer's software update that patches this problem.
+
+id: 1610.06883
+title: Many-particle entanglement criterion for superradiant-like states
+authors: Mehmet Emre Tasgin
+comments: 7 pages, 6 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Quantum Gases (cond-mat.quant-gas); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1610.06883
+abstract: We derive a many-particle inseparability criterion for mixed states using the relation between single-mode and many-particle nonclassicalities. It works very well not only in the vicinity of the Dicke states, but also for the superposition of them: superradiant ground state of finite/infinite number of particles and time evolution of single-photon superradiance. We also obtain a criterion for ensemble-field entanglement which works fine for such kind of states. Even though the collective excitations of the many-particle system is sub-Poissonian --which results in entanglement-- the wave function displays bunching.
+
+id: 1610.06889
+title: Highly indistinguishable and strongly entangled photons from symmetric GaAs quantum dots
+authors: Daniel Huber, Marcus Reindl, Yongheng Huo, Huiying Huang, Johannes S. Wildmann, Oliver G. Schmidt, Armando Rastelli, Rinaldo Trotta
+comments: 10 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.06889
+abstract: The development of scalable sources of non-classical light is fundamental to unlock the technological potential of quantum photonics\cite{Kimble:Nat2008}. Among the systems under investigation, semiconductor quantum dots are currently emerging as near-optimal sources of indistinguishable single photons. However, their performances as sources of entangled-photon pairs are in comparison still modest. Experiments on conventional Stranski-Krastanow InGaAs quantum dots have reported non-optimal levels of entanglement and indistinguishability of the emitted photons. For applications such as entanglement teleportation and quantum repeaters, both criteria have to be met simultaneously. In this work, we show that this is possible focusing on a system that has received limited attention so far: GaAs quantum dots grown via droplet etching. Using a two-photon resonant excitation scheme, we demonstrate that these quantum dots can emit triggered polarization-entangled photons with high purity (g^(2)(0)=0.002 +/-0.002), high indistinguishability (0.93 +/-0.07) and high entanglement fidelity (0.94 +/-0.01). Such unprecedented degree of entanglement, which in contrast to InGaAs can theoretically reach near-unity values, allows Bell's inequality (2.64 +/-0.01) to be violated without the aid of temporal or spectral filtering. Our results show that if quantum-dot entanglement resources are to be used for future quantum technologies, GaAs might be the system of choice.
+
+id: 1610.06891
+title: Phase sensing beyond the standard quantum limit with a truncated SU(1,1) interferometer
+authors: Brian E. Anderson, Prasoon Gupta, Bonnie L. Schmittberger, Travis Horrom, Carla Hermann-Avigliano, Kevin M. Jones, Paul D. Lett
+comments: 5 pages plus Supplemental Material
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.06891
+abstract: An SU(1,1) interferometer replaces the beamsplitters in a Mach-Zehnder interferometer with nonlinear interactions and offers the potential of achieving high phase sensitivity in applications with low optical powers. We present a novel variation in which the second nonlinear interaction is replaced with balanced homodyne detection. The phase-sensing quantum state is a two-mode squeezed state produced by seeded four-wave-mixing in Rb vapor. Measurements as a function of operating point show that even with $\approx35~\%$ loss this device can surpass the standard quantum limit by 4~dB.
+
+id: 1610.06897
+title: Contextuality under weak assumptions
+authors: Andrew W. Simmons, Joel J. Wallman, Hakop Pashayan, Stephen D. Bartlett, Terry Rudolph
+comments: 15 Pages, 2 figures, 1 appendix
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.06897
+abstract: The presence of contextuality in quantum theory was first highlighted by Bell, Kochen and Specker, who discovered that for quantum systems of three or more dimensions, measurements cannot be viewed as revealing pre-existing properties of the system. More precisely, no model can assign deterministic outcomes to the projectors of a quantum measurement in a way that depends only on the projector and not the context (the full set of projectors) in which it appeared, despite the fact that the Born rule probabilities associated with projectors are independent of the context. A more general, operational definition of contextuality introduced by Spekkens, which we will term "probabilistic contextuality", drops the assumption of determinism and allows for operations other than measurements to be considered contextual. Probabilistic noncontextuality represents the postulate that elements of an operational theory that cannot be distinguished from each other based on the statistics of arbitrarily many repeated experiments are ontologically identical. In this paper, we introduce a framework that enables us to distinguish between different noncontextuality assumptions in terms of the relationships between the ontological representations of objects in the theory given a certain relation between their operational representations. This framework can be used to motivate and define a "possibilistic" analogue, encapsulating the idea that elements of an operational theory that cannot be unambiguously distinguished operationally can also not be unambiguously distinguished ontologically. We then prove that possibilistic noncontextuality is equivalent to an alternative notion proposed by Hardy. Finally, we demonstrate that these weaker noncontextuality assumptions are sufficient to prove alternative versions of known "no-go" theorems that constrain $\psi$-epistemic models for quantum mechanics.
+
+id: 1610.06910
+title: A Hybrid Classical/Quantum Approach for Large-Scale Studies of Quantum Systems with Density Matrix Embedding Theory
+authors: Nicholas C. Rubin
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Strongly Correlated Electrons (cond-mat.str-el)
+url: http://www.arxiv.org/abs/1610.06910
+abstract: Determining ground state energies of quantum systems by hybrid classical/quantum methods has emerged as a promising candidate application for near-term quantum computational resources. Short of large-scale fault-tolerant quantum computers, small-scale devices can be leveraged with current computational techniques to identify important subspaces of relatively large Hamiltonians. Inspired by the work that described the merging of dynamical mean-field theory (DMFT) with a small-scale quantum computational resource as an impurity solver [Bauer et al., arXiv:1510.03859v2], we describe an alternative embedding scheme, density matrix embedding theory (DMET), that naturally fits with the output from the variational quantum eigensolver and other hybrid approaches. This approach is validated using a quantum abstract machine simulator [Smith et al., arXiv:1608.03355] that reproduces the ground state energy of the Hubbard model converged to the infinite limit.
+
+id: 1610.06322
+title: Detection of Zak phases and topological invariants in a chiral photonic quantum walk
+authors: F. Cardano, A. D'Errico, A. Dauphin, M. Maffei, B. Piccirillo, C. de Lisio, G. De Filippis, V. Cataudella, E. Santamato, L. Marrucci, M. Lewenstein, P. Massignan
+comments: 10 pages, 7 color figures (incl. appendices)
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Gases (cond-mat.quant-gas); Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.06322
+abstract: Topological insulators are fascinating states of matter exhibiting protected edge states and robust quantized features in their bulk. Here, we propose and validate experimentally a method to detect topological properties in the bulk of one-dimensional chiral systems. We first introduce the mean chiral displacement, and we show that it rapidly approaches a multiple of the Zak phase in the long time limit. Then we measure the Zak phase in a photonic quantum walk, by direct observation of the mean chiral displacement in its bulk. Next, we measure the Zak phase in an alternative, inequivalent timeframe, and combine the two windings to characterize the full phase diagram of this Floquet system. Finally, we prove the robustness of the measure by introducing dynamical disorder in the system. This detection method is extremely general, as it can be applied to all one-dimensional platforms simulating static or Floquet chiral systems.
+
+id: 1610.06652
+title: Highly enhanced steady-state optomechanical entanglement via cross-Kerr nonlinearity
+authors: Subhadeep Chakraborty, Amarendra K. Sarma
+comments: 
+journal: 
+subjects: Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.06652
+abstract: We study steady-state optomechanical entanglement in presence of an additional cross-Kerr coupling between the optical and mechanical mode. We find that a significant enhancement of the steady-state entanglement can be achieved at a considerably lower driving power, which is also extremely robust with respect to system parameters and environmental temperature.
+
+id: 1610.06704
+title: Controlled Quantum Operations of a Semiconductor Three-Qubit System
+authors: Hai-Ou Li, Gang Cao, Guo-Dong Yu, Ming Xiao, Guang-Can Guo, Hong-Wen Jiang, Guo-Ping Guo
+comments: 
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.06704
+abstract: The Coulomb interactions between electrons play important roles in coupling multiple qubits in various quantum systems. Here we demonstrate controlled quantum operations of three electron charge qubits based on three capacitively coupled semiconductor double quantum dots. The strong interactions between one double dot and other two double dots enable us to control the coherent rotations of one target qubit by the states of two control qubits.
+
+id: 1610.06796
+title: Amplified transduction of Planck-scale effects for quantum optical experiments
+authors: Pasquale Bosso, Saurya Das, Igor Pikovski, Michael R. Vanner
+comments: 6 pages, 2 figures
+journal: 
+subjects: General Relativity and Quantum Cosmology (gr-qc); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.06796
+abstract: The unification of quantum mechanics and gravity remains one of the main challenges in modern physics. Quantum-gravity-inspired phenomenological models offer a window to explore potential aspects of such a theory including observable consequences. One such phenomenological model is the Generalized Uncertainty Principle (GUP), which predicts a modified Heisenberg uncertainty relation and a deformed canonical commutator. It was recently shown that under some assumptions, opto-mechanical systems can put stringent experimental bounds on such models. In this paper, we introduce a scheme to increase the sensitivity of these experiments with an extended sequence of optomechanical interactions. We also analyze the effects of optical phase noise and optical loss and present a strategy to mitigate such deleterious effects.
+
+id: 1610.06807
+title: Solitonic Josephson-based meminductive systems
+authors: Claudio Guarcello, Paolo Solinas, Massimiliano Di Ventra, Francesco Giazotto
+comments: 14 pages, 9 figures
+journal: 
+subjects: Superconductivity (cond-mat.supr-con); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.06807
+abstract: Memristors, memcapacitors, and meminductors, collectively called memelements, represent an innovative generation of circuit elements whose properties depend on the state and history of the system. The hysteretic behavior of one of their constituent variables, under the effect of an external time-dependent perturbation, is their distinctive fingerprint. In turn, this feature endows them with the ability to both store and process information on the same physical location, a property that is expected to benefit many applications ranging from unconventional computing to adaptive electronics to robotics, to name just a few. For all these types of applications, it is important to find appropriate memelements that combine a wide range of memory states (multi-state memory), long memory retention times, and protection against unavoidable noise. Although several physical systems belong to the general class of memelements, few of them combine all of these important physical features in a single component. Her we demonstrate theoretically a superconducting memory structure based on solitonic long Josephson junctions (LJJs). We show that the Josephson critical current of the junction behaves hysteretically as an external magnetic field is properly swept. According to the hysteretic path displayed by the critical current, a LJJ can be used as a multi-state memory, with a controllable number of available states. In addition, since solitons are at the core of its operation, this system provides an intrinsic topological protection against external perturbations. Solitonic Josephson-based memelements may find applications as memories, and in other emerging areas such as memcomputing, i.e., computing directly in/by the memory.
+
+id: quant-ph/0504086
+title: Detection of Macroscopic Entanglement by Correlation of Local Observables
+authors: Akira Shimizu, Tomoyuki Morimae
+comments: Although the index q was proposed for mixed states, it is also applicable to pure states, on which we fix minor bugs (that will be reported in PRL as erratum). The conclusions of the paper remain unchanged. (4 pages, no figures.)
+journal: Phys. Rev. Lett. 95, 090401 (2005)
+subjects: Quantum Physics (quant-ph); Superconductivity (cond-mat.supr-con); Atomic Physics (physics.atom-ph)
+url: http://www.arxiv.org/abs/quant-ph/0504086
+abstract: 
+
+id: 1501.00576
+title: Separable quantizations of St?ckel systems
+authors: Maciej Blaszak, Krzysztof Marciniak, Ziemowit Domanski
+comments: We added the journal reference and also intorduced several minor amendmends
+journal: Annals of Physics 371 (2016) pp. 460-471
+subjects: Exactly Solvable and Integrable Systems (nlin.SI); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1501.00576
+abstract: 
+
+id: 1507.01600
+title: Accessible quantification of multiparticle entanglement
+authors: Marco Cianciaruso, Thomas R. Bromley, Gerardo Adesso
+comments: 21 pages, 3 figures, 5 tables; close to published version
+journal: Nature npj Quantum Information 2, 16030 (2016)
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1507.01600
+abstract: 
+
+id: 1508.04095
+title: Algorithmic Aspects of Optimal Channel Coding
+authors: Siddharth Barman, Omar Fawzi
+comments: v2: 16 pages. Added alternate proof of main result with random coding
+journal: 
+subjects: Information Theory (cs.IT); Data Structures and Algorithms (cs.DS); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1508.04095
+abstract: 
+
+id: 1512.07550
+title: Optimizing the Number of Gates in Quantum Search
+authors: Srinivasan Arunachalam, Ronald de Wolf
+comments: 11 pages LaTeX. Version 2: small improvements in the proofs
+journal: 
+subjects: Quantum Physics (quant-ph); Data Structures and Algorithms (cs.DS)
+url: http://www.arxiv.org/abs/1512.07550
+abstract: 
+
+id: 1601.01797
+title: The Riemann zeros as spectrum and the Riemann hypothesis
+authors: Germ¨¢n Sierra
+comments: 33 pages, 17 figures, new abstract, simplification of several sections, addition of references
+journal: 
+subjects: Mathematical Physics (math-ph); High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.01797
+abstract: 
+
+id: 1601.02569
+title: Vectors, Spinors and Galilean Frames
+authors: Brian O'Sullivan
+comments: Article 3 pages, Supplementary Calculations 13 pages + 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.02569
+abstract: 
+
+id: 1604.01300
+title: Bound states and entanglement generation in waveguide quantum electrodynamics
+authors: Paolo Facchi, M. S. Kim, Saverio Pascazio, Francesco V. Pepe, Domenico Pomarico, Tommaso Tufarelli
+comments: 11 pages, 4 figures
+journal: Physical Review A 94, 043839 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.01300
+abstract: 
+
+id: 1604.03304
+title: Quantum Random Number Generators
+authors: Miguel Herrero-Collantes, Juan Carlos Garcia-Escartin
+comments: Review paper on Quantum Random Number Generators. Second version. Errors corrected. Expanded sections on entropy estimation, randomness extraction and quantum randomness expansion and amplification. Comments welcome
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.03304
+abstract: 
+
+id: 1604.03378
+title: Non-Equilibrium Thermodynamics of Harmonically Trapped Bosons
+authors: Miguel ?ngel Garc¨ªa-March, Thom¨¢s Fogarty, Steve Campbell, Thomas Busch, Mauro Paternostro
+comments: Short supplementary section available in source files. Close to published version
+journal: New J. Phys. 18, 103035 (2016)
+subjects: Quantum Physics (quant-ph); Quantum Gases (cond-mat.quant-gas)
+url: http://www.arxiv.org/abs/1604.03378
+abstract: 
+
+id: 1604.05093
+title: Quantum entropy derived from first principles
+authors: Frank Hansen
+comments: Final version to be published
+journal: 
+subjects: Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.05093
+abstract: 
+
+id: 1604.06201
+title: Electron spin filter and polarizer in a standing light wave
+authors: Sven Ahrens
+comments: 11 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.06201
+abstract: 
+
+id: 1605.00221
+title: Signifying the nonlocality of NOON states using Einstein-Podolsky-Rosen steering inequalities
+authors: R.Y. Teh, L. Rosales-Z¨¢rate, B. Opanchuk, M. D. Reid
+comments: 16 pages (9 pages text and 7 pages Appendix) with 2 Figures
+journal: Phys. Rev. A 94, 042119 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.00221
+abstract: 
+
+id: 1606.06022
+title: Quantum optical feedback control for creating strong correlations in many-body systems
+authors: Gabriel Mazzucchi, Santiago F. Caballero-Benitez, Denis A. Ivanov, Igor B. Mekhov
+comments: 8 pages, 4 figures
+journal: Optica, Vol. 3, Issue 11, pp. 1213-1219 (2016)
+subjects: Atomic Physics (physics.atom-ph); Quantum Gases (cond-mat.quant-gas); Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1606.06022
+abstract: 
+
+id: 1606.08394
+title: Finite-key analysis for time-energy high-dimensional quantum key distribution
+authors: Murphy Yuezhen Niu, Feihu Xu, Fabian Furrer, Jeffrey H. Shapiro
+comments: 11 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1606.08394
+abstract: 
+
+id: 1607.03236
+title: Sequential measurements, disturbance and property testing
+authors: Aram W. Harrow, Cedric Yen-Yu Lin, Ashley Montanaro
+comments: 21 pages; v2: new author, alternative algorithm, improved results; v3: minor changes to presentation
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1607.03236
+abstract: 
+
+id: 1608.03485
+title: Entanglement and Nonlocality of 1D Macroscopic Systems
+authors: Zizhu Wang, Sukhwinder Singh, Miguel Navascues
+comments: Many improvements. Read the paper to find them all!
+journal: 
+subjects: Quantum Physics (quant-ph); Strongly Correlated Electrons (cond-mat.str-el)
+url: http://www.arxiv.org/abs/1608.03485
+abstract: 
+
+id: 1608.05510
+title: Hitting statistics from quantum jumps
+authors: A. Chia, T. Paterek, L. C. Kwek
+comments: Complete version with additional results, examples, and discussions
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05510
+abstract: 
+
+id: 1608.08274
+title: Unitary evolution of a pair of Unruh-DeWitt detectors calculated efficiently to an arbitrary perturbative order
+authors: Kamil Bradler
+comments: v2: Nonnegative solutions of a linear Diophantine system exactly counted in this https URL; Their estimate here (Lemma 4) fixed
+journal: 
+subjects: High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc); Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.08274
+abstract: 
+
+id: 1610.01124
+title: Critical exponent of quantum phase transitions driven by colored noise
+authors: D. Nagy, P. Domokos
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.01124
+abstract: 
+
+id: 1610.03882
+title: Minkowski Momentum Resulting from a Vacuum-Medium Mapping Procedure, and a Brief Review of Minkowski Momentum Experiments
+authors: Iver Brevik
+comments: 18 pages, no figures. Minor changes; a reference added
+journal: 
+subjects: Quantum Physics (quant-ph); Classical Physics (physics.class-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1610.03882
+abstract: 
+
+id: 1610.04925
+title: Canonical Quantization, Quasi-Hermiticity, Observables and the Construction of Complete Basis Sets
+authors: Donald J. Kouri, Mason Biamonte, Cameron L. Williams, Nikhil Pandya, Hagai S. Eisenberg
+comments: 21 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.04925
+abstract: 
+
+id: 1610.04966
+title: Creation and Measurement of Broadband Squeezed Vacuum from a Ring Optical Parametric Oscillator
+authors: Takahiro Serikawa, Jun-ichi Yoshikawa, Kenzo Makino, Akira Furusawa
+comments: 12 pages, 7 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.04966
+abstract: 
+

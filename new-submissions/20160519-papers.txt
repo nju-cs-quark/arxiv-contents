@@ -1,0 +1,333 @@
+id: 1605.05357
+title: Thermal and Quantum Phase Transitions in Atom-Field Systems: a Microcanonical Analysis
+authors: Miguel A. Bastarrachea-Magnani, Sergio Lerma-Hern¨¢ndez, Jorge G. Hirsch
+comments: 42 Pages, 10 Figures, 1 Table
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.05357
+abstract: The thermodynamical properties of a generalized Dicke model are calculated and related with the critical properties of its energy spectrum, namely the quantum phase transitions (QPT) and excited state quantum phase transitions (ESQPT). The thermal properties are calculated both in the canonical and the microcanonical ensembles. The latter deduction allows for an explicit description of the relation between thermal and energy spectrum properties. While in an isolated system the subspaces with different pseudo spin are disconnected, and the whole energy spectrum is accesible, in the thermal ensamble the situation is radically different. The multiplicity of the lowest energy states for each pseudo spin completely dominates the thermal behavior, making the set of degenerate states with the smallest pseudo spin at a given energy the only ones playing a role in the thermal properties, making the positive energy states thermally inaccesible. Their quantum phase transitions, from a normal to a superradiant phase, are closely associated with the thermal transition. The other critical phenomena, the ESQPTs occurring at excited energies, have no manifestation in the thermodynamics, although their effects could be seen in finite sizes corrections. A new superradiant phase is found, which only exists in the generalized model, and can be relevant in finite size systems.
+
+id: 1605.05370
+title: Training A Quantum Optimizer
+authors: D. Wecker, M. B. Hastings, M. Troyer
+comments: 10 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.05370
+abstract: We study a variant of the quantum approximate optimization algorithm [ E. Farhi, J. Goldstone, and S. Gutmann, arXiv:1411.4028] with slightly different parametrization and different objective: rather than looking for a state which approximately solves an optimization problem, our goal is to find a quantum algorithm that, given an instance of MAX-2-SAT, will produce a state with high overlap with the optimal state. Using a machine learning approach, we chose a "training set" of instances and optimized the parameters to produce large overlap for the training set. We then tested these optimized parameters on a larger instance set. As a training set, we used a subset of the hard instances studied by E. Crosson, E. Farhi, C. Yen-Yu Lin, H.-H. Lin, and P. Shor (CFLLS) [arXiv:1401.7320]. When tested on the full set, the parameters that we find produce significantly larger overlap than the optimized annealing times of CFLLS. Testing on other random instances from $20$ to $28$ bits continues to show improvement over annealing, with the improvement being most notable on the hardest instances. Further tests on instances of MAX-3-SAT also showed improvement on the hardest instances. This algorithm may be a possible application for near-term quantum computers with limited coherence times.
+
+id: 1605.05418
+title: Resonant Transmission in One-Dimensional Quantum Systems with Two Parity-Invariant Point Interactions
+authors: Kohkichi Konno, Tomoaki Nagasawa, Rohta Takahashi
+comments: 8 pages, 8 figures, submitted to Physics Letters A
+journal: 
+subjects: Quantum Physics (quant-ph); High Energy Physics - Theory (hep-th)
+url: http://www.arxiv.org/abs/1605.05418
+abstract: We discuss one-dimensional quantum systems with two parity-invariant point interactions within the framework of quantum mechanics. By investigating the conditions under which resonant transmission occurs, we show that an infinite number of resonant peaks appear only when (anti-)symmetric relations between the parameters which characterize the point interactions hold.
+
+id: 1605.05426
+title: Photon pair generation by intermodal spontaneous four wave mixing in birefringent, weakly guiding optical fibers
+authors: K. Garay-Palmett, D. Cruz-Delgado, F. Dominguez-Serna, E. Ortiz-Ricardo, J. Monroy-Ruz, H. Cruz Ramirez, R. Ramirez-Alarcon, A. B. U'Ren
+comments: 11 pages, 6 figures
+journal: Phys. Rev. A 93, 033810 (2016)
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1605.05426
+abstract: We present a theoretical and experimental study of the generation of photon pairs through the process of spontaneous four wave mixing (SFWM) in a few-mode, birefringent fiber. Under these conditions, multiple SFWM processes are in fact possible, each associated with a different combination of transverse modes for the four waves involved. We show that in the weakly guiding regime, for which the propagation modes may be well approximated by linearly polarized modes, the departure from circular symmetry due to the fiber birefringence translates into conservation rules which retain elements from azimuthal and rectangular symmetries: both OAM and parity must be conserved for a process to be viable. We have implemented a SFWM source based on a "bow-tie" birefringent fiber, and have measured for a collection of pump wavelengths the SFWM spectra of each of the signal and idler photons in coincidence with its partner photon. We have used this information, together with knowledge of the transverse modes into which the signal and idler photons are emitted, as input for a genetic algorithm which accomplishes two tasks: i) the identification of the particular SFWM processes which are present in the source, and ii) the characterization of the fiber used.
+
+id: 1605.05431
+title: Fiber-based photon-pair source capable of hybrid entanglement in frequency and transverse mode, controllably scalable to higher dimensions
+authors: D. Cruz-Delgado, R. Ramirez-Alarcon, E. Ortiz-Ricardo, J. Monroy-Ruz, F. Dominguez-Serna, H. Cruz-Ramirez, K. Garay-Palmett, A. B. U'Ren
+comments: 10 pages, 5 figures. Accepted to Scientific Reports
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.05431
+abstract: We have designed and implemented a photon-pair source, based on the spontaneous four wave mixing (SFWM) process in a few-mode fiber, in a geometry which permits multiple, simultaneous SFWM processes, each associated with a distinct combination of transverse modes for the four participating waves. In our source: i) each process is group-velocity-matched so that it is, by design, nearly-factorable, and ii) the spectral separation between neighboring processes is greater than the marginal spectral width of each process. Consequently, there is a direct correspondence between the joint amplitude of each process and each of the Schmidt mode pairs of the overall two-photon state. Our approach permits hybrid entanglement in discrete frequency and in transverse mode, whereby control of the number of supported fiber transverse modes allows scalability to higher dimensions while spectral filtering may be used for straightforward Schmidt mode discrimination.
+
+id: 1605.05445
+title: CV-MDI Quantum Key Distribution via Satellite
+authors: Nedasadat Hosseinidehaj, Robert Malaney
+comments: 7 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.05445
+abstract: In this work we analyze a measurement-device-independent (MDI) protocol to establish continuous-variable (CV) quantum key distribution (QKD) between two ground stations. We assume communication occurs between the ground stations via satellite over two independent atmospheric-fading channels dominated by turbulence-induced beam wander. In this MDI protocol the measurement device is the satellite itself, and the security of the protocol is analyzed through an equivalent entanglement-based swapping scheme. We quantify the positive impact the fading channels can have on the final quantum key rates, demonstrating how the protocol is able to generate a positive key rate even over high-loss atmospheric channels. This is somewhat counter-intuitive given that the same outcome is only possible in the low-loss regime for a measurement device centrally positioned in a fiber-optic channel. Our results show that useful space-based quantum key generation rates between two ground stations are possible even when the relay satellite is held by an adversary. The cost in key rate incurred by altering the status of the satellite from trustworthy to untrustworthy is presented.
+
+id: 1605.05446
+title: Joint remote preparation of an arbitrary four-qubit |\c{hi}>-type entangled state
+authors: Hao Fu, Gui-Bin Chen, Xiao-Wei Li, Peng-Cheng Ma, You-Bang Zhan
+comments: 6 pages, 61 conference
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.05446
+abstract: We present two schemes for joint remote preparation of an arbitrary four-qubit j\c{hi}i -type entangled state via three three- and (N+1)-qubit GHZ states as the quantum channel, respectively. In these schemes, two senders (or N senders) share the original state which they wish to help the receiver to remotely prepare. To complete the JRSP schemes, several novel sets of mutually orthogonal basis vectors are introduced. It is shown that, only if two senders (or N senders) collaborate with each other, and perform projective measurements under suitable measuring basis on their own qubits respectively, the receiver can reconstruct the original state by means of some appropriate unitary operations and suitable C-NOT gates. Compared with the previous schemes for the JRSP of four-qubit |\c{hi}>-type state, the advantages of the present schemes are that the total successful probability of JRSP can reach 1 and the entanglement resource can be reduced
+
+id: 1605.05449
+title: Holonomic quantum computation in the ultrastrong-coupling regime of circuit QED
+authors: Yimin Wang, Jiang Zhang, Chunfeng Wu, J. Q. You, G. Romero
+comments: 9 pages, 6 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Superconductivity (cond-mat.supr-con)
+url: http://www.arxiv.org/abs/1605.05449
+abstract: We present an experimentally feasible scheme to implement holonomic quantum computation in the ultrastrong-coupling regime of light-matter interaction. The large anharmonicity and the Z2 symmetry of the quantum Rabi model allow us to build an effective three-level {\Lambda}-structured artificial atom for quantum computation. The proposed physical implementation includes two gradiometric flux qubits and two microwave resonators where single-qubit gates are realized by a two-tone driving on one physical qubit, and a two-qubit gate is achieved with a time-dependent coupling between the field quadratures of both resonators. Our work paves the way for scalable holonomic quantum computation in ultrastrongly coupled systems.
+
+id: 1605.05470
+title: On the paper 'Role of potentials in the Aharonov-Bohm effect'
+authors: A M Stewart
+comments: 6 pages pdf
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.05470
+abstract: When the magnetic vector potential is expressed in terms of the magnetic field it, is found to be explicitly non-local in space. This gives support to the conclusions of Aharonov et al. in a recent comment, that the Aharonov-Bohm effect may be interpreted as being either due to a local gauge potential or else due to non-local gauge-invariant fields but not due to local gauge-invariant fields.
+
+id: 1605.05553
+title: Does the measurement take place when nobody observes it?
+authors: Shmuel Gurvitz
+comments: 9 pages, 8 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Biological Physics (physics.bio-ph); Chemical Physics (physics.chem-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1605.05553
+abstract: We consider {\em non-selective} continuous measurements of a particle tunneling to a reservoir of finite band-width ($\Lambda$). The particle is continuously monitored by frequent projective measurements ("quantum trajectory"), separated by a time-interval $\tau$. A simple analytical expression for the decay rate has been obtained. For Markovian reservoirs ($\Lambda\to\infty$), no effect of the measurements is found. Otherwise for a finite $\Lambda$, the decay rate always depends on the measurement time $\tau$. This result is compared with alternative calculations, with no intermediate measurements, but when the measurement device is included in the Schr\"odinger evolution. We found that the detector affects the system by the decoherence rate ($\Gamma_d$), related to the detector's signal. Although both treatments are different, the final results become very close for $\tau=2/\Gamma_d$. This $\tau$ corresponds to the minimal time for which the detector's signal can be distinguished by an "observer". This indicates a fundamental role of information in quantum motion and can be used for the extension of the quantum trajectory method for non-Markovian environments.
+
+id: 1605.05554
+title: Collective Strong Coupling with Homogeneous Rabi Frequencies using a 3D Lumped Element Microwave Resonator
+authors: Andreas Angerer, Thomas Astner, Daniel Wirtitsch, Hitoshi Sumiya, Shinobu Onoda, Junichi Isoya, Stefan Putz, Johannes Majer
+comments: 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.05554
+abstract: We design and implement 3D lumped element microwave cavities for the coherent and uniform coupling to electron spins hosted by nitrogen vacancy centers in diamond. Our design spatially focuses the magnetic field to a small mode volume. We achieve large homogeneous single spin coupling rates, with an enhancement of the single spin Rabi frequency of more than one order of magnitude compared to standard 3D cavities with a fundamental resonance at \SI{3}{GHz}. Finite element simulations confirm that the magnetic field component is homogeneous throughout the entire sample volume, with a RMS deviation of 1.54\%. With a sample containing $10^{17}$ nitrogen vacancy electron spins we achieve a collective coupling strength of $\Omega=\SI{12}{MHz}$, a cooperativity factor $C=27$ and clearly enter the strong coupling regime. This allows to interface a macroscopic spin ensemble with microwave circuits, and the homogeneous Rabi frequency paves the way to manipulate the full ensemble population in a coherent way.
+
+id: 1605.05562
+title: Backflash light characterization to prevent QKD zero-error hacking
+authors: A. Meda, I. P. Degiovanni, A. Tosi, Z. L. Yuan, G. Brida, M. Genovese
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.05562
+abstract: Single photon avalanche diodes (SPADs) are the most commercially diffused solution for single-photon counting in quantum key distribution (QKD) applications. However, the secondary photon emission, arising from the avalanche of charge carriers during a photon detection, may be exploited by an eavesdropper to gain information without forcing errors in the transmission key. In this paper, we characterise such backflash light in gated InGaAs/InP SPADs, and its spectral and temporal characterization for different detector models and different operating parameters. We qualitatively bound the maximum information leakage due to backflash light, and propose a solution.
+
+id: 1605.05593
+title: Interaction of a single mode field cavity with the 1D XY model: Energy spectrum
+authors: H. Tonchev, A. A. Donkov, H. Chamati
+comments: 6 pages, 4 figures, INERA Conference 2015: Light in Nanoscience and Nanotechnology (LNN 2015)
+journal: Journal of Physics: Conference Series 682 (2016) 012032
+subjects: Quantum Physics (quant-ph); Other Condensed Matter (cond-mat.other)
+url: http://www.arxiv.org/abs/1605.05593
+abstract: In this work we use the fundamental in quantum optics Jaynes-Cummings model to study the response of spin $\tfrac12$ chain to a single mode of a laser light falling on one of the spins, a focused interaction model between the light and the spin chain. For the spin-spin interaction along the chain we use the XY model. We report here the exact analytical results, obtained with the help of a computer algebra system, for the energy spectrum in this model for chains of up to 4 spins with nearest neighbors interactions, either for open or cyclic chain configurations. Varying the sign and magnitude of the spin exchange coupling relative to the light-spin interaction we have investigated both cases of ferromagnetic or antiferromagnetic spin chains.
+
+id: 1605.05598
+title: Adjacent vertices can be hard to find by quantum walks
+authors: Nikolajs Nahimovs, Raqueline A. M. Santos
+comments: 19 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.05598
+abstract: Quantum walks are quantum counterparts of classical random walks. They have been useful for designing quantum algorithms that outperform their classical versions for a variety of search problems. Most of the papers, however, consider a search space containing a single marked element only. We show that if the search space contains more than one marked element, their placement may drastically affect the performance of the search. More specifically, we study search by quantum walks on general graphs and show a wide class of configurations of marked vertices, for which search by quantum walk needs $\Omega(N)$ steps, that is, it has no speed-up over the classical exhaustive search. The demonstrated configurations occur for certain placements of two or more adjacent marked vertices. The analysis is done for the two-dimensional grid and hypercube, and then is generalized for any graph.
+
+id: 1605.05647
+title: Quantum Calderbank-Shor-Steane Stabilizer State Preparation by Classical Error-Correcting Codes
+authors: Ching-Yi Lai, Yi-Cong Zheng, Todd A. Brun
+comments: 10 pages, 6 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.05647
+abstract: Stabilizer states are extensively studied in quantum information theory for their structures based on the Pauli group. Calderbank-Shor-Steane (CSS) stabilizer states are of particularly importance in the application of fault-tolerant quantum computation (FTQC). However, how to efficiently prepare arbitrary CSS stabilizer states for general CSS stabilizer codes is still unknown. In this paper, we propose two protocols to distill CSS stabilizer states with Steane syndrome extraction by classical codes or quantum CSS codes. With the ability to produce high-quality ancillary states, FTQC schemes using Steane syndrome extraction or those based on teleportation become promising. These ancillary states are expensive and valuable. Along the same lines, we show that classical coding techniques can reduce ancilla consumption by using additional transversal controlled-NOT gates and classical computing power. In the scenario of fixed ancilla consumption rate, we can increase the frequency of quantum error correction and effectively lower the error rate.
+
+id: 1605.05664
+title: Observation of Optomechanical Quantum Correlations at Room Temperature
+authors: T. P. Purdy, K. E. Grutter, K. Srinivasan, J. M. Taylor
+comments: 13 pages, 7 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1605.05664
+abstract: By shining laser light through a nanomechanical beam, we measure the beam's thermally driven vibrations and perturb its motion with optical forces at a level dictated by the Heisenberg measurement-disturbance uncertainty relation. Such quantum backaction is typically difficult to observe at room temperature where the motion driven by optical quantum intensity fluctuations is many orders of magnitude smaller than the thermal motion. We demonstrate a cross-correlation technique to distinguish optically driven motion from thermally driven motion, observing this quantum backaction signature up to room temperature. While it is often difficult to absolutely calibrate optical detection, we use the scale of the quantum correlations, which is determined by fundamental constants, to gauge the size of thermal motion, demonstrating a path towards absolute thermometry with quantum mechanically calibrated ticks.
+
+id: 1605.05674
+title: Ro-Translational Cavity Cooling of Dielectric Rods and Disks
+authors: Benjamin A. Stickler, Stefan Nimmrichter, Lukas Martinetz, Stefan Kuhn, Markus Arndt, Klaus Hornberger
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.05674
+abstract: We study the interaction of dielectric rods and disks with the laser field of a high finesse cavity. The quantum master equation for the coupled particle-cavity dynamics, including Rayleigh scattering, is derived for particle sizes comparable to the laser wavelength. We demonstrate that such anisotropic nanoparticles can be captured from free flight at velocities higher than those required to capture dielectric spheres of the same volume, and that efficient ro-translational cavity cooling into the deep quantum regime is achievable.
+
+id: 1605.05709
+title: Performing Quantum Computing Experiments in the Cloud
+authors: Simon J. Devitt
+comments: 11 Pages, 18 Figures, Comments Welcome
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.05709
+abstract: Quantum computing technology has reached a second renaissance in the past five years. Increased interest from both the private and public sector combined with extraordinary theoretical and experimental progress has solidified this technology as a major advancement in the 21st century. As anticipated by many, the first realisation of quantum computing technology would occur over the cloud, with users logging onto dedicated hardware over the classical internet. Recently IBM has released the {\em Quantum Experience} which allows users to access a five qubit quantum processor. In this paper we take advantage of this online availability of actual quantum hardware and present four quantum information experiments that have never been demonstrated before. We utilise the IBM chip to realise protocols in Quantum Error Correction, Quantum Arithmetic, Quantum graph theory and Fault-tolerant quantum computation, by accessing the device remotely through the cloud. While the results are subject to significant noise, the correct results are returned from the chip. This demonstrates the power of experimental groups opening up their technology to a wider audience and will hopefully allow for the next stage development in quantum information technology.
+
+id: 1605.05424
+title: Interferometry with Photon-Subtracted Thermal Light
+authors: Seyed Mohammad Hashemi Rafsanjani, Mohammad Mirhosseini, Omar S. Magana-Loaiza, Bryan T. Gard, Richard Birrittella, B. E. Koltenbah, C. G. Parazzoli, Barbara A. Capron, Christopher C. Gerry, Jonathan P. Dowling, Robert W. Boyd
+comments: 
+journal: 
+subjects: Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.05424
+abstract: We propose and implement a quantum procedure for enhancing the sensitivity with which one can determine the phase shift experienced by a weak light beam possessing thermal statistics in passing through an interferometer. Our procedure entails subtracting exactly one (which can be generalized to m) photons from the light field exiting an interferometer containing a phase-shifting element in one of its arms. As a consequence of the process of photon subtraction, and somewhat surprisingly, the mean photon number and signal-to-noise ratio of the resulting light field are thereby increased, leading to enhanced interferometry. This method can be used to increase measurement sensitivity in a variety of practical applications, including that of forming the image of an object illuminated only by weak thermal light.
+
+id: 1605.05478
+title: Pancharatnam phase in non-separable states of light
+authors: Chithrabhanu Perumangatt, Salla Gangi Reddy, Nijil Lal, Aadhi A, Ali Anwar, R. P. Singh
+comments: 12 pages, 10 figures
+journal: 
+subjects: Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.05478
+abstract: We generate the non-separable state of polarization and orbital angular momentum (OAM) using a laser beam. The generated state undergoes a cyclic polarization evolution which introduces a Pancharatnam geometric phase to the polarization state and in turn a relative phase in the non-separable state. We experimentally study the violation of Bell - CHSH inequality for different Pancharatnam phases introduced by various cyclic polarization evolutions with linear and circular states as measurement bases. While measuring in linear bases, the Bell-CHSH parameter oscillates with Pancharatnam phase. One can overcome this dependence by introducing a relative phase in one of the projecting state. However for measurement in circular bases, the Pancharatnam phase does not affect the Bell-CHSH violation.
+
+id: 1605.05608
+title: Solvable Model of a Mixture of Bose-Einstein Condensates
+authors: Shachar Klaiman, Alexej I. Streltsov, Ofir E. Alon
+comments: 26 pages
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.05608
+abstract: A mixture of two kinds of identical bosons held in a harmonic potential and interacting by harmonic particle-particle interactions is discussed. This is an exactly-solvable model of a mixture of two trapped Bose-Einstein condensates which allows us to examine analytically various properties. Generalizing the treatment in [Cohen and Lee, J. Math. Phys. {\bf 26}, 3105 (1985)], closed form expressions for the ground-state energy, wave-function, and lowest-order densities are obtained and analyzed for attractive and repulsive intra-species and inter-species particle-particle interactions. A particular mean-field solution of the corresponding Gross-Pitaevskii theory is also found analytically. This allows us to compare properties of the mixture at the exact, many-body and mean-field levels, both for finite systems and at the limit of an infinite number of particles. We hereby prove that the exact ground-state energy and lowest-order intra-species and inter-species densities converge at the infinite-particle limit (when the products of the number of particles times the intra-species and inter-species interaction strengths are held fixed) to the results of the Gross-Pitaevskii theory for the mixture. Finally and on the other end, the separability of the mixture's center-of-mass coordinate is used to show that the Gross-Pitaevskii theory for mixtures is unable to describe the variance of many-particle operators in the mixture, even in the infinite-particle limit. Our analytical results show that many-body correlations exist in a mixture of Bose-Einstein condensates made of any number of particles. Implications are briefly discussed.
+
+id: 1605.05651
+title: Effective Field Theory for Rydberg Polaritons
+authors: M. J. Gullans, Y. Wang, J. D. Thompson, Q.-Y. Liang, V. Vuletic, M. D. Lukin, A. V. Gorshkov
+comments: 9 pages, 5 figures
+journal: 
+subjects: Atomic Physics (physics.atom-ph); Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.05651
+abstract: We study non-perturbative effects in N-body scattering of Rydberg polaritons using effective field theory (EFT). We develop an EFT in one dimension and show how a suitably long medium can be used to prepare shallow N-body bound states. We then derive the effective N-body interaction potential for Rydberg polaritons and the associated N-body contact force that arises in the EFT. We use the contact force to find the leading order corrections to the binding energy of the N-body bound states and determine the photon number at which the EFT description breaks down. We find good agreement throughout between the predictions of EFT and numerical simulations of the exact two and three photon wavefunction transmission.
+
+id: 1407.6616
+title: Second order asymptotics of visible mixed quantum source coding via universal codes
+authors: Felix Leditzky, Nilanjana Datta
+comments: 18 pages, 1 figure; v2: slight changes in notation; v3: corrected an error in previous version; v4: new title, introduced universal codes achieving second order rate, paper greatly shortened and streamlined; v5: accepted for publication in IEEE Transactions on Information Theory, title slightly changed, main result is now for general one-parameter family of memoryless sources
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1407.6616
+abstract: 
+
+id: 1410.6072
+title: Nuclear Norm of Higher-Order Tensors
+authors: Shmuel Friedland, Lek-Heng Lim
+comments: 23 pages
+journal: 
+subjects: Computational Complexity (cs.CC); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1410.6072
+abstract: 
+
+id: 1504.07998
+title: On the quadratic invariant of binary sextics
+authors: Maciej Dunajski, Roger Penrose
+comments: Contains a new section on the twistor theory of G_2 structures. Final version. To appear in the Mathematical Proceedings of the Cambridge Philosophical Society
+journal: 
+subjects: Differential Geometry (math.DG); High Energy Physics - Theory (hep-th); Algebraic Geometry (math.AG); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1504.07998
+abstract: 
+
+id: 1510.07906
+title: A plasmonic nanoantenna based triggered single photon source
+authors: Jako Straubel, Robert Filter, Carsten Rockstuhl, Karolina S?owik
+comments: 13 pages, 7 figures
+journal: Physical Review B 93, 195412 (2016)
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1510.07906
+abstract: 
+
+id: 1511.05617
+title: Two-photon interference from a bright single photon source at telecom wavelengths
+authors: Je-Hyung Kim, Tao Cai, Christopher J. K. Richardson, Richard P. Leavitt, Edo Waks
+comments: 29 Pages in total, including 11 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1511.05617
+abstract: 
+
+id: 1512.03436
+title: A hybrid-systems approach to spin squeezing using a highly dissipative ancillary system
+authors: Shane Dooley, Emi Yukawa, Yuichiro Matsuzaki, George C. Knee, William J. Munro, Kae Nemoto
+comments: 14 + 2 pages, 9 figures; close to published version
+journal: New J. Phys. 18, 053011 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.03436
+abstract: 
+
+id: 1601.05262
+title: Quantum-Classical Correspondence Principle for Work Distributions in a Chaotic System
+authors: Long Zhu, Zongping Gong, Biao Wu, H.T.Quan
+comments: 
+journal: 
+subjects: Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.05262
+abstract: 
+
+id: 1602.01135
+title: Super-Quantum, Non-Signaling Correlations Cannot Exist
+authors: Pierre Uzan
+comments: 15 pages, 1 figure
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.01135
+abstract: 
+
+id: 1602.04804
+title: Classification of topological phases in periodically driven interacting systems
+authors: Dominic V. Else, Chetan Nayak
+comments: 3 pages + appendices, comments welcome. v3: final published version, with some arguments explained in more depth. v2: updated abstract, added reference
+journal: Phys. Rev. B 93, 201103 (2016)
+subjects: Strongly Correlated Electrons (cond-mat.str-el); Disordered Systems and Neural Networks (cond-mat.dis-nn); Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.04804
+abstract: 
+
+id: 1603.07982
+title: Dual Field Theories of Quantum Computation
+authors: Vitaly Vanchurin
+comments: 19 pages, 1 figure
+journal: 
+subjects: High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1603.07982
+abstract: 
+
+id: 1604.02387
+title: Comparing classical and quantum equilibration
+authors: Artur S.L. Malabarba, Terry Farrelly, Anthony J. Short
+comments: 6 pages main text, 1 page appendix, updates: (v2) typesetting of references fixed, (v3) references added
+journal: 
+subjects: Quantum Physics (quant-ph); Classical Physics (physics.class-ph)
+url: http://www.arxiv.org/abs/1604.02387
+abstract: 
+
+id: 1604.03089
+title: Reversibility of stochastic maps via quantum divergences
+authors: Fumio Hiai, Milan Mosonyi
+comments: 65 pages. v2: Some references added, minor corrections, considerably expanded section on measured f-divergences
+journal: 
+subjects: Mathematical Physics (math-ph); Information Theory (cs.IT); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.03089
+abstract: 
+
+id: 1605.00438
+title: Effects of remote randomness on information causality
+authors: Satoshi Ishizaka
+comments: 8 pages, 4 figures. Some insufficient descriptions were corrected
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.00438
+abstract: 
+
+id: 1605.02339
+title: Experimental creation of superposition of unknown photonic quantum states
+authors: Xiao-Min Hu, Meng-Jun Hu, Jiang-Shan Chen, Bi-Heng Liu, Yun-Feng Huang, Chuan-Feng Li, Guang-Can Guo, Yong-Sheng Zhang
+comments: 4 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.02339
+abstract: 
+
+id: 1605.05259
+title: The resolvent algebra for oscillating lattice systems: Dynamics, ground and equilibrium states
+authors: Detlev Buchholz
+comments: 31 pages, no figures; v2: typo corrected
+journal: 
+subjects: Mathematical Physics (math-ph); Statistical Mechanics (cond-mat.stat-mech); Operator Algebras (math.OA); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.05259
+abstract: 
+

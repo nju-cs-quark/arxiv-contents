@@ -1,0 +1,351 @@
+id: 1609.06711
+title: Quantum and random walks as universal generators of probability distributions
+authors: Miquel Montero
+comments: 5 pages, 1 figure
+journal: 
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1609.06711
+abstract: Quantum walks and random walks bear similarities and divergences. One of the most remarkable disparities affects the probability of finding the particle at a given location: typically, almost a flat function in the first case and a bell-shaped one in the second case. Here I show how one can impose in practice any desired probabilistic behavior on both systems by the appropriate choice of time- and site-dependent coins. This implies, in particular, that one can devise quantum walks that show diffusive spreading without loosing coherence, as well as random walks that exhibit the characteristic fast propagation of a quantum particle driven by a Hadamard coin.
+
+id: 1609.06796
+title: Dispersive Jaynes-Cummings Hamiltonian describing a two-level atom interacting with a two-level single mode field
+authors: C.J.S. Ferreira, C. Valverde, B. Baseia
+comments: 5 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1609.06796
+abstract: We investigate the time evolution of statistical properties of a single mode radiation field after its interaction with a two-level atom. The entire system is described by a dispersive Jaynes-Cummings Hamiltonian assuming the atomic state evolving from an initial superposition of its excited and ground states, $\vert e\rangle +\vert g\rangle ,$ and the field evolving from an initial superposition of two excited levels, $\vert n_{1}\rangle+ \vert n_{2}\rangle$. It is found that the field evolution is periodic, the period depending on the ratio $n_{2}/n_{1}.$ The energy excitation oscillates between these two states and the statististics can be either sub- or super-Poissonian, depending on the values $n_{1},$ $n_{2}$.
+
+id: 1609.06798
+title: Environment-Protected Solid State Based Distributed Charge Qubit
+authors: Amin Tayebi, Tanya Nicole Hoatson, Joie Wang, Vladimir Zelevinsky
+comments: 12 pages, 13 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1609.06798
+abstract: A novel solid state based charge qubit is presented. The system consists of a one-dimensional wire with a pair of qubits embedded at its center. It is shown that the system supports collective states localized in the left and right sides of the wire and therefore, as a whole, performs as a single qubit. The couplings between the ground and excited states of the two central qubits are inversely proportional making them fully asynchronized and allowing for coherent manipulation and gate operations. Initialization and measurement devices, such as leads and charge detectors, connected to the edges of the wire are modeled by a continuum of energy states. The coupling to the continuum is discussed using the effective non-Hermitian Hamiltonian. At weak continuum coupling, all internal states uniformly acquire small decay widths. This changes dramatically as the coupling strength increases: the width distribution undergoes a sharp restructuring and is no longer uniformly divided among the eigenstates. Two broad resonances localized at the ends of the wire are formed. These superradiant states (analogous to Dicke states in quantum optics), effectively protect the remaining internal states from decaying into the continuum and hence increase the lifetime of the qubit. Environmental noise is introduced by considering random Gaussian fluctuations of electronic energies. The interplay between decoherence and superradiance is studied by solving the stochastic Liouville equation. In addition to increasing the lifetime, the emergence of the superradiant states increases the qubit coherence.
+
+id: 1609.06799
+title: Simulating single photons with realistic photon sources
+authors: Xiao Yuan, Zhen Zhang, Norbert Lutkenhaus, Xiongfeng Ma
+comments: 18 pages, 8 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1609.06799
+abstract: Quantum information processing provides remarkable advantages over its classical counterpart. Quantum optical systems are proved to be sufficient for realizing general quantum tasks, which however often rely on single photon sources. In practice, imperfect single photon sources, such as weak coherent state source, are used instead, which will inevitably limit the power in demonstrating quantum effects. For instance, with imperfect photon sources, the key rate of the BB84 quantum key distribution protocol will be very low, which fortunately can be resolved by utilizing the decoy state method. As a generalization, we investigate an efficient way to simulate single photons with imperfect ones to an arbitrary desired accuracy when the number of photonic inputs is small. Based on this simulator, we can thus replace the tasks that involve only a few single photon inputs with the ones that only make use of imperfect photon sources. In addition, our method also provides a quantum simulator to quantum computation based on quantum optics. In the main context, we take phase randomized coherent state as an example for analysis. A general photon source applies similarly and may provide some further advantages for certain tasks.
+
+id: 1609.06820
+title: Entanglement dynamics for uniformly accelerated two-level atoms coupled with electromagnetic vacuum fluctuations
+authors: Yiquan Yang, Jiawei Hu, Hongwei Yu
+comments: 22 pages, 12 figures, to appear in PRA
+journal: 
+subjects: Quantum Physics (quant-ph); General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+url: http://www.arxiv.org/abs/1609.06820
+abstract: We investigate the entanglement dynamics of two uniformly accelerated atoms with the same acceleration perpendicular to their separation. The two-atom system is treated as an open system coupled with fluctuating electromagnetic fields in the Minkowski vacuum, and in the Born-Markov approximation the master equation that describes the completely positive time evolution of the two-atom system is derived. In particular, we investigate the phenomena of entanglement degradation, generation, revival and enhancement. As opposed to the scalar-field case, the entanglement dynamics is crucially dependent on the polarization directions of the atoms. For the two-atom system with certain acceleration and separation, the polarization directions of the atoms may determine whether entanglement generation, revival or enhancement happens, while for entanglement degradation, they affect the decay rate of entanglement. A comparison between the entanglement evolution of accelerated atoms and that of static ones immersed in a thermal bath at the Unruh temperature shows that they are the same only when the acceleration is extremely small.
+
+id: 1609.06835
+title: Experimental time-optimal universal control of spin qubits in solids
+authors: Jianpei Geng, Yang Wu, Xiaoting Wang, Kebiao Xu, Fazhan Shi, Yijin Xie, Xing Rong, Jiangfeng Du
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1609.06835
+abstract: Quantum control of systems plays important roles in modern science and technology. The ultimate goal of quantum control is to achieve high fidelity universal control in the time-optimal way. Although high fidelity universal control has been reported in various quantum systems, experimental implementation of time-optimal universal control remains elusive. Here we report the experimental realization of time-optimal universal control of spin qubits in diamond. By generalizing a recent method for solving quantum brachistochrone equations [X. Wang, et al., Phys. Rev. Lett. 114, 170501 (2015)], we obtained accurate minimum time protocols for multiple qubits with fixed qubits' interactions and constrained control field. Single- and two-qubit time-optimal gates are experimentally implemented with fidelities of 99% obtained via quantum process tomography. Our work provides a time-optimal route to achieve accurate quantum control, and unlocks new capabilities for emerging field of time-optimal control in general quantum systems.
+
+id: 1609.06872
+title: Transformation of the frequency-modulated continuous-wave field into a train of short pulses by resonant filters
+authors: R. N. Shakhmuratov
+comments: 32 pages, 11 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1609.06872
+abstract: The resonant filtering method transforming frequency modulated radiation field into a train of short pulses is proposed to apply in optical domain. Effective frequency modulation can be achieved by electro-optic modulator or by resonant frequency modulation of the filter with a narrow absorption line. Due to frequency modulation narrow-spectrum CW radiation field is seen by the resonant filter as a comb of equidistant spectral components separated by the modulation frequency. Tuning narrow-bandwidth filter in resonance with $n$-th spectral component of the comb transforms the radiation field into bunches of pulses with $n$ pulses in each bunch. The transformation is explained by the interference of the coherently scattered resonant component of the field with the whole comb. Constructive interference results in formation of pulses, while destructive interference is seen as dark windows between pulses. It is found that the optimal thickness of the resonant filter is several orders of magnitude smaller than the necessary thickness of the dispersive filters used before in optical domain to produce short pulses from the frequency modulated field.
+
+id: 1609.06884
+title: Focusing characteristics of a 4$¦Ð$ parabolic mirror light-matter interface
+authors: Lucas Alber, Martin Fischer, Marianne Bader, Klaus Mantel, Markus Sondermann, Gerd Leuchs
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1609.06884
+abstract: Focusing with a 4$\pi$ parabolic mirror allows for concentrating light from nearly the complete solid angle. So far, this idea could not be exploited to enable diffraction limited focusing from more than half solid angle. We present the focusing properties of a 4$\pi$ parabolic mirror experimentally characterized with a single $^{174}$Yb$^{+}$ ion as a mobile point scatterer. The ion is trapped in a vacuum environment with a movable high optical access Paul trap. We demonstrate an effective focal spot size of 209 nm in lateral and 551 nm in axial direction. Such tight focusing allows us to build an efficient light-matter interface. Our findings agree with numerical simulations incorporating a finite ion temperature and interferometrically measured wavefront aberrations induced by the parabolic mirror. We point at further technological improvements and discuss the general scope of applications of a 4$\pi$ parabolic mirror.
+
+id: 1609.06931
+title: Resonance interaction energy between two accelerated identical atoms in a coaccelerated frame and the Unruh effect
+authors: Wenting Zhou, Roberto Passante, Lucia Rizzuto
+comments: 9 pages
+journal: 
+subjects: Quantum Physics (quant-ph); General Relativity and Quantum Cosmology (gr-qc)
+url: http://www.arxiv.org/abs/1609.06931
+abstract: We investigate the resonance interaction energy between two uniformly accelerated identical atoms, interacting with the scalar field or the electromagnetic field in the vacuum state, in the reference frame coaccelerating with the atoms. We assume that one atom is excited and the other in the ground state, and that they are prepared in their correlated symmetric or antisymmetric state. Using perturbation theory, we separate, at the second order in the atom-field coupling, the contributions of vacuum fluctuations and radiation reaction field to the energy shift of the interacting system. We show that only the radiation reaction term contributes to the resonance interaction between the two atoms, while Unruh thermal fluctuations, related to the vacuum fluctuations contribution, do not affect the resonance interatomic interaction. We also show that the resonance interaction between two uniformly accelerated atoms, recently investigated in the comoving (locally inertial) frame, can be recovered in the coaccelerated frame, without the additional assumption of the Fulling-Davies-Unruh temperature for the quantum fields (as necessary for the Lamb-shift, for example). This indicates, in the case considered, the equivalence between the coaccelerated frame and the locally inertial frame.
+
+id: 1609.06934
+title: Surface-modified Wannier-Stark states in a 1D optical lattice
+authors: A. Maury, M. Donaire, M.-P. Gorza, A. Lambrecht, R. Gu¨¦rout
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Quantum Gases (cond-mat.quant-gas); Atomic Physics (physics.atom-ph)
+url: http://www.arxiv.org/abs/1609.06934
+abstract: We study the energy spectrum of atoms trapped in a vertical 1D optical lattice in close proximity to a reflective surface. We propose an effective model to describe the interaction between the atoms and the surface at any distance. Our model includes the long-range Casimir-Polder potential together with a short-range Lennard-Jones potential, which are considered non-perturbatively with respect to the optical lattice potential. We find an intricate energy spectrum which contains a pair of loosely-bound states localized close to the surface in addition to a surface-modified Wannier-Stark ladder at long distances. Atomic interferometry involving those loosely-bound atom-surface states is proposed to probe the adsorption dynamics of atoms on mirrors.
+
+id: 1609.06981
+title: Fundamental energy cost for quantum measurement
+authors: Kais Abdelkhalek, Yoshifumi Nakata, David Reeb
+comments: 5+16 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech)
+url: http://www.arxiv.org/abs/1609.06981
+abstract: Measurements and feedback are essential in the control of any device operating at the quantum scale and exploiting the features of quantum physics. As the number of quantum components grows, it becomes imperative to consider the energetic expense of such elementary operations. Here we determine the fundamental energy requirements for physical implementations of any general quantum measurement. We show that the exact costs for projective measurements depend on the outcome probabilities only, causing more severe constraints on error correction and control protocols than previously known. In contrast, energy can be extracted from certain measurement processes even if their outcome is recorded. Our results constitute fundamental physical limitations against which to benchmark implementations of future quantum devices as they grow in complexity.
+
+id: 1609.06992
+title: The Shortcomings of Formal Series Calculus in Deformation Quantisation
+authors: Jaromir Tosiek
+comments: 20 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1609.06992
+abstract: Foundations of the $*$ -- calculus in deformation quantisation are discussed. Continuous linear functionals over different algebras used in classical and quantum physics are introduced. Problems with defining quantum states over the set of formal series are analysed. An alternative approach based on functions and generalised functions parametrised by the deformation parameter is proposed.
+
+id: 1609.06994
+title: Deconstruction and conditional erasure of quantum correlations
+authors: Mario Berta, Fernando G. S. L. Brandao, Christian Majenz, Mark M. Wilde
+comments: 20 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Information Theory (cs.IT)
+url: http://www.arxiv.org/abs/1609.06994
+abstract: We define the deconstruction cost of a tripartite quantum state on systems $ABE$ as the minimum rate of noise needed to apply to the $AE$ systems, such that there is negligible disturbance to the marginal state on the $BE$ systems and the system $A$ of the resulting state is locally recoverable from the $E$ system alone. We refer to such actions as deconstruction operations and protocols implementing them as state deconstruction protocols. State deconstruction generalizes Landauer erasure of a single-party quantum state as well the erasure of correlations of a two-party quantum state. We find that the deconstruction cost of a tripartite quantum state on systems $ABE$ is equal to its conditional quantum mutual information (CQMI) $I(A;B|E)$, thus giving the CQMI an operational interpretation in terms of a state deconstruction protocol. We also define a related task called conditional erasure, in which the goal is to apply noise to systems $AE$ in order to decouple system $A$ from systems $BE$, while causing negligible disturbance to the marginal state of systems $BE$. We find that the optimal rate of noise for conditional erasure is also equal to the CQMI $I(A;B|E)$. State deconstruction and conditional erasure lead to operational interpretations of the quantum discord and squashed entanglement, which are quantum correlation measures based on the CQMI. We find that the quantum discord is equal to the cost of simulating einselection, the process by which a quantum system interacts with an environment, resulting in selective loss of information in the system. The squashed entanglement is equal to half the minimum rate of noise needed for deconstruction/conditional erasure if Alice has available the best possible system $E$ to help in the deconstruction/conditional erasure task.
+
+id: 1609.07018
+title: Strong-field ionization via high-order Coulomb corrected strong-field approximation
+authors: Michael Klaiber, Jiri Danek, Enderalp Yakaboylu, Karen Z. Hatsagortsyan, Christoph H. Keitel
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Atomic Physics (physics.atom-ph)
+url: http://www.arxiv.org/abs/1609.07018
+abstract: Signatures of the Coulomb corrections in the photoelectron momentum distribution during laser-induced ionization of atoms or ions in tunneling and multiphoton regimes are investigated analytically in the case of an one-dimensional problem. High-order Coulomb corrected strong-field approximation is applied, where the exact continuum state in the S-matrix is approximated by the eikonal Coulomb-Volkov state including the second-order corrections to the eikonal. Although, without high-order corrections our theory coincides with the known analytical R-matrix (ARM) theory, we propose a simplified procedure for the matrix element derivation. Rather than matching the eikonal Coulomb-Volkov wave function with the bound state as in the ARM-theory to remove the Coulomb singularity, we calculate the matrix element via the saddle-point integration method as by time as well as by coordinate, and in this way avoiding the Coulomb singularity. The momentum shift in the photoelectron momentum distribution with respect to the ARM-theory due to high-order corrections is analyzed for tunneling and multiphoton regimes. The relation of the quantum corrections to the tunneling delay time is discussed
+
+id: 1609.07021
+title: Efficient unitary designs with nearly time-independent Hamiltonian dynamics
+authors: Yoshifumi Nakata, Christoph Hirche, Masato Koashi, Andreas Winter
+comments: 25 pages, 1 figure, and 1 table
+journal: 
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech); High Energy Physics - Theory (hep-th)
+url: http://www.arxiv.org/abs/1609.07021
+abstract: We provide new constructions of unitary $t$-designs for general $t$ on one qudit and $N$ qubits, and propose a design Hamiltonian, a random Hamiltonian of which dynamics always forms a unitary design after a threshold time, as a basic framework to investigate randomising time evolution in quantum many-body systems. The new constructions are based on recently proposed schemes of repeating random unitaires diagonal in mutually unbiased bases. We first show that, if a pair of the bases satisfies a certain condition, the process on one qudit approximately forms a unitary $t$-design after $O(t)$ repetitions. We then construct quantum circuits on $N$ qubits that achieve unitary $t$-designs for $t = o(N^{1/2})$ using $O(t N^2)$ gates, improving the previous result using $O(t^{10}N^2)$ gates in terms of $t$. Based on these results, we present a design Hamiltonian with periodically changing two-local spin-glass-type interactions, leading to fast and relatively natural realisations of unitary designs in complex many-body systems.
+
+id: 1609.07044
+title: Adaptation of the Alicki-Fannes-Winter method for the set of states with bounded energy and its use
+authors: M.E. Shirokov
+comments: 22 pages, preliminary version, any comments are welcome
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1609.07044
+abstract: We describe a modification of the Alicki-Fannes-Winter method (used for proving uniform continuity of functions on the set of quantum states). It allows to show uniform continuity on the set of states with bounded energy of any approximately affine function having limited growth with increasing energy. Some applications in quantum information theory are considered. In particular, the uniform finite-dimensional approximation theorem for the Holevo capacity of energy constrained channels is proved.
+
+id: 1609.07057
+title: Multiplexing Superconducting Qubit Circuit for Single Microwave Photon Generation
+authors: R E George, J Senior, O-P Saira, S E de Graaf, T Lindstrom, J P Pekola, Yu A Pashkin
+comments: 16 pages, 8 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1609.07057
+abstract: We report on a device that integrates eight superconducting transmon qubits in lambda/4 superconducting coplanar waveguide resonators fed from a common feedline. Using this multiplexing architecture, each resonator and qubit can be addressed individually thus reducing the required hardware resources and allowing their individual characterisation by spectroscopic methods. The measured device parameters agree with the designed values and the resonators and qubits exhibit excellent coherence properties and strong coupling, with the qubit relaxation rate dominated by the Purcell effect when brought in resonance with the resonator. Our analysis shows that the circuit is suitable for generation of single microwave photons on demand with an efficiency exceeding 80%.
+
+id: 1609.07064
+title: Quantum key distribution by phase flipping of coherent states of light
+authors: G. A. Barbosa, J. van de Graaf, P. Mateus, N. Paunkovi?
+comments: 8 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1609.07064
+abstract: In this paper we present quantum key distribution protocol that, instead of single qubits, uses coherent states of light $|\alpha\rangle$ to encode bit values of a randomly generated key. Given the reference value $\alpha\in\mathbb C$, and a string of phase rotations each randomly taken from a set of $2M$ equidistant phases, Alice prepares a quantum state given by a product of coherent states of light, such that a complex phase of each pulse is rotated by the corresponding phase rotation. The encoding of $i$-th bit of the key $r=r_1 \dots r_\ell$ is done by further performing phase rotation $r_i \pi$ (with $r_i = 0,1$) on the $i$-th coherent state pulse. In order to protect the protocol against the man-in-the-middle and the "collective attack", we introduce two types of verification procedures, and analyse the protocol's security using the Holevo bound.
+
+id: 1609.07069
+title: Origin of chaos in 3-d Bohmian trajectories
+authors: Athanasios C. Tzemos, George Contopoulos, Christos Efthymiopoulos
+comments: 7 pages, 8 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1609.07069
+abstract: We study the 3-d Bohmian trajectories of a quantum system of three harmonic oscillators. We focus on the mechanism responsible for the generation of chaotic trajectories. We demonstrate the existence of a 3-d analogue of the mechanism found in earlier studies of 2-d systems, based on moving 2-d `nodal point - X-point complexes'. In the 3-d case, we observe a foliation of nodal point - X-point complexes, forming a `3-d structure of nodal and X-points'. Chaos is generated when the Bohmian trajectories are scattered at one or more close encounters with such a structure.
+
+id: 1609.07097
+title: Non-linear transport in an out-of-equilibrium single-site Bose Hubbard model: scaling, rectification and time dynamics
+authors: Archak Purkayastha, Abhishek Dhar, Manas Kulkarni
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Statistical Mechanics (cond-mat.stat-mech)
+url: http://www.arxiv.org/abs/1609.07097
+abstract: Recent experiments in hybrid-quantum systems facilitate the potential realization of one of the most fundamental interacting Hamiltonian-Reservoir system, namely, the single-site Bose-Hubbard model coupled to two reservoirs at different temperatures. Using Redfield equations in Born-Markov approximation, we compute non-equilibrium average particle number, energy and currents beyond linear response regime, both time-dynamics and steady state and investigate its dependence on various tunable parameters analytically. We find interesting scaling laws in high temperature regimes that are independent of choice of bath spectral functions. We also demonstrate that the system shows very interesting particle and energy current rectification properties which can be controlled via the relative strength of interaction and temperatures, as well as via the degree of asymmetry in system-bath coupling. Specifically, we find inversion of direction of energy rectification as a function of the relative strength of the interaction strength and the temperatures. We also show that, in the limit of low-temperature and high interaction strength our results are consistent with the non-equilibrium spin-Boson model. Our results are experimentally relevant not only to hybrid quantum systems, but also in other areas such as molecular junctions.
+
+id: 1609.07117
+title: Quantum annealing with a network of all-to-all connected, two-photon driven Kerr nonlinear oscillators
+authors: Shruti Puri, Christian Kraglund Andersen, Arne L. Grimsmo, Alexandre Blais
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1609.07117
+abstract: Quantum annealing aims to solve combinatorial optimization problems mapped on to Ising interactions between quantum spins. A critical factor that limits the success of a quantum annealer is its sensitivity to noise, and intensive research is consequently focussed towards developing noise-resilient annealers. Here we propose a new paradigm for quantum annealing with a scalable network of all-to-all connected, two-photon driven Kerr-nonlinear resonators. Each of these resonators encode an Ising spin in a robust degenerate subspace formed by two coherent states of opposite phases. The fully-connected optimization problem is mapped onto local fields driving the resonators, which are themselves connected by local four-body interactions. We describe an adiabatic annealing protocol in this system and analyze its performance in the presence of photon loss. Numerical simulations indicate substantial resilience to this noise channel, making it a promising platform for implementing a large scale quantum Ising machine. Finally, we propose a realistic implementation of this scheme in circuit QED.
+
+id: 1609.06935
+title: Quantum Neural Machine Learning - Backpropagation and Dynamics
+authors: Carlos Pedro Gon?alves
+comments: 
+journal: 
+subjects: Neural and Evolutionary Computing (cs.NE); Disordered Systems and Neural Networks (cond-mat.dis-nn); Adaptation and Self-Organizing Systems (nlin.AO); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1609.06935
+abstract: The current work addresses quantum machine learning in the context of Quantum Artificial Neural Networks such that the networks' processing is divided in two stages: the learning stage, where the network converges to a specific quantum circuit, and the backpropagation stage where the network effectively works as a self-programing quantum computing system that selects the quantum circuits to solve computing problems. The results are extended to general architectures including recurrent networks that interact with an environment, coupling with it in the neural links' activation order, and self-organizing in a dynamical regime that intermixes patterns of dynamical stochasticity and persistent quasiperiodic dynamics, making emerge a form of noise resilient dynamical record.
+
+id: 1609.06939
+title: Phase diagram of the off-diagonal Aubry-Andr¨¦ model
+authors: Tong Liu, Pei Wang, Gao Xianlong
+comments: 5 pages, 5 figures
+journal: 
+subjects: Disordered Systems and Neural Networks (cond-mat.dis-nn); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1609.06939
+abstract: We study a one-dimensional quasiperiodic system described by the off-diagonal Aubry-Andr\'{e} model and investigate its phase diagram by using the symmetry and the multifractal analysis. It was shown in a recent work ({\it Phys. Rev. B} {\bf 93}, 205441 (2016)) that its phase diagram was divided into three regions, dubbed the extended, the topologically-nontrivial localized and the topologically-trivial localized phases, respectively. Out of our expectation, we find an additional region of the extended phase which can be mapped into the original one by a symmetry transformation. More unexpectedly, in both "localized" phases, most of the eigenfunctions are neither localized nor extended. Instead, they display critical features, that is, the minimum of the singularity spectrum is in a range $0<\gamma_{min}<1$ instead of $0$ for the localized state or $1$ for the extended state. Thus, a mixed phase is found with a mixture of localized and critical eigenfunctions.
+
+id: 1609.06983
+title: On the local equivalence between the canonical and the microcanonical distributions for quantum spin systems
+authors: Hal Tasaki
+comments: 15 pages
+journal: 
+subjects: Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1609.06983
+abstract: We study a quantum spin system on the $d$-dimensional hypercubic lattice $\Lambda$ with $N$ sites with translation invariant short-ranged Hamiltonian under periodic boundary conditions. For this model, we consider both the canonical ensemble with inverse temperature $\beta_0$ and the microcanonical ensemble with the corresponding energy $U_N(\beta_0)$. Take an arbitrary self-adjoint operator $\hat{A}$ whose support is contained in a hypercubic block $B$ inside $\Lambda$. When $\beta_0$ is sufficiently small, we prove that the expectation values (with respect to these two ensembles) of $\hat{A}$ are close to each other provided that the number of sites in $B$ is $o(N^{1/2})$ and $N$ is large. This establishes the equivalence of ensembles on the level of local states in a large but finite system. The result is essentially that of Brandao and Cramer (with a more restrictive setting and a bigger block), but our proof is elementary.
+
+id: 1312.0062
+title: Thermodynamic partition function from quantum theory for black hole horizons in loop quantum gravity
+authors: Abhishek Majhi
+comments: title changed and modifications made to match the published version
+journal: Advances in High Energy Physics, vol. 2016, Article ID 1068757, 10 pages, 2016
+subjects: General Relativity and Quantum Cosmology (gr-qc); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1312.0062
+abstract: 
+
+id: 1509.00088
+title: Efficiency of an enhanced linear optical Bell-state measurement scheme with realistic imperfections
+authors: Stephen Wein, Khabat Heshami, Christopher A. Fuchs, Hari Krovi, Zachary Dutton, Wolfgang Tittel, Christoph Simon
+comments: 14 pages, 5 figures, version accepted by PRA
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.00088
+abstract: 
+
+id: 1510.05634
+title: Optimal Slater-determinant approximation of fermionic wave functions
+authors: J. M. Zhang, Norbert J. Mauser
+comments: To appear in PRA
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.05634
+abstract: 
+
+id: 1602.06266
+title: Impact of overlapping resonances on magnetoassociation of cold molecules in tight traps
+authors: Krzysztof Jachymski
+comments: 7 pages, 5 figures
+journal: J. Phys. B: At. Mol. Opt. Phys. 49 (2016) 195204
+subjects: Atomic Physics (physics.atom-ph); Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.06266
+abstract: 
+
+id: 1603.07715
+title: Short-Lived Electron Transfer in Donor-Bridge-Acceptor Systems
+authors: D. Psiachos
+comments: replacement of arXiv:1603.07715, revised and title changed
+journal: Chem. Phys. Lett. v. 662 p. 201-207 (2016)
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Chemical Physics (physics.chem-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1603.07715
+abstract: 
+
+id: 1603.08675
+title: Quantum Recommendation Systems
+authors: Iordanis Kerenidis, Anupam Prakash
+comments: 22 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Data Structures and Algorithms (cs.DS); Information Retrieval (cs.IR)
+url: http://www.arxiv.org/abs/1603.08675
+abstract: 
+
+id: 1604.06916
+title: Fermi's golden rule: its derivation and breakdown by an ideal model
+authors: J. M. Zhang, Y. Liu
+comments: 14 pages and 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.06916
+abstract: 
+
+id: 1605.08653
+title: Quantum metrology beyond the Quantum Cram¨¦r-Rao theorem
+authors: Luigi Seveso, Matteo A. C. Rossi, Matteo G. A. Paris
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.08653
+abstract: 
+
+id: 1606.02799
+title: Device-independent tests of time-like correlations
+authors: Michele Dall'Arno, Sarah Brandsen, Francesco Buscemi
+comments: 10 pages, 2 figures, 2 tables, extends arXiv:1511.05260
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1606.02799
+abstract: 
+
+id: 1606.03286
+title: Localization for Dirac fermions
+authors: Aleksander M. Kubicki, Hans Westman, Juan Leon
+comments: 16 pages, 5 figures Typos corrected. Refs modified/updated
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1606.03286
+abstract: 
+
+id: 1607.04833
+title: Belief propagation decoding of quantum channels by passing quantum messages
+authors: Joseph M. Renes
+comments: v2: improved discussion of the algorithm; 7 pages & 2 figures. v1: 6 pages, 1 figure
+journal: 
+subjects: Quantum Physics (quant-ph); Information Theory (cs.IT)
+url: http://www.arxiv.org/abs/1607.04833
+abstract: 
+
+id: 1608.08798
+title: Is the Quilted Multiverse Consistent with a Thermodynamic Arrow of Time?
+authors: Yakir Aharonov, Eliahu Cohen, Tomer Shushi
+comments: The second version contains some minor corrections and additional explanations
+journal: 
+subjects: General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.08798
+abstract: 
+
+id: 1609.01792
+title: Multiqubit Spectroscopy of Gaussian Quantum Noise
+authors: Gerardo A. Paz-Silva, Leigh M. Norris, Lorenza Viola
+comments: 21 pages plus appendices, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1609.01792
+abstract: 
+
+id: 1609.03299
+title: Emergence of Network Bifurcation Triggered by Entanglement
+authors: Xi Yong, Man-Hong Yung, Xun Gao, Angsheng Li
+comments: 5 pages, 3 figures; minor revision; reduced the size of a figure
+journal: 
+subjects: Quantum Physics (quant-ph); Biological Physics (physics.bio-ph); Data Analysis, Statistics and Probability (physics.data-an); Physics and Society (physics.soc-ph)
+url: http://www.arxiv.org/abs/1609.03299
+abstract: 
+
+id: 1609.06429
+title: Long lifetimes in optical ion traps
+authors: Alexander Lambrecht, Julian Schmidt, Pascal Weckesser, Markus Debatin, Leon Karpa, Tobias Schaetz
+comments: 5 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Atomic Physics (physics.atom-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1609.06429
+abstract: 
+

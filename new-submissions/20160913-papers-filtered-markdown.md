@@ -1,0 +1,16 @@
+---
+layout: arxiv
+title: 202016 Filtered arXiv Papers
+---
+
+**1.    Universality of Schmidt decomposition and particle identity**  
+Stefania Sciara, Rosario Lo Franco, Giuseppe Compagno  
+http://www.arxiv.org/abs/1609.03239  
+<blockquote>
+<p>
+Schmidt decomposition is a widely employed tool of quantum theory which plays a key role for distinguishable particles in scenarios such as entanglement characterization, theory of measurement and state purification. Yet, it is held not to exist for identical particles, an open problem forbidding its application to analyze such many-body quantum systems. Here we prove, using a newly developed approach, that the Schmidt decomposition exists for identical particles and is thus universal. We find that it is affected by single-particle measurement localization and state overlap. We study paradigmatic two-particle systems where identical qubits and qutrits are located in the same place or in separated places. For the case of two qutrits in the same place, we show that their entanglement behavior, whose physical interpretation is given, differs from that obtained before by different methods. Our results are generalizable to multiparticle systems and open the way for further developments in quantum information theory when particle identity counts as a resource.
+</p>
+</blockquote>
+
+------
+

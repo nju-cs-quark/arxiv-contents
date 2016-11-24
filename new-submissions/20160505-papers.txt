@@ -1,0 +1,396 @@
+id: 1605.01053
+title: Semi-classical and quantum Rabi models: in celebration of 80 years
+authors: Daniel Braak, Qing-Hu Chen, Murray T. Batchelor, Enrique Solano
+comments: 4 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.01053
+abstract: This is an introduction to the special issue collection of articles on "Semi-classical and quantum Rabi models" to be published in J. Phys. A to mark the 80th anniversary of the Rabi model.
+
+id: 1605.01062
+title: Anti-Kibble-Zurek Scaling in Crossing the Quantum Critical Point of a Thermally Isolated System Driven by a Noisy Control Field
+authors: Anirban Dutta, Armin Rahmani, Adolfo del Campo
+comments: 6 pages and 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.01062
+abstract: We show that a thermally isolated system driven across a quantum phase transition by a noisy control field exhibits anti-Kibble-Zurek behavior, whereby slower driving results in higher excitations. We characterize the density of excitations as a function of the ramping rate and the noise strength. The optimal driving time to minimize excitations is shown to scale as universal power law of the noise strength. Our findings reveal the limitations of adiabatic protocols such as quantum annealing and demonstrate the universality of the optimal ramping rate.
+
+id: 1605.01064
+title: Currencies in resource theories
+authors: Lea Kraemer, Lidia del Rio
+comments: 13 pages + appendix. Contains a one-page summary of the paper Resource theories of knowledge [arXiv:1511.08818]
+journal: 
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1605.01064
+abstract: How may we quantify the value of physical resources, such as entangled quantum states, heat baths or lasers? Existing resource theories give us partial answers; however, these rely on idealizations, like perfectly independent copies of states or exact knowledge of a quantum state. Here we introduce the general tool of currencies to quantify realistic descriptions of resources, applicable in experimental settings when we do not have perfect control over a physical system, when only the neighbourhood of a state or some of its properties are known, or when there is no obvious way to decompose a global space into subsystems. Currencies are a special set of resources chosen to quantify all others - like Bell pairs in LOCC or a lifted weight in thermodynamics. We show that from very weak assumptions on the theory we can already find useful currencies that give us necessary and sufficient conditions for resource conversion, and we build up more results as we impose further structure. This work is an application of Resource theories of knowledge [arXiv:1511.08818], generalizing axiomatic approaches to thermodynamic entropy, work and currencies made of local copies.
+
+id: 1605.01073
+title: Negative Entropies in Casimir and Casimir-Polder Interactions
+authors: Kimball A. Milton, Li Yang, Pushpa Kalauni, Prachi Parashar, Romain Gu¨¦rout, Gert-Ludwig Ingold, Astrid Lambrecht, Serge Reynaud
+comments: 8 pages, 12 figures, extended version of talk at Frontiers of Quantum and Mesoscopic Thermodynamics, Prague, 2015
+journal: 
+subjects: Quantum Physics (quant-ph); High Energy Physics - Theory (hep-th)
+url: http://www.arxiv.org/abs/1605.01073
+abstract: It has been increasingly becoming clear that Casimir and Casimir-Polder entropies may be negative in certain regions of temperature and separation. In fact, the occurrence of negative entropy seems to be a nearly ubiquitous phenomenon. This is most highlighted in the quantum vacuum interaction of a nanoparticle with a conducting plate or between two nanoparticles. It has been argued that this phenomenon does not violate physical intuition, since the total entropy, including the self-entropies of the plate and the nanoparticle, should be positive. New calculations, in fact, seem to bear this out at least in certain cases.
+
+id: 1605.01084
+title: Interaction-Free Measurements of Optical Semitransparent Objects
+authors: Zurika Blanco-Garcia, Oscar Rosas-Ortiz
+comments: 
+journal: J. Phys.: Conf. Ser. 698 (2016) 012013
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.01084
+abstract: We substitute the fully absorbing obstacle in the Elitzur-Vaidman experiment by a semitransparent object and show that the probabilities of detection can be manipulated in dependence of the transparency of such an object. Then, we connect our results with the delayed choice experiment proposed by Wheeler. It is found that the transparency of the obstacle determines either a particle-like or a wave-like behaviour of a test photon.
+
+id: 1605.01087
+title: A quantum optical model for the dynamics of high harmonic generation
+authors: ?kos Gombk?t?, Attila Czirj¨¢k, S¨¢ndor Varr¨®, P¨¦ter F?ldi
+comments: 9 pages, 6 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Atomic Physics (physics.atom-ph)
+url: http://www.arxiv.org/abs/1605.01087
+abstract: We investigate a two-level atom in the field of a strong laser pulse. The resulting time-dependent polarization is the source of a radiation the frequency components of which are essentially harmonics of the driving field's carrier frequency. The time evolution of this secondary radiation is analyzed in terms of the expectation values of the photon number operators for a large number of electromagnetic modes that are initially in the vacuum state. Our method is based on a multimode version of the Jaynes-Cummings-Paul model and can be generalized to different radiating systems as well. We show, that after the exciting pulse, the final distribution of the photon numbers is close to the conventional (Fourier transform-based) power spectrum of the secondary radiation. The details of the high harmonic spectra are also analyzed, for many-cycle excitations a clear physical interpretation can be given in terms of the Floquet quasi-energies. A first step towards the determination of the photon statistics of the HHG modes reveals states with slightly super-Poissonian distribution.
+
+id: 1605.01118
+title: Graph Partitioning Methods for Fast Parallel Quantum Molecular Dynamics
+authors: Hristo N. Djidjev, Georg Hahn, Susan M. Mniszewski, Christian F.A. Negre, Anders M.N. Niklasson, Vivek B. Sardeshmukh
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.01118
+abstract: We study a graph partitioning problem motivated by the simulation of the physical movement of multi-body systems on an atomistic level, where the forces are calculated from a quantum mechanical description of the electrons. Several advanced algorithms have been published in the literature for such simulations that are based on evaluations of matrix polynomials. We aim at efficiently parallelizing these computations by using a special type of graph partitioning. For this, we represent the zero-nonzero structure of a thresholded matrix as a graph and partition that graph into several components. The matrix polynomial is then evaluated for each separate submatrix corresponding to the subgraphs and the evaluated submatrix polynomials are used to assemble the final result for the full matrix polynomial. The paper provides a rigorous definition as well as a mathematical justification of this partitioning problem. We use several algorithms to compute graph partitions and experimentally evaluate their performance with respect to the quality of the partition obtained with each method and the time needed to produce it.
+
+id: 1605.01124
+title: Super-radiant phase transition in superconducting circuit in thermal equilibrium
+authors: Motoaki Bamba, Kunihiro Inomata, Yasunobu Nakamura
+comments: 5 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.01124
+abstract: We propose a superconducting circuit that shows the super-radiant phase transition (SRPT) in the thermal equilibrium. The existence of the SRPT is confirmed analytically in the limit of an infinite number of artificial atoms. We also perform numerical diagonalization of the Hamiltonian with a finite number of atoms and observe an asymptotic behavior approaching the infinite limit as the number of atoms increases. Our SRPT can also be interpreted intuitively in a classical analysis.
+
+id: 1605.01135
+title: Nonreciprocity light propagation in coupled microcavities system beyond weak-excitation approximation
+authors: A. S. Zheng, G. Zhang, H. Chen, T. Mei, J. Liu
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1605.01135
+abstract: We propose an alternative scheme for nonreciprocal light propagation in two coupled cavities system, in which a two-level quantum emitter is coupled to one of the optical microcavities. For the case of parity-time (\textrm{PT}) system (i.e., active-passive coupled cavities system), the cavity gain can significantly enhance the optical nonlinearity induced by the interaction between a quantum emitter and cavity field beyond weak-excitation approximation. The giant optical nonlinearity results in the non-lossy nonreciprocal light propagation with high isolation ratio in proper parameters range. In addition, our calculations show that nonreciprocal light propagation will not be affected by the unstable output field intensity caused by optical bistability and we can even switch directions of nonreciprocal light propagation by appropriately adjusting the system parameters.
+
+id: 1605.01137
+title: Spontaneous emission and the operation of invisibility cloaks: Can the invisibility cloaks render objects invisible in quantum mechanic domain?
+authors: Mina Morshed Behbahani, Ehsan Amooghorban, Ali Mahdifar
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1605.01137
+abstract: As a probe to explore the ability of invisibility cloaks to conceal objects in the quantum mechanics domain, we study the spontaneous emission rate of an excited two-level atom in the vicinity of an ideal invisibility cloaking. On this base, first, a canonical quantization scheme is presented for the electromagnetic field interacting with atomic systems in an anisotropic, inhomogeneous and absorbing magnetodielectric medium which can suitably be used for studying the influence of arbitrary invisibility cloak on the atomic radiative properties. The time dependence of the atomic subsystem is obtained in the Schrodinger picture. By introducing a modified set of the spherical wave vector functions, the Green tensor of the system is calculated via the continuous and discrete methods. In this formalism, the decay rate and as well the emission pattern of the aforementioned atom are computed analytically for both weak and strong coupling interaction, and then numerically calculations are done to demonstrate the performances of cloaking in the quantum mechanics domain. Special attention is paid to different possible orientations and locations of atomic system near the spherical invisibility cloaking. Results in the presence and the absence of the invisibility cloak are compared. We find that the cloak works very well far from its resonance frequency to conceal a macroscopic object, whereas at near the resonance frequency the object is more visible than the situation that the object is not covered by the cloak.
+
+id: 1605.01142
+title: Separations in communication complexity using cheat sheets and information complexity
+authors: Anurag Anshu, Aleksandrs Belovs, Shalev Ben-David, Mika G??s, Rahul Jain, Robin Kothari, Troy Lee, Miklos Santha
+comments: 36 pages, 1 figure
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC)
+url: http://www.arxiv.org/abs/1605.01142
+abstract: While exponential separations are known between quantum and randomized communication complexity for partial functions (Raz, STOC 1999), the best known separation between these measures for a total function is quadratic, witnessed by the disjointness function. We give the first super-quadratic separation between quantum and randomized communication complexity for a total function, giving an example exhibiting a power 2.5 gap. We also present a nearly optimal quadratic separation between randomized communication complexity and the logarithm of the partition number, improving upon the previous best power 1.5 separation due to G\"o\"os, Jayram, Pitassi, and Watson. Our results are the communication analogues of separations in query complexity proved using the recent cheat sheet framework of Aaronson, Ben-David, and Kothari (STOC 2016). Our main technical results are randomized communication and information complexity lower bounds for a family of functions, called lookup functions, that generalize and port the cheat sheet framework to communication complexity.
+
+id: 1605.01206
+title: Experimental Exploration of Quantum Correlations: Discord versus Entanglement
+authors: E. Moreva, M. Gramegna, M.A. Yurischev, M. Genovese
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.01206
+abstract: Quantum correlations represent a fundamental tool for studies ranging from basic science to quantum technologies. Different non-classical correlations have been identified and studied, as entanglement and discord. In view of future applications in this letter we explore experimentally the rich geometry of Bell-diagonal states, measuring the values of entanglement and discord and highlighting the effect of decoherence in real experiments.
+
+id: 1605.01225
+title: Unidirectional Invisibility and Nonreciprocal Transmission in Two and Three Dimensions
+authors: Farhang Loran, Ali Mostafazadeh
+comments: 16 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1605.01225
+abstract: We explore the phenomenon of unidirectional invisibility in two dimensions, examine its optical realizations, and discuss its three-dimensional generalization. In particular we construct an infinite class of unidirectionally invisible optical potentials that describe the scattering of normally incident transverse electric waves by an infinite planar slab with refractive-index modulations along both the normal directions to the electric field. A by-product of this investigation is a demonstration of nonreciprocal transmission in two dimensions. To elucidate this phenomenon we state and prove a general reciprocity theorem that applies to quantum scattering theory of real and complex potentials in two and three dimensions.
+
+id: 1605.01226
+title: Localization transition in presence of cavity backaction
+authors: Katharina Rojan, Rebecca Kraus, Thom¨¢s Fogarty, Hessam Habibian, Anna Minguzzi, Giovanna Morigi
+comments: 10 pages, 6 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.01226
+abstract: We study the localization transition of an atom confined by an external optical lattice in a high-finesse cavity. The atom-cavity coupling yields an effective secondary lattice potential, whose wavelength is incommensurate with the periodicity of the optical lattice. The cavity lattice can induce localization of the atomic wave function analogously to the Aubry-Andr\'e localization transition. Starting from the master equation for the cavity and the atom we perform a mapping of the system dynamics to a Hubbard Hamiltonian, which can be reduced to the Harper's Hamiltonian in appropriate limits. We evaluate the phase diagram for the atom ground state and show that the transition between extended and localized wavefunction is controlled by the strength of the cavity nonlinearity, which determines the size of the localized region and the behaviour of the Lyapunov exponent. The Lyapunov exponent, in particular, exhibits resonance-like behaviour in correspondence with the optomechanical resonances. Finally we discuss the experimental feasibility of these predictions.
+
+id: 1605.01272
+title: Motional-Mode Analysis of Trapped Ions
+authors: Henning Kalis, Frederick Hakelberg, Matthias Wittemer, Manuel Mielenz, Ulrich Warring, Tobias Schaetz
+comments: 4 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.01272
+abstract: We present two methods for characterization of motional-mode configurations that are generally applicable to the weak and strong-binding limit of single or multiple trapped atomic ions. Our methods are essential to realize control of the individual as well as the common motional degrees of freedom. In particular, when implementing scalable radio-frequency trap architectures with decreasing ion-electrode distances, local curvatures of electric potentials need to be measured and adjusted precisely, e.g., to tune phonon tunneling and control effective spin-spin interaction. We demonstrate both methods using single $^{25}$Mg$^+$ ions that are individually confined $40\,\mu$m above a surface-electrode trap array and prepared close to the ground state of motion in three dimensions.
+
+id: 1605.01286
+title: An efficient source of frequency anti-correlated entanglement at telecom wavelength
+authors: Feiyan Hou, Xiao Xiang, Runai Quan, Mengmeng Wang, Yiwei Zhai, Shaofeng Wang, Tao Liu, Shougang Zhang, Ruifang Dong
+comments: 8 pages,7 figures
+journal: Apply physics B 2016
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.01286
+abstract: We demonstrate an efficient generation of frequency anti-correlated entangled photon pairs at telecom wavelength. The fundamental laser is a continuous-wave high-power fiber laser at 1560 nm, through an extracavity frequency doubling system, a 780-nm pump with a power as high as 742 mW is realized. After single passing through a periodically poled KTiOPO4 (PPKTP) crystal, degenerate down-converted photon pairs are generated. With an overall detection efficiency of 14.8 %, the count rates of the single photons and coincidence of the photon pairs are measured to be 370 kHz and 22 kHz, respectively. The spectra of the signal and idler photons are centered at 1560.23 and 1560.04 nm, while their 3-dB bandwidths being 3.22 nm both. The joint spectrum of the photon pair is observed to be frequency anti correlated and have a spectral bandwidth of 0.52 nm. According to the ratio of the single photon spectral bandwidth to the joint spectral bandwidth of the photon pairs, the degree of frequency entanglement is quantified to be 6.19. Based on a Hong Ou Mandel interferometric coincidence measurement, a frequency indistinguishability of 95 % is demonstrated. The good agreements with the theoretical estimations show that the inherent extra intensity noise in fiber lasers has little influence on frequency entanglement of the generated photon pairs.
+
+id: 1605.01328
+title: Optimized Binomial Quantum States of Complex Oscillators with Real Spectrum
+authors: Kevin D. Zelaya, Oscar Rosas-Ortiz
+comments: 
+journal: J. Phys.: Conf. Ser. 698 (2016) 012026
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.01328
+abstract: Classical and nonclassical states of quantum complex oscillators with real spectrum are presented. Such states are bi-orthonormal superpositions of $n+1$ energy eigenvectors of the system with binomial-like coefficients. For large values of $n$ these optimized binomial states behave as photon added coherent states when the imaginary part of the potential is cancelled.
+
+id: 1605.01344
+title: Advances in quantum metrology: Continuous variables in phase space
+authors: Bryan Gard
+comments: 101 pages, PhD Dissertation
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.01344
+abstract: This dissertation serves as a general introduction to Wigner functions, phase space, and quantum metrology but also strives to be useful as a how-to guide for those who wish to delve into the realm of using continuous variables, to describe quantum states of light and optical interferometry. We discuss the advantages of Wigner functions and their use to describe many quantum states of light. Throughout our metrology discussions, we will also discuss various quantum limits and use quantum Fisher information to show optimal bounds. When applicable, we also discuss the use of quantum Gaussian information and how it relates to our Wigner function treatment. The remainder of our discussion focuses on investigating the effects of photon addition and subtraction to various states of light and analyze the nondeterministic nature of this process. We use examples of $m$ photon additions to a coherent state as well as discuss the properties of an $m$ photon subtracted thermal state. We also provide an argument that this process must always be a nondeterministic one, or the ability to violate quantum limits becomes apparent. We show that using phase measurement as one's metric is much more restrictive, which limits the usefulness of photon addition and subtraction. When we consider SNR however, we show improved SNR statistics, at the cost of increased measurement time. In this case of SNR, we also quantify the efficiency of the photon addition and subtraction process.
+
+id: 1605.01347
+title: On the geometry of spatial biphoton correlation in spontaneous parametric down-conversion
+authors: Lorenzo M. Procopio, Oscar Rosas-Ortiz, Victor Velazquez
+comments: 
+journal: Math. Meth. Appl. Sci. 38 (2015) 2053
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.01347
+abstract: Analytical expressions are derived for the distribution rates of spatial coincidences in the counting of photons produced by spontaneous parametric down conversion (SPDC). Gaussian profiles are assumed for the wave function of the idler and signal light created in type-I SPDC. The distribution rates describe ellipses on the detection planes that are oriented at different angles according to the photon coincidences in either horizontal-horizontal, vertical-vertical, horizontal-vertical or vertical-horizontal position variables. The predictions are in agreement with the experimental data obtained with a type-I BBO crystal that is illuminated by a 100 mW violet pump laser as well as with the results obtained from the geometry defined by the phase-matching conditions.
+
+id: 1605.01351
+title: Demonstration of weight-four parity measurements in the surface code architecture
+authors: Maika Takita, A. D. C¨®rioles, Easwar Magesan, Baleegh Abdo, Markus Brink, Andrew Cross, Jerry M. Chow, Jay M. Gambetta
+comments: 5 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.01351
+abstract: We present parity measurements on a five-qubit lattice with connectivity amenable to the surface code quantum error correction architecture. Using all-microwave controls of superconducting qubits coupled via resonators, we encode the parities of four data qubit states in either the $X$- or the $Z$-basis. Given the connectivity of the lattice, we perform full characterization of the static $Z$-interactions within the set of five qubits, as well as dynamical $Z$-interactions brought along by single- and two-qubit microwave drives. The parity measurements are significantly improved by modifying the microwave two-qubit gates to dynamically remove non-ideal $Z$ errors.
+
+id: 1605.01088
+title: Factorization of the Quantum Fractional Oscillator
+authors: Fernando Olivar-Romero, Oscar Rosas-Ortiz
+comments: 
+journal: J. Phys.: Conf. Ser. 698 (2016) 012025
+subjects: Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.01088
+abstract: The applicability of the factorization method is extended to the case of quantum fractional-differential Hamiltonians. In contrast with the conventional factorization, it is shown that the `factorization energy' is now a fractional-differential operator rather than a constant. As a first example, the energies and wave-functions of a fractional version of the quantum oscillator are determined. Interestingly, the energy eigenvalues are expressed as power-laws of the momentum in terms of the non-integer differential order of the eigenvalue equation.
+
+id: 1605.01255
+title: All-optical tailoring of single-photon spectra in a quantum-dot microcavity system
+authors: Dominik Breddermann, Dirk Heinze, Rolf Binder, Artur Zrenner, Stefan Schumacher
+comments: 
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.01255
+abstract: Semiconductor quantum-dot cavity systems are promising sources for solid-state based on-demand generation of single photons for quantum communication. Commonly, the spectral characteristics of the emitted single photon are fixed by system properties such as electronic transition energies and spectral properties of the cavity. In the present work we study single-photon generation from the quantum-dot biexciton through a partly stimulated non-degenerate two-photon emission. We show that frequency and linewidth of the single photon can be fully controlled by the stimulating laser pulse, ultimately allowing for efficient all-optical spectral shaping of the single photon.
+
+id: 1605.01358
+title: Information Geometry in Time Dependent Quantum Systems and the Geometric Phase
+authors: Anshuman Dey, Suvankar Paul, Pratim Roy, Tapobrata Sarkar
+comments: 1+15 Pages, LaTeX, 4 .eps figures
+journal: 
+subjects: Statistical Mechanics (cond-mat.stat-mech); High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.01358
+abstract: We study information theoretic geometry in time dependent quantum mechanical systems. First, we discuss global properties of the parameter manifold for two level systems exemplified by i) Rabi oscillations and ii) quenching dynamics of the XY spin chain in a transverse magnetic field, when driven across anisotropic criticality. Next, we comment upon the nature of the geometric phase from classical holonomy analyses of such parameter manifolds. In the context of the transverse XY model in the thermodynamic limit, our results are in contradiction to those in the existing literature, and we argue why the issue deserves a more careful analysis. Finally, we speculate on a novel geometric phase in the model, when driven across a quantum critical line.
+
+id: 1406.1084
+title: Haag duality for Kitaev's quantum double model for abelian groups
+authors: Leander Fiedler, Pieter Naaijkens
+comments: 41 pages, 9 figures; final version, fixed statement about uniqueness of the ground state: only the translational invariant ground state is unique, corrected minor errors
+journal: Rev. Math. Phys. 27, 1550021 (2015)
+subjects: Mathematical Physics (math-ph); Operator Algebras (math.OA); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1406.1084
+abstract: 
+
+id: 1407.6091
+title: Quantum metrology for a general Hamiltonian parameter
+authors: Shengshi Pang, Todd A. Brun
+comments: 8 pages; V3 fixes some typos in the paper, an erratum is published in PRA. We are thankful to all the readers that pointed typos out to us. V2 is very close to the published version
+journal: Physical Review A 90, 022117 (2014)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1407.6091
+abstract: 
+
+id: 1504.03767
+title: $\mathcal{PT}$-breaking threshold in spatially asymmetric Aubry-Andre Harper models: hidden symmetry and topological states
+authors: Andrew K. Harter, Tony E. Lee, Yogesh N. Joglekar
+comments: 8 pages, 5 figures
+journal: 
+subjects: Optics (physics.optics); Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1504.03767
+abstract: 
+
+id: 1504.05435
+title: Mode engineering for realistic quantum-enhanced interferometry
+authors: Micha? Jachura, Rados?aw Chrapkiewicz, Rafa? Demkowicz-Dobrza¨½ski, Wojciech Wasilewski, Konrad Banaszek
+comments: 
+journal: Nature Communications 7, 11411 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1504.05435
+abstract: 
+
+id: 1510.00351
+title: Stationary waves on nonlinear quantum graphs: General framework and canonical perturbation theory
+authors: Sven Gnutzmann, Daniel Waltner
+comments: 26 pages
+journal: Phys. Rev. E 93, 032204 (2016)
+subjects: Pattern Formation and Solitons (nlin.PS); Chaotic Dynamics (nlin.CD); Exactly Solvable and Integrable Systems (nlin.SI); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.00351
+abstract: 
+
+id: 1510.04758
+title: The power of one qumode for quantum computation
+authors: Nana Liu, Jayne Thompson, Christian Weedbrook, Seth Lloyd, Vlatko Vedral, Mile Gu, Kavan Modi
+comments: 8 pages, 2 figures
+journal: Physical Review A, Volume 93, 052304, 2016
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.04758
+abstract: 
+
+id: 1510.05801
+title: Single-Mode Parametric-Down-Conversion States with 50 Photons as a Source for Mesoscopic Quantum Optics
+authors: Georg Harder, Tim J. Bartley, Adriana E. Lita, Sae Woo Nam, Thomas Gerrits, Christine Silberhorn
+comments: 8 pages, 7 figures
+journal: Phys. Rev. Lett. 116, 143601 (2016)
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1510.05801
+abstract: 
+
+id: 1512.01541
+title: Sorting quantum systems efficiently
+authors: Radu Ionicioiu
+comments: Updated to the published version
+journal: Scientific Reports 6, 25356 (2016)
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1512.01541
+abstract: 
+
+id: 1512.02781
+title: Equivalence theorem of uncertainty relations
+authors: Jun-Li Li, Cong-Feng Qiao
+comments: 16 pages, 1 figure; minor modifications
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.02781
+abstract: 
+
+id: 1601.04900
+title: Spontaneous crystallization of light and ultracold atoms
+authors: Stefan Ostermann, Francesco Piazza, Helmut Ritsch
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Quantum Gases (cond-mat.quant-gas)
+url: http://www.arxiv.org/abs/1601.04900
+abstract: 
+
+id: 1601.07282
+title: Simulated quantum process tomography of quantum gates with Rydberg superatoms
+authors: I.I. Beterov, M. Saffman, E.A. Yakshina, D.B. Tretyakov, V.M. Entin, G.N. Hamzina, I.I. Ryabtsev
+comments: 12 pages, 7 figures, to appear in Special issue on Rydberg atomic physics of Journal of Physics B. Typos in Table 2 corrected in version 3
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.07282
+abstract: 
+
+id: 1602.03516
+title: Probing anharmonicity of a quantum oscillator in an optomechanical cavity
+authors: Ludovico Latmiral, Federico Armata, Marco G. Genoni, Igor Pikovski, M. S. Kim
+comments: 8 pages, 2 figures, RevTeX4
+journal: Phys. Rev. A 93, 052306 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.03516
+abstract: 
+
+id: 1602.05780
+title: Optimal error intervals for properties of the quantum state
+authors: Xikun Li, Jiangwei Shang, Hui Khoon Ng, Berthold-Georg Englert
+comments: 31 pages, figures and references updated
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.05780
+abstract: 
+
+id: 1602.08257
+title: Eigenfunction structure and scaling of two interacting particles in the one-dimensional Anderson model
+authors: Klaus M. Frahm
+comments: 26 pages, 19 png and pdf figures, high quality gif files for panels of figures 1-4 are available at this http URL, final published version with minor corrections/revisions, addition of Journal reference and DOI
+journal: Eur. Phys. J. B (2016) 89: 115
+subjects: Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.08257
+abstract: 
+
+id: 1603.05970
+title: Coherent state contellations and polar codes for Bosonic Gaussian channels
+authors: Felipe Lacerda, Joseph M. Renes, Volkher B. Scholz
+comments: v2: vastly improved presentation. Figures! v1: 10 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Information Theory (cs.IT)
+url: http://www.arxiv.org/abs/1603.05970
+abstract: 
+
+id: 1603.08001
+title: Floquet Time Crystals
+authors: Dominic V. Else, Bela Bauer, Chetan Nayak
+comments: 4 pages + 3 pages supplementary materials. Comments welcome. v2: Slightly revised version, shortened in some parts and some additional comments. v3: Improved citations
+journal: 
+subjects: Disordered Systems and Neural Networks (cond-mat.dis-nn); Statistical Mechanics (cond-mat.stat-mech); Strongly Correlated Electrons (cond-mat.str-el); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1603.08001
+abstract: 
+
+id: 1604.03990
+title: Generalized Gibbs ensemble in integrable lattice models
+authors: Lev Vidmar, Marcos Rigol
+comments: Review article for special issue of JSTAT on non-equilibrium dynamics in integrable systems. Extensively improved version and new references added
+journal: 
+subjects: Statistical Mechanics (cond-mat.stat-mech); Quantum Gases (cond-mat.quant-gas); Strongly Correlated Electrons (cond-mat.str-el); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.03990
+abstract: 
+
+id: 1604.05751
+title: New approach to Fully Nonlinear Adiabatic TWM Theory
+authors: Shunrong Qian
+comments: 15 pages,10 Figures
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1604.05751
+abstract: 
+
+id: 1604.08506
+title: Probing the diamagnetic term in light-matter interaction
+authors: Matteo A. C. Rossi, Matteo Bina, Matteo G. A. Paris, Marco G. Genoni, Gerardo Adesso, Tommaso Tufarelli
+comments: 5 + 2 pages, 4 figures, updated refs
+journal: 
+subjects: Quantum Physics (quant-ph); Other Condensed Matter (cond-mat.other); Mathematical Physics (math-ph); Atomic Physics (physics.atom-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1604.08506
+abstract: 
+
+id: 1605.00023
+title: Shaping a single photon without interacting with it
+authors: Denis Sych, Valentin Averchenko, Gerd Leuchs
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.00023
+abstract: 
+
+id: 1605.01050
+title: Evolution of a quantum harmonic oscillator coupled to a minimal thermal environment
+authors: A. Vidiella-Barranco
+comments: 11 pages, 5 figures; minor typos corrected; accepted for publication in Physica A
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.01050
+abstract: 
+

@@ -1,0 +1,342 @@
+id: 1611.00375
+title: The SLH framework for modeling quantum input-output networks
+authors: Joshua Combes, Joseph Kerckhoff, Mohan Sarovar
+comments: 60 pages, 13 figures. We are offering a limited beer bounty for errors. The reward can be claimed at the 2017 March meeting
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00375
+abstract: Many emerging quantum technologies demand precise engineering and control over networks consisting of quantum mechanical degrees of freedom connected by propagating electromagnetic fields, or quantum input-output networks. Here we review recent progress in theory and experiment related to such quantum input-output networks, with a focus on the SLH framework, a powerful modeling framework for networked quantum systems that is naturally endowed with properties such as modularity and hierarchy. We begin by explaining the physical approximations required to represent any individual node of a network, eg. atoms in cavity or a mechanical oscillator, and its coupling to quantum fields by an operator triple $(S,L,H)$. Then we explain how these nodes can be composed into a network with arbitrary connectivity, including coherent feedback channels, using algebraic rules, and how to derive the dynamics of network components and output fields. The second part of the review discusses several extensions to the basic SLH framework that expand its modeling capabilities, and the prospects for modeling integrated implementations of quantum input-output networks. In addition to summarizing major results and recent literature, we discuss the potential applications and limitations of the SLH framework and quantum input-output networks, with the intention of providing context to a reader unfamiliar with the field.
+
+id: 1611.00413
+title: The Discord-like Correlation of Bipartite Coherence
+authors: Yu Guo
+comments: 7 pages. Comments are welcome
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00413
+abstract: Quantum discord is a measure of quantum correlation by the the mutual information difference between the state and the output state after the local von Neumann measurement, where the mutual information contained in a bipartite state is defined as the difference of von Neumann entropy of the reduced states and that of the global state. Instead of measuring by the von Neumann entropy, correlated coherence is used to quantify the mutual coherence information in the state. In this paper, we first investigate the free operation of quantum discord and then study the discord-like correlation of bipartite coherence in terms of the correlated coherence. Consequently, we investigate the free operation of quantum discord both physically and mathematically. Based on the physically incoherent operations, we present two types of discord-like measures of bipartite coherence by the $l_1$-norm coherence measure and the relative entropy coherence measure respectively. Moreover, we find out that the discord-like correlation of coherence admits the postulates of the quantum resource theory (QRT) although the origin quantum discord is not a "good" candidate under the QRT. In addition, we prove that the relative entropy measure of the discord-like correlation can be regarded as a coherence measure for bipartite states.
+
+id: 1611.00479
+title: Can local dynamics enhance entangling power?
+authors: Bhargavi Jonnadula, Prabha Mandayam, Karol Zyczkowski, Arul Lakshminarayan
+comments: 7 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Disordered Systems and Neural Networks (cond-mat.dis-nn); Chaotic Dynamics (nlin.CD)
+url: http://www.arxiv.org/abs/1611.00479
+abstract: It is demonstrated here that local dynamics have the ability to strongly modify the entangling power of unitary quantum gates acting on a composite system. The scenario is common to numerous physical systems, in which the time evolution involves local operators and nonlocal interactions. To distinguish between distinct classes of gates with zero entangling power we introduce a complementary quantity called gate-typicality and study its properties. Analyzing multiple applications of any entangling operator interlaced with random local gates, we prove that both investigated quantities approach their asymptotic values in a simple exponential form. This rapid convergence to equilibrium, valid for subsystems of arbitrary size, is illustrated by studying multiple actions of diagonal unitary gates and controlled unitary gates.
+
+id: 1611.00510
+title: Ancilla-driven instantaneous quantum polynomial time circuit for quantum supremacy
+authors: Yuki Takeuchi, Yasuhiro Takahashi
+comments: 6 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC)
+url: http://www.arxiv.org/abs/1611.00510
+abstract: Instantaneous quantum polynomial time (IQP) is a model of (probably) non-universal quantum computation. Since it has been proven that IQP circuits are unlikely to be simulated classically up to a multiplicative error and an error in l1 norm, IQP is considered as one of the promising classes that demonstrates quantum supremacy. Although IQP circuits can be realized more easily than a universal quantum computer, demonstrating quantum supremacy is still difficult. It is therefore desired to find subclasses of IQP that are easy to implement. In this paper, by imposing some restrictions on IQP, we propose ancilla-driven IQP (ADIQP) as the subclass of commuting quantum computation suitable for many experimental settings. We show that even though ADIQP circuits are strictly weaker than IQP circuits in a sense, they are also hard to simulate classically up to a multiplicative error and an error in l1 norm. Moreover, the properties of ADIQP make it easy to investigate the verifiability of ADIQP circuits and the difficulties in realizing ADIQP circuits.
+
+id: 1611.00533
+title: Decoherence in the Production and Manipulation of Spin-Cat States
+authors: Samuel P. Nolan, Simon A. Haine
+comments: 12 pages, 7 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00533
+abstract: When performing operations on a quantum state, it is commonplace to assume that these operations are unitary. However, in practice these operations are often performed via interaction with an auxiliary quantum system. While it is often a good approximation to treat this auxiliary system as "classical", such that the resulting evolution is unitary, in practice there are no truly classical systems, and there will always be some degree of entanglement between our quantum state and the auxiliary system, which can lead to decoherence of our quantum state. In this work, in order to quantify and predict this decoherence, we apply the usual formalism of quantum parameter estimation in a novel way. Specifically, we study the evolution of a quantum system that has been entangled with a single auxiliary state, and by defining the relevant generator, we show that the quantum Fisher information of this initial auxiliary state is an excellent predictor of the resultant decoherence. Our results are particularly relevant to spin-cat states, an example of which is the well known $N00N$ state. We find that these states are particularly susceptible decoherence, and estimate the required auxiliary field occupation to negate this decoherence.
+
+id: 1611.00572
+title: Wave emission and absorption at spectral singularities
+authors: P. Wang, L. Jin, G. Zhang, Z. Song
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00572
+abstract: We studied the critical dynamics of spectral singularities. The system investigated is a coupled resonator array with a side-coupled loss (gain) resonator. For a gain resonator, the system acts as a wave emitter at spectral singularities. The reflection probability increased linearly over time. The rate of increase is proportional to the width of the incident wave packet, which served as the spectral singularity observer in the experiment. For a lossy resonator, the system acts as a wave absorber. The emission and absorption states at spectral singularities coalesce in a finite parity-time (PT ) symmetric system that combined by the gain and loss structures cut from corrresponding scattering systems at spectral singularities; in this case, the PT -symmetric system is at an exceptional point with a 2 * 2 Jordan block. The dynamics of the PT -symmetric system exhibit the characteristic of exceptional points and spectral singularities.
+
+id: 1611.00613
+title: Comment on "Gleason-Type Theorem for Projective Measurements, Including Qubits" by F. De Zela
+authors: Michael J. W. Hall
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00613
+abstract: It has recently been claimed by De Zela that Gleason's theorem, for probability measures on the lattice of projection operators, can be extended to qubits by adding an assumption of continuity. This amounts to a claim of the derivation of Born's rule for Hermitian qubit observables. I point out a simple counterexample, and the flaw in De Zela's derivation. I also briefly discuss a valid extension to qubits given by Busch.
+
+id: 1611.00651
+title: Simple and tight monogamy relations for a class of Bell inequalities
+authors: Remigiusz Augusiak
+comments: 9 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00651
+abstract: Physical principles constraints the way nonlocal correlations can be distributed among distant parties in a Bell-type experiment. These constraints are usually expressed by monogamy relations that bound the amount of Bell inequality violation observed by a set of parties by the violation observed by a different set of parties. Here we show that the no-signaling principle yields a simple and tight monogamy relations for an important class of bipartite and multipartite Bell inequalities. We also link these trade-offs to the guessing probability--a key quantity in the device-independent information processing.
+
+id: 1611.00664
+title: Model Dynamics for Quantum Computing
+authors: Frank Tabakin
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1611.00664
+abstract: A model master equation suitable for quantum computing dynamics is presented. In an ideal quantum computer (QC), a system of qubits evolves in time unitarily and, by virtue of their entanglement, interfere quantum mechanically to solve otherwise intractable problems. In the real situation, a QC is subject to decoherence and attenuation effects due to interaction with an environment and with possible short-term random disturbances and gate deficiencies. The stability of a QC under such attacks is a key issue for the development of realistic devices. We assume that the influence of the environment can be incorporated by a master equation that includes unitary evolution with gates, supplemented by a Lindblad term. Lindblad operators of various types are explored; namely, steady, pulsed, gate friction, and measurement operators. In the master equation, we use the Lindblad term to describe short time intrusions by random Lindblad pulses. The phenomenological master equation is then extended to include a nonlinear Beretta term that describes the evolution of a closed system with increasing entropy, plus a Bath environment term stipulated by a fixed temperature. Here we explore the case of a simple one-qubit system in preparation for generalization to multi-qubit, qutrit and hybrid qubit-qutrit systems. This model master equation can be used to test the stability of memory and the efficacy of quantum gates. The properties of such hybrid master equations are explored, with emphasis on the role of thermal equilibrium and entropy constraints.
+
+id: 1611.00669
+title: Gaussian intrinsic entanglement: An entanglement quantifier based on secret correlations
+authors: Ladislav Mi?ta, Jr., Richard Tatham
+comments: 26 pages, 3 figures
+journal: Phys. Rev. A 91, 062313 (2015)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00669
+abstract: Intrinsic entanglement (IE) is a quantity which aims at quantifying bipartite entanglement carried by a quantum state as an optimal amount of the intrinsic information that can be extracted from the state by measurement. We investigate in detail the properties of a Gaussian version of IE, the so-called Gaussian intrinsic entanglement (GIE). We show explicitly how GIE simplifies to the mutual information of a distribution of outcomes of measurements on a conditional state obtained by a measurement on a purifying subsystem of the analyzed state, which is first minimized over all measurements on the purifying subsystem and then maximized over all measurements on the conditional state. By constructing for any separable Gaussian state a purification and a measurement on the purifying subsystem which projects the purification onto a product state, we prove that GIE vanishes on all Gaussian separable states. Via realization of quantum operations by teleportation, we further show that GIE is non-increasing under Gaussian local trace-preserving operations and classical communication. For pure Gaussian states and a reduction of the continuous-variable GHZ state, we calculate GIE analytically and we show that it is always equal to the Gaussian R\'{e}nyi-2 entanglement. We also extend the analysis of IE to a non-Gaussian case by deriving an analytical lower bound on IE for a particular form of the non-Gaussian continuous-variable Werner state. Our results indicate that mapping of entanglement onto intrinsic information is capable of transmitting also quantitative properties of entanglement and that this property can be used for introduction of a quantifier of Gaussian entanglement which is a compromise between computable and physically meaningful entanglement quantifiers.
+
+id: 1611.00703
+title: Preservation of quantum correlations in femtosecond light pulse train within atomic ensemble
+authors: A.D. Manukhova, K.S.Tikhonov, T.Yu. Golubeva, Yu.M. Golubev
+comments: 20 pages, 9 figures, submitted to PRA
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00703
+abstract: In this paper, we examined a possibility of preservation of a substantially multimode radiation in a single cell of quantum memory. As a light source we considered a synchronously pumped optical parametric oscillator (SPOPO). As it was shown in [1-4], SPOPO radiation has a large number of the correlated modes making it attractive for the purposes of the quantum communication and computing. We showed that these correlations can be mapped on the longitudinal spin waves of the memory cell and be restored later in the readout light. The efficiencies of the writing and readout depend on the mode structure of the memory determined by a mechanism of the light-matter interaction under consideration (the non-resonance Raman interaction) and by the profile of the driving light field. We showed that like the initial light pulse train, the restored one can be represented by a set of squeezed supermodes. The mapping of the quantum multimode correlations on the material medium offers opportunities to manipulate the quantum states within the memory cell followed by the reading of the transformed state.
+
+id: 1611.00726
+title: Pure Gaussian states from quantum harmonic oscillator chains with a single local dissipative process
+authors: Shan Ma, Matthew J. Woolley, Ian R. Petersen, Naoki Yamamoto
+comments: 27 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Systems and Control (cs.SY); Mathematical Physics (math-ph); Optimization and Control (math.OC)
+url: http://www.arxiv.org/abs/1611.00726
+abstract: We study the preparation of entangled pure Gaussian states via reservoir engineering. In particular, we consider a chain consisting of $(2\aleph+1)$ quantum harmonic oscillators where the central oscillator of the chain is coupled to a single reservoir. We then completely parametrize the class of $(2\aleph+1)$-mode pure Gaussian states that can be prepared by this type of quantum harmonic oscillator chain. This parametrization allows us to determine the steady-state entanglement properties of such quantum harmonic oscillator chains.
+
+id: 1611.00750
+title: Rydberg-interaction-based quantum gates free from blockade error
+authors: Xiao-Feng Shi
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Atomic Physics (physics.atom-ph)
+url: http://www.arxiv.org/abs/1611.00750
+abstract: Accurate quantum gates are basic elements for building quantum computers. There has been great interest in designing quantum gates by using blockade effect of Rydberg atoms recently. The fidelity and operation speed of these gates, however, are fundamentally limited by the blockade error. Here we propose another type of quantum gates, which are based on Rydberg blockade effect, yet free from any blockade error. In contrast to the `blocking' method in previous schemes, we use Rydberg energy shift to realise a rational generalised Rabi frequency so that a novel $\pi$ phase for one input state of the gate emerges. This leads to an accurate Rydberg-blockade based two-qubit quantum gate that can operate in a $0.1\mu s$ timescale or faster thanks to that it operates by a Rabi frequency which is comparable to the blockade shift.
+
+id: 1611.00753
+title: Random spin distributions and the diffusion equation
+authors: Yamen Hamdouni
+comments: 3 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00753
+abstract: We show that the probability distribution corresponding to a fully random tracial state of a system of spin-S particles satisfies a diffusion-like equation. The diffusion coefficient turns out to be equal to $S(S+1)/6$, where $S$ is the magnitude of the spin of each particle.
+
+id: 1611.00396
+title: Parity-time symmetric quantum critical phenomena
+authors: Yuto Ashida, Shunsuke Furukawa, Masahito Ueda
+comments: 5+6 pages, 4+2 figures
+journal: 
+subjects: Statistical Mechanics (cond-mat.stat-mech); Quantum Gases (cond-mat.quant-gas); Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00396
+abstract: Symmetry plays a central role in the theory of phase transitions. Parity-time (PT) symmetry is an emergent notion in synthetic nonconservative systems, where the gain-loss balance creates a threshold for spontaneous symmetry breaking across which spectral singularity emerges. Considerable studies on PT symmetry have been conducted in optics and weakly interacting open quantum systems. Here by extending the idea of PT symmetry to strongly correlated many-body systems, we discover unconventional quantum critical phenomena, where spectral singularity and quantum criticality conspire to yield an exotic universality class which has no counterpart in known critical phenomena. Moreover, we find that superfluid correlation is anomalously enhanced owing to winding renormalization group flows in a PT-symmetry-broken quantum critical phase. Our findings can experimentally be tested in ultracold atoms.
+
+id: 1611.00594
+title: Non-destructive detection of ions using atom-cavity collective strong coupling
+authors: Sourav Dutta, S. A. Rangwala
+comments: 6 pages, 3 figures
+journal: 
+subjects: Atomic Physics (physics.atom-ph); Quantum Gases (cond-mat.quant-gas); Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00594
+abstract: We present a technique, based on atoms coupled to an optical cavity, for non-destructive detection of trapped ions. We demonstrate the vacuum-Rabi splitting (VRS), arising due to the collective strong coupling of ultracold Rb atoms to a cavity, to change in presence of trapped Rb+ ions. The Rb+ ions are optically dark and the Rb atoms are prepared in a dark magneto-optical trap (MOT). The VRS is measured on an optically open transition of the initially dark Rb atoms. The measurement itself is fast, non-destructive and has sufficient fidelity to permit the measurement of atomic-state selective ion-atom collision rate. This demonstration illustrates a method based on atom-cavity coupling to measure two particle interactions generically and non-destructively.
+
+id: 1611.00612
+title: Effects of system-bath coupling on Photosynthetic heat engine: A polaron master equation approach
+authors: M Qin, H Z Shen, X L Zhao, X X Yi
+comments: 
+journal: 
+subjects: Chemical Physics (physics.chem-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00612
+abstract: In this paper, we apply the polaron master equation, which offers the possibilities to interpolate between weak and strong system-bath coupling, to study how system-bath couplings affect charge transfer processes in Photosystem II reaction center (PSII RC) inspired quantum heat engine (QHE) model in a wide parameter range. The effects of bath correlation and temperature, together with the combined effects of these factors are also discussed in details. The results show a variety of dynamical behaviours. We interpret these results in terms of noise-assisted transport effect and dynamical localization which correspond to two mechanisms underpinning the transfer process in photosynthetic complexes: One is resonance energy transfer and the other is dynamical localization effect captured by the polaron master equation. The effects of system-bath coupling and bath correlation are incorporated in the effective system-bath coupling strength determining whether noise-assisted transport effect or dynamical localization dominates the dynamics and temperature modulates the balance of the two mechanisms. Furthermore, these two mechanisms can be attributed to one physical origin: bath-induced fluctuations. The two mechanisms is manifestations of dual role played by bath-induced fluctuations within respective parameter range. In addition, we find that the effec- tive voltage of QHE exhibits superior robustness with respect to the bath noise as long as the system-coupling strength is not too large.
+
+id: 1611.00634
+title: Field Induced Oscillation of Two Majorana Modes for a finite Quantum Wire
+authors: Yue Yu, Kwok Yip Szeto
+comments: 
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00634
+abstract: The evolution of quantum walk on a finite wire under a small increment of vector potential $\alpha$ can exhibit intrinsic quantum oscillation of the two topologically protected bound states corresponding to the Majorana modes. By tuning an external electric field corresponding to the addition of an $\alpha$ impulse at the end of each intrinsic period, the intrinsic oscillation is enveloped by a beat modulation with a longer period. This beat oscillation is useful in the preparation of decoherence-free qubit in trapped ion chain and may be observed in several experiments.
+
+id: 1611.00659
+title: Spin and topological order in a periodically driven spin chain
+authors: Angelo Russomanno, Bat-el Friedman, Emanuele G. Dalla Torre
+comments: 17 pages, 12 figures
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00659
+abstract: The periodically driven quantum Ising chain has recently attracted a large attention in the context of Floquet engineering. In addition to the common paramagnet and ferromagnet, this driven model can give rise to new topological phases. In this work we systematically explore its quantum phase diagram, by examining the properties of its {\em Floquet ground state}. We specifically focus on driving protocols with time-reversal invariant points, and demonstrate the existence of an infinite number of distinct phases. These phases are separated by second-order quantum phase transitions, accompanied by continuous changes of local and string order parameters, as well as sudden changes of a topological winding number and of the number of protected edge states. When one of these phase transitions is adiabatically crossed, the correlator associated to the order parameter is nonvanishing over a length scale which shows a Kibble-Zurek scaling. Our findings provide a better understanding of topological phases in periodically driven clean integrable models.
+
+id: 1611.00663
+title: Timescale for adiabaticity breakdown in driven many-body systems and orthogonality catastrophe
+authors: Oleg Lychkovskiy, Oleksandr Gamayun, Vadim Cheianov
+comments: 
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Strongly Correlated Electrons (cond-mat.str-el); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00663
+abstract: The adiabatic theorem is a fundamental result established in the early days of quantum mechanics, which states that a system can be kept arbitrarily close to the instantaneous ground state of its Hamiltonian if the latter varies in time slowly enough. The theorem has an impressive record of applications ranging from foundations of quantum field theory to computational recipes in molecular dynamics. In light of this success it is remarkable that a practicable quantitative understanding of what "slowly enough" means is limited to a modest set of systems mostly having a small Hilbert space. Here we show how this gap can be bridged for a broad natural class of physical systems, namely many-body systems where a small move in the parameter space induces an orthogonality catastrophe. In this class, the conditions for adiabaticity are derived from the scaling properties of the parameter dependent ground state without a reference to the excitation spectrum. This finding constitutes a major simplification of a complex problem, which otherwise requires solving non-autonomous time evolution in a large Hilbert space. We illustrate our general results on two examples motivated by recent experiments on Thouless pumping and on the dynamics of an impurity in a degenerate quantum fluid.
+
+id: 1611.00670
+title: Non-Markovian quantum thermodynamics: second law and fluctuation theorems
+authors: Robert S. Whitney
+comments: 5 pages, 3 figures
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00670
+abstract: We bring together Keldysh theory and quantum thermodynamics, by showing that a real-time diagramatic technique can provide a quantum equivalent of stochastic thermodynamics for non-Markovian quantum machines (heat engines, refrigerators, etc). Taking any interacting quantum system with arbitrary coupling to ideal reservoirs of electrons and bosons (phonons or photons), we identify symmetries between quantum trajectories and their time-reverses on the Keldysh contour. These lead to quantum fluctuations theorems the same as the well-known classical ones (Jarzynski and Crooks equalities, non-equilibrium partition identity, etc), but which hold whether the system's dynamics are Markovian or not. Hence, such systems obey the second law of thermodynamics on average, even if fluctuations may violate it. Our proof applies to systems with Kondo effects or other strong correlations, and to systems in superposition states or with time-dependent driving.
+
+id: 1611.00705
+title: Density induced phase transitions in QED$_\mathrm{2}$ - A study with matrix product states
+authors: Mari Carmen Ba?uls, Krzysztof Cichy, J. Ignacio Cirac, Karl Jansen, Stefan K¨¹hn
+comments: 5+5 pages, 4+4 figures
+journal: 
+subjects: High Energy Physics - Lattice (hep-lat); Strongly Correlated Electrons (cond-mat.str-el); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1611.00705
+abstract: We numerically study the zero temperature phase structure of the multi-flavor Schwinger model at non-zero chemical potential. Using matrix product states, we reproduce analytical results for the phase structure for two flavors in the massless case and extend the computation to the massive case, where no analytical predictions are available. Our calculations allow us to locate phase transitions in the mass-chemical potential plane with great precision, and provide a concrete example of tensor networks overcoming the sign problem in a lattice gauge theory calculation.
+
+id: 1409.2134
+title: Super-resolution imaging using the spatial-frequency filtered intensity fluctuation correlation
+authors: Jane Sprigg, Tao Peng, Yanhua Shih
+comments: 
+journal: 
+subjects: Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1409.2134
+abstract: 
+
+id: 1502.02425
+title: Low rank and sparse dynamical maps and repeated entries in the process matrix
+authors: Vinayak Jagadish, Anil Shaji
+comments: 6 Pages, 2 Figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1502.02425
+abstract: 
+
+id: 1504.02541
+title: Non-Hermitian heat engine with all-quantum-adiabatic-process cycle
+authors: S. Lin, Z. Song
+comments: 
+journal: J. Phys. A: Math. Theor. 49 (2016) 475301 (15pp)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1504.02541
+abstract: 
+
+id: 1601.06109
+title: Dynamical Casimir effect with $¦Ä-¦Ä^{\prime}$ mirrors
+authors: Jeferson Danilo L. Silva, Alessandra N. Braga, Danilo T. Alves
+comments: 7 pagens; 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1601.06109
+abstract: 
+
+id: 1604.02817
+title: Injection locking of quantum dot microlasers operating in the few photon regime
+authors: Elisabeth Schlottmann, Steffen Holzinger, Benjamin Lingnau, Kathy L¨¹dge, Christian Schneider, Martin Kamp, Sven H?fling, Janik Wolters, Stephan Reitzenstein
+comments: 
+journal: Phys. Rev. Applied 6, 044023 (2016)
+subjects: Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.02817
+abstract: 
+
+id: 1605.04819
+title: Gaussian systems for quantum enhanced multiple phase estimation
+authors: Christos N. Gagatsos, Dominic Branford, Animesh Datta
+comments: 
+journal: Phys. Rev. A 94, 042342 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.04819
+abstract: 
+
+id: 1605.07007
+title: Non-Uniform Code Concatenation for Universal Fault-Tolerant Quantum Computing
+authors: Eesa Nikahd, Mehdi Sedighi, Morteza Saheb Zamani
+comments: 6 pages and 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.07007
+abstract: 
+
+id: 1606.01329
+title: Transient nutations of an electron spin 1/2 with dipolar coupling to neighbouring nuclear spins
+authors: Alain Deville, Anne-Marie Dar¨¦, Julien Azema
+comments: 15 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1606.01329
+abstract: 
+
+id: 1606.03922
+title: Bound states in string nets
+authors: M. D. Schulz, S. Dusuel, J. Vidal
+comments: 5 pages, 3 figures, published version
+journal: Phys. Rev. B 94, 205102 (2016)
+subjects: Strongly Correlated Electrons (cond-mat.str-el); High Energy Physics - Lattice (hep-lat); High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1606.03922
+abstract: 
+
+id: 1606.03951
+title: Long-range entangled zero-mode state in a non-Hermitian lattice
+authors: S. Lin, X. Z. Zhang, C. Li, Z. Song
+comments: 
+journal: Phys. Rev. A 94, 042133 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1606.03951
+abstract: 
+
+id: 1607.06321
+title: Casimir force between $¦Ä-¦Ä^{\prime}$ mirrors transparent at high frequencies
+authors: Alessandra N. Braga, Jeferson Danilo L. Silva, Danilo T. Alves
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); High Energy Physics - Theory (hep-th)
+url: http://www.arxiv.org/abs/1607.06321
+abstract: 
+
+id: 1608.01854
+title: Sub-cycle optical control of current in a semiconductor: from the multiphoton to the tunneling regime
+authors: Tim Paasch-Colberg, Stanislav Yu. Kruchinin, ?zge Sa?lam, Stefan Kapser, Stefano Cabrini, Sascha Muehlbrandt, Joachim Reichert, Johannes V. Barth, Ralph Ernstorfer, Reinhard Kienberger, Vladislav S. Yakovlev, Nicholas Karpowicz, Agustin Schiffrin
+comments: 
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.01854
+abstract: 
+
+id: 1608.08243
+title: Bell nonlocality in the turbulent atmosphere
+authors: M.O. Gumberidze, A.A. Semenov, D. Vasylyev, W. Vogel
+comments: 12 pages, 5 figures
+journal: Phys. Rev. A 94, 053801 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.08243
+abstract: 
+
+id: 1609.08178
+title: Quantum Statistical Mechanics as an Exact Classical Expansion with Results for Lennard-Jones Helium
+authors: Phil Attard
+comments: 26 pages, 5 figures. Corrected Eqs 4.16--19, Fig. 2. Added appendix A. Added appendix B and some simulation results
+journal: 
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech); Chemical Physics (physics.chem-ph)
+url: http://www.arxiv.org/abs/1609.08178
+abstract: 
+
+id: 1610.08826
+title: The $\mathbb{C}$P(2) Model at Non-Zero Chemical Potential
+authors: Wynne Evans, Urs Gerber, Uwe-Jens Wiese
+comments: 7 pages, 5 figures. Presented at the 34th International Symposium on Lattice Field Theory, 24-30 July 2016, University of Southampton, UK; figure legend and acknowledgements updated
+journal: 
+subjects: High Energy Physics - Lattice (hep-lat); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.08826
+abstract: 
+
+id: 1610.09076
+title: Driven two-component Bose-Einstein condensate in optical lattices
+authors: Gavriil Shchedrin, Daniel Jaschke, Lincoln D. Carr
+comments: 
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.09076
+abstract: 
+

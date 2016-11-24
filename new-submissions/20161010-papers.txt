@@ -1,0 +1,342 @@
+id: 1610.02061
+title: Photon echoes for a system of large negative spin and few mean photons
+authors: Michael Tavis
+comments: 49 pages, 5 tables, 13 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.02061
+abstract: Persistent photon echoes are seen for the case of a large number of two level molecules (TLMs) prepared initially in the all down state (large negative spin) interacting with a photon distribution with few mean photons in a lossless cavity. This case is interesting since it has not been significantly addressed in the past, the characteristic times associated with revival are not what is seen for the more frequently addressed problem (a few TLMs interacting with a large mean photon number), that long after the echoes die out they re-emerge completely at a much later time and perhaps of even more interest is that the existence of echoes is not predicated on the initial photon distribution being the coherent state or Glauber distribution. Entropy, entanglement and the Q function are considered. It is found that disentanglement only occurs at the revival times as evidenced by the entropy going to 0 and the Q function returning to the initial photon distribution when initially prepared in the coherent state. Comparison to the more normally seen results for large mean photon number and small numbers or TLMs are discussed. Finally this paper acts as a general reference for future refereed publications.
+
+id: 1610.02087
+title: How to Measure the Quantum Measure
+authors: ?lvaro Mozota Frauca, Rafael Dolnick Sorkin
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.02087
+abstract: The histories-based framework of Quantum Measure Theory assigns a generalized probability or measure $\mu(E)$ to every (suitably regular) set $E$ of histories. Even though $\mu(E)$ cannot in general be interpreted as the expectation value of a selfadjoint operator (or POVM), we describe an arrangement which makes it possible to determine $\mu(E)$ experimentally for any desired $E$. Taking, for simplicity, the system in question to be a particle passing through a series of Stern-Gerlach devices or beam-splitters, we show how to couple a set of ancillas to it, and then to perform on them a suitable unitary transformation followed by a final measurement, such that the probability of a final outcome of "yes" is related to $\mu(E)$ by a known factor of proportionality. Finally, we discuss in what sense a positive outcome of the final measurement should count as a minimally disturbing verification that the microscopic event $E$ actually happened.
+
+id: 1610.02097
+title: Superresolution optical magnetic imaging and spectroscopy using individual electronic spins in diamond
+authors: Jean-Christophe Jaskula, Erik Bauch, Silvia Arroyo-Camejo, Mikhail D. Lukin, Stefan W. Hell, Alexei S. Trifonov, Ronald L. Walsworth
+comments: main text: 5 pages, 4 figures. Supplementary Material: 5 pages, 8 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
+url: http://www.arxiv.org/abs/1610.02097
+abstract: Nitrogen vacancy (NV) color centers in diamond are a leading modality for both superresolution optical imaging and nanoscale magnetic field sensing. In this work, we solve the remaining key challenge of performing optical magnetic imaging and spectroscopy selectively on multiple NV centers that are located within a diffraction-limited field-of-view. We use spin-RESOLFT microscopy to enable precision nanoscale mapping of magnetic field patterns with resolution down to ~20 nm, while employing a low power optical depletion beam. Moreover, we use a shallow NV to demonstrate the detection of proton nuclear magnetic resonance (NMR) signals exterior to the diamond, with 50 nm lateral imaging resolution and without degrading the proton NMR linewidth.
+
+id: 1610.02104
+title: Tunable quantum gate between a superconducting atom and a propagating microwave photon
+authors: K. Koshino, K. Inomata, Z. R. Lin, Y. Tokunaga, T. Yamamoto, Y. Nakamura
+comments: 8 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Superconductivity (cond-mat.supr-con)
+url: http://www.arxiv.org/abs/1610.02104
+abstract: We propose a two-qubit quantum logic gate between a superconducting atom and a propagating microwave photon. The atomic qubit is encoded on its lowest two levels and the photonic qubit is encoded on its carrier frequencies. The gate operation completes deterministically upon reflection of a photon, and various two-qubit gates (SWAP, $\sqrt{\rm SWAP}$, and Identity) are realized through {\it in situ} control of the drive field. The proposed gate is applicable to construction of a network of superconducting atoms, which enables gate operations between non-neighboring atoms.
+
+id: 1610.02117
+title: A Formulation of a Matrix Sparsity Approach for the Quantum Ordered Search Algorithm
+authors: Jupinder Parmar, Saarim Rahman, Jesse Thiara
+comments: 19 pages, 1 figure. arXiv admin note: text overlap with arXiv:quant-ph/0608161 by other authors
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.02117
+abstract: One specific subset of quantum algorithms is Grovers Ordered Search Problem (OSP), the quantum counterpart of the classical binary search algorithm, which utilizes oracle functions to produce a specified value within an ordered database. Classically, the optimal algorithm is known to have a $\log_2 N$ complexity; however, Grovers algorithm has been found to have an optimal complexity between the lower bound of $((\ln N-1)/\pi \approx 0.221\log_2 N)$ and the upper bound of $0 .433\log_2 N$. We sought to lower the known upper bound of the OSP. With [E. Farhi et al, arXiv:quant-ph/9901059], we see that the OSP can be resolved into a translational invariant algorithm to create quantum query algorithm restraints. With these restraints, one can find Laurent polynomials for various $k$ -- queries -- and $N$ -- database sizes -- thus finding larger recursive sets to solve the OSP and effectively reducing the upper bound. These polynomials are found to be convex functions, allowing one to make use of convex optimization to find an improvement on the known bounds. According to [A. Childs et al, arXiv:quant-ph/0608161v1], semidefinite programming, a subset of convex optimization, can solve the particular problem represented by the constraints . We were able to implement a program abiding to their formulation of a semidefinite program (SDP), leading us to find that it takes an immense amount of storage and time to compute. To combat this setback, we then formulated an approach to improve results of the SDP using matrix sparsity. Through the development of this approach, along with an implementation of a rudimentary solver, we demonstrate how matrix sparsity reduces the amount of time and storage required to compute the SDP -- overall ensuring further improvements will likely be made to reach the theorized lower bound
+
+id: 1610.02141
+title: How does interference fall?
+authors: Patrick J. Orlando, Felix A. Pollock, Kavan Modi
+comments: Contribution to "Lectures on general quantum correlations and their applications", edited by Felipe Fanchini, Diogo Soares-Pinto, and Gerardo Adesso
+journal: 
+subjects: Quantum Physics (quant-ph); General Relativity and Quantum Cosmology (gr-qc)
+url: http://www.arxiv.org/abs/1610.02141
+abstract: We study how single- and double-slit interference patterns fall in the presence of gravity. First, we demonstrate that universality of free fall still holds in this case, i.e., interference patterns fall just like classical objects. Next, we explore lowest order relativistic effects in the Newtonian regime by employing a recent quantum formalism which treats mass as an operator. This leads to interactions between non-degenerate internal degrees of freedom (like spin in an external magnetic field) and external degrees of freedom (like position). Based on these effects, we present an unusual phenomenon, in which a falling double slit interference pattern periodically decoheres and recoheres. The oscillations in the visibility of this interference occur due to correlations built up between spin and position. Finally, we connect the interference visibility revivals with non-Markovian quantum dynamics.
+
+id: 1610.02152
+title: Reconstructing open quantum system dynamics with limited control
+authors: Simon Milz, Felix A. Pollock, Kavan Modi
+comments: 20 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.02152
+abstract: The dynamics of an open quantum system can be fully described and tomographically reconstructed if the experimenter has complete control over the system of interest. Most real-world experiments do not fulfill this assumption, and the amount of control is restricted by the experimental set-up. That is, the set of performable manipulations of the system is limited. For instance, imagine a set-up where unitary operations are easy to make, but only one measurement at the end of the experiment is allowed. In this paper, we provide a general reconstruction scheme that yields operationally well-defined dynamics for any conceivable kind of experimental situation. If one additional operation can be performed, these `restricted' dynamics allow for the construction of witnesses for initial correlations and the presence of memory effects. We demonstrate the applicability of our framework for the the two important cases where the set of performable operations comprises only unitary operations or projective measurement, respectively, and show that it provides a powerful tool for the description of quantum control experiments.
+
+id: 1610.02208
+title: Quantum information processing with superconducting circuits: a review
+authors: G. Wendin
+comments: 94 pages, 34 figures, review article
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.02208
+abstract: During the last ten years, superconducting circuits and systems have passed from interesting physical devices to contenders for useful information processing in the near future. There are now advanced simulation experiments with nine qubits, and commitments to demonstrate quantum supremacy with fifty qubits within just a few years. The time is therefore ripe for providing an overview of superconducting devices and systems: to discuss the state of the art of applications to quantum information processing (QIP), and to describe recent and upcoming applications of superconducting systems to digital and analogue computing and simulation in Physics and Chemistry. On top of that, the review will try to address general questions like "What can a quantum computer do that a classical computer can't?".
+
+id: 1610.02244
+title: Tensor Network Theory - Part 1: Overview of core library and tensor operations
+authors: Sarah Al-Assam, Stephen R. Clark, Dieter Jaksch
+comments: 20 pages, 16 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Other Condensed Matter (cond-mat.other)
+url: http://www.arxiv.org/abs/1610.02244
+abstract: In this technical paper we introduce the Tensor Network Theory (TNT) library - an open-source software project aimed at developing robust, easy to use and highly optimised code for TNT calculations, available at this http URL The aims of this paper are threefold: to (i) give a brief but broad introduction to TNT, (ii) give an overview of the structure of TNT library, and (iii) describe in detail the core tensor features of the library.
+
+id: 1610.02264
+title: Will a decaying atom feel a friction force?
+authors: Matthias Sonnleitner, Nils Trautmann, Stephen M. Barnett
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Atomic Physics (physics.atom-ph)
+url: http://www.arxiv.org/abs/1610.02264
+abstract: We show how a simple calculation leads to the surprising result that an excited two-level atom moving through vacuum sees a tiny friction force of first order in v/c. At first sight this seems to be in obvious contradiction to other calculations showing that the interaction with the vacuum does not change the velocity of an atom. It is yet more surprising that this change in the atom's momentum turns out to be a necessary result of energy and momentum conservation in special relativity.
+
+id: 1610.02279
+title: Towards Quantum Supremacy with Lossy Scattershot Boson Sampling
+authors: Ludovico Latmiral, Nicol¨° Spagnolo, Fabio Sciarrino
+comments: in press, New Journal of Physics; 20 pages, 7 figures. arXiv admin note: substantial text overlap with arXiv:1511.08161
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Physics (physics.comp-ph)
+url: http://www.arxiv.org/abs/1610.02279
+abstract: Boson Sampling represents a promising approach to obtain an evidence of the supremacy of quantum systems as a resource for the solution of computational problems. The classical hardness of Boson Sampling has been related to the so called \textit{Permanent-of-Gaussians Conjecture} and has been extended to some generalizations such as Scattershot Boson Sampling, approximate and lossy sampling under some reasonable constraints. However, it is still unclear how demanding these techniques are for a quantum experimental sampler. Starting from a state of the art analysis and taking account of the foreseeable practical limitations, we evaluate and discuss the bound for \textit{quantum supremacy} for different recently proposed approaches, accordingly to today's best known classical simulators.
+
+id: 1610.02298
+title: Spatial multiplexing of atom-photon entanglement sources using feed-forward controls and switching networks
+authors: Long Tian, Zhongxiao Xu, Lirong Chen, Wei Ge, Haoxiang Yuan, Yafei Wen, Shengzhi Wang, Shujing Li, Hai Wang
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.02298
+abstract: The light-matter quantum interface that can probabilistically create quantum-correlation or entanglement between a photon and one atomic collective excitation is a fundamental building block for quantum repeater. The intrinsic limit is that the preparation for the atom-photon nonclassical-correlation has to be kept low probability in order to suppress multi-excitations. To enhance this probability without introducing multi-excitation errors, a promising scheme is to apply multimode memories into the quantum interface. Significant progresses have been made in temporal, spectral, and spatial multiplexing memories, but the preparation for the atom-photon quantum-correlation or entanglement with an enhanced probability has not been experimentally realized. Here, by using 6 spin-wave-photon entanglement sources, a switching network and feed-forward controls, we build a multiplexed light-matter interface and then demonstrate a ~6-fold (~4-fold) probability increase in generating entangled atom-photon (photon-photon) pairs. The measured compositive Bell parameter for the multiplexed interface is 2.49 and memory lifetime up to ~66 microseconds.
+
+id: 1610.02312
+title: Macroscopic and Microscopic Thermal Equilibrium
+authors: Sheldon Goldstein, David A. Huse, Joel L. Lebowitz, Roderich Tumulka
+comments: 35 pages LaTeX, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech)
+url: http://www.arxiv.org/abs/1610.02312
+abstract: We study the nature of and approach to thermal equilibrium in isolated quantum systems. An individual isolated macroscopic quantum system in a pure or mixed state is regarded as being in thermal equilibrium if all macroscopic observables assume rather sharply the values obtained from thermodynamics. Of such a system (or state) we say that it is in macroscopic thermal equilibrium (MATE). A stronger requirement than MATE is that even microscopic observables (i.e., ones referring to a small subsystem) have a probability distribution in agreement with that obtained from the micro-canonical, or equivalently the canonical, ensemble for the whole system. Of such a system we say that it is in microscopic thermal equilibrium (MITE). The distinction between MITE and MATE is particularly relevant for systems with many-body localization (MBL) for which the energy eigenfuctions fail to be in MITE while necessarily most of them, but not all, are in MATE. However, if we consider superpositions of energy eigenfunctions (i.e., typical wave functions $\psi$) in an energy shell, then for generic macroscopic systems, including those with MBL, most $\psi$ are in both MATE and MITE. We explore here the properties of MATE and MITE and compare the two notions, thereby elaborating on ideas introduced in [Goldstein et al., Phys.Rev.Lett. 115: 100402 (2015)].
+
+id: 1610.02344
+title: Engineering the Frequency Spectrum of Bright Squeezed Vacuum via Group Velocity Dispersion in an SU(1,1) Interferometer
+authors: Samuel Lemieux, Mathieu Manceau, Polina R. Sharapova, Olga V. Tikhonova, Robert W. Boyd, Gerd Leuchs, Maria V. Chekhova
+comments: 6 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.02344
+abstract: Bright squeezed vacuum, a promising tool for quantum information, can be generated by high-gain parametric down-conversion. However, its frequency and angular spectra are typically quite broad, which is undesirable for applications requiring single-mode radiation. We tailor the frequency spectrum of high-gain parametric down-conversion using an SU(1,1) interferometer consisting of two nonlinear crystals with a dispersive medium separating them. The dispersive medium allows us to select a narrow band of the frequency spectrum to be exponentially amplified by high-gain parametric amplification. The frequency spectrum is thereby narrowed from (56.5 +- 0.1) to (1.22 +- 0.02) THz and, in doing so, the number of frequency modes is reduced from approximately 50 to 1.82 +- 0.02. Moreover, this method provides control and flexibility over the spectrum of the generated light through the timing of the pump.
+
+id: 1610.02356
+title: Sensitivity, quantum limits, and quantum enhancement of noise spectroscopies
+authors: Vito Giovanni Lucivero, Aleksandra Dimic, Jia Kong, Ricardo Jim¨¦nez-Mart¨ªnez, Morgan W. Mitchell
+comments: 5 pages, 4 figures and Supplementary
+journal: 
+subjects: Quantum Physics (quant-ph); Atomic Physics (physics.atom-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1610.02356
+abstract: We study the fundamental limits of noise spectroscopy using estimation theory, Faraday rotation probing of an atomic spin system, and squeezed light. We find a simple and general expression for the Fisher information, which quantifies the sensitivity to spectral parameters such as resonance frequency and linewidth. For optically-detected spin noise spectroscopy, we find that shot noise imposes "local" standard quantum limits for any given probe power and atom number, and also "global" standard quantum limits when probe power and atom number are taken as free parameters. We confirm these estimation theory results using non-destructive Faraday rotation probing of hot Rb vapor, observing the predicted optima and finding good quantitative agreement with a first-principles calculation of the spin noise spectra. Finally, we show sensitivity beyond the atom- and photon-number-optimized global standard quantum limit using squeezed light.
+
+id: 1610.02393
+title: New theory of diffusive and coherent nature of optical wave via a quantum walk
+authors: Yusuke Ide, Norio Konno, Shigeki Matsutani, Hideo Mitsuhashi
+comments: 9 pages, 15 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.02393
+abstract: We propose a new theory on a relation between diffusive and coherent nature in one dimensional wave mechanics based on a quantum walk. It is known that the quantum walk in homogeneous matrices provides the coherent property of wave mechanics. Using the recent result of a localization phenomenon in a one-dimensional quantum walk (Konno, Quantum Inf. Proc. (2010) 9, 405-418), we numerically show that the randomized localized matrices suppress the coherence and give diffusive nature.
+
+id: 1610.02086
+title: Electron quantum optics as quantum signal processing
+authors: B. Roussel, C. Cabart, G. F¨¨ve, E. Thibierge, P. Degiovanni
+comments: 18 pages, 9 figures, prepared for Physical Status Solidi focus issue on 'Single-electron control in solid-state devices'
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.02086
+abstract: The recent developments of electron quantum optics in quantum Hall edge channels have given us new ways to probe the behavior of electrons in quantum conductors. It has brought new quantities called electronic coherences under the spotlight. In this paper, we explore the relations between electron quantum optics and signal processing through a global review of the various methods for accessing single- and two-electron coherences in electron quantum optics. We interpret electron quantum optics interference experiments as analog signal processing converting quantum signals into experimentally observable quantities such as current averages and correlations. This point of view also gives us a procedure to obtain quantum information quantities from electron quantum optics coherences. We illustrate these ideas by discussing two mode entanglement in electron quantum optics. We also sketch how signal processing ideas may open new perspectives for representing electronic coherences in quantum conductors and understand the properties of the underlying many-body electronic state.
+
+id: 1610.02134
+title: Loop Quantum Gravity, Exact Holographic Mapping, and Holographic Entanglement Entropy
+authors: Muxin Han, Ling-Yan Hung
+comments: 26+1 pages, 5 figures
+journal: 
+subjects: High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.02134
+abstract: The relation between Loop Quantum Gravity (LQG) and tensor network is explored from the perspectives of bulk-boundary duality and holographic entanglement entropy. We find that the LQG spin-network states in a space $\Sigma$ with boundary $\partial\Sigma$ is an exact holographic mapping similar to the proposal in arXiv:1309.6282. The tensor network, understood as the boundary quantum state, is the output of the exact holographic mapping emerging from a coarse graining procedure of spin-networks. Furthermore, when a region $A$ and its complement $\bar{A}$ are specified on the boundary $\partial\Sigma$, we show that the boundary entanglement entropy $S(A)$ of the emergent tensor network satisfies the Ryu-Takayanagi formula in the semiclassical regime, i.e. $S(A)$ is proportional to the minimal area of the bulk surface attached to the boundary of $A$ in $\partial\Sigma$.
+
+id: 1308.2812
+title: Light-matter decoupling in the deep strong coupling regime: The breakdown of the Purcell effect
+authors: Simone De Liberato
+comments: 
+journal: Phys. Rev. Lett. 112, 016401 (2014)
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1308.2812
+abstract: 
+
+id: 1507.08658
+title: A Quantum Model for Entropic Springs
+authors: Chiao-Hsuan Wang, Jacob M. Taylor
+comments: 7 pages, 4 figures
+journal: Phys. Rev. B 93, 214102 (2016)
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech)
+url: http://www.arxiv.org/abs/1507.08658
+abstract: 
+
+id: 1508.00857
+title: A projective Dirac operator on $\mathbb{C}P^n$ and extended SUSY
+authors: Idrish Huet, Julieta Medina
+comments: 26 pages, new section added, minor improvements
+journal: 
+subjects: High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1508.00857
+abstract: 
+
+id: 1508.02368
+title: Stronger entanglement conditions based on redefined Stokes parameters for quantum optical fields
+authors: Marek Zukowski, Wieslaw Laskowski, Marcin Wiesniak
+comments: 7 pages, 2 figures, revised version, acknowledgments updated
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1508.02368
+abstract: 
+
+id: 1509.00454
+title: Simple criteria for noise resistance of two qudit entanglement
+authors: Arijit Dutta, Junghee Ryu, Wieslaw Laskowski, Marek Zukowski
+comments: 10 pages, 5 figures, journal version, acknowledgments updated
+journal: Phys. Lett. A 380, 2191 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1509.00454
+abstract: 
+
+id: 1512.04769
+title: On unitary reconstruction of linear optical networks
+authors: Max Tillmann, Christian Schmidt, Philip Walther
+comments: 
+journal: J. Opt. 18 114002 (2016)
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1512.04769
+abstract: 
+
+id: 1601.07320
+title: A relational approach to quantum reference frames for spins
+authors: Jacques Pienaar
+comments: 6 pages. Main results heavily revised and reduced due to an error in the previous version. May still be of interest to researchers pursuing a similar approach
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.07320
+abstract: 
+
+id: 1603.07678
+title: Basic circuit compilation techniques for an ion-trap quantum machine
+authors: Dmitri Maslov
+comments: 17 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Emerging Technologies (cs.ET)
+url: http://www.arxiv.org/abs/1603.07678
+abstract: 
+
+id: 1605.00127
+title: Holographic Software for Quantum Networks
+authors: Arthur Jaffe, Zhengwei Liu, Alex Wozniakowski
+comments: 23 pages
+journal: 
+subjects: Quantum Physics (quant-ph); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph); Operator Algebras (math.OA); Quantum Algebra (math.QA)
+url: http://www.arxiv.org/abs/1605.00127
+abstract: 
+
+id: 1605.01124
+title: Super-radiant phase transition in superconducting circuit in thermal equilibrium
+authors: Motoaki Bamba, Kunihiro Inomata, Yasunobu Nakamura
+comments: 8 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.01124
+abstract: 
+
+id: 1606.01898
+title: Adiabatic Quantum Search in Open Systems
+authors: Dominik S. Wild, Sarang Gopalakrishnan, Michael Knap, Norman Y. Yao, Mikhail D. Lukin
+comments: Accepted version. 6 pages, 2 figures, 10 pages supplemental materials
+journal: 
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech)
+url: http://www.arxiv.org/abs/1606.01898
+abstract: 
+
+id: 1606.02390
+title: Volume monogamy of quantum steering ellipsoids for multi-qubit systems
+authors: Shuming Cheng, Antony Milne, Michael J. W. Hall, Howard M. Wiseman
+comments: 8 pages, 2 figures. Add some Refs and a conjecture
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1606.02390
+abstract: 
+
+id: 1606.04326
+title: Thermodynamic deficiencies of some simple Lindblad operators
+authors: J¨¹rgen T. Stockburger, Thomas Motz
+comments: 7 pages, 3 figures, invited contribution to special volume "FQMT'15: Frontiers of Quantum and Mesoscopic Thermodynamics (Prague, Czech Republic, 27 July - 1 August 2015)". v2: minor corrections, one additional reference
+journal: 
+subjects: Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1606.04326
+abstract: 
+
+id: 1606.08120
+title: Thermic effects on the resonance fluorescence of doubly dressed artificial atoms
+authors: David F. Macias-Pinilla, Hanz Y. Ram¨ªrez
+comments: Preliminar draft
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
+url: http://www.arxiv.org/abs/1606.08120
+abstract: 
+
+id: 1608.03844
+title: Laser-driven recollisions under the Coulomb barrier
+authors: Th. Keil, S.V. Popruzhenko, D. Bauer
+comments: 5 pages, 2 figures, RevTeX 4.1
+journal: 
+subjects: Atomic Physics (physics.atom-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.03844
+abstract: 
+
+id: 1609.03866
+title: Spin-0 to Spin-1/2 Deterministic Dynamics: From Relativistic Quantum Potential to Quantum Stress Tensor
+authors: David L. Bartley
+comments: Several typos corrected. Presentation of the "quasi-comedic" supplementary info in the appendix improved slightly
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1609.03866
+abstract: 
+
+id: 1610.00138
+title: Cooperative resonances in light scattering from two-dimensional atomic arrays
+authors: Ephraim Shahmoon, Dominik S. Wild, Mikhail D. Lukin, Susanne F. Yelin
+comments: 5 pages, 4 figures + Supplemental Document
+journal: 
+subjects: Quantum Physics (quant-ph); Atomic Physics (physics.atom-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1610.00138
+abstract: 
+
+id: 1610.01682
+title: High-dimensional decoy-state quantum key distribution over 0.3 km of multicore telecommunication optical fibers
+authors: G. Ca?as, N. Vera, J. Cari?e, P. Gonz¨¢lez, J. Cardenas, P. W. R. Connolly, A. Przysiezna, E. S. G¨®mez, M. Figueroa, G. Vallone, P. Villoresi, T. Ferreira da Silva, G. B. Xavier, G. Lima
+comments: Please see the complementary work arXiv:1610.01812 (2016)
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.01682
+abstract: 
+
+id: 1610.01812
+title: High-Dimensional Quantum Key Distribution based on Multicore Fiber using Silicon Photonic Integrated Circuits
+authors: Yunhong Ding, Davide Bacco, Kjeld Dalgaard, Xinlun Cai, Xiaoqi Zhou, Karsten Rottwitt, Leif Katsuo Oxenl?we
+comments: Please see the complementary work arXiv:1610.01682 (2016)
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1610.01812
+abstract: 
+
+id: 1610.01920
+title: Optimal Separation in Exact Query Complexities for Simon's Problem
+authors: Guangya Cai, Daowen Qiu
+comments: 14 pages; comments are welcome
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC)
+url: http://www.arxiv.org/abs/1610.01920
+abstract: 
+

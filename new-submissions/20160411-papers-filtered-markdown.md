@@ -1,0 +1,27 @@
+---
+layout: arxiv
+title: 202016 Filtered arXiv Papers
+---
+
+**1.    A quantum walk on the half line with a particular initial state**  
+Takuya Machida  
+http://www.arxiv.org/abs/1604.02227  
+<blockquote>
+<p>
+Quantum walks are considered to be quantum counterparts of random walks.They show us impressive probability distributions which are different from those of random walks.That fact has been precisely proved in terms of mathematics and some of the results were reported as limit theorems.When we analyze quantum walks, some conventional methods are used for the computations.Especially, the Fourier analysis has played a role to do that.It is, however, compatible with some types of quantum walks (e.g. quantum walks on the line with a spatially homogeneous dynamics) and can not well work on the derivation of limit theorems for all the quantum walks.In this paper we try to obtain a limit theorem for a quantum walk on the half line by the usage of the Fourier analysis.Substituting a quantum walk on the line for it, we will lead to a possibility that the Fourier analysis is useful to compute a limit distribution of the quantum walk on the half line.
+</p>
+</blockquote>
+
+------
+
+**2.    Virtually Abelian Quantum Walks**  
+Giacomo Mauro D'Ariano, Marco Erba, Paolo Perinotti, Alessandro Tosini  
+http://www.arxiv.org/abs/1511.03992  
+<blockquote>
+<p>
+
+</p>
+</blockquote>
+
+------
+

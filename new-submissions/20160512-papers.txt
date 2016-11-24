@@ -1,0 +1,396 @@
+id: 1605.03250
+title: Universal quantum computation with a nonlinear oscillator network
+authors: Hayato Goto
+comments: 5 pages, 4 figures
+journal: Phys. Rev. A 93, 050301(R) (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.03250
+abstract: It has recently been shown that a parametrically driven oscillator with Kerr nonlinearity yields a Schr\"odinger cat state via quantum adiabatic evolution through its bifurcation point and a network of such nonlinear oscillators can be used for solving combinatorial optimization problems by bifurcation-based adiabatic quantum computation [H. Goto, Sci. Rep. \textbf{6}, 21686 (2016)]. Here we theoretically show that such a nonlinear oscillator network with controllable parameters can also be used for universal quantum computation. The initialization is achieved by a quantum-mechanical bifurcation based on quantum adiabatic evolution, which yields a Schr\"odinger cat state. All the elementary quantum gates are also achieved by quantum adiabatic evolution, in which dynamical phases accompanying the adiabatic evolutions are controlled by the system parameters. Numerical simulation results indicate that high gate fidelities can be achieved, where no dissipation is assumed.
+
+id: 1605.03266
+title: A Quantum Approach to the Unique Sink Orientation Problem
+authors: Dave Bacon
+comments: 5 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC); Data Structures and Algorithms (cs.DS)
+url: http://www.arxiv.org/abs/1605.03266
+abstract: We consider quantum algorithms for the unique sink orientation problem on cubes. This problem is widely considered to be of intermediate computational complexity. This is because there no known polynomial algorithm (classical or quantum) from the problem and yet it arrises as part of a series of problems for which it being intractable would imply complexity theoretic collapses. We give a reduction which proves that if one can efficiently evaluate the kth power of the unique sink orientation outmap, then there exists a polynomial time quantum algorithm for the unique sink orientation problem on cubes.
+
+id: 1605.03343
+title: Solving the two dimensional Schr?dinger equation using basis truncation: a controversial case
+authors: J. Batle
+comments: Manuscript rejected from pedagogical physics journals (with a colorful spectrum of answers). Comments are welcome
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.03343
+abstract: Solutions of the Schr\"odinger equation by spanning the wave function is a complete basis is a common practice is many-body interacting systems. We shall study the case of a two-dimensional quantum system composed by two interacting spin-less electrons and see that the correctness of the matrix approach depends inexplicably on the type of interaction existing between particles.
+
+id: 1605.03350
+title: A direct approach to Gaussian measurement based quantum computation
+authors: Giulia Ferrini, Jonathan Roslund, Francesco Arzani, Claude Fabre, Nicolas Treps
+comments: 9 pages, 2 figures; Part of this work was contained in an earlier version of an arXiv manuscript, arXiv:1407.5318v1, which included two conceptually different topics. One has been published in Phys. Rev. A (Doi: 10.1103/PhysRevA.91.032314, see also arXiv:1407.5318v2), and the other one, extended and refined, is the object of the present manuscript
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.03350
+abstract: In this work we introduce a general scheme for measurement based quantum computation in continuous variables. Our approach does not necessarily rely on the use of ancillary cluster states to achieve its aim, but rather on the detection of a resource state in a suitable mode basis followed by digital post-processing, and involves an optimization of the adjustable experimental parameters. After introducing the general method, we present some examples of application to simple specific computations.
+
+id: 1605.03429
+title: Gaussian entanglement distribution with GHz bandwidth
+authors: Stefan Ast, Melanie Ast, Moritz Mehmet, Roman Schnabel
+comments: 5 pages, 3 figures, submitted to Optics Letters
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1605.03429
+abstract: The distribution of Gaussian entanglement can be used to generate a mathematically-proven secure key for quantum cryptography. The distributed secret key rate is limited by the bandwidth of the nonlinear resonators used for entanglement generation, which is less than 100 MHz for current state-of-the-art setups. The development of an entanglement source with a higher bandwidth promises an increased measurement speed and a linear boost in the secure data rate. Here, we present the experimental realization of a continuous-variable entanglement source with a bandwidth of more than 1.25 GHz. The measured entanglement spectrum was quantified via the inseparability criterion introduced by Duan and coworkers with a critical value of 4 below which entanglement is certified. The measurements yielded an inseparability value of about 1.8 at a frequency of 300 MHz to about 2.8 at 1.2 GHz extending further to about 3.1 at 1.48 GHz. In the experiment we used two 2.6 mm long monolithic PPKTP crystal resonators to generate two squeezed fields at the telecommunication wavelength of 1550 nm. The experimentally achieved entanglement strength was mainly limited by the total optical detection efficiency of 59% in the set-up as well as by the injected pump power of the nonlinear process for the entanglement generation.
+
+id: 1605.03534
+title: Time, classical and quantum
+authors: Paolo Aniello, Florio Maria Ciaglia, Fabio Di Cosmo, Giuseppe Marmo, Juan Manuel P¨¦rez-Pardo
+comments: 14 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.03534
+abstract: We propose a new point of view regarding the problem of time in quantum mechanics, based on the idea of replacing the usual time operator $\mathbf{T}$ with a suitable real-valued function $T$ on the space of physical states. The proper characterization of the function $T$ relies on a particular relation with the dynamical evolution of the system rather than with the infinitesimal generator of the dynamics (Hamiltonian). We first consider the case of classical Hamiltonian mechanics, where observables are functions on phase space and the tools of differential geometry can be applied. The idea is then extended to the case of the unitary evolution of pure states of finite-level quantum systems by means of the geometric formulation of quantum mechanics. It is found that $T$ is a function on the space of pure states which is not associated to any self-adjoint operator. The link between $T$ and the dynamical evolution is interpreted as defining a simultaneity relation for the states of the system with respect to the dynamical evolution itself. It turns out that different dynamical evolutions lead to different notions of simultaneity, i.e., the notion of simultaneity is a dynamical notion.
+
+id: 1605.03539
+title: Sublattice signatures of transitions in a $\mathcal{PT}$-symmetric dimer lattice
+authors: Andrew K. Harter, Yogesh N. Joglekar
+comments: 13 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Other Condensed Matter (cond-mat.other); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1605.03539
+abstract: Lattice models with non-hermitian, parity and time-reversal ($\mathcal{PT}$) symmetric Hamiltonians, realized most readily in coupled optical systems, have been intensely studied in the past few years. A $\mathcal{PT}$-symmetric dimer lattice consists of dimers with intra-dimer coupling $\nu$, inter-dimer coupling $\nu'$, and balanced gain and loss potentials $\pm i\gamma$ within each dimer. This model undergoes two independent transitions, namely a $\mathcal{PT}$-breaking transition and a topological transition. We numerically and analytically investigate the signatures of these transitions in the time-evolution of states that are initially localized on the gain-site or the loss-site.
+
+id: 1605.03564
+title: Combinatorial Entanglement
+authors: Joshua Lockhart, Simone Severini
+comments: 53 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Combinatorics (math.CO)
+url: http://www.arxiv.org/abs/1605.03564
+abstract: We present new combinatorial objects, which we call grid-labelled graphs, and show how these can be used to represent the quantum states arising in a scenario which we refer to as the faulty emitter scenario: we have a machine designed to emit a particular quantum state on demand, but which can make an error and emit a different one. The device is able to produce a list of candidate states which can be used as a kind of debugging information for testing entanglement. By reformulating the Peres-Horodecki and matrix realignment criteria we are able to capture some characteristic features of entanglement: we construct new bound entangled states, and demonstrate the limitations of matrix realignment. We show how the notion of LOCC is related to a generalisation of the graph isomorphism problem. We give a simple proof that asymptotically almost surely, grid-labelled graphs associated to very sparse density matrices are entangled. We develop tools for enumerating grid-labelled graphs that satisfy the Peres-Horodecki criterion up to a fixed number of vertices, and propose various computational problems for these objects, whose complexity remains an open problem. The proposed mathematical framework also suggests new combinatorial and algebraic ways for describing the structure of graphs.
+
+id: 1605.03177
+title: Engineering topological materials in microwave cavity arrays
+authors: Brandon M. Anderson, Ruichao Ma, Clai Owens, David I. Schuster, Jonathan Simon
+comments: 
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.03177
+abstract: We present a scalable architecture for the exploration of interacting topological phases of photons in arrays of microwave cavities, using established techniques from cavity and circuit quantum electrodynamics. A time-reversal symmetry breaking (non-reciprocal) flux is induced by coupling the microwave cavities to ferrites, allowing for the production of a variety of topological band structures including the $\alpha=1/4$ Hofstadter model. Effective photon-photon interactions are included by coupling the cavities to superconducting qubits, and are sufficient to produce a $\nu=1/2$ bosonic Laughlin puddle. We demonstrate by exact diagonalization that this architecture is robust to experimentally achievable levels of disorder. These advances provide an exciting opportunity to employ the quantum circuit toolkit for the exploration of strongly interacting topological materials.
+
+id: 1605.03288
+title: Path-integral action of a particle in the noncommutative phase-space
+authors: Sunandan Gangopadhyay, Aslam Halder
+comments: 9 pages Latex
+journal: 
+subjects: High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.03288
+abstract: In this paper we construct a path integral formulation of quantum mechanics on noncommutative phase-space. We first map the system to an equivalent system on the noncommutative plane. Then by applying the formalism of representing a quantum system in the space of Hilbert-Schmidt operators acting on noncommutative configuration space, the path integral action of a particle is derived. It is observed that the action has a similar form to that of a particle in a magnetic field in the noncommutative plane. From this action the energy spectrum is obtained for the free particle and the harmonic oscillator potential. We also show that the nonlocal nature (in time) of the action yields a second class constrained system from which the noncommutative Heisenberg algebra can be recovered.
+
+id: 1605.03303
+title: Retrieving the ground state of spin glasses using thermal noise: Performance of quantum annealing at finite temperatures
+authors: Kohji Nishimura, Hidetoshi Nishimori, Andrew J. Ochoa, Helmut G. Katzgraber
+comments: 9 pages, 5 figures
+journal: 
+subjects: Disordered Systems and Neural Networks (cond-mat.dis-nn); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.03303
+abstract: We study the problem to infer the ground state of a spin-glass Hamiltonian using data from a Hamiltonian with interactions disturbed by noise, motivated by the ground-state inference in quantum annealing on a noisy device. It is shown that the ground state is best inferred when the temperature of the noisy system is kept at a finite value, and not at zero temperature. We present a spin-glass generalization of a well-established result that the ground state of a purely ferromagnetic Hamiltonian is best inferred at a finite temperature when the original ferromagnetic interactions are disturbed by noise. We use the numerical transfer-matrix method to establish the existence of an optimal finite temperature in one- and two-dimensional systems. Our numerical results are supported by mean-field calculations, which give an explicit expression of the optimal temperature to infer the spin-glass ground state as a function of variances of the distributions of the original interactions and the noise. The mean-field prediction is in qualitative agreement with numerical data. Implications on post-processing of quantum annealing on a noisy device are discussed.
+
+id: 1605.03417
+title: Coherent electron transport in a helical nanotube
+authors: Guo-Hua Liang, Yong-Long Wang, Long Du, Hua Jiang, Guang-Zhen Kang, Hong-Shi Zong
+comments: 11 pages, 9 figures
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.03417
+abstract: The quantum dynamics of carriers bound to helical tube surfaces is investigated in a thin-layer quantization scheme. By numerically solving the open-boundary Schr$\ddot{\rm o}$dinger equation in curvilinear coordinates, geometric effect on the coherent transmission spectra is analysed in the case of single propagating mode as well as multimode. It is shown that, the coiling endows the helical nanotube with different transport properties from a bent cylindrical surface. Fano resonance appears as a purely geometric effect in the conductance, the corresponding energy of quasibound state is obviously influenced by the torsion and length of the nanotube. We also find new plateaus in the conductance. The transport of double-degenerate mode in this geometry is reminiscent of the Zeeman coupling between the magnetic field and spin angular momentum in quasi-one-dimensional structure.
+
+id: 1605.03420
+title: Time-resolved statistics of photon pairs in two-cavity Josephson photonics
+authors: Simon Dambach, Bj?rn Kubala, Joachim Ankerhold
+comments: 9 pages, 7 figures, submitted for the FQMT15 special volume of Fortschritte der Physik
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Superconductivity (cond-mat.supr-con); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.03420
+abstract: We analyze the creation and emission of pairs of highly nonclassical microwave photons in a setup where a voltage-biased Josephson junction is connected in series to two electromagnetic oscillators. Tuning the external voltage such that the Josephson frequency equals the sum of the two mode frequencies, each tunneling Cooper pair creates one additional photon in both of the two oscillators. The time-resolved statistics of photon emission events from the two oscillators is investigated by means of single-oscillator and cross-oscillator variants of the second-order correlation function $g^{(2)}(\tau)$ and the waiting-time distribution $w(\tau)$. They provide insight into the strongly correlated quantum dynamics of the two oscillator subsystems and reveal a rich variety of quantum features of light including strong antibunching and the presence of negative values in the Wigner function.
+
+id: 1605.03489
+title: Real-time shot-noise-limited differential photodetection for atomic quantum control
+authors: F. Martin Ciurana, G. Colangelo, Robert J. Sewell, M.W. Mitchell
+comments: 5 pages, 4 figures
+journal: 
+subjects: Optics (physics.optics); Atomic Physics (physics.atom-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.03489
+abstract: We demonstrate high-efficiency, shot-noise-limited differential photodetection with real-time signal conditioning, suitable for feedback-based quantum control of atomic systems. The detector system has quantum efficiency of 0.92, is shot-noise limited from 7.4 x 10^5 to 3.7 x 10^8 photons per pulse, and provides real-time voltage-encoded output at up to 2.3 Mpulses per second.
+
+id: 1605.03517
+title: Super Bloch Oscillation in a PT symmetric system
+authors: Z. Turker, C. Yuce
+comments: To appear in Phys. Let. A
+journal: 
+subjects: Optics (physics.optics); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.03517
+abstract: Wannier-Stark ladder in a PT symmetric system is generally complex that leads to amplified/damped Bloch oscillation. We show that a non-amplified wave packet oscillation with very large amplitude can be realized in a non-Hermitian tight binding lattice if certain conditions are satisfied. We show that pseudo PT symmetry guarantees the reality of the quasi energy spectrum in our system.
+
+id: 1210.4323
+title: Necessary and sufficient condition for quantum adiabatic evolution by unitary control fields
+authors: Zhen-Yu Wang, Martin B. Plenio
+comments: 
+journal: Phys. Rev. A 93, 052107 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1210.4323
+abstract: 
+
+id: 1502.06967
+title: Computing the Degenerate Ground Space of Gapped Spin Chains in Polynomial Time
+authors: Christopher T. Chubb, Steven T. Flammia
+comments: 33 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Strongly Correlated Electrons (cond-mat.str-el); Data Structures and Algorithms (cs.DS)
+url: http://www.arxiv.org/abs/1502.06967
+abstract: 
+
+id: 1505.03423
+title: Cross-Phase Modulation Enhancement Via a Resonating Cavity: Semiclassical Description
+authors: Juli¨¢n Mart¨ªnez-Rinc¨®n, John C. Howell
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Atomic Physics (physics.atom-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1505.03423
+abstract: 
+
+id: 1506.01484
+title: Evaluation of entanglement measures by a single observable
+authors: Chengjie Zhang, Sixia Yu, Qing Chen, Haidong Yuan, C.H. Oh
+comments: 11 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1506.01484
+abstract: 
+
+id: 1506.07478
+title: "Photonic" cat states from strongly interacting matter waves
+authors: Uwe R. Fischer, Myung-Kyun Kang
+comments: 12 pages including the supplement, 1+3 figures; Schr\"odinger removed from the title at the request of PRL editors
+journal: Phys. Rev. Lett. 115, 260404 (2015)
+subjects: Quantum Physics (quant-ph); Quantum Gases (cond-mat.quant-gas)
+url: http://www.arxiv.org/abs/1506.07478
+abstract: 
+
+id: 1506.07502
+title: Sifting attacks in finite-size quantum key distribution
+authors: Corsin Pfister, Norbert L¨¹tkenhaus, Stephanie Wehner, Patrick J. Coles
+comments: Published version. 14+22 pages
+journal: New J. Phys. 18 053001 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1506.07502
+abstract: 
+
+id: 1507.06545
+title: Anti- (Conjugate) Linearity
+authors: Armin Uhlmann
+comments: 88 pages, comments and remarks are wellcome
+journal: SCIENCE CHINA Pysics, Mechanics & Astronomy, 59, 3 (2016) 630301
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1507.06545
+abstract: 
+
+id: 1508.06099
+title: Quantum Thermodynamics
+authors: Sai Vinjanampathy, Janet Anders
+comments: 48 pages, improved and expanded several sections. Comments welcome
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1508.06099
+abstract: 
+
+id: 1509.03770
+title: Practical Bayesian Tomography
+authors: Christopher Granade, Joshua Combes, D. G. Cory
+comments: 25 pages, quite a lot of figures, two videos, a tutorial, and a partridge in a pear tree
+journal: New J. Phys. 18, 033024 (2016)
+subjects: Quantum Physics (quant-ph); Data Analysis, Statistics and Probability (physics.data-an); Applications (stat.AP)
+url: http://www.arxiv.org/abs/1509.03770
+abstract: 
+
+id: 1510.01106
+title: Fundamental Speed Limits to the Generation of Quantumness
+authors: Jun Jing, Lian-Ao Wu, Adolfo del Campo
+comments: 6 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.01106
+abstract: 
+
+id: 1510.02811
+title: Positioning Nuclear Spins in Interacting Clusters for Quantum Technologies and Bio-imaging
+authors: Zhen-Yu Wang, Jan F. Haase, Jorge Casanova, Martin B. Plenio
+comments: 
+journal: Phys. Rev. B 93, 174104 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.02811
+abstract: 
+
+id: 1510.04048
+title: Optimizing qubit resources for quantum chemistry simulations in second quantization on a quantum computer
+authors: Nikolaj Moll, Andreas Fuhrer, Peter Staar, Ivano Tavernelli
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.04048
+abstract: 
+
+id: 1510.09081
+title: The Kraus representation for the dynamics of open quantum systems
+authors: Jonas Maziero
+comments: Didactic text, in Portuguese
+journal: Rev. Bras. Ensino Fis. 38, e2307 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.09081
+abstract: 
+
+id: 1511.01237
+title: The effect of entanglement in gravitational photon-photon scattering
+authors: Dennis R?tzel, Martin Wilkens, Ralf Menzel
+comments: 6 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph); General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Phenomenology (hep-ph); High Energy Physics - Theory (hep-th)
+url: http://www.arxiv.org/abs/1511.01237
+abstract: 
+
+id: 1511.06864
+title: Effective Floquet-Gibbs states for dissipative quantum systems
+authors: Tatsuhiko Shirai, Juzar Thingna, Takashi Mori, Sergey Denisov, Peter H?nggi, Seiji Miyashita
+comments: 21 pages, 9 figures
+journal: New. J. Phys. 18, 053008 (2016)
+subjects: Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1511.06864
+abstract: 
+
+id: 1512.00805
+title: Entanglement entropy across the superfluid-insulator transition : a signature of bosonic criticality
+authors: Ir¨¦n¨¦e Fr¨¦rot, Tommaso Roscilde
+comments: 13 pages, 7 figures
+journal: Phys. Rev. Lett., 116, 190401, 2016 (May)
+subjects: Strongly Correlated Electrons (cond-mat.str-el); Quantum Gases (cond-mat.quant-gas); Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.00805
+abstract: 
+
+id: 1512.02886
+title: Radiative processes of uniformly accelerated entangled atoms
+authors: G. Menezes, N. F. Svaiter
+comments: Accepted for publication in Physical Review A. arXiv admin note: text overlap with arXiv:gr-qc/9408019 by other authors
+journal: 
+subjects: High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.02886
+abstract: 
+
+id: 1512.04993
+title: Complexity, action, and black holes
+authors: Adam R. Brown, Daniel A. Roberts, Leonard Susskind, Brian Swingle, Ying Zhao
+comments: 55+14 pages, many figures. v2: (so many) typos fixed, references added
+journal: Phys. Rev. D 93, 086006 (2016)
+subjects: High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.04993
+abstract: 
+
+id: 1512.07278
+title: Fano resonances control and slow light with Bose-Einstein Condensate in a nano cavity
+authors: M. Javed Akram, Fazal Ghafoor, M. Miskeen Khan, Farhan Saif
+comments: 9 pages, 9 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1512.07278
+abstract: 
+
+id: 1601.01471
+title: Dark-Bright Solitons in a Superfluid Bose-Fermi Mixture
+authors: Marek Tylutki, Alessio Recati, Franco Dalfovo, Sandro Stringari
+comments: 7 pages, 4 figures
+journal: New J. Phys. 18, 053014 (2016)
+subjects: Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.01471
+abstract: 
+
+id: 1601.06826
+title: Covert Communication over Classical-Quantum Channels
+authors: Azadeh Sheikholeslami, Boulat A. Bash, Donald Towsley, Dennis Goeckel, Saikat Guha
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Information Theory (cs.IT)
+url: http://www.arxiv.org/abs/1601.06826
+abstract: 
+
+id: 1602.01835
+title: Non-classical state generation in macroscopic systems via hybrid discrete-continuous quantum measurements
+authors: T. J. Milburn, M. S. Kim, M. R. Vanner
+comments: 13 pages, 6 figures, 3 pints, close to published version
+journal: Phys. Rev. A 93, 053818 (2016)
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1602.01835
+abstract: 
+
+id: 1602.03973
+title: Multi-Layer Multi-Configuration Time-Dependent Hartree (ML-MCTDH) Approach to the Correlated Exciton-Vibrational Dynamics in the FMO Complex
+authors: Jan Schulze, Mohamed Shibl, Mohammed Al-Marri, Oliver K¨¹hn
+comments: revised version
+journal: J. Chem. Phys. 144, 185101 (2016)
+subjects: Chemical Physics (physics.chem-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.03973
+abstract: 
+
+id: 1602.05654
+title: Detecting Majorana fermions by use of superconductor-quantum Hall liquid junctions
+authors: Zheng-Wei Zuo, Huijuan Li, Liben Li, L. Sheng, R. Shen, D. Y. Xing
+comments: 6 pages, 1 figure, Added references,Corrected typos
+journal: EPL 114(2016) 27001
+subjects: Strongly Correlated Electrons (cond-mat.str-el); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.05654
+abstract: 
+
+id: 1602.08437
+title: Energy Cost of Creating Quantum Coherence
+authors: Avijit Misra, Uttam Singh, Samyadeb Bhattacharya, Arun Kumar Pati
+comments: 8 pages, Accepted for publication in Physical Review A
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.08437
+abstract: 
+
+id: 1603.03555
+title: Efficient and pure femtosecond-pulse-length source of polarization-entangled photons
+authors: Morgan M. Weston, Helen M. Chrzanowski, Sabine Wollmann, Allen Boston, Joseph Ho, Lynden K. Shalm, Varun B. Verma, Michael S. Allman, Sae Woo Nam, Raj B. Patel, Sergei Slussarenko, Geoff J. Pryde
+comments: 16 pages, 4 figures
+journal: Opt. Express 24 (10), pp. 10869-10879 (2016)
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1603.03555
+abstract: 
+
+id: 1603.06641
+title: Nonperturbative approach to relativistic quantum communication channels
+authors: Andre G. S. Landulfo
+comments: 12 pages, Reference added, typos corrected. Minor changes to match the published version
+journal: Phys. Rev. D 93, 104019 (2016)
+subjects: General Relativity and Quantum Cosmology (gr-qc); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1603.06641
+abstract: 
+
+id: 1604.00343
+title: Correlation plenoptic imaging
+authors: Milena D'Angelo, Francesco V. Pepe, Augusto Garuccio, Giuliano Scarcelli
+comments: 6 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1604.00343
+abstract: 
+
+id: 1604.01401
+title: A Software Methodology for Compiling Quantum Programs
+authors: Thomas H?ner, Damian S. Steiger, Krysta Svore, Matthias Troyer
+comments: 
+journal: 
+subjects: Programming Languages (cs.PL); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.01401
+abstract: 
+

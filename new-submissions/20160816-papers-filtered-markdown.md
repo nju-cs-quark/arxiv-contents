@@ -1,0 +1,27 @@
+---
+layout: arxiv
+title: 202016 Filtered arXiv Papers
+---
+
+**1.    Coherent transport over an explosive percolation lattice**  
+?. Yal??nkaya, Z. Gedik  
+http://www.arxiv.org/abs/1608.03936  
+<blockquote>
+<p>
+We investigate coherent transport over a finite square lattice in which the growth of bond percolation clusters are subjected to an Achlioptas type selection process, i.e., whether a bond will be placed or not depends on the sizes of clusters it may potentially connect. Different than the standard percolation where the growth of discrete clusters are completely random, clusters in this case grow in correlation with one another. We show that certain values of correlation strength, if chosen in a way to suppress the growth of the largest cluster which actually results in an explosive growth later on, may lead to more efficient transports than in the case of standard percolation, satisfied that certain fraction of total possible bonds are present in the lattice. In this case transport efficiency obeys a power law in the vicinity of bond fraction where effective transport begins. It turns out that the higher correlation strengths may also reduce the efficiency as well. We also compare our results with those of the incoherent transport and examine the spreading of eigenstates of corresponing structures. We demonstrate that structural differences of discrete clusters due to different correlations result in different localization properties.
+</p>
+</blockquote>
+
+------
+
+**2.    Photon-blockade as protection in photosynthesis Antenna with cyclic structures**  
+Hui Dong, Sheng-Wen Li, Zhenhuan Yi, Girish S. Agarwal, Marlan O. Scully  
+http://www.arxiv.org/abs/1608.04364  
+<blockquote>
+<p>
+Excess energy absorbed by the light-harvesting antennas could be potentially harmful to the photosynthesis complexes. The biological system has developed various mechanisms, e.g. non-photon chemical quenching, to prevent these damages by dissipating energy into the surrounding environment. In additional to this well-known mechanism, we hypothesise a new protection mechanism of suppressing the probability of double excitation in photosynthesis system, where pigment-protein complexes form cyclic structures with dipole-dipole interaction between adjacent chlorophylls. We also demonstrate robustness of the photon blockade against the disorder in the ring structures. The photon blockade can explain the recent observation on the suppression of simultaneous emission of two photons in natural photosynthetic antennas.
+</p>
+</blockquote>
+
+------
+

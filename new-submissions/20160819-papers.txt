@@ -1,0 +1,342 @@
+id: 1608.05089
+title: Quantum Codes from High-Dimensional Manifolds
+authors: M. B. Hastings
+comments: 19 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1608.05089
+abstract: We construct toric codes on various high-dimensional manifolds. Assuming a conjecture in geometry we find families of quantum CSS stabilizer codes on $N$ qubits with logarithmic weight stabilizers and distance $N^{1-\epsilon}$ for any $\epsilon>0$. The conjecture is that there is a constant $C>0$ such that for any $n$-dimensional torus ${\mathbb T}^n={\mathbb R}^n/\Lambda$, where $\Lambda$ is a lattice, the least volume unoriented $n/2$-dimensional surface (using the Euclidean metric) representing nontrivial homology has volume at least $C^n$ times the volume of the least volume $n/2$-dimensional hyperplane representing nontrivial homology; in fact, it would suffice to have this result for $\Lambda$ an integral lattice with the surface restricted to faces of a cubulation by unit hypercubes. The main technical result is an estimate of Rankin invariants\cite{rankin} for certain random lattices, showing that in a certain sense they are optimal. Additionally, we construct codes with square-root distance, logarithmic weight stabilizers, and inverse polylogarithmic soundness factor (considered as quantum locally testable codes\cite{qltc}). We also provide an short, alternative proof that the shortest vector in the exterior power of a lattice may be non-split\cite{coulangeon}.
+
+id: 1608.05106
+title: Overcoming experimental limitations in a non-linear two-qubit gate through postselection
+authors: Juli¨¢n Mart¨ªnez-Rinc¨®n
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05106
+abstract: We introduce a modular-value two-qubit gate and explore its advantages in experimentally-limited situations. The gate is defined such that the final state of a target qubit is fully controlled by a pre- and post-selection procedure in a control qubit given an (imperfect or technically limited) intermediate conditional qubit-qubit interaction. As an example of the gate and its benefit, we make the connection to a postselection-conditioned cross phase modulation scenario when a undesired absorption is present. Probabilistic amplification of a small cross phase while mitigating relative absorption is possible, and a complementary behaviour between phase and amplitude emerges.
+
+id: 1608.05135
+title: Quantum routing of single optical photons with a superconducting flux qubit
+authors: Keyu Xia, Fedor Jelezko, Jason Twamley
+comments: 9 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Information Theory (cs.IT)
+url: http://www.arxiv.org/abs/1608.05135
+abstract: Controlling and swapping quantum information in a quantum coherent way between the microwave and optical regimes is essential for building long-range superconducting quantum networks but extremely challenging. We propose a hybrid quantum interface between the microwave and optical domains where the propagation of a single-photon pulse along a nanowaveguide is controlled in a coherent way by tuning electromagnetically induced transparency window with the quantum state of a flux qubit. The qubit can route a single-photon pulse with a single spin in nanodiamond into a quantum superposition of paths without the aid of an optical cavity - simplifying the setup. By preparing the flux qubit in a superposition state our cavity-less scheme creates a hybrid state-path entanglement between a flying single optical photon and a static superconducting qubit, and can conduct heralded quantum state transfer via measurement.
+
+id: 1608.05147
+title: Single-Photon Switching and Entanglement of Solid-State Qubits in an Integrated Nanophotonic System
+authors: Alp Sipahigil, Ruffin E. Evans, Denis D. Sukachev, Michael J. Burek, Johannes Borregaard, Mihir K. Bhaskar, Christian T. Nguyen, Jose L. Pacheco, Haig A. Atikian, Charles Meuwly, Ryan M. Camacho, Fedor Jelezko, Edward Bielejec, Hongkun Park, Marko Lon?ar, Mikhail D. Lukin
+comments: 15 pages and 5 figures. Supplementary Material, 36 pages and 10 figures, available as an ancillary file
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1608.05147
+abstract: Efficient interfaces between photons and quantum emitters form the basis for quantum networks and enable nonlinear optical devices operating at the single-photon level. We demonstrate an integrated platform for scalable quantum nanophotonics based on silicon-vacancy (SiV) color centers coupled to nanoscale diamond devices. By placing SiV centers inside diamond photonic crystal cavities, we realize a quantum-optical switch controlled by a single color center. We control the switch using SiV metastable orbital states and verify optical switching at the single-photon level by using photon correlation measurements. We use Raman transitions to realize a single-photon source with a tunable frequency and bandwidth in a diamond waveguide. Finally, we create entanglement between two SiV centers by detecting indistinguishable Raman photons emitted into a single waveguide. Entanglement is verified using a novel superradiant feature observed in photon correlation measurements, paving the way for the realization of quantum networks.
+
+id: 1608.05155
+title: Quantum random number generation enhanced by weak-coherent states interference
+authors: T. Ferreira da Silva, G. B. Xavier, G. C. Amaral, G. P. Tempor?o, J. P. von der Weid
+comments: 6 pages, 3 figures
+journal: Opt. Express 24, 19574 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05155
+abstract: We propose and demonstrate a technique for quantum random number generation based on the random population of the output spatial modes of a beam splitter when both inputs are simultaneously fed with indistinguishable weak coherent states. We simulate and experimentally validate the probability of generation of random bits as a function of the average photon number per input, and compare it to the traditional approach of a single weak coherent state transmitted through a beam-splitter, showing an improvement of up to 32\%. The ensuing interference phenomenon reduces the probability of coincident counts between the detectors associated with bits 0 and 1, thus increasing the probability of occurrence of a valid output. A long bit string is assessed by a standard randomness test suite with good confidence. Our proposal can be easily implemented and opens attractive performance gains without a significant trade-off.
+
+id: 1608.05188
+title: Quantum Entanglement Distribution in Next-Generation Wireless Communication Systems
+authors: Nedasadat Hosseinidehaj, Robert Malaney
+comments: 6 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05188
+abstract: In this work we analyze the distribution of quantum entanglement over communication channels in the millimeter-wave regime. The motivation for such a study is the possibility for next-generation wireless networks (beyond 5G) to accommodate such a distribution directly - without the need to integrate additional optical communication hardware into the transceivers. Future wireless communication systems are bound to require some level of quantum communications capability. We find that direct quantum-entanglement distribution in the millimeter-wave regime is indeed possible, but that its implementation will be very demanding from both a system-design perspective and a channel-requirement perspective.
+
+id: 1608.05208
+title: Lattice Surgery Translation for Quantum Computation
+authors: Daniel Herr, Franco Nori, Simon J. Devitt
+comments: code repository: this https URL
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05208
+abstract: In this paper we outline a method for a compiler to translate any non fault tolerant quantum circuit to the geometric representation of the lattice surgery error-correcting code using inherent merge and split operations. Since the efficiency of state distillation procedures has not yet been investigated in the lattice surgery model, their translation is given as an example using the proposed method. The resource requirements seem comparable to the defect-based state distillation process, but modularity and eventual implementability allow the lattice surgery model to be an interesting alternative to braiding.
+
+id: 1608.05213
+title: Super-quantum states in SU(2) invariant $3 \times N$ level systems
+authors: S. Adhikary, I. Panda, V. Ravishankar
+comments: 6 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05213
+abstract: Nonclassicality of quantum states is expressed in many shades, the most stringent of them being a new standard introduced recently in [Phys. Rev. A 89, 062110 (2014)]. This is accomplished by expanding the notion of local hidden variables (LHV) to generalised local hidden variables (GLHV), which renders many nonlocal states also classical. We investigate these super-quantum states (called exceptional in [Phys. Rev. A 89, 062110 (2014)]) in the family of $SU(2)$ invariant $3 \times N$ level systems. We show that all super-quantum states admit a universal geometrical description, and that they are most likely to lie on a line segment in the manifold, irrespective of the value of $N$. We also show that though the super - quantum states can be highly mixed, its relative rank with respect to the uniform state is always less than that of a state which admits a GLHV description.
+
+id: 1608.05224
+title: Extinction of Light and Coherent Scattering by a Single Nitrogen-Vacancy Center in Diamond
+authors: Thai Hien Tran, J?rg Wrachtrup, Ilja Gerhardt
+comments: 6 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1608.05224
+abstract: Coherently scattered light from a single quantum system promises to get a valuable quantum resource. In this letter an external laser field is efficiently coupled to a single nitrogen vacancy (NV-)center in diamond. By this it is possible to detect a direct extinction signal and estimate the NV's extinction cross-section. The exact amount of coherent and incoherent photons is determined against the saturation parameter, and reveals the optimal point of generating coherently scattered photons and an optimal point of excitation. A theoretical model of spectral diffusion allows to explain the deviation to an atom in free-space. The introduced experimental techniques are used to determine the properties of the tight focusing in an interference experiment, and allow for a direct determination of the Gouy-phase in a strongly focused beam.
+
+id: 1608.05282
+title: Interaction between two quantized cavity modes via an ensemble of four-level atoms in the diamond configuration
+authors: Grzegorz Chimczak, Karol Bartkiewicz, Zbigniew Ficek, Ryszard Tana?
+comments: 9 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05282
+abstract: We study a four-level atom in the diamond configuration interacting with two quantized field modes supported by a cavity. We show that such $\Diamond$-type atoms intermediate in the interaction between these two modes of the cavity only if lasers drive both transitions to the highest energy level. This system offers thus a fully controllable effective coupling between the two modes. Moreover, we present two applications of this system: a scheme that maps a quantum state of one mode onto the second mode on demand and a fast opening high-Q cavity system that can be easily and coherently controlled with laser fields. Finally, we investigate the feasibility of the fast opening high-Q cavity system and show that this scheme can be implemented experimentally.
+
+id: 1608.05300
+title: Quantum mechanics in an evolving Hilbert space
+authors: Emilio Artacho, David D. O'Regan
+comments: 19 pages
+journal: 
+subjects: Quantum Physics (quant-ph); Mathematical Physics (math-ph); Chemical Physics (physics.chem-ph); Computational Physics (physics.comp-ph)
+url: http://www.arxiv.org/abs/1608.05300
+abstract: Many basis sets for electronic structure calculations evolve with varying external parameters, such as moving atoms in dynamic simulations, giving rise to extra derivative terms in the dynamical equations. Here we revisit these derivatives in the context of differential geometry, thereby obtaining a more transparent formalisation, and a geometrical perspective for better understanding the resulting equations. The effect of the evolution of the basis set within the spanned Hilbert space separates explicitly from the effect of the turning of the space itself when moving in parameter space, as the tangent space turns when moving in a curved space. New insights are obtained using familiar concepts in that context such as the Riemann curvature. The differential geometry is not strictly that for curved spaces as in general relativity, a more adequate mathematical framework being provided by fibre bundles. The language used here, however, will be restricted to tensors and basic quantum mechanics. The local gauge implied by a smoothly varying basis set readily connects with Berry's formalism for geometric phases. Generalised expressions for the Berry connection and curvature are obtained for a parameter-dependent occupied Hilbert space spanned by non-orthogonal Wannier functions. The formalism is applicable to basis sets made of atomic-like orbitals and also more adaptative moving basis functions (such as in methods using Wannier functions as intermediate or support bases), but should also apply to other situations in which non-orthogonal functions or related projectors should arise. The formalism is applied to the time-dependent quantum evolution of electrons for moving atoms. The geometric insights provided here allow us to propose new finite-differences time integrators, and also better understand already proposed ones.
+
+id: 1608.05322
+title: Bringing quantum mechanics to life: from Schr?dinger's cat to Schr?dinger's microbe
+authors: Zhang-qi Yin, Tongcang Li
+comments: review article, 27 pages
+journal: 
+subjects: Quantum Physics (quant-ph); History and Philosophy of Physics (physics.hist-ph)
+url: http://www.arxiv.org/abs/1608.05322
+abstract: The question whether quantum mechanics is complete and the nature of the transition between quantum mechanics and classical mechanics have intrigued physicists for decades. There have been many experimental breakthroughs in creating larger and larger quantum superposition and entangled states since Erwin Schr\"{o}dinger proposed his famous thought experiment of putting a cat in a superposition of both alive and dead states in 1935. Remarkably, recent developments in quantum optomechanics and electromechanics may lead to the realization of quantum superposition of living microbes soon. Recent evidences also suggest that quantum coherence may play an important role in several biological processes. In this review, we first give a brief introduction to basic concepts in quantum mechanics and the Schr\"{o}dinger's cat thought experiment. We then review developments in creating quantum superposition and entangled states and the realization of quantum teleportation. Non-trivial quantum effects in photosynthetic light harvesting and avian magnetoreception are also discussed. At last, we review recent proposals to realize quantum superposition, entanglement and state teleportation of microorganisms, such as viruses and bacteria.
+
+id: 1608.05324
+title: Is non-locality stronger in higher dimensions?
+authors: Soumik Adhikary, V. Ravishankar, Radha Pyari Sandhir
+comments: 5 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05324
+abstract: A critique of a prescription of non-locality in [Phys. Rev. Lett. 85, 4418 (2000)], [Phys. Rev. Lett. 88, 040404 (2002)], [Phys. Rev. Lett. 92, 130404 (2004)] that appears to be stronger and more general than the Bell-CHSH formulation is presented. It is shown that, contrary to expectations, this prescription fails to correctly identify a large family of maximally non-local Bell states.
+
+id: 1608.05325
+title: Criticality revealed through quench dynamics in a many-body system
+authors: Steve Campbell
+comments: 6 pages, 7 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech)
+url: http://www.arxiv.org/abs/1608.05325
+abstract: We examine the dynamics after a sudden quench in the magnetic field of the Lipkin-Meshkov-Glick model. Starting from the groundstate and by employing the Loschmidt echo, we see manifestly different dynamics are present if the system is quenched through the critical point. Furthermore, we show that the average work shows no sensitivity to the quantum phase transition, however the free energy and irreversible work show markedly different rates of change in each phase. Finally, we assess the spectral function showing the fundamental excitations that dictate the dynamics of the post-quenched system, further highlighting the qualitative differences between the dynamics in the two phases.
+
+id: 1608.05360
+title: Simultaneous model selection and parameter estimation: A superconducting qubit coupled to a bath of incoherent two-level systems
+authors: Markku P.V. Stenberg, Frank K. Wilhelm
+comments: 9 pages, 5 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05360
+abstract: In characterization of quantum systems, adapting measurement settings based on data while it is collected can generally outperform in efficiency conventional measurements that are carried out independently of data. The existing methods for choosing measurement settings adaptively assume that the model, or the number of unknown parameters, is known. We introduce simultaneous adaptive model selection and parameter estimation. We apply our technique for characterization of a superconducting qubit and a bath of incoherent two-level systems, a leading decoherence mechanism in the state-of-the-art superconducting qubits.
+
+id: 1608.05377
+title: Classical branch structure from spatial redundancy in a many-body wavefunction
+authors: C. Jess Riedel
+comments: 6 pages, 1 figure, plus appendix
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05377
+abstract: There is good circumstantial evidence that when the wavefunction of a large system unitarily evolves from a low-entropy initial state, it should develop "branches", i.e., a decomposition into orthogonal components that can't be distinguished from the corresponding incoherent mixture by feasible observations. Is this decomposition unique? Must the number of branches increase with time? Answering these questions is hard because branches are defined only intuitively, reminiscent of early investigations of algorithms prior to the Church-Turing thesis. Here I investigate formal criteria for branches, without privileging a priori any particular macroscopic systems or degrees of freedom, based on multipartite entanglement, and in particular on redundant information connected to the phenomenon of quantum Darwinism. A guiding counterexample is provided by the Shor error-correction code, which exhibits delicate but arbitrarily redundant records. I show that observables whose records generically overlap (and so are not guaranteed to commute locally) nonetheless generate a unique branch decomposition of simultaneous eigenstates so long as no two records of one observables overlap all records of another. Given only a single characteristic length scale, there is a simple condition on the records of individual observables, not relations between them, that guarantees compatibility with all other such observables and so implicitly defines a unique maximal branch decomposition. I speculate on the possibility of using branch decompositions to speed up numerical simulations of nonstationary many-body states, to illuminate the thermalization of closed systems, to solve the set-selection problem in the consistent histories framework, and to demote the measurement processes from fundamental primitive in the quantum formalism.
+
+id: 1608.05074
+title: Entanglement structure of non-equilibrium steady states
+authors: Raghu Mahajan, C. Daniel Freeman, Sam Mumford, Norm Tubman, Brian Swingle
+comments: 10 pages + appendices, 10 figures
+journal: 
+subjects: Strongly Correlated Electrons (cond-mat.str-el); High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05074
+abstract: We study the problem of calculating transport properties of interacting quantum systems, specifically electrical and thermal conductivities, by computing the non-equilibrium steady state (NESS) of the system biased by contacts. Our approach is based on the structure of entanglement in the NESS. With reasonable physical assumptions, we show that a NESS close to local equilibrium is lightly entangled and can be represented via a computationally efficient tensor network. We further argue that the NESS may be found by dynamically evolving the system within a manifold of appropriate low entanglement states. A physically realistic law of dynamical evolution is Markovian open system dynamics, or the Lindblad equation. We explore this approach in a well-studied free fermion model where comparisons with the literature are possible. We study both electrical and thermal currents with and without disorder, and compute entropic quantities such as mutual information and conditional mutual information. We conclude with a discussion of the prospects of this approach for the challenging problem of transport in strongly interacting systems, especially those with disorder.
+
+id: 1608.05096
+title: Helical Floquet Channels in 1D Lattices
+authors: Jan Carl Budich, Ying Hu, Peter Zoller
+comments: 
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05096
+abstract: We show how dispersionless channels exhibiting perfect spin-momentum locking can arise in a 1D lattice model. While such spectra are forbidden by fermion doubling in static 1D systems, here we demonstrate their appearance in the stroboscopic dynamics of a periodically driven system. Remarkably, this phenomenon does not rely on any adiabatic assumptions, in contrast to the well known Thouless pump and related models of adiabatic spin pumps. The proposed setup is shown to be experimentally feasible with state of the art techniques used to control ultracold alkaline earth atoms in optical lattices.
+
+id: 1608.05101
+title: On entanglement spreading in chaotic systems
+authors: M¨¢rk Mezei, Douglas Stanford
+comments: 25 pages, 10 figures
+journal: 
+subjects: High Energy Physics - Theory (hep-th); Strongly Correlated Electrons (cond-mat.str-el); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05101
+abstract: We discuss the time dependence of subsystem entropies in interacting quantum systems. As a model for the time dependence, we suggest that the entropy is as large as possible given two constraints: one follows from the existence of an emergent light cone, and the other is a conjecture associated to the "entanglement velocity" $v_E$. We compare this model to new holographic and spin chain computations, and to an operator growth picture. Finally, we introduce a second way of computing the emergent light cone speed in holographic theories that provides a boundary dynamics explanation for a special case of entanglement wedge subregion duality in AdS/CFT.
+
+id: 1608.05105
+title: Evolutionary Approaches to Optimization Problems in Chimera Topologies
+authors: Roberto Santana, Zheng Zhu, Helmut G. Katzgraber
+comments: 8 pages, 5 figures, 3 tables
+journal: Proceedings of the Genetic and Evolutionary Computation Conference (GECCO-2016), ACM Press, 397-404 (2016)
+subjects: Disordered Systems and Neural Networks (cond-mat.dis-nn); Neural and Evolutionary Computing (cs.NE); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05105
+abstract: Chimera graphs define the topology of one of the first commercially available quantum computers. A variety of optimization problems have been mapped to this topology to evaluate the behavior of quantum enhanced optimization heuristics in relation to other optimizers, being able to efficiently solve problems classically to use them as benchmarks for quantum machines. In this paper we investigate for the first time the use of Evolutionary Algorithms (EAs) on Ising spin glass instances defined on the Chimera topology. Three genetic algorithms (GAs) and three estimation of distribution algorithms (EDAs) are evaluated over $1000$ hard instances of the Ising spin glass constructed from Sidon sets. We focus on determining whether the information about the topology of the graph can be used to improve the results of EAs and on identifying the characteristics of the Ising instances that influence the success rate of GAs and EDAs.
+
+id: 1608.05119
+title: Improving randomness characterization through Bayesian model selection
+authors: Rafael D¨ªaz-H.R., Aldo Sol¨ªs, Al¨ª M. Angulo Mart¨ªnez, Alfred B. U'Ren, Jorge G. Hirsch, Matteo Marsili, Isaac P¨¦rez Castillo
+comments: 25 pages
+journal: 
+subjects: Data Analysis, Statistics and Probability (physics.data-an); Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05119
+abstract: Nowadays random number generation plays an essential role in technology with important applications in areas ranging from cryptography, which lies at the core of current communication protocols, to Monte Carlo methods, and other probabilistic algorithms. In this context, a crucial scientific endeavour is to develop effective methods that allow the characterization of random number generators. However, commonly employed methods either lack formality (e.g. the NIST test suite), or are inapplicable in principle (e.g. the characterization derived from the Algorithmic Theory of Information (ATI)). In this letter we present a novel method based on Bayesian model selection, which is both rigorous and effective, for characterizing randomness in a bit sequence. We derive analytic expressions for a model's likelihood which is then used to compute its posterior probability distribution. Our method proves to be more rigorous than NIST's suite and the Borel-Normality criterion and its implementation is straightforward. We have applied our method to an experimental device based on the process of spontaneous parametric downconversion, implemented in our laboratory, to confirm that it behaves as a genuine quantum random number generator (QRNG). As our approach relies on Bayesian inference, which entails model generalizability, our scheme transcends individual sequence analysis, leading to a characterization of the source of the random sequences itself.
+
+id: 1608.05197
+title: The origins of the research on the foundations of quantum mechanics (and other critical activities) in italy during the 1970s
+authors: Angelo Baracca, Silvio Bergia, Flavio Del Santo
+comments: 22 pages
+journal: 
+subjects: History and Philosophy of Physics (physics.hist-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05197
+abstract: We present a reconstruction of the studies on the Foundations of Quantum Mechanics (FQM) carried out in Italy at the turn of the 1960s. Actually, they preceded the revival of the interest of the American physicists towards the FQM around mid-1970s, recently reconstructed by David Kaiser in a book of 2011. An element common to both cases is the role played by the young generation, even though the respective motivations were quite different. In the US they reacted to research cuts after the war in Vietnam, and were inspired by the New Age mood. In Italy the dissatisfaction of the young generations was rooted in the student protests of 1968 and the subsequent labour and social fights, which challenged the role of scientists. The young generations of physicists searched for new scientific approaches and challenged their own scientific knowledge and role. The criticism to the FQM and the perspectives of submitting them to experimental tests were perceived as an innovative research field and this attitude was directly linked to the search for an innovative and radical approach in the history of science. All these initiatives gave rise to booming activity throughout the 1970s, contributing to influence the scientific attitude and the teaching approach.
+
+id: 1608.05317
+title: R¨¦nyi divergences as weighted non-commutative vector valued $L_p$-spaces
+authors: Mario Berta, Volkher B. Scholz, Marco Tomamichel
+comments: 20 pages
+journal: 
+subjects: Mathematical Physics (math-ph); Information Theory (cs.IT); Operator Algebras (math.OA); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05317
+abstract: We show that Araki and Masuda's weighted non-commutative vector valued $L_p$-spaces [Araki & Masuda, Publ. Res. Inst. Math. Sci., 18:339 (1982)] correspond to an algebraic generalization of the sandwiched R\'enyi divergences with parameter $\alpha = \frac{p}{2}$. Using complex interpolation theory, we prove various fundamental properties of these divergences in the setup of von Neumann algebras, including a data processing inequality and monotonicity in $\alpha$. We thereby also give new proofs for the corresponding finite-dimensional properties. We discuss the limiting cases $\alpha\to \{\frac{1}{2},1,\infty\}$ leading to minus the logarithm of Uhlmann's fidelity, Umegaki's relative entropy, and the max-relative entropy, respectively. As a contribution that might be of independent interest, we derive a Riesz-Thorin theorem for Araki-Masuda $L_p$-spaces and an Araki-Lieb-Thirring inequality for states on von Neumann algebras.
+
+id: quant-ph/0105057
+title: Entanglement, identical particles and the uncertainty principle
+authors: Gustavo Rigolin
+comments: 5 pages, no figure; v2: title, abstract, and focus slightly changed; a couple of sections rewritten and a new one added; published version
+journal: Commun. Theor. Phys. 66, 201 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/quant-ph/0105057
+abstract: 
+
+id: 1412.8323
+title: Toolbox for reconstructing quantum theory from rules on information acquisition
+authors: Philipp A Hoehn
+comments: 74 pages, many figures, graphs and references. New lemma 3.1 and some minor clarification on the notion of composite systems
+journal: 
+subjects: Quantum Physics (quant-ph); General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph); History and Philosophy of Physics (physics.hist-ph)
+url: http://www.arxiv.org/abs/1412.8323
+abstract: 
+
+id: 1504.02715
+title: Quantum Latin squares and unitary error bases
+authors: Benjamin Musto, Jamie Vicary
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1504.02715
+abstract: 
+
+id: 1506.06111
+title: Edge states in honeycomb structures
+authors: Charles L. Fefferman, James P. Lee-Thorp, Michael I. Weinstein
+comments: To appear in Annals of PDE. Updated figures and added new references. 68 pages, 7 figures
+journal: 
+subjects: Mathematical Physics (math-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Analysis of PDEs (math.AP); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1506.06111
+abstract: 
+
+id: 1510.08214
+title: Realization of a binary-outcome projection measurement of a three-level superconducting quantum system
+authors: Markus Jerger, Pascal Macha, Andr¨¦s Rosario Hamann, Yarema Reshitnyk, Kristinn Juliusson, Arkady Fedorov
+comments: 9 pages, 4 figures
+journal: Phys. Rev. Applied 6, 014014 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1510.08214
+abstract: 
+
+id: 1512.03415
+title: Backaction driven, robust, steady-state long-distance qubit entanglement over lossy channels
+authors: Felix Motzoi, Eli Halperin, Xiaoting Wang, K. Birgitta Whaley, Sophie Schirmer
+comments: 11 pages, 6 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1512.03415
+abstract: 
+
+id: 1602.00440
+title: Contextuality without nonlocality in a superconducting quantum system
+authors: Markus Jerger, Yarema Reshitnyk, Markus Oppliger, Anton Poto?nik, Mintu Mondal, Andreas Wallraff, Kenneth Goodenough, Stephanie Wehner, Kristinn Juliusson, Nathan K. Langford, Arkady Fedorov
+comments: 7+8 pages, 3+1 figures, 1 table
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.00440
+abstract: 
+
+id: 1603.01130
+title: Dissipative Long-Range Entanglement Generation between Electronic Spins
+authors: M¨®nica Benito, Martin J. A. Schuetz, J. Ignacio Cirac, Gloria Platero, Geza Giedke
+comments: Updated version. 19 pages, 19 figures
+journal: 
+subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1603.01130
+abstract: 
+
+id: 1603.05827
+title: Anderson localization in the time domain
+authors: Krzysztof Sacha, Dominique Delande
+comments: 7 pages, 5 figures, version accepted for publication in Phys. Rev. A
+journal: 
+subjects: Quantum Physics (quant-ph); Disordered Systems and Neural Networks (cond-mat.dis-nn); Quantum Gases (cond-mat.quant-gas)
+url: http://www.arxiv.org/abs/1603.05827
+abstract: 
+
+id: 1604.04062
+title: Noise Thresholds for the [[4, 2, 2]]-concatenated Toric Code
+authors: Ben Criger, Barbara Terhal
+comments: 19 pages, 22 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.04062
+abstract: 
+
+id: 1604.08310
+title: Plasmonic Superradiance of Two Emitters Near Metal Nanorod
+authors: Igor Protsenko, Shunping Zhang, Alexander Uskov, Xuewen Chen, Hongxing Xu
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.08310
+abstract: 
+
+id: 1607.05711
+title: Degenerate Density Perturbation Theory
+authors: Mark C. Palenik, Brett I. Dunlap
+comments: 
+journal: 
+subjects: Materials Science (cond-mat.mtrl-sci); Chemical Physics (physics.chem-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1607.05711
+abstract: 
+
+id: 1607.08122
+title: Half a state, half an operator: a general formulation of stators
+authors: Erez Zohar
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1607.08122
+abstract: 
+
+id: 1608.00114
+title: Measurement-device-independent quantum secret sharing
+authors: Xiuqing Yang, Kejin Wei, Haiqiang Ma, Shihai Sun, Hongwei Liu, Zuohan Li, Zhenqiang Yin, Yungang Du, Lingan Wu
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.00114
+abstract: 
+
+id: 1608.04905
+title: Quantum Soliton Evaporation
+authors: Leone Di Mauro Villari, Ewan M. Wright, Fabio Biancalana, Claudio Conti
+comments: 5 pages, 3 figures, minor revisions
+journal: 
+subjects: Optics (physics.optics); Quantum Gases (cond-mat.quant-gas); Pattern Formation and Solitons (nlin.PS); Atomic Physics (physics.atom-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.04905
+abstract: 
+

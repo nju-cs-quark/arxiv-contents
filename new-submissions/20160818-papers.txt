@@ -1,0 +1,378 @@
+id: 1608.04750
+title: Conditional Mutual Information of Bipartite Unitaries and Scrambling
+authors: Dawei Ding, Patrick Hayden, Michael Walter
+comments: 31 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1608.04750
+abstract: One way to diagnose chaos in bipartite unitary channels is via the negativity of the tripartite information of the corresponding Choi state, which for certain choices of the subsystems reduces to the negative conditional mutual information (CMI). We study this quantity from a quantum information-theoretic perspective to clarify its role in diagnosing scrambling. When the CMI is zero, we find that the channel has a special normal form consisting of local channels between individual inputs and outputs. However, we find that arbitrarily low CMI does not imply arbitrary proximity to a channel of this form, although it does imply a type of approximate recoverability of one of the inputs. When the CMI is maximal, we find that the residual channel from an individual input to an individual output is completely depolarizing when the other inputs are maximally mixed. However, we again find that this result is not robust. We also extend some of these results to the multipartite case and to the case of Haar-random pure input states. Finally, we look at the relationship between tripartite information and its Renyi-2 version which is directly related to out-of-time-order correlation functions. In particular, we demonstrate an arbitrarily large gap between the two quantities.
+
+id: 1608.04804
+title: Quanta and Qualia
+authors: Adrian Kent
+comments: Contribution to panel discussion at FQXi 2016 International Conference
+journal: 
+subjects: Quantum Physics (quant-ph); History and Philosophy of Physics (physics.hist-ph); Popular Physics (physics.pop-ph)
+url: http://www.arxiv.org/abs/1608.04804
+abstract: I sketch a line of thought about consciousness and physics that gives some motivation for the hypothesis that conscious observers deviate - perhaps only very subtly and slightly - from quantum dynamics. Although it is hard to know just how much credence to give this line of thought, it does motivate a stronger and more comprehensive programme of quantum experiments involving quantum observers.
+
+id: 1608.04805
+title: Quantum Reality via Late Time Photodetection
+authors: Adrian Kent
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.04805
+abstract: We further investigate postulates for realist versions of relativistic quantum theory and quantum field theory in Minkowski space and other background space-times. According to these postulates, quantum theory is supplemented by local variables that depend on possible outcomes of hypothetical measurements on the late time electromagnetic field in spacelike separated regions. We illustrate the implications in simple examples using photon wave mechanics, and discuss possible extensions to quantum field theory.
+
+id: 1608.04814
+title: A simple proof of Renner's exponential de Finetti theorem
+authors: Thomas Vidick, Henry Yuen
+comments: 4 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.04814
+abstract: We give a simple proof of the exponential de Finetti theorem due to Renner. Like Renner's proof, ours combines the post-selection de Finetti theorem, the Gentle Measurement lemma, and the Chernoff bound, but avoids virtually all calculations, including any use of the theory of types.
+
+id: 1608.04818
+title: Approximate transformations of bipartite pure-state entanglement from the majorization lattice
+authors: G.M. Bosyk, G. Sergioli, H. Freytes, F. Holik, G. Bellomo
+comments: 6 pages, 1 figure
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.04818
+abstract: We study the problem of deterministic transformations of an \textit{initial} pure entangled quantum state, $|\psi\rangle$, into a \textit{target} pure entangled quantum state, $|\phi\rangle$, by using \textit{local operations and classical communication}. A celebrated result of Nielsen [Phys. Rev. Lett. \textbf{83}, 436 (1999)] gives the necessary and sufficient condition that makes possible this entanglement transformation process. Indeed, this process can be achieved if and only if the majorization relation $\psi \prec \phi$ holds, where $\psi$ and $\phi$ are probability vectors obtained by taking the squares of the Schmidt coefficients of the initial and target states, respectively. In general, this condition is not fulfilled. However, one can look for an \textit{approximate} entanglement transformation. Vidal \textit{et. al} [Phys. Rev. A \textbf{62}, 012304 (2000)] have proposed a deterministic transformation using LOCC in order to obtain a target state $|\chi^\mathrm{opt}\rangle$ most approximate to $|\phi\rangle$ in terms of maximal fidelity between them. Here, we show a strategy to deal with approximate entanglement transformations based on the properties of the \textit{majorization lattice}. More precisely, we propose as approximate target state one whose Schmidt coefficients are given by the supremum between $\psi$ and $\phi$. Our proposal is inspired on the observation that fidelity does not respect the majorization relation in general. Remarkably enough, we find that for some particular interesting cases, like the entanglement concentration protocol, both proposals are coincident.
+
+id: 1608.04829
+title: Quantum Merlin-Arthur with noisy channel
+authors: Tomoyuki Morimae, Keisuke Fujii, Harumichi Nishimura
+comments: 20 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Computational Complexity (cs.CC)
+url: http://www.arxiv.org/abs/1608.04829
+abstract: What happens if in QMA the quantum channel between Merlin and Arthur is noisy? It is not difficult to show that such a modification does not change the computational power as long as the noise is not too strong so that errors are correctable with high probability, since if Merlin encodes the witness state in a quantum error-correction code and sends it to Arthur, Arthur can correct the error caused by the noisy channel. If we further assume that Arthur can do only single-qubit measurements, however, the problem becomes nontrivial, since in this case Arthur cannot do the universal quantum computation by himself. In this paper, we show that such a restricted complexity class is still equivalent to QMA. To show it, we use measurement-based quantum computing: honest Merlin sends the graph state to Arthur, and Arthur does fault-tolerant measurement-based quantum computing on the noisy graph state with only single-qubit measurements. By measuring stabilizer operators, Arthur also checks the correctness of the graph state. Although this idea itself was already used in several previous papers, these results cannot be directly used to the present case, since the test that checks the graph state used in these papers is so strict that even honest Merlin is rejected with high probability if the channel is noisy. We therefore introduce a more relaxed test that can accept not only the ideal graph state but also noisy graph states that are error-correctable.
+
+id: 1608.04849
+title: Dressed-state scheme for a fast CNOT gate
+authors: Jin-Lei Wu, Xin Ji, Shou Zhang
+comments: arXiv admin note: text overlap with arXiv:1607.02696
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.04849
+abstract: A highly feasible dressed-state scheme, which greatly speeds up the adiabatic population transfer of a quantum system, is applied for implementing a fast CNOT gate in a cavity QED system. The cavity QED system consists of two identical five-level atoms which are respectively trapped in two optical cavities connected by a fiber. With the help of quantum Zeno dynamics, the CNOT gate is constructed by three steps with six pulses. Because the adiabatic condition is not necessary to be considered and all of the pulses are smoothly turned on and off, the scheme is fast and feasible in experiment. Numerical simulations indicate that the average fidelity for constructing the CNOT gate is quite high and the gate operation time is relatively short. Moreover, the effects on the fidelity of the atomic spontaneous emission and the photon leakages from the cavities are discussed by the master equation and the result shows the scheme is robust against the decoherence.
+
+id: 1608.04882
+title: Loss-resilient photonic entanglement swapping using optical hybrid states
+authors: Youngrong Lim, Jaewoo Joo, Timothy P. Spiller, Hyunseok Jeong
+comments: 7 pages, 3 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.04882
+abstract: We propose a scheme of loss-resilient entanglement swapping between two distant parties via an imperfect optical channel. In this scheme, two copies of hybrid entangled states are prepared and the continuous-variable parts propagate through lossy media. In order to perform successful entanglement swapping, several different measurement schemes are considered for the continuousvariable parts such as single-photon detection for ideal cases and a homodyne detection for practical cases. We find that the entanglement swapping using hybrid states with small amplitudes offers larger entanglement than the discrete-variable entanglement swapping in the presence of large losses. Remarkably, this hybrid scheme still offers excellent robustness of entanglement to the detection inefficiency. Thus, the proposed scheme could be used for the practical quantum key distribution in hybrid optical states under photon losses.
+
+id: 1608.04890
+title: Emulating anyonic fractional statistical behavior in a superconducting quantum circuit
+authors: Y. P. Zhong, D. Xu, P. Wang, C. Song, Q. J. Guo, W. X. Liu, K. Xu, B. X. Xia, Chao-Yang Lu, Siyuan Han, Jian-Wei Pan, Haohua Wang
+comments: to appear in Physical Review Letters, 5 pages, 4 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
+url: http://www.arxiv.org/abs/1608.04890
+abstract: Anyons are exotic quasiparticles obeying fractional statistics,whose behavior can be emulated in artificially designed spin systems.Here we present an experimental emulation of creating anyonic excitations in a superconducting circuit that consists of four qubits, achieved by dynamically generating the ground and excited states of the toric code model, i.e., four-qubit Greenberger-Horne-Zeilinger states. The anyonic braiding is implemented via single-qubit rotations: a phase shift of \pi related to braiding, the hallmark of Abelian 1/2 anyons, has been observed through a Ramsey-type interference measurement.
+
+id: 1608.04908
+title: A two-fold quantum delayed-choice experiment in a superconducting circuit
+authors: K. Liu, Y. Xu, W. Wang, Shi-Biao Zheng, Tanay Roy, Suman Kundu, Madhavi Chand, A. Ranadive, R. Vijay, Y. P. Song, L.-M. Duan, L. Sun
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.04908
+abstract: We propose and experimentally demonstrate a two-fold quantum delayed-choice experiment where wave or particle nature of a superconducting interfering device can be post-selected twice after the interferometer. The wave-particle complementarity is controlled by a quantum which-path detector (WPD) in a superposition of its on and off states implemented through a superconducting cavity. The WPD projected to its on state records which-path information, which manifests the particle nature and destroys the interference associated with wave nature of the system. In our experiment, we can recover the interference signal through a quantum eraser even if the WPD has selected out the particle nature in the first round of delayed-choice detection, showing that a quantum WPD adds further unprecedented controllability to test of wave-particle complementarity through the peculiar quantum delayed-choice measurements.
+
+id: 1608.04909
+title: A high visibility Hong-Ou-Mandel interference via a time-resolved coincidence measurement
+authors: Yoshiaki Tsujimoto, Yukihiro Sugiura, Motoki Tanaka, Rikizo Ikuta, Shigehito Miki, Taro Yamashita, Hirotaka Terai, Mikio Fujiwara, Takashi Yamamoto, Masato Koashi, Masahide Sasaki, Nobuyuki Imoto
+comments: 6 pages, 6 figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.04909
+abstract: We report on the observation of a high visibility Hong-Ou-Mandel interference of two heralded photons emitted from a spontaneous parametric down conversion~(SPDC) pumped by continuous-wave~(cw) light. A non-degenerate photon pair at 1541~nm and 1580~nm is generated by cw-pumped SPDC through a periodically poled lithium niobate waveguide. The heralded single photon at 1541~nm is prepared by the detection of the photon at 1580~nm. We performed the experiment of the Hong-Ou-Mandel interference between heralded single photons in separated time bins and observed a high visibility interference. All detectors we used are superconducting nanowire single-photon detectors and an overall temporal resolution of the photon detection is estimated as 85 ps, which is sufficiently shorter than the coherence time of the heralded photons.
+
+id: 1608.04928
+title: Non-reciprocal few-photon devices based on chiral waveguide-emitter couplings
+authors: C. Gonzalez-Ballestero, Esteban Moreno, F. J. Garcia Vidal, A. Gonzalez-Tudela
+comments: Mathematica notebook attached for calculation of detection probabilities
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1608.04928
+abstract: We demonstrate the possibility of designing efficient, non reciprocal few-photon devices by exploiting the chiral coupling between two waveguide modes and a single quantum emitter. We show how this system can induce non-reciprocal photon transport at the single-photon level and act as an optical diode. Afterwards, we also show how the same system shows a transistor-like behaviour for a two-photon input. The efficiency in both cases is shown to be large for feasible experimental implementations. Our results illustrate the potential of chiral waveguide-emitter couplings for applications in quantum circuitry.
+
+id: 1608.04966
+title: Vibrational dephasing in matter wave interferometers
+authors: Alexander Rembold, Georg Sch¨¹tz, Robin R?pke, Wei-Tse Chang, Ing-Shouh Hwang, Andreas G¨¹nther, Alexander Stibor
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.04966
+abstract: Matter wave interferometry is a highly sensitive tool to measure small perturbations in a quantum system. However, due to their sensitivity, interferometers are susceptible to dephasing mechanisms such as mechanical vibrations. This is especially a problem for precision measurements under perturbing conditions that cannot be perfectly decoupled, such as for mobile interferometric devices or vibrations with a broad frequency range. Here, we demonstrate a method to reveal the original contrast and spatial periodicity of the interference pattern from "washed-out" matter wave interferograms that have been vibrationally disturbed in the frequency region between 100 and 1000 Hz. The approach is based on second-order correlation theory in combination with Fourier analysis, using the high spatial and temporal single particle resolution of a delay line detector. Other than with electromagnetic dephasing, the parts in the setup have various mechanical resonances and therefore oscillate with frequencies that could be harmonics of the applied ones. Our algorithm is able to determine those unknown oscillations and corresponding amplitudes and to restore the interferometer contrast. The setup can therefore also be applied as a sensor for perturbation frequencies from the environment. We describe the method in detail and demonstrate it in an electron biprism interferometer. The universal technique can identify vibrational dephasing and decrease damping and shielding requirements in electron, ion, neutron, atom and molecule interferometers.
+
+id: 1608.04977
+title: Passivity and practical work extraction using Gaussian operations
+authors: Eric G. Brown, Nicolai Friis, Marcus Huber
+comments: 9 pages, no figures
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.04977
+abstract: Quantum states that can yield work in a cyclical Hamiltonian process form one of the primary resources in the context of quantum thermodynamics. Conversely, states whose average energy cannot be lowered by unitary transformations are called passive. However, while work may be extracted from non-passive states using arbitrary unitaries, the latter may be hard to realize in practice. It is therefore pertinent to consider the passivity of states under restricted classes of operations that can be feasibly implemented. Here, we ask how restrictive the class of Gaussian unitaries is for the task of work extraction. We investigate the notion of Gaussian passivity, that is, we present necessary and sufficient criteria identifying all states whose energy cannot be lowered by Gaussian unitaries. For all other states we give a prescription for the Gaussian operations that extract the maximal amount of energy. Finally, we show that the gap between passivity and Gaussian passivity is maximal, i.e., Gaussian-passive states may still have a maximal amount of energy that is extractable by arbitrary unitaries, even under entropy constraints.
+
+id: 1608.04984
+title: A note on the statistical sampling aspect of delayed choice entanglement swapping
+authors: Karl Svozil
+comments: 5 pages, 1 table
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.04984
+abstract: Quantum and classical models for delayed choice entanglement swapping by postselection of measurements are discussed.
+
+id: 1608.05005
+title: The properties of squeezed optical states created in lossy cavities
+authors: Hossein Seifoory, Sean Doutre, Marc. M. Dignam, J. E. Sipe
+comments: 11 pages, 7 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Optics (physics.optics)
+url: http://www.arxiv.org/abs/1608.05005
+abstract: We investigate theoretically the properties of squeezed states generated using degenerate parametric down conversion in lossy cavities. We show that the Lindblad master equation, which governs the evolution of this system, has as its solution a squeezed thermal state with an effective temperature and squeezing parameter that depends on time. We derive analytical solutions for the time-evolution of quadrature noise, thermal photon number, squeezing parameter, and total photon number under different pumping regimes. We also find the steady state limits of the quadrature noises and discuss the $ g^{(2)} $ factor of the generated light inside the cavity in the steady state.
+
+id: 1608.05034
+title: Pusey-Barrett-Rudolph theorem under noisy channels
+authors: Andr¨¦s F. Ducuara, Cristian E. Susa, John H. Reina
+comments: 16 pages, 4 figues
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05034
+abstract: The Pusey-Barrett-Rudolph (PBR) theorem deals with the realism of the quantum state. It establishes that every pure quantum state is real, in the context of $\psi$-ontic quantum ontological models. In order to achieve this, PBR consider an ad hoc postulate termed the Preparation Independence Postulate (PIP). Here we argue that even without the use of the PIP, the PBR argument leads to a link between scalability and realism of quantum states whereby the latter can be achieved through the former. Further, we consider a set of n-qubit registers in interaction with an environment by means of i) individual and ii) collective couplings. In both cases, we analytically show that the phenomenon of achieving realism through scalability is still present, even though this now occurs at a slower rate. Searching for an optimisation of this phenomenon, we report numerical experiments up to n = 4 qubits: for individual qubit-noise coupling, be it a bit, a phase, or a bit-phase flip noise, the numerical search exhibits the same response to all the different noisy channels, without improving the analytical expectation. In contrast, the collective qubit-noise coupling leads to a more efficient display of the phenomenon, and a variety of noise channel-dependent behaviours emerge.
+
+id: 1608.05049
+title: The driven Dicke Model: time-dependent mean field and quantum fluctuations in a non-equilibrium quantum many-body system
+authors: G. Francica, S. Montangero, M. Paternostro, F. Plastina
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05049
+abstract: We establish a new theoretical framework, based on a time-dependent mean field approach, to address the dynamics of the driven Dicke model. The joint evolution of both mean fields and quantum fluctuations gives rise to a rich and generally non-linear dynamics, featuring a normal (stable) regime and an unstable, super-radiant one. Various dynamical phenomena emerge, such as the spontaneous amplification of vacuum fluctuations, or the appearance of special points around which the mean-field amplitudes rotate during driven time evolution, signalling a dynamical symmetry breaking. We also provide a characterization of the driving-induced photon production in terms of the work done by the driving agent, of the non-adiabaticity of the process and of the entanglement generated between the atomic system and the cavity mode.
+
+id: 1608.05053
+title: Noise thresholds for minimal surface code experiments
+authors: James R. Wootton, Janos R. Winkler, Daniel Loss
+comments: 
+journal: 
+subjects: Quantum Physics (quant-ph); Strongly Correlated Electrons (cond-mat.str-el)
+url: http://www.arxiv.org/abs/1608.05053
+abstract: Current quantum technology is approaching the system sizes and fidelities required for quantum error correction. It is therefore important to determine exactly what is needed for proof-of-principle experiments, which will be the first major step towards fault-tolerant quantum computation. Here we propose an experiment using the smallest surface code that would allow errors to be detected and corrected for both the $X$ and $Z$ basis of a qubit. This requires $17$ physical qubits initially prepared in a product state, on which $16$ two-qubit entangling gates are applied before a final measurement of all qubits. Using a realistic error model, it is found that this set-up could successfully demonstrate error correction with two qubit gate fidelities greater that $91\%$ and mesurement fidelities greater than $96 \%$. Fidelities of greater than $99\%$, however, are required to demonstrate a more convincing route to scalability.
+
+id: 1608.05067
+title: Many-anyon trial states
+authors: Douglas Lundholm
+comments: 24 pages, 2 figures
+journal: 
+subjects: Quantum Physics (quant-ph); Quantum Gases (cond-mat.quant-gas); Strongly Correlated Electrons (cond-mat.str-el); Mathematical Physics (math-ph)
+url: http://www.arxiv.org/abs/1608.05067
+abstract: The problem of bounding the (abelian) many-anyon ground-state energy from above, with a dependence on the statistics parameter which matches that of currently available lower bounds, is reduced to studying the correlation functions of Moore-Read (Pfaffian) and Read-Rezayi type clustering states.
+
+id: 1608.04740
+title: Entangled Cloning of Stabilizer Codes and Free Fermions
+authors: Timothy H. Hsieh
+comments: 5 pages, 1 figure, comments welcome
+journal: 
+subjects: Strongly Correlated Electrons (cond-mat.str-el); High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.04740
+abstract: Though the no-cloning theorem prohibits exact replication of arbitrary quantum states, there are many instances in quantum information processing and entanglement measurement in which some generalization of a clone may be useful. Here, I provide a construction for generating an "entangled clone" for a particular but rather expansive and rich class of states. Given a stabilizer code or free fermion Hamiltonian, this construction generates an exact entangled clone of the original ground state, in the sense that the entanglement between the original and the exact copy can be tuned to be arbitrarily small but finite, or large, and the relation between the original and the copy can also be modified to some extent. For example, this work focuses on generating time-reversed copies of stabilizer codes and particle-hole transformed ground states of free fermion systems, although untransformed clones can also be generated. The protocol leverages entanglement to simulate a transformed copy of the Hamiltonian without having to physically implement it and can potentially be realized in superconducting qubits or ultracold atomic systems.
+
+id: 1608.04900
+title: On the logarithmic divergent part of entanglement entropy, smooth versus singular regions
+authors: Harald Dorn
+comments: 8 pages, 1 figure
+journal: 
+subjects: High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.04900
+abstract: The entanglement entropy for smooth regions $\cal A$ has a logarithmic divergent contribution with a shape dependent coefficient and that for regions with conical singularities an additional $\log ^2$ term. Comparing the coefficient of this extra term, obtained by direct holographic calculation for an infinite cone, with the corresponding limiting case for the shape dependent coefficient for a regularised cone, a mismatch by a factor two has been observed in the literature. We discuss several aspects of this issue. In particular a regularisation of $\cal A$, intrinsically delivered by the holographic picture, is proposed and applied to an example of a compact region with two conical singularities. Finally, the mismatch is removed in all studied regularisations of $\cal A$, if equal scale ratios are chosen for the limiting procedure.
+
+id: 1608.04905
+title: Quantum Soliton Evaporation
+authors: Leone Di Mauro Villari, Ewan M. Wright, Fabio Biancalana, Claudio Conti
+comments: 5 pages, 3 figures
+journal: 
+subjects: Optics (physics.optics); Quantum Gases (cond-mat.quant-gas); Pattern Formation and Solitons (nlin.PS); Atomic Physics (physics.atom-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.04905
+abstract: We have very little experience of the quantum dynamics of the ubiquitous nonlinear waves. Observed phenomena in high energy physics are perturbations to linear waves, and classical nonlinear waves, like solitons, are barely affected by quantum effects. We know that solitons, immutable in classical physics, exhibit collapse and revivals according to quantum mechanics. However this effect is very weak and has never been observed experimentally. By predicting black hole evaporation Hawking first introduced a distinctly quantum effect in nonlinear gravitational physics.Here we show the existence of a general and universal quantum process whereby a soliton emits quantum radiation with a specific frequency content, and a temperature given by the number of quanta, the soliton Schwarzschild radius, and the amount of nonlinearity, in a precise and surprisingly simple way. This result may ultimately lead to the first experimental evidence of genuine quantum black hole evaporation. In addition, our results show that black hole radiation occurs in a fully quantised theory, at variance with the common approach based on quantum field theory in a curved background; this may provide insights into quantum gravity theories. Our findings also have relevance to the entire field of nonlinear waves, including cold atomic gases and extreme phenomena such as shocks and rogue-waves. Finally, the predicted effect may potentially be exploited for novel tunable quantum light sources.
+
+id: 1608.04979
+title: Ultrafast spin-flip dynamics in transition metal complexes triggered by soft X-ray light
+authors: Huihui Wang, Sergey I. Bokarev, Saadullah G. Aziz, O. K¨¹hn
+comments: 2 figures
+journal: 
+subjects: Chemical Physics (physics.chem-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.04979
+abstract: Recent advances in attosecond physics provide access to the correlated motion of valence and core electrons on their intrinsic timescales. For valence excitations, processes related to the electron spin are usually driven by nuclear motion. For core-excited states, where the core hole has a nonzero angular momentum, spin-orbit coupling is strong enough to drive spin-flips on a much shorter time scale. Here, unprecedented short spin-crossover driven by spin-orbit coupling is demonstrated for L-edge (2p$\rightarrow$3d) excited states of a prototypical Fe(II) complex. It occurs on a time scale, which is faster than the core hole lifetime of about 4~fs. A detailed analysis of such phenomena will
+
+id: 1608.05019
+title: Dilational Symmetry-Breaking in Thermodynamics
+authors: Chris L. Lin, Carlos R. Ordonez
+comments: 9 pages
+journal: 
+subjects: Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05019
+abstract: Using thermodynamic relations and dimensional analysis we derive a general formula for the thermodynamical trace $2\mathcal{E}-DP$ for non-relativistic systems and $\mathcal{E-DP}$ for relativistic systems, where $D$ is the number of spatial dimensions, in terms of the microscopic scales of the system within the grand canonical ensemble. We demonstrate the formula for several cases, including anomalous systems which develop scales through dimensional transmutation. Using this relation, we make explicit the connection between dimensional analysis and the virial theorem. This paper is focused mainly on the non-relativistic aspects of this relation.
+
+id: 1608.05061
+title: Observation of parity-time symmetry breaking transitions in a dissipative Floquet system of ultracold atoms
+authors: Jiaming Li, Andrew K. Harter, Ji Liu, Leonardo de Melo, Yogesh N. Joglekar, Le Luo
+comments: 7 pages, 5 figures, 32 references
+journal: 
+subjects: Quantum Gases (cond-mat.quant-gas); Atomic Physics (physics.atom-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1608.05061
+abstract: Open physical systems with balanced loss and gain exhibit a transition, absent in their solitary counterparts, which engenders modes that exponentially decay or grow with time and thus spontaneously breaks the parity-time PT symmetry. This PT-symmetry breaking is induced by modulating the strength or the temporal profile of the loss and gain, but also occurs in a pure dissipative system without gain. It has been observed that, in classical systems with mechanical, electrical, and electromagnetic setups with static loss and gain, the PT-symmetry breaking transition leads to extraordinary behavior and functionalities. However, its observation in a quantum system is yet to be realized. Here we report on the first quantum simulation of PT-symmetry breaking transitions using ultracold Li-6 atoms. We simulate static and Floquet dissipative Hamiltonians by generating state-dependent atom loss in a noninteracting Fermi gas, and observe the PT-symmetry breaking transitions by tracking the atom number for each state. We find that while the two-state system undergoes a single transition in the static case, its Floquet counterpart, with a periodic loss, undergoes PT-symmetry breaking and restoring transitions at vanishingly small dissipation strength. Our results demonstrate that Floquet dissipation offers a versatile tool for navigating phases where the PT-symmetry is either broken or conserved. The dissipative ultracold Fermi gas provides a starting point for exploring the interplay among dissipation, decoherence, and interactions in open quantum systems.
+
+id: 1112.3331
+title: A tensor product state approach to spin-1/2 square $J_1$-$J_2$ antiferromagnetic Heisenberg model: evidence for deconfined quantum criticality
+authors: Ling Wang, Zheng-Cheng Gu, Frank Verstraete, Xiao-Gang Wen
+comments: 
+journal: 
+subjects: Strongly Correlated Electrons (cond-mat.str-el); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1112.3331
+abstract: 
+
+id: 1409.1021
+title: Multipartite quantum and classical correlations in symmetric n-qubit mixed states
+authors: Gian Luca Giorgi, Steve Campbell
+comments: Close to published Version
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1409.1021
+abstract: 
+
+id: 1409.8632
+title: Conditions for monogamy of quantum correlations in multipartite systems
+authors: Asutosh Kumar
+comments: 9 pages, 3 figures, change in presentation, published version, title changed
+journal: Phys. Lett. A, 380(38), 3044 (2016)
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1409.8632
+abstract: 
+
+id: 1503.04702
+title: Minimum Degree up to Local Complementation: Bounds, Parameterized Complexity, and Exact Algorithms
+authors: David Cattan¨¦o, Simon Perdrix
+comments: 
+journal: ISAAC 2015
+subjects: Discrete Mathematics (cs.DM); Combinatorics (math.CO); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1503.04702
+abstract: 
+
+id: 1509.03576
+title: Coherence susceptibility as a probe of quantum phase transitions
+authors: Jin-Jun Chen, Jian Cui, Yu-Ran Zhang, Heng Fan
+comments: Accepted version
+journal: Phys. Rev. A 94, 022112 (2016)
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech); Strongly Correlated Electrons (cond-mat.str-el)
+url: http://www.arxiv.org/abs/1509.03576
+abstract: 
+
+id: 1601.06269
+title: Quantifying the coherence of pure quantum states
+authors: Jianxin Chen, Shane Grogan, Nathaniel Johnston, Chi-Kwong Li, Sarah Plosker
+comments: 11 pages, trace distance of entanglement is new in v2
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1601.06269
+abstract: 
+
+id: 1602.01991
+title: The Series Product for Gaussian Quantum Input Processes
+authors: John E. Gough, Matthew R. James
+comments: 24 pages, 0 figures (Condensed version - V1 still useful as a comprehensive preprint)
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1602.01991
+abstract: 
+
+id: 1604.00399
+title: Feedback Control of Two-mode Output Entanglement and Steering in Cavity Optomechanics
+authors: Muhammad Asjad, Paolo Tombesi, David Vitali
+comments: 10 pages
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.00399
+abstract: 
+
+id: 1604.04596
+title: Particle Path Through a Nested Mach-Zehnder Interferometer
+authors: Robert B. Griffiths
+comments: 18 pages, 1 figure. Minor revisions have been made to produce a manuscript accepted for publication in Phys. Rev. A
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1604.04596
+abstract: 
+
+id: 1605.01996
+title: Optimized Coplanar Waveguide Resonators for a Superconductor-Atom Interface
+authors: M. A. Beck, J. A. Isaacs, D. Booth, J. D. Pritchard, M. Saffman, R. McDermott
+comments: 4 pages, 4 figures
+journal: 
+subjects: Superconductivity (cond-mat.supr-con); Atomic Physics (physics.atom-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.01996
+abstract: 
+
+id: 1605.09435
+title: Self-testing high dimensional states using the generalized magic square game
+authors: Matthew McKague
+comments: Withdrawn by the author due to errors in section 5 which make the magic square self-test invalid
+journal: 
+subjects: Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1605.09435
+abstract: 
+
+id: 1606.00621
+title: Exploring the Tensor Networks/AdS Correspondence
+authors: Arpan Bhattacharyya, Zhe-Shen Gao, Ling-Yan Hung, Si-Nong Liu
+comments: 43 pages, 13 figures. Version appearing in JHEP
+journal: 
+subjects: High Energy Physics - Theory (hep-th); Strongly Correlated Electrons (cond-mat.str-el); General Relativity and Quantum Cosmology (gr-qc); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1606.00621
+abstract: 
+
+id: 1606.06474
+title: Born-Jordan and Weyl Quantizations of the 2D Anisotropic Harmonic Oscillator
+authors: Giovanni Rastelli
+comments: 
+journal: SIGMA 12 (2016), 081, 7 pages
+subjects: Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+url: http://www.arxiv.org/abs/1606.06474
+abstract: 
+
+id: 1607.00994
+title: Performance of Coupled Systems as Quantum Thermodynamic Machines
+authors: George Thomas, Manik Banik, Sibasish Ghosh
+comments: 11 pages, 4 figures; modified version with new results
+journal: 
+subjects: Quantum Physics (quant-ph); Statistical Mechanics (cond-mat.stat-mech)
+url: http://www.arxiv.org/abs/1607.00994
+abstract: 
+
+id: 1608.04459
+title: Entanglement as an axiomatic foundation for statistical mechanics
+authors: Giulio Chiribella, Carlo Maria Scandolo
+comments: 19+10 pages, no figures. See also the related work by Krumm,Barnum, Barrett, and Mueller on arXiv:1608.04461
+journal: 
+subjects: Quantum Physics (quant-ph); Information Theory (cs.IT)
+url: http://www.arxiv.org/abs/1608.04459
+abstract: 
+
+id: 1608.04460
+title: Purity in microcanonical thermodynamics: a tale of three resource theories
+authors: Giulio Chiribella, Carlo Maria Scandolo
+comments: 22 + 8 pages, 3 figures, 3 resource theories. See also the related work by Krumm,Barnum, Barrett, and Mueller on this https URL
+journal: 
+subjects: Quantum Physics (quant-ph); Information Theory (cs.IT)
+url: http://www.arxiv.org/abs/1608.04460
+abstract: 
+
